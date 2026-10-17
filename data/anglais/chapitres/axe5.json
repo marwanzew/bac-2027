@@ -1,0 +1,382 @@
+{
+  "id": "axe5",
+  "matiere": "anglais",
+  "titre": "Axe 5. Citoyenneté et mondes virtuels",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Axes culturels de terminale",
+    "intitule": "Axe 5. Citoyenneté et mondes virtuels",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'anglais pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 4",
+      "url": "https://www.education.gouv.fr/sites/default/files/ensel621_annexe4.pdf"
+    }
+  },
+  "objectifs": [
+    "Parler de l'engagement citoyen et des risques du numérique.",
+    "Connaître des repères : protection des données, régulation des réseaux sociaux.",
+    "Utiliser la voix passive."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "The axis in brief · L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "ce qui est officiel",
+          "texte": "Le **titre de l'axe** vient du programme officiel (2025). Les pistes, repères et documents proposés ici sont des suggestions pour réviser : ton professeur choisit ses propres documents."
+        },
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVA, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B2**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Cet axe interroge **le rôle du numérique dans la vie citoyenne** : mobilisations en ligne, désinformation, protection des données, cyberharcèlement, régulation des plateformes par les États."
+        }
+      ]
+    },
+    {
+      "id": "vocabulario",
+      "titre": "Vocabulary",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Vocabulaire de l'axe",
+          "colonnes": [
+            "English",
+            "Français",
+            "Example"
+          ],
+          "lignes": [
+            [
+              "a citizen",
+              "un citoyen",
+              "an active citizen"
+            ],
+            [
+              "fake news / misinformation",
+              "les fausses informations",
+              "to spread misinformation"
+            ],
+            [
+              "to fact-check",
+              "vérifier les faits",
+              "Journalists fact-check claims."
+            ],
+            [
+              "cyberbullying",
+              "le cyberharcèlement",
+              "to fight cyberbullying"
+            ],
+            [
+              "an algorithm",
+              "un algorithme",
+              "The algorithm chooses what you see."
+            ],
+            [
+              "a petition",
+              "une pétition",
+              "to sign an online petition"
+            ],
+            [
+              "screen time",
+              "le temps d'écran",
+              "to limit screen time"
+            ],
+            [
+              "to regulate",
+              "réguler",
+              "to regulate social media"
+            ],
+            [
+              "a digital footprint",
+              "une empreinte numérique",
+              "Your digital footprint follows you."
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "fake-news"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "titre": "Cultural landmarks · Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Pourquoi c'est important"
+          ],
+          "lignes": [
+            [
+              "Scandale Cambridge Analytica",
+              "2018",
+              "Des données personnelles utilisées pour influencer des élections"
+            ],
+            [
+              "Online Safety Act (Royaume-Uni)",
+              "2023",
+              "Obligations de protection imposées aux plateformes"
+            ],
+            [
+              "Australie : interdiction des réseaux sociaux aux moins de 16 ans",
+              "entrée en vigueur en décembre 2025",
+              "Un État limite l'accès des jeunes aux réseaux"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pistes",
+      "titre": "Ideas to explore · Pistes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Online activism** : pétitions, mobilisations.",
+            "**Truth and misinformation** : fact-checking, algorithmes.",
+            "**Protecting young people** : cyberharcèlement, temps d'écran, régulation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "titre": "Grammar · Le point de grammaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**The passive voice** : be + participe passé ; on l'utilise quand l'action compte plus que l'auteur."
+        },
+        {
+          "type": "tableau",
+          "titre": "Exemples",
+          "colonnes": [
+            "Actif",
+            "Passif"
+          ],
+          "lignes": [
+            [
+              "Algorithms choose the content.",
+              "The content is chosen by algorithms."
+            ],
+            [
+              "The government passed a law.",
+              "A law was passed."
+            ],
+            [
+              "They will regulate social media.",
+              "Social media will be regulated."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frases",
+      "titre": "Useful phrases · Phrases utiles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Pour parler ou écrire sur l'axe",
+          "colonnes": [
+            "English",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "Thanks to the Internet, …",
+              "Grâce à Internet, …"
+            ],
+            [
+              "It can be argued that…",
+              "On peut soutenir que…"
+            ],
+            [
+              "There is a risk that…",
+              "Il y a un risque que…"
+            ],
+            [
+              "Social media should be regulated.",
+              "Les réseaux sociaux devraient être régulés."
+            ],
+            [
+              "All things considered, …",
+              "Tout bien considéré, …"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Scandale Cambridge Analytica",
+      "valeur": "2018",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Online Safety Act (Royaume-Uni)",
+      "valeur": "2023",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Axe 5. Citoyenneté et mondes virtuels : l'essentiel",
+    "colonnes": [
+      "Aspect",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "Vocabulaire clé",
+        "a citizen, fake news / misinformation, to fact-check, cyberbullying, an algorithm, a petition"
+      ],
+      [
+        "Repères",
+        "Scandale Cambridge Analytica (2018), Online Safety Act (Royaume-Uni) (2023), Australie : interdiction des réseaux sociaux aux moins de 16 ans (entrée en vigueur en décembre 2025)"
+      ],
+      [
+        "Grammaire",
+        "The passive voice"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Citoyenneté numérique** : mobilisations, pétitions.",
+    "**Risques** : fake news, algorithmes, cyberharcèlement.",
+    "**Régulation** : Online Safety Act (2023), Australie (moins de 16 ans, 2025).",
+    "**Grammaire** : voix passive (be + participe passé)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*to fact-check*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "vérifier les faits",
+          "correct": true,
+          "explication": "Journalists fact-check claims."
+        },
+        {
+          "id": "b",
+          "texte": "vérifier un ticket",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Passif de *They passed a law* :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "A law was passed.",
+          "correct": true,
+          "explication": "be + participe passé."
+        },
+        {
+          "id": "b",
+          "texte": "A law passed them.",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*cyberbullying*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le cyberharcèlement",
+          "correct": true,
+          "explication": "To fight cyberbullying."
+        },
+        {
+          "id": "b",
+          "texte": "le cybercafé",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "L'Online Safety Act britannique date de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2023",
+          "correct": true,
+          "explication": "Régulation des plateformes."
+        },
+        {
+          "id": "b",
+          "texte": "2003",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*a digital footprint*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une empreinte numérique",
+          "correct": true,
+          "explication": "Traces laissées en ligne."
+        },
+        {
+          "id": "b",
+          "texte": "un pied numérique",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

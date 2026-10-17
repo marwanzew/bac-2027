@@ -1,0 +1,250 @@
+{
+  "matiere": "llcer",
+  "chapitre": "emotions",
+  "exercices": [
+    {
+      "id": "emotions-vocabulaire",
+      "titre": "Vocabulary check : emotions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Attention au faux ami grief (chagrin ≠ grief)."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*longing*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "désir ardent, nostalgie",
+              "correct": true,
+              "explication": "a longing for home."
+            },
+            {
+              "id": "b",
+              "texte": "longueur",
+              "correct": false,
+              "explication": "Longueur = length."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*to convey*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "transmettre",
+              "correct": true,
+              "explication": "to convey a feeling."
+            },
+            {
+              "id": "b",
+              "texte": "convaincre",
+              "correct": false,
+              "explication": "Convaincre = to convince."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*sorrow*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "peine profonde",
+              "correct": true,
+              "explication": "Synonyme soutenu de sadness."
+            },
+            {
+              "id": "b",
+              "texte": "demain",
+              "correct": false,
+              "explication": "Demain = tomorrow."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*homesickness*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le mal du pays",
+              "correct": true,
+              "explication": "Thème de *Brooklyn*."
+            },
+            {
+              "id": "b",
+              "texte": "une maladie à la maison",
+              "correct": false,
+              "explication": "Contresens."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*melancholy*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "mélancolie",
+              "correct": true,
+              "explication": "a melancholy tone."
+            },
+            {
+              "id": "b",
+              "texte": "colère",
+              "correct": false,
+              "explication": "Colère = anger."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "emotions-traduction",
+      "titre": "Translation : a letter from home",
+      "type": "traduction",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Translate the following passage into French. (Traduis le passage en français.)"
+      ],
+      "documents": [
+        {
+          "titre": "Passage à traduire (texte écrit pour l'entraînement)",
+          "contenu": "The letter lay unopened on the table for most of the evening. She knew her mother's handwriting at once, and that was precisely why she could not bring herself to read it. Outside, the city went on with its noise and its lights, indifferent. When at last she tore the envelope open, the first line made her laugh, and then, without warning, cry.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        }
+      ],
+      "methode": [
+        "Lis tout le passage avant de traduire une seule phrase.",
+        "Repère les temps : le prétérit d'un récit se traduit souvent par le passé simple ou le passé composé, et par l'imparfait pour les descriptions.",
+        "Ne traduis pas mot à mot : la phrase française doit sonner naturelle.",
+        "Relis ta traduction comme un texte français, sans regarder l'anglais.",
+        "*could not bring herself to* : ne parvenait pas à se résoudre à.",
+        "*lay unopened* : étoffement : « resta… sans être ouverte ».",
+        "*without warning* : sans prévenir."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Proposition de traduction** (d'autres versions sont possibles) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La lettre resta sur la table, sans être ouverte, pendant presque toute la soirée. Elle avait tout de suite reconnu l'écriture de sa mère, et c'était précisément pour cela qu'elle ne parvenait pas à se résoudre à la lire. Dehors, la ville continuait avec son bruit et ses lumières, indifférente. Quand elle déchira enfin l'enveloppe, la première ligne la fit rire, puis, sans prévenir, pleurer."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Sens exact (pas de contresens ni d'oubli)",
+          "points": 2
+        },
+        {
+          "critere": "Correction et naturel du français",
+          "points": 1.5
+        },
+        {
+          "critere": "Temps et registre respectés",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "emotions-essai",
+      "titre": "Short essay : why do we need art to express emotions?",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "In about 250 words: *Why do artists turn emotions into art, and what do readers or viewers gain from it?*"
+      ],
+      "methode": [
+        "Paragraphe 1 : pour l'artiste (exprimer, sublimer).",
+        "Paragraphe 2 : pour le public (partager, se reconnaître, catharsis).",
+        "Exemples : Wordsworth, Poe, Hopper, *The Piano*."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (un exemple de réponse possible, pas la seule) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Some emotions are too strong to be kept inside. For centuries, artists have turned them into poems, paintings and films."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "For the artist, creating is a way to express and transform pain or joy. The Romantic poet Wordsworth defined poetry as \"the spontaneous overflow of powerful feelings\". Edgar Allan Poe's *The Raven* turns grief into a haunting rhythm. In Jane Campion's *The Piano*, Ada, who does not speak, expresses herself through music."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "For readers and viewers, art offers a mirror. Looking at Hopper's *Nighthawks*, many people recognise their own loneliness. Sharing an emotion with a character can make us feel less alone and help us understand ourselves."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "To conclude, art gives a shape to emotions: it helps artists to cope with them and allows the public to share them."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse à la consigne, idées pertinentes",
+          "points": 4
+        },
+        {
+          "critere": "Organisation (introduction, paragraphes, connecteurs)",
+          "points": 3
+        },
+        {
+          "critere": "Richesse et correction de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

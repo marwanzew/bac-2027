@@ -1,0 +1,140 @@
+{
+  "matiere": "anglais",
+  "chapitre": "methode",
+  "exercices": [
+    {
+      "id": "methode-erreurs",
+      "titre": "Corrige les erreurs",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 5,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Choisis la phrase correcte."
+      ],
+      "methode": [
+        "Pense aux pièges classiques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Laquelle est correcte ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "People are worried.",
+              "correct": true,
+              "explication": "People est pluriel."
+            },
+            {
+              "id": "b",
+              "texte": "People is worried.",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Laquelle est correcte ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "I need some information.",
+              "correct": true,
+              "explication": "Indénombrable."
+            },
+            {
+              "id": "b",
+              "texte": "I need some informations.",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Laquelle est correcte ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "He has lived here since 2020.",
+              "correct": true,
+              "explication": "Present perfect + since."
+            },
+            {
+              "id": "b",
+              "texte": "He lives here since 2020.",
+              "correct": false,
+              "explication": "Calque du français."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Laquelle est correcte ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "I'm interested in politics.",
+              "correct": true,
+              "explication": "Interested in."
+            },
+            {
+              "id": "b",
+              "texte": "I'm interesting in politics.",
+              "correct": false,
+              "explication": "Interesting = intéressant."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Laquelle est correcte ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "She explained the problem to me.",
+              "correct": true,
+              "explication": "Explain something to someone."
+            },
+            {
+              "id": "b",
+              "texte": "She explained me the problem.",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "matiere": "llcer",
+  "chapitre": "ancrage-heritage",
+  "exercices": [
+    {
+      "id": "heritage-vocabulaire",
+      "titre": "Vocabulary check : roots and heritage",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Attention : to claim peut aussi vouloir dire « affirmer, prétendre »."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*homeland*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "patrie, terre natale",
+              "correct": true,
+              "explication": "to return to one's homeland."
+            },
+            {
+              "id": "b",
+              "texte": "maison de campagne",
+              "correct": false,
+              "explication": "Contresens."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*to safeguard*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "sauvegarder",
+              "correct": true,
+              "explication": "to safeguard a language."
+            },
+            {
+              "id": "b",
+              "texte": "garder des moutons",
+              "correct": false,
+              "explication": "Contresens."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*heritage*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "patrimoine, héritage culturel",
+              "correct": true,
+              "explication": "cultural heritage."
+            },
+            {
+              "id": "b",
+              "texte": "hérésie",
+              "correct": false,
+              "explication": "Hérésie = heresy."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*to claim one's identity*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "revendiquer son identité",
+              "correct": true,
+              "explication": "to claim = revendiquer."
+            },
+            {
+              "id": "b",
+              "texte": "se plaindre",
+              "correct": false,
+              "explication": "Se plaindre = to complain."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*an endangered language*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une langue menacée",
+              "correct": true,
+              "explication": "Le gaélique par exemple."
+            },
+            {
+              "id": "b",
+              "texte": "une langue dangereuse",
+              "correct": false,
+              "explication": "Contresens."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "heritage-traduction",
+      "titre": "Translation : the old house",
+      "type": "traduction",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Translate the following passage into French. (Traduis le passage en français.)"
+      ],
+      "documents": [
+        {
+          "titre": "Passage à traduire (texte écrit pour l'entraînement)",
+          "contenu": "Every summer, the family went back to the village where her grandmother had been born. Nobody lived in the house any more, but no one could bring themselves to sell it. The children were told the same stories each year, about the war, the harvests and the long winters. She used to find these stories boring. Now that her grandmother was gone, she realised that she was the one who would have to tell them.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        }
+      ],
+      "methode": [
+        "Lis tout le passage avant de traduire une seule phrase.",
+        "Repère les temps : le prétérit d'un récit se traduit souvent par le passé simple ou le passé composé, et par l'imparfait pour les descriptions.",
+        "Ne traduis pas mot à mot : la phrase française doit sonner naturelle.",
+        "Relis ta traduction comme un texte français, sans regarder l'anglais.",
+        "*The children were told* : passif → « on » en français : « On racontait aux enfants ».",
+        "*used to find* : habitude passée → imparfait (+ « autrefois »).",
+        "*she was the one who would have to* : « ce serait à elle de »."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Proposition de traduction** (d'autres versions sont possibles) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Chaque été, la famille retournait dans le village où sa grand-mère était née. Plus personne n'habitait la maison, mais personne ne pouvait se résoudre à la vendre. On racontait chaque année aux enfants les mêmes histoires, sur la guerre, les moissons et les longs hivers. Autrefois, elle trouvait ces histoires ennuyeuses. Maintenant que sa grand-mère n'était plus là, elle comprenait que ce serait à elle de les raconter."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Sens exact (pas de contresens ni d'oubli)",
+          "points": 2
+        },
+        {
+          "critere": "Correction et naturel du français",
+          "points": 1.5
+        },
+        {
+          "critere": "Temps et registre respectés",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "heritage-essai",
+      "titre": "Short essay : heritage, unity or division?",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "In about 250 words: *Does cultural heritage bring people together or divide them?*"
+      ],
+      "methode": [
+        "Pour : fierté, mémoire, fêtes partagées (Notting Hill).",
+        "Contre : repli, conflits (monuments confédérés, Brexit, frontière irlandaise).",
+        "Conclusion."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (un exemple de réponse possible, pas la seule) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Every community is attached to its traditions, its places and its memories. But does heritage unite or divide?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Heritage can bring people together. The Notting Hill Carnival, first held in 1966, celebrates Caribbean culture and has become a festival for all Londoners. Protecting endangered languages or Indigenous cultures also gives communities pride and a sense of belonging."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Yet heritage can also become a source of conflict. In the United States, Confederate monuments have sparked violent debates, notably in Charlottesville in 2017. When heritage is used to define who belongs and who does not, it can lead to nationalism and exclusion."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In conclusion, heritage is neither good nor bad in itself. It unites people when it is shared and open, and divides them when it becomes a weapon against others."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse à la consigne, idées pertinentes",
+          "points": 4
+        },
+        {
+          "critere": "Organisation (introduction, paragraphes, connecteurs)",
+          "points": 3
+        },
+        {
+          "critere": "Richesse et correction de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

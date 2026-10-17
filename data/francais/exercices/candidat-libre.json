@@ -1,0 +1,145 @@
+{
+  "matiere": "francais",
+  "chapitre": "candidat-libre",
+  "exercices": [
+    {
+      "id": "candidat-libre-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le commentaire porte sur un texte…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+            "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "qui n'est pas extrait d'une œuvre au programme",
+              "correct": true,
+              "explication": "Lié à un objet d'étude."
+            },
+            {
+              "id": "b",
+              "texte": "tiré obligatoirement d'une œuvre au programme",
+              "correct": false,
+              "explication": "C'est la dissertation qui porte sur les œuvres."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "La dissertation propose…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+            "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "trois sujets, chacun lié à une œuvre et à son parcours",
+              "correct": true,
+              "explication": "Tu en choisis un."
+            },
+            {
+              "id": "b",
+              "texte": "un seul sujet imposé",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "La seconde partie de l'oral dure…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+            "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "8 minutes",
+              "correct": true,
+              "explication": "Présentation de l'œuvre et entretien."
+            },
+            {
+              "id": "b",
+              "texte": "20 minutes",
+              "correct": false,
+              "explication": "20 min, c'est toute l'épreuve."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Coefficient de l'oral :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+            "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "5",
+              "correct": true,
+              "explication": "Comme l'écrit."
+            },
+            {
+              "id": "b",
+              "texte": "2",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Pour confirmer que tu peux repasser le français, tu écris…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Éduscol, « Redoublement et conservation des notes au baccalauréat général et technologique »",
+            "url": "https://eduscol.education.gouv.fr/5655/redoublement-et-conservation-des-notes-au-baccalaureat-general-et-technologique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "à la division des examens et concours du rectorat",
+              "correct": true,
+              "explication": "Par écrit."
+            },
+            {
+              "id": "b",
+              "texte": "au lycée de ton choix",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

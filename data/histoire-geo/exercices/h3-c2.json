@@ -1,0 +1,215 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "h3-c2",
+  "exercices": [
+    {
+      "id": "h3-c2-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "La majorité passe à 18 ans en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1974",
+              "correct": true,
+              "explication": "Sous Giscard."
+            },
+            {
+              "id": "b",
+              "texte": "1981",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Robert Badinter est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le garde des Sceaux qui défend l'abolition",
+              "correct": true,
+              "explication": "1981."
+            },
+            {
+              "id": "b",
+              "texte": "un chanteur",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Act Up-Paris est créée en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1989",
+              "correct": true,
+              "explication": "Lutte contre le sida."
+            },
+            {
+              "id": "b",
+              "texte": "1968",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Les lois de décentralisation datent de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1982",
+              "correct": true,
+              "explication": "Lois Defferre."
+            },
+            {
+              "id": "b",
+              "texte": "1958",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Simone Veil est alors…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "ministre de la Santé",
+              "correct": true,
+              "explication": "1974-1979."
+            },
+            {
+              "id": "b",
+              "texte": "présidente de la République",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "h3-c2-composition",
+      "titre": "Plan de composition : « La France de 1974 à 1988 : une société et une vie politique transformées »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « La France de 1974 à 1988 : une société et une vie politique transformées »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : bornes (élection de Giscard 1974 – fin de la cohabitation 1988) ; problématique : en quoi ces années marquent-elles un tournant social, politique et culturel ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Une société qui change**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Les droits des femmes : loi Veil (1975)",
+            "B. Une société frappée par la crise : chômage, immigration",
+            "C. Le défi du sida"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Une vie politique renouvelée**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Les réformes de Giscard",
+            "B. L'alternance de 1981 et l'abolition de la peine de mort",
+            "C. La cohabitation (1986-1988)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : les institutions de la Ve République montrent leur souplesse."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

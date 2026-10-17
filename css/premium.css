@@ -1,0 +1,196 @@
+/* =========================================================
+   premium.css — habillage final, chargé en dernier.
+   Principes :
+   1. Le noir porte tout ; l'anthracite structure ; la lumière est rare.
+   2. Chaque matière éclaire le haut de sa page avec sa propre couleur.
+   3. Les lignes font 1 px, les angles sont réguliers, rien ne brille sans raison.
+   4. Le mouvement répond à une action (survol, clic, défilement), jamais en boucle.
+   ========================================================= */
+
+/* ---------- 1. Fond et lumière de page ---------- */
+body { background: var(--fond); position: relative; isolation: isolate; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body::before {
+  content: ""; position: fixed; z-index: -1; pointer-events: none;
+  left: 50%; top: -38vh; width: min(1400px, 140vw); height: 76vh; transform: translateX(-50%);
+  background: radial-gradient(closest-side, color-mix(in srgb, var(--matiere) 22%, transparent), transparent);
+  opacity: .9; transition: background 600ms var(--courbe);
+}
+@media (min-width: 1024px) { body::before { left: calc(50% + 124px); } }
+:root[data-theme="clair"] body::before { opacity: .55; }
+
+/* ---------- 2. Typographie ---------- */
+h1, h2, h3, h4 { font-family: var(--police-titre); font-weight: 600; letter-spacing: -0.022em; color: var(--texte); }
+h1 {
+  font-weight: 700; letter-spacing: -0.028em; line-height: 1.08;
+  font-size: clamp(2rem, 1.4rem + 2.6vw, 3.25rem);
+  background: linear-gradient(180deg, var(--texte) 30%, color-mix(in srgb, var(--texte) 62%, var(--fond)));
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+@media (forced-colors: active) { h1 { color: CanvasText; background: none; } }
+h2 { letter-spacing: -0.025em; }
+.salut { font-size: clamp(2.6rem, 1.6rem + 4vw, 4.25rem); margin-bottom: var(--e3); }
+p, li { font-feature-settings: "cv11", "ss01"; }
+
+/* Étiquettes : phrases normales, pas de majuscules espacées */
+.surtitre, .nav-titre, .groupe-chapitres h2, .repere .type, .resultat-recherche .type-res {
+  text-transform: none; letter-spacing: 0; font-family: var(--police-texte);
+}
+.surtitre { font-size: .9rem; font-weight: 500; color: var(--matiere); }
+.nav-titre { font-size: .8rem; font-weight: 500; color: var(--texte-2); }
+.groupe-chapitres h2 { font-family: var(--police-titre); font-size: 1.15rem; font-weight: 600; color: var(--texte); letter-spacing: -0.015em; }
+.repere .type, .resultat-recherche .type-res { font-size: .78rem; font-weight: 500; color: var(--texte-2); }
+
+/* ---------- 3. Surfaces ---------- */
+.carte, .quiz, .fiche, .flashcard .face, .encadre, .repere, .ligne-chapitre, .schema,
+.resultat-recherche, .rattachement, .sommaire-mobile summary, .tableau-conteneur, .document {
+  background: var(--surface);
+  border: 1px solid var(--bordure);
+  box-shadow: inset 0 1px 0 var(--reflet);
+}
+.carte, .quiz, .fiche, .flashcard .face { border-radius: var(--rayon); box-shadow: var(--ombre); }
+.tuile { background: var(--surface-2); border: 1px solid var(--bordure); }
+.champ, .zone-reponse { background: var(--surface); border-color: var(--bordure); transition: border-color var(--duree) var(--courbe), box-shadow var(--duree) var(--courbe); }
+.champ:focus-visible, .zone-reponse:focus-visible { outline: none; border-color: var(--bordure-forte); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 22%, transparent); }
+
+/* Barre latérale et barre du bas : verre fumé très léger */
+.barre-laterale { background: color-mix(in srgb, var(--fond) 80%, transparent); border-right: 1px solid var(--bordure); -webkit-backdrop-filter: blur(20px); backdrop-filter: blur(20px); }
+.barre-bas { background: color-mix(in srgb, var(--fond) 78%, transparent); border-top-color: var(--bordure); -webkit-backdrop-filter: blur(20px) saturate(140%); backdrop-filter: blur(20px) saturate(140%); }
+
+/* Fenêtre de définition */
+dialog.carte { background: var(--fond-opaque); color: var(--texte); border: 1px solid var(--bordure-forte); box-shadow: 0 30px 80px -20px rgb(0 0 0 / .8); }
+dialog::backdrop { background: rgb(0 0 0 / .55); -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px); }
+dialog[open] { animation: fenetre 260ms var(--courbe) both; }
+@keyframes fenetre { from { opacity: 0; transform: translateY(8px) scale(.985); } to { opacity: 1; transform: none; } }
+
+/* ---------- 4. Cartes : lumière qui suit le pointeur ---------- */
+/* --mx et --my sont fournis par js/effets.js ; sans eux, rien ne s'affiche. */
+.carte-matiere, a.carte, .carte-exercice, a.ligne-chapitre, .resultat-recherche { position: relative; overflow: hidden; }
+.carte-matiere::after, a.carte::after, .carte-exercice::after, a.ligne-chapitre::after, .resultat-recherche::after {
+  content: ""; position: absolute; inset: 0; border-radius: inherit; pointer-events: none;
+  background: radial-gradient(420px circle at var(--mx, -999px) var(--my, -999px), color-mix(in srgb, var(--c, var(--matiere)) 14%, transparent), transparent 60%);
+  opacity: 0; transition: opacity 300ms var(--courbe);
+}
+.carte-matiere:hover::after, a.carte:hover::after, .carte-exercice:hover::after, a.ligne-chapitre:hover::after, .resultat-recherche:hover::after { opacity: 1; }
+.carte-matiere, a.carte, .carte-exercice, a.ligne-chapitre, .resultat-recherche {
+  transition: border-color var(--duree) var(--courbe), transform 300ms var(--courbe), background-color var(--duree) var(--courbe);
+}
+.carte-matiere:hover, a.carte:hover, .carte-exercice:hover, a.ligne-chapitre:hover, .resultat-recherche:hover { border-color: var(--bordure-forte); }
+.carte-matiere:hover { transform: translateY(-2px); }
+
+/* Carte de matière : la couleur n'apparaît que dans l'icône et la barre de progression */
+.carte-matiere { border-top: 1px solid var(--bordure); padding: var(--e5); min-height: 180px; }
+.carte-matiere h3 { font-family: var(--police-titre); font-size: 1.15rem; letter-spacing: -0.015em; }
+.carte-matiere .icone-matiere, .entete-matiere .icone-matiere {
+  background: linear-gradient(180deg, color-mix(in srgb, var(--c, var(--matiere)) 16%, var(--surface-2)), var(--surface-2));
+  border: 1px solid color-mix(in srgb, var(--c, var(--matiere)) 30%, var(--bordure));
+  box-shadow: inset 0 1px 0 var(--reflet);
+}
+.entete-matiere .icone-matiere { border-radius: 18px; }
+
+/* Lignes de chapitres */
+.ligne-chapitre { padding: var(--e4) var(--e5); }
+.ligne-chapitre .num { font-family: var(--police-titre); color: var(--texte-2); font-weight: 600; font-variant-numeric: tabular-nums; }
+a.ligne-chapitre:hover .num { color: var(--matiere); }
+.statut { border-color: var(--bordure); background: transparent; color: var(--texte-2); font-weight: 500; }
+.statut.maitrise { color: var(--succes); border-color: color-mix(in srgb, var(--succes) 40%, transparent); background: color-mix(in srgb, var(--succes) 8%, transparent); }
+.statut.en-cours { color: var(--texte); border-color: color-mix(in srgb, var(--matiere) 45%, transparent); background: color-mix(in srgb, var(--matiere) 10%, transparent); }
+.etiquette { background: var(--surface-2); border: 1px solid var(--bordure); }
+
+/* Encadrés : un trait fin de couleur, pas de bloc coloré */
+.encadre { border-left: 1px solid var(--bordure); position: relative; padding-left: calc(var(--e4) + 6px); }
+.encadre::before {
+  content: ""; position: absolute; left: 10px; top: var(--e4); bottom: var(--e4); width: 2px; border-radius: 2px;
+  background: var(--bord, var(--matiere));
+}
+.encadre > .encadre-titre { font-weight: 600; letter-spacing: -0.005em; }
+.rattachement { border-left: 1px solid var(--bordure); box-shadow: inset 2px 0 0 var(--matiere), inset 0 1px 0 var(--reflet); border-radius: var(--rayon-petit); }
+.objectifs li::before { color: var(--matiere); }
+.fiche { border: 1px solid color-mix(in srgb, var(--matiere) 35%, var(--bordure)); }
+
+/* Tableaux */
+.tableau-conteneur { border-radius: var(--rayon-petit); }
+caption, thead th { background: var(--surface-2); font-weight: 600; }
+th, td { border-top-color: var(--bordure); }
+tbody tr { transition: background-color var(--duree) var(--courbe); }
+tbody tr:hover { background: color-mix(in srgb, var(--texte) 3%, transparent); }
+
+/* Schémas */
+.schema .noeud rect { fill: var(--surface-2); stroke: color-mix(in srgb, var(--matiere) 55%, var(--bordure)); stroke-width: 1; rx: 10; }
+.schema .lien path, .schema marker path { stroke: var(--texte-2); }
+
+/* ---------- 5. Boutons ---------- */
+.bouton {
+  border-radius: var(--rayon-petit); min-height: 44px; padding: var(--e2) var(--e5);
+  background: var(--surface-2); border: 1px solid var(--bordure); color: var(--texte); font-weight: 600;
+  box-shadow: inset 0 1px 0 var(--reflet);
+  transition: background-color var(--duree) var(--courbe), border-color var(--duree) var(--courbe), transform 120ms var(--courbe);
+}
+.bouton:hover { background: color-mix(in srgb, var(--texte) 9%, var(--surface-2)); border-color: var(--bordure-forte); }
+.bouton:active { transform: scale(.98); }
+.bouton.principal-btn, .bouton[aria-pressed="true"], .segmente button[aria-pressed="true"] {
+  background: var(--bouton-fond); color: var(--bouton-texte); border-color: transparent;
+  box-shadow: 0 1px 0 rgb(255 255 255 / .25) inset, 0 8px 24px -12px color-mix(in srgb, var(--matiere) 60%, transparent);
+}
+.bouton.principal-btn:hover { filter: none; background: color-mix(in srgb, var(--bouton-fond) 88%, var(--matiere)); }
+.bouton.discret-btn { background: transparent; border-color: transparent; box-shadow: none; color: var(--texte-2); }
+.bouton.discret-btn:hover { color: var(--texte); background: var(--surface-2); }
+.segmente { border-radius: var(--rayon-petit); background: var(--surface); padding: 3px; gap: 2px; border-color: var(--bordure); }
+.segmente button { border-radius: 7px; }
+
+/* ---------- 6. Navigation ---------- */
+.marque { font-family: var(--police-titre); letter-spacing: -0.02em; }
+.lien-nav { color: var(--texte-2); transition: color var(--duree) var(--courbe), background-color var(--duree) var(--courbe); }
+.lien-nav:hover { background: var(--surface-2); color: var(--texte); }
+.lien-nav[aria-current="page"] { background: var(--surface-2); color: var(--texte); font-weight: 600; box-shadow: inset 0 0 0 1px var(--bordure); }
+.onglets { border-bottom-color: var(--bordure); gap: var(--e2); }
+.onglets a, .onglets button { font-weight: 500; transition: color var(--duree) var(--courbe); }
+.onglets a:hover, .onglets button:hover { color: var(--texte); }
+.onglets [aria-selected="true"], .onglets [aria-current="page"] { border-bottom: 2px solid var(--texte); color: var(--texte); }
+.sommaire ol { border-left-color: var(--bordure); }
+.sommaire a { transition: color var(--duree) var(--courbe); }
+.sommaire a:hover { color: var(--texte); }
+.sommaire a.actif { border-left-color: var(--texte); }
+.ariane { color: var(--texte-2); }
+
+/* ---------- 7. Progression ---------- */
+.progression { height: 4px; background: var(--surface-2); }
+.progression > span { background: var(--c, var(--matiere)); }
+.anneau .valeur strong, .tuile strong, .score-final strong, .chrono, .bandeau-epreuve .temps {
+  font-family: var(--police-titre); letter-spacing: -0.03em; font-variant-numeric: tabular-nums;
+}
+.tuile strong { font-size: 1.9rem; }
+.histogramme .colonne span.b { background: color-mix(in srgb, var(--matiere) 80%, var(--texte)); border-radius: 4px 4px 0 0; }
+
+/* ---------- 8. Quiz ---------- */
+.quiz legend { font-family: var(--police-titre); letter-spacing: -0.015em; }
+.choix label { background: var(--surface-2); border-color: var(--bordure); transition: border-color var(--duree) var(--courbe), background-color var(--duree) var(--courbe); }
+.choix label:hover { border-color: var(--bordure-forte); }
+.choix label.juste { border-color: color-mix(in srgb, var(--succes) 60%, transparent); background: color-mix(in srgb, var(--succes) 9%, var(--surface-2)); animation: valide 420ms var(--courbe) both; }
+.choix label.faux { border-color: color-mix(in srgb, var(--erreur) 55%, transparent); background: color-mix(in srgb, var(--erreur) 8%, var(--surface-2)); }
+@keyframes valide { 0% { transform: scale(1); } 40% { transform: scale(1.012); box-shadow: 0 0 0 6px color-mix(in srgb, var(--succes) 14%, transparent); } 100% { transform: scale(1); box-shadow: 0 0 0 0 transparent; } }
+.score-final strong { font-size: 4.5rem; color: var(--texte); }
+
+/* ---------- 9. Détails ---------- */
+.toast { background: var(--fond-opaque); color: var(--texte); border: 1px solid var(--bordure-forte); box-shadow: 0 20px 40px -16px rgb(0 0 0 / .7); font-weight: 500; }
+.flashcard .recto { border-top: 1px solid var(--bordure); }
+.flashcard .recto strong { font-family: var(--police-titre); letter-spacing: -0.02em; }
+.lien-glossaire { text-decoration-color: color-mix(in srgb, var(--matiere) 70%, transparent); text-underline-offset: 3px; }
+.lien-glossaire:hover { color: var(--matiere); }
+mark { background: color-mix(in srgb, var(--accent) 30%, transparent); }
+::selection { background: color-mix(in srgb, var(--accent) 35%, transparent); }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
+
+/* ---------- 10. Apparition au défilement ---------- */
+/* Seulement les grilles de cartes, une seule fois, et seulement si le navigateur sait le faire. */
+@supports (animation-timeline: view()) {
+  @media (prefers-reduced-motion: no-preference) {
+    :root:not([data-animations="non"]) .grille > *,
+    :root:not([data-animations="non"]) .reperes > * {
+      animation: entree linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 40%;
+    }
+  }
+}
+@keyframes entree { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+.vue { animation: apparition 320ms var(--courbe) both; }

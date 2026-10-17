@@ -1,0 +1,296 @@
+{
+  "id": "g1",
+  "matiere": "histoire-geo",
+  "titre": "Mers et océans : au cœur de la mondialisation",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Géographie – Les territoires dans la mondialisation : entre intégrations et rivalités",
+    "intitule": "Mers et océans : au cœur de la mondialisation",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Montrer que les mers et océans sont les vecteurs essentiels de la mondialisation (flux, ports, détroits, câbles).",
+    "Comprendre l'appropriation des espaces maritimes (ZEE) et les enjeux de protection et de liberté de circulation.",
+    "Répondre à la question : la France est-elle une puissance maritime ?"
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les questions du programme",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Mers et océans : vecteurs essentiels de la mondialisation.",
+            "Mers et océans : entre appropriation, protection et liberté de circulation.",
+            "Question spécifique sur la France : la France, une puissance maritime ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "vecteurs",
+      "titre": "Des vecteurs essentiels de la mondialisation",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "maritimisation"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Environ **80 % du commerce mondial en volume** passe par la mer. La **conteneurisation** (le conteneur apparaît en 1956) a fait baisser le coût du transport. Les flux se concentrent sur quelques routes reliant l'Asie orientale, l'Europe et l'Amérique du Nord, et passent par des **passages stratégiques** : détroits de Malacca, d'Ormuz, de Gibraltar, canaux de Suez et de Panama."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les **grands ports** sont des interfaces : Shanghai est le premier port à conteneurs du monde ; Rotterdam, le premier d'Europe. Au fond des océans, les **câbles sous-marins** transportent l'essentiel des communications intercontinentales (Internet)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "interface"
+        }
+      ]
+    },
+    {
+      "id": "appropriation",
+      "titre": "Appropriation, protection et liberté de circulation",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "La **convention de Montego Bay** (1982) fixe le droit de la mer : **mer territoriale** de 12 milles marins, **zone économique exclusive** (ZEE) jusqu'à 200 milles, où l'État contrôle les ressources ; au-delà, la **haute mer** est libre."
+        },
+        {
+          "type": "definition",
+          "glossaire": "zee"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tensions** : revendications de la Chine en mer de Chine méridionale, piraterie dans le golfe d'Aden (opération européenne Atalante depuis 2008), rivalités pour les ressources de l'Arctique."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Protection** : surpêche, pollutions (plastique), réchauffement. Le **traité sur la haute mer** (adopté à l'ONU en 2023, en vigueur depuis le **17 janvier 2026**) permet de créer des aires marines protégées en haute mer."
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "titre": "La France, une puissance maritime ?",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Oui** : grâce à ses outre-mer, la France possède la **deuxième ZEE du monde** (environ 10 millions de km²), présente dans tous les océans ; une marine nationale puissante (porte-avions, sous-marins nucléaires) ; des grands groupes (CMA CGM, troisième armateur mondial de porte-conteneurs) et des grands ports (HAROPA – Le Havre, Marseille-Fos)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Mais** : ses ports sont moins puissants que Rotterdam ou Anvers, et sa ZEE est difficile à surveiller et à exploiter."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "La France est une puissance maritime **globale** par son espace et sa marine, mais **moyenne** par son activité portuaire."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Invention du conteneur",
+      "valeur": "1956",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Convention de Montego Bay (droit de la mer)",
+      "valeur": "1982",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Opération européenne Atalante contre la piraterie",
+      "valeur": "depuis 2008",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Entrée en vigueur du traité sur la haute mer",
+      "valeur": "17 janvier 2026",
+      "certitude": "certain",
+      "source": {
+        "titre": "Carenews, « Le traité sur la haute mer est entré en vigueur » (janvier 2026)",
+        "url": "https://www.carenews.com/carenews-info/news/le-traite-sur-la-haute-mer-est-entre-en-vigueur-que-change-t-il"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Mers et océans",
+    "colonnes": [
+      "Rôle",
+      "Exemples"
+    ],
+    "lignes": [
+      [
+        "Flux",
+        "~80 % du commerce mondial en volume, conteneurs, câbles"
+      ],
+      [
+        "Lieux clés",
+        "Ports (Shanghai, Rotterdam), détroits et canaux"
+      ],
+      [
+        "Appropriation",
+        "Mer territoriale (12 milles), ZEE (200 milles), haute mer"
+      ],
+      [
+        "Tensions et protection",
+        "Mer de Chine, piraterie, surpêche ; traité sur la haute mer (2026)"
+      ],
+      [
+        "France",
+        "2e ZEE du monde grâce aux outre-mer"
+      ]
+    ]
+  },
+  "fiche": [
+    "**~80 %** du commerce mondial en volume par la mer ; conteneurs (1956).",
+    "**Passages stratégiques** : Malacca, Ormuz, Suez, Panama, Gibraltar.",
+    "**Ports** : Shanghai (1er mondial), Rotterdam (1er européen).",
+    "**Montego Bay (1982)** : mer territoriale 12 milles, ZEE 200 milles.",
+    "**Traité sur la haute mer** : en vigueur le 17 janvier 2026.",
+    "**France** : 2e ZEE du monde (~10 millions de km²) grâce aux outre-mer."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Quelle part du commerce mondial en volume passe par la mer ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "environ 80 %",
+          "correct": true,
+          "explication": "Selon la CNUCED."
+        },
+        {
+          "id": "b",
+          "texte": "environ 20 %",
+          "correct": false,
+          "explication": "Bien plus."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La ZEE s'étend jusqu'à…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "200 milles marins",
+          "correct": true,
+          "explication": "Montego Bay, 1982."
+        },
+        {
+          "id": "b",
+          "texte": "12 milles marins",
+          "correct": false,
+          "explication": "C'est la mer territoriale."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Le premier port à conteneurs du monde est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Shanghai",
+          "correct": true,
+          "explication": "Chine."
+        },
+        {
+          "id": "b",
+          "texte": "Le Havre",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "La France a la ZEE…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la deuxième du monde",
+          "correct": true,
+          "explication": "Grâce aux outre-mer."
+        },
+        {
+          "id": "b",
+          "texte": "la plus petite d'Europe",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Ormuz et Malacca sont…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "des détroits stratégiques",
+          "correct": true,
+          "explication": "Passages obligés."
+        },
+        {
+          "id": "b",
+          "texte": "des ports",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

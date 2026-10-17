@@ -1,0 +1,215 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "h3-c1",
+  "exercices": [
+    {
+      "id": "h3-c1-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Reagan est président des États-Unis de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1981 à 1989",
+              "correct": true,
+              "explication": "Néolibéralisme."
+            },
+            {
+              "id": "b",
+              "texte": "1933 à 1945",
+              "correct": false,
+              "explication": "Roosevelt."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "La répression de Tian'anmen a lieu le…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "4 juin 1989",
+              "correct": true,
+              "explication": "Chine."
+            },
+            {
+              "id": "b",
+              "texte": "9 novembre 1989",
+              "correct": false,
+              "explication": "Berlin."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "La révolution des Œillets a lieu au…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Portugal (1974)",
+              "correct": true,
+              "explication": "25 avril 1974."
+            },
+            {
+              "id": "b",
+              "texte": "Chili (1973)",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "L'Allemagne est réunifiée le…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "3 octobre 1990",
+              "correct": true,
+              "explication": "Un an après la chute du mur."
+            },
+            {
+              "id": "b",
+              "texte": "8 mai 1945",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Le néolibéralisme veut…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "réduire le rôle de l'État dans l'économie",
+              "correct": true,
+              "explication": "Privatisations, déréglementation."
+            },
+            {
+              "id": "b",
+              "texte": "nationaliser les entreprises",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "h3-c1-composition",
+      "titre": "Plan de composition : « Les grands bouleversements du monde de 1973 à 1991 »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « Les grands bouleversements du monde de 1973 à 1991 »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : bornes (premier choc pétrolier 1973 – fin de l'URSS 1991) ; problématique : comment les équilibres économiques et politiques du monde sont-ils transformés ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Une économie mondiale transformée**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Chocs pétroliers et fin de la croissance",
+            "B. Le tournant néolibéral (Thatcher, Reagan)",
+            "C. L'ouverture de la Chine (Deng Xiaoping)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. De nouveaux équilibres politiques**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Les progrès de la démocratie",
+            "B. L'essor de l'islamisme (Iran, 1979)",
+            "C. L'effondrement du bloc soviétique (1989-1991)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : la fin d'un monde bipolaire."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

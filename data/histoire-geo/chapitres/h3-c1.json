@@ -1,0 +1,286 @@
+{
+  "id": "h3-c1",
+  "matiere": "histoire-geo",
+  "titre": "La modification des grands équilibres économiques et politiques mondiaux",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Histoire · Thème 3 – Les remises en cause économiques, politiques et sociales des années 1970 à 1991",
+    "intitule": "La modification des grands équilibres économiques et politiques mondiaux",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Expliquer les chocs pétroliers et la fin de la croissance des Trente Glorieuses.",
+    "Comprendre le tournant néolibéral (Reagan, Thatcher) et l'ouverture de la Chine (Deng Xiaoping).",
+    "Montrer les progrès de la démocratie, l'essor de l'islamisme et l'effondrement du bloc soviétique.",
+    "Connaître les points de passage."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les points de passage et d'ouverture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Ronald Reagan et Deng Xiaoping : deux acteurs majeurs d'un nouveau capitalisme ;",
+            "l'année 1989 dans le monde."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "economie",
+      "titre": "Une économie mondiale bouleversée",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "En **1971**, les États-Unis suspendent la convertibilité du dollar en or : le système de Bretton Woods prend fin. Les **chocs pétroliers** de **1973** et **1979** font flamber le prix du pétrole : inflation, ralentissement de la croissance, chômage de masse dans les pays industrialisés."
+        },
+        {
+          "type": "definition",
+          "glossaire": "choc-petrolier"
+        },
+        {
+          "type": "definition",
+          "glossaire": "neoliberalisme"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Un nouveau capitalisme** : Margaret Thatcher (Premier ministre britannique en 1979) et **Ronald Reagan** (président des États-Unis de 1981 à 1989) réduisent le rôle de l'État : baisse des impôts, déréglementation, privatisations. En Chine, **Deng Xiaoping** lance à partir de 1978 des réformes qui ouvrent l'économie au marché (zones économiques spéciales), tout en maintenant le monopole du Parti communiste."
+        }
+      ]
+    },
+    {
+      "id": "politique",
+      "titre": "De nouveaux équilibres politiques",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**La démocratie progresse** : fin des dictatures en Grèce et au Portugal (révolution des Œillets, 25 avril 1974), en Espagne après la mort de Franco (1975), puis en Amérique latine dans les années 1980."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'islamisme** s'affirme avec la **révolution iranienne (1979)** : l'ayatollah Khomeini instaure une République islamique. La même année, l'URSS intervient en **Afghanistan**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'année 1989** : en Chine, la répression de la place **Tian'anmen** (4 juin) écrase le mouvement démocratique ; en Europe de l'Est, les régimes communistes tombent ; le **mur de Berlin** s'ouvre le **9 novembre 1989**. L'Allemagne est réunifiée le 3 octobre 1990 et l'**URSS disparaît en décembre 1991**."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Années 1970-1991 : fin des Trente Glorieuses, tournant néolibéral, progrès de la démocratie, islamisme, effondrement du communisme en Europe."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Fin de la convertibilité du dollar en or",
+      "valeur": "1971",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Premier choc pétrolier",
+      "valeur": "1973",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Révolution iranienne",
+      "valeur": "1979",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Chute du mur de Berlin",
+      "valeur": "9 novembre 1989",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Fin de l'URSS",
+      "valeur": "décembre 1991",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Des équilibres modifiés",
+    "colonnes": [
+      "Domaine",
+      "Changements"
+    ],
+    "lignes": [
+      [
+        "Économie",
+        "Chocs pétroliers (1973, 1979), fin de Bretton Woods, néolibéralisme"
+      ],
+      [
+        "Chine",
+        "Réformes de Deng Xiaoping (1978), mais répression de Tian'anmen (1989)"
+      ],
+      [
+        "Démocratie",
+        "Europe du Sud (1974-1975), Amérique latine, Europe de l'Est (1989)"
+      ],
+      [
+        "Religion et politique",
+        "Révolution islamique en Iran (1979)"
+      ],
+      [
+        "Bloc soviétique",
+        "Chute du mur (1989), fin de l'URSS (1991)"
+      ]
+    ]
+  },
+  "fiche": [
+    "**1971** : fin de la convertibilité dollar-or. **1973, 1979** : chocs pétroliers.",
+    "**Néolibéralisme** : Thatcher (1979), Reagan (1981-1989).",
+    "**Deng Xiaoping** : réformes à partir de 1978.",
+    "**1974-1975** : démocratisation de l'Europe du Sud.",
+    "**1979** : révolution iranienne ; URSS en Afghanistan.",
+    "**1989** : Tian'anmen (4 juin), chute du mur (9 nov.). **1991** : fin de l'URSS."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le mur de Berlin tombe le…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "9 novembre 1989",
+          "correct": true,
+          "explication": "Ouverture des frontières."
+        },
+        {
+          "id": "b",
+          "texte": "13 août 1961",
+          "correct": false,
+          "explication": "Construction du mur."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Le premier choc pétrolier a lieu en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1973",
+          "correct": true,
+          "explication": "Le second en 1979."
+        },
+        {
+          "id": "b",
+          "texte": "1929",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Deng Xiaoping…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "ouvre l'économie chinoise au marché",
+          "correct": true,
+          "explication": "À partir de 1978."
+        },
+        {
+          "id": "b",
+          "texte": "crée la République populaire de Chine",
+          "correct": false,
+          "explication": "C'est Mao, en 1949."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "La révolution iranienne date de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1979",
+          "correct": true,
+          "explication": "Khomeini."
+        },
+        {
+          "id": "b",
+          "texte": "1989",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "L'URSS disparaît en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1991",
+          "correct": true,
+          "explication": "Décembre 1991."
+        },
+        {
+          "id": "b",
+          "texte": "1989",
+          "correct": false,
+          "explication": "1989 : chute du mur."
+        }
+      ]
+    }
+  ]
+}

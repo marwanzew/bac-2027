@@ -1,0 +1,65 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "explication-texte",
+  "exercices": [
+    {
+      "id": "explication-entrainement",
+      "titre": "Dégager thèse et structure (texte d'entraînement)",
+      "type": "explication-texte",
+      "difficulte": "moyen",
+      "dureeMinutes": 25,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Le texte ci-dessous a été écrit pour l'entraînement : ce n'est pas un texte d'auteur. Dégage son thème, sa thèse, le problème, la thèse adverse et ses étapes."
+      ],
+      "documents": [
+        {
+          "titre": "Texte d'entraînement",
+          "contenu": "On croit souvent qu'être libre, c'est faire tout ce qui nous plaît. Mais celui qui suit chacun de ses désirs obéit-il vraiment à lui-même ? Le désir naît en nous sans que nous l'ayons choisi : la faim, la colère, l'envie surgissent et nous poussent. Céder à chacun d'eux, c'est donc se laisser gouverner par ce qui nous arrive. Être libre suppose au contraire de pouvoir examiner nos désirs, d'en suspendre certains et d'en choisir d'autres. La liberté n'est pas l'absence de règle : c'est la capacité de se donner à soi-même sa règle.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement"
+          }
+        }
+      ],
+      "methode": [
+        "Thème : de quoi parle le texte ?",
+        "Thèse : que soutient-il ?",
+        "Thèse adverse : contre quelle idée ?",
+        "Étapes : repère les connecteurs (Mais, donc, au contraire)."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "**Thème** : la liberté.",
+            "**Thèse adverse** : être libre, c'est faire tout ce qui nous plaît.",
+            "**Problème** : suivre ses désirs, est-ce être libre ou être dominé par eux ?",
+            "**Thèse** : la liberté est la capacité de se donner à soi-même sa règle, en examinant et en choisissant ses désirs.",
+            "**Étapes** : 1) rappel de l'opinion commune ; 2) objection (« Mais… ») : le désir n'est pas choisi, donc le suivre, c'est être gouverné ; 3) définition positive de la liberté (« au contraire »)."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Pour aller plus loin** : on peut rapprocher cette idée de Rousseau, pour qui « l'obéissance à la loi qu'on s'est prescrite est liberté » (*Du contrat social*, 1762), et l'illustrer par l'exemple de l'élève qui renonce à une sortie pour réviser parce qu'il l'a décidé."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Thème et thèse justes",
+          "points": 4
+        },
+        {
+          "critere": "Thèse adverse et problème",
+          "points": 3
+        },
+        {
+          "critere": "Étapes repérées",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

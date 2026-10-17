@@ -1,0 +1,186 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "le-travail",
+  "exercices": [
+    {
+      "id": "le-travail-qcm",
+      "titre": "Le travail : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relie chaque auteur à sa thèse."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Un emploi est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un travail rémunéré dans un cadre juridique",
+              "correct": true,
+              "explication": "≠ travail au sens large."
+            },
+            {
+              "id": "b",
+              "texte": "toute activité",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*Aurore* (1881) est de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Nietzsche",
+              "correct": true,
+              "explication": "Critique de l'éloge du travail."
+            },
+            {
+              "id": "b",
+              "texte": "Marx",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Simone Weil a travaillé…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "en usine",
+              "correct": true,
+              "explication": "*La Condition ouvrière*."
+            },
+            {
+              "id": "b",
+              "texte": "comme banquière",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Le chômage montre que le travail apporte aussi…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "du lien social et une identité",
+              "correct": true,
+              "explication": "Pas seulement un revenu."
+            },
+            {
+              "id": "b",
+              "texte": "rien de plus qu'un salaire",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "La division du travail augmente…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la productivité",
+              "correct": true,
+              "explication": "Smith."
+            },
+            {
+              "id": "b",
+              "texte": "la durée des vacances",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "le-travail-probl",
+      "titre": "Problématiser : « Travaille-t-on seulement pour vivre ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Travaille-t-on seulement pour vivre ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "« Seulement » : n'y a-t-il pas d'autres raisons de travailler ?",
+        "Pense à Hegel, Marx, Arendt."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Travailler pour vivre, c'est travailler pour satisfaire ses besoins (gagner sa vie). « Seulement » suggère que ce serait la seule raison."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** Le travail répond d'abord au besoin : sans nécessité, beaucoup ne travailleraient pas. Mais on cherche aussi dans le travail une reconnaissance, une utilité, une manière de se réaliser (Hegel) ; et quand le travail perd tout sens, il devient aliénant (Marx)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** Le travail n'est-il qu'un moyen de survivre, ou peut-il être une fin en soi, une manière de devenir soi-même ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "id": "environnement",
+  "matiere": "ses",
+  "titre": "Quelle action publique pour l'environnement ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Regards croisés",
+    "intitule": "Quelle action publique pour l'environnement ?",
+    "evaluableEcrit": true,
+    "certitude": "a_verifier",
+    "raison": "Objectifs relevés dans une fiche de l'académie d'Orléans-Tours qui cite le programme ; le PDF officiel n'a pas pu être relu directement.",
+    "source": {
+      "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Savoir identifier les différents acteurs (pouvoirs publics, ONG, entreprises, experts, partis, mouvements citoyens) qui participent à la construction des questions environnementales comme problème public et à leur mise à l'agenda politique ; comprendre que ces acteurs entretiennent des relations de coopération et de conflit.",
+    "Comprendre que l'action publique pour l'environnement articule différentes échelles (locale, nationale, européenne, mondiale).",
+    "En prenant l'exemple de la politique climatique, connaître les principaux instruments dont disposent les pouvoirs publics pour faire face aux externalités négatives sur l'environnement : réglementation, marché des quotas d'émission, taxation, subvention à l'innovation verte ; comprendre que ces différents instruments présentent des avantages et des limites, et que leur mise en œuvre peut se heurter à des dysfonctionnements de l'action publique.",
+    "Comprendre qu'en présence de bien commun les négociations et accords internationaux liés à la préservation de l'environnement sont contraints par des stratégies de passager clandestin et les inégalités de développement entre pays."
+  ],
+  "parties": [
+    {
+      "id": "probleme-public",
+      "titre": "L'environnement, un problème public",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "probleme-public"
+        },
+        {
+          "type": "definition",
+          "glossaire": "mise-a-l-agenda"
+        },
+        {
+          "type": "tableau",
+          "titre": "Les acteurs (programme)",
+          "colonnes": [
+            "Acteur",
+            "Rôle possible"
+          ],
+          "lignes": [
+            [
+              "Pouvoirs publics",
+              "Décident des politiques (lois, taxes, normes)"
+            ],
+            [
+              "ONG",
+              "Alertent, mobilisent l'opinion, font pression (Greenpeace, WWF…)"
+            ],
+            [
+              "Entreprises",
+              "Innovent ; peuvent aussi freiner des mesures coûteuses (lobbying)"
+            ],
+            [
+              "Experts",
+              "Produisent des connaissances (scientifiques du GIEC)"
+            ],
+            [
+              "Partis",
+              "Portent ces questions dans le débat électoral"
+            ],
+            [
+              "Mouvements citoyens",
+              "Manifestations, marches pour le climat, actions en justice"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Ces acteurs **coopèrent** (des ONG travaillent avec des experts ; des entreprises participent à des accords) et **s'opposent** (une ONG contre une entreprise polluante ; des agriculteurs contre une norme)."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Une question environnementale ne devient pas toute seule un problème public : elle est **construite** par l'action de ces acteurs."
+        }
+      ]
+    },
+    {
+      "id": "echelles",
+      "titre": "Une action publique à plusieurs échelles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Quatre échelles",
+          "colonnes": [
+            "Échelle",
+            "Exemples"
+          ],
+          "lignes": [
+            [
+              "Locale",
+              "Zones à faibles émissions dans les villes, tri des déchets, pistes cyclables"
+            ],
+            [
+              "Nationale",
+              "Taxe carbone, normes de construction, aides à la rénovation"
+            ],
+            [
+              "Européenne",
+              "Marché de quotas d'émission (SEQE-UE, depuis 2005), objectif de neutralité climatique en 2050"
+            ],
+            [
+              "Mondiale",
+              "Accords internationaux sur le climat : protocole de Kyoto (1997), accord de Paris (2015)"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Ces échelles s'**articulent** : un accord mondial fixe un objectif, l'Union européenne le traduit en règles, l'État et les collectivités le mettent en œuvre."
+        }
+      ]
+    },
+    {
+      "id": "instruments",
+      "titre": "Les instruments de la politique climatique",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "externalite"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La pollution est une **externalité négative** : le pollueur ne paie pas le coût qu'il impose aux autres. Les pouvoirs publics disposent de quatre instruments pour la corriger."
+        },
+        {
+          "type": "definition",
+          "glossaire": "reglementation-environnementale"
+        },
+        {
+          "type": "definition",
+          "glossaire": "taxation-environnementale"
+        },
+        {
+          "type": "definition",
+          "glossaire": "marche-de-quotas"
+        },
+        {
+          "type": "definition",
+          "glossaire": "subvention-innovation-verte"
+        },
+        {
+          "type": "tableau",
+          "titre": "Avantages et limites",
+          "colonnes": [
+            "Instrument",
+            "Avantages",
+            "Limites"
+          ],
+          "lignes": [
+            [
+              "Réglementation",
+              "Efficace et rapide pour les pollutions graves ; simple à comprendre",
+              "Rigide, coûteuse à contrôler ; n'incite pas à faire mieux que la norme"
+            ],
+            [
+              "Taxation",
+              "Incite à réduire la pollution ; rapporte des recettes",
+              "Effet incertain sur la quantité de pollution ; pèse plus sur les ménages modestes ; peut être contestée"
+            ],
+            [
+              "Marché de quotas",
+              "La quantité totale d'émissions est plafonnée ; les réductions se font là où elles coûtent le moins",
+              "Prix du quota instable ; trop de quotas gratuits peuvent rendre le prix trop faible"
+            ],
+            [
+              "Subvention à l'innovation verte",
+              "Favorise des technologies propres ; bien acceptée",
+              "Coûteuse pour les finances publiques ; effet d'aubaine possible"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "dysfonctionnements-action-publique"
+        },
+        {
+          "type": "exemple",
+          "titre": "Exemple de dysfonctionnement",
+          "texte": "En France, la hausse prévue de la taxe carbone a été gelée fin 2018, après le mouvement des « gilets jaunes » : une contestation sociale peut bloquer un instrument."
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "titre": "Les négociations internationales",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "bien-commun"
+        },
+        {
+          "type": "definition",
+          "glossaire": "passager-clandestin"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Le passager clandestin.** Le climat est un bien commun mondial : chaque pays profite des efforts des autres. Il a donc intérêt à laisser les autres réduire leurs émissions sans faire d'efforts lui-même. Si tous raisonnent ainsi, personne n'agit assez."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Les inégalités de développement.** Les pays riches ont émis la plus grande partie des gaz à effet de serre accumulés depuis la révolution industrielle. Les pays en développement refusent de freiner leur croissance pour un problème qu'ils n'ont pas créé, et demandent une aide financière."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'accord de Paris** (2015) fixe l'objectif de contenir le réchauffement nettement en dessous de 2 °C par rapport à l'ère préindustrielle et de poursuivre les efforts pour le limiter à 1,5 °C. Chaque pays fixe lui-même ses engagements, sans sanction en cas de non-respect."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Les accords internationaux sont **contraints** par les stratégies de passager clandestin et par les inégalités de développement."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Protocole de Kyoto",
+      "valeur": "1997",
+      "certitude": "certain",
+      "source": {
+        "titre": "Nations unies, CCNUCC"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Accord de Paris (COP21)",
+      "valeur": "2015 · objectif : nettement en dessous de 2 °C, efforts pour 1,5 °C",
+      "certitude": "certain",
+      "source": {
+        "titre": "Nations unies, Accord de Paris (2015)",
+        "url": "https://unfccc.int/fr/a-propos-des-ndcs/l-accord-de-paris"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Marché de quotas européen (SEQE-UE)",
+      "valeur": "depuis 2005",
+      "certitude": "certain",
+      "source": {
+        "titre": "Commission européenne, système d'échange de quotas d'émission de l'UE (SEQE-UE)",
+        "url": "https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_fr"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Gel de la hausse de la taxe carbone en France",
+      "valeur": "fin 2018 (mouvement des « gilets jaunes »)",
+      "certitude": "certain",
+      "source": {
+        "titre": "Gouvernement français, annonces de décembre 2018"
+      }
+    },
+    {
+      "type": "notion",
+      "libelle": "Quatre instruments (programme)",
+      "valeur": "Réglementation · marché de quotas · taxation · subvention à l'innovation verte",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Taxer l'externalité",
+      "valeur": "Arthur C. Pigou, *The Economics of Welfare*, 1920",
+      "certitude": "certain",
+      "source": {
+        "titre": "A. C. Pigou, The Economics of Welfare, 1920"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Action publique pour l'environnement",
+    "colonnes": [
+      "Question",
+      "Réponse"
+    ],
+    "lignes": [
+      [
+        "Qui construit le problème ?",
+        "Pouvoirs publics, ONG, entreprises, experts, partis, mouvements citoyens (coopération et conflit)"
+      ],
+      [
+        "À quelle échelle ?",
+        "Locale, nationale, européenne, mondiale"
+      ],
+      [
+        "Avec quels instruments ?",
+        "Réglementation, taxation, marché de quotas, subvention à l'innovation verte"
+      ],
+      [
+        "Quelles difficultés ?",
+        "Dysfonctionnements de l'action publique ; passager clandestin et inégalités de développement"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Problème public** construit par des acteurs ; **mise à l'agenda**.",
+    "**6 acteurs** : pouvoirs publics, ONG, entreprises, experts, partis, mouvements citoyens ; coopération et conflit.",
+    "**4 échelles** : locale, nationale, européenne, mondiale.",
+    "**Externalité négative** : la pollution n'est pas payée par le pollueur.",
+    "**4 instruments** : réglementation, taxation (Pigou), marché de quotas (SEQE-UE depuis 2005), subvention à l'innovation verte. Chacun a avantages et limites.",
+    "**Dysfonctionnements** : lobbying, contestation (gel de la taxe carbone fin 2018).",
+    "**Bien commun** → **passager clandestin** ; **inégalités de développement**.",
+    "**Kyoto** (1997), **Paris** (2015 : < 2 °C, efforts pour 1,5 °C)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le climat est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un bien commun",
+          "correct": true,
+          "explication": "Non excluable et rival."
+        },
+        {
+          "id": "b",
+          "texte": "un bien privé",
+          "correct": false,
+          "explication": "Personne n'en est propriétaire."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Un plafond d'émissions avec des droits échangeables, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un marché de quotas",
+          "correct": true,
+          "explication": "Comme le SEQE-UE."
+        },
+        {
+          "id": "b",
+          "texte": "une taxe carbone",
+          "correct": false,
+          "explication": "La taxe fixe un prix, pas une quantité."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Un pays profite des efforts des autres sans réduire ses émissions. C'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un comportement de passager clandestin",
+          "correct": true,
+          "explication": "Obstacle aux accords internationaux."
+        },
+        {
+          "id": "b",
+          "texte": "une subvention à l'innovation verte",
+          "correct": false,
+          "explication": "Rien à voir."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "L'interdiction d'un pesticide est un instrument de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "réglementation",
+          "correct": true,
+          "explication": "Norme obligatoire."
+        },
+        {
+          "id": "b",
+          "texte": "taxation",
+          "correct": false,
+          "explication": "La taxation fait payer, elle n'interdit pas."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "L'accord de Paris a été signé en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Nations unies, Accord de Paris (2015)",
+        "url": "https://unfccc.int/fr/a-propos-des-ndcs/l-accord-de-paris"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2015",
+          "correct": true,
+          "explication": "Lors de la COP21."
+        },
+        {
+          "id": "b",
+          "texte": "1997",
+          "correct": false,
+          "explication": "1997 est l'année du protocole de Kyoto."
+        }
+      ]
+    }
+  ]
+}

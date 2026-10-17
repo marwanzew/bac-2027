@@ -1,0 +1,343 @@
+{
+  "id": "la-conscience",
+  "matiere": "philosophie",
+  "titre": "La conscience",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "La conscience",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer conscience spontanée, réfléchie et morale.",
+    "Comprendre le cogito de Descartes et ses limites.",
+    "Connaître Husserl, Leibniz, Bergson, Sartre sur la conscience.",
+    "Traiter un sujet sur la conscience de soi."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "conscience"
+        },
+        {
+          "type": "definition",
+          "glossaire": "conscience-morale"
+        },
+        {
+          "type": "definition",
+          "glossaire": "cogito"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On distingue la conscience **spontanée** (je perçois le monde), la conscience **réfléchie** (je sais que je perçois, je pense à moi-même) et la conscience **morale** (je juge le bien et le mal)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "mauvaise-foi"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : la conscience semble ce que nous connaissons le mieux (je sais que je pense). Mais me connais-je vraiment ? Ne suis-je pas souvent étranger à moi-même ? La conscience fait-elle la dignité de l'homme, ou est-elle aussi source d'illusion et de souffrance ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **transparence / opacité** de soi ; **conscience / inconscient** ; **savoir / responsabilité**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Descartes (*Discours de la méthode*, 1637 ; *Méditations métaphysiques*, 1641)",
+              "« Je pense, donc je suis » : même si je doute de tout, je ne peux douter que je pense",
+              "La conscience est la première certitude"
+            ],
+            [
+              "Locke (*Essai sur l'entendement humain*, 1690)",
+              "C'est la conscience qui fait l'identité personnelle : je suis la même personne parce que je me souviens de mes actes",
+              "Conscience et identité"
+            ],
+            [
+              "Leibniz (*Nouveaux Essais sur l'entendement humain*, écrits vers 1704)",
+              "Nous avons une infinité de « petites perceptions » dont nous n'avons pas conscience (le bruit de chaque vague dans celui de la mer)",
+              "La conscience n'est pas tout l'esprit"
+            ],
+            [
+              "Husserl (*Méditations cartésiennes*, 1931)",
+              "Toute conscience est conscience de quelque chose : elle est tournée vers le monde (intentionnalité)",
+              "La conscience n'est pas une boîte fermée"
+            ],
+            [
+              "Sartre (*L'Être et le néant*, 1943)",
+              "La mauvaise foi consiste à se mentir à soi-même pour fuir sa liberté",
+              "La conscience nous rend responsables"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Conduire en pensant à autre chose : on agit sans conscience réfléchie.",
+            "Rougir de honte sous le regard des autres : prendre conscience de soi par autrui.",
+            "Le remords : la voix de la conscience morale.",
+            "Se dire « je suis comme ça » pour ne pas changer : mauvaise foi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Se connaître soi-même, est-ce possible ?",
+            "La conscience fait-elle la dignité de l'homme ?",
+            "Avoir conscience de soi, est-ce se connaître ?",
+            "La conscience est-elle source de liberté ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "« Je pense, donc je suis »",
+      "valeur": "Descartes, *Discours de la méthode*, 1637",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Conscience et identité personnelle",
+      "valeur": "Locke, 1690",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Petites perceptions",
+      "valeur": "Leibniz, *Nouveaux Essais*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Intentionnalité",
+      "valeur": "Husserl",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Mauvaise foi",
+      "valeur": "Sartre, *L'Être et le néant*, 1943",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La conscience : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Descartes",
+        "« Je pense, donc je suis » : même si je doute de tout, je ne peux douter que je pense"
+      ],
+      [
+        "Locke",
+        "C'est la conscience qui fait l'identité personnelle : je suis la même personne parce que je me souviens de mes actes"
+      ],
+      [
+        "Leibniz",
+        "Nous avons une infinité de « petites perceptions » dont nous n'avons pas conscience (le bruit de chaque vague dans celui de la mer)"
+      ],
+      [
+        "Husserl",
+        "Toute conscience est conscience de quelque chose : elle est tournée vers le monde (intentionnalité)"
+      ],
+      [
+        "Sartre",
+        "La mauvaise foi consiste à se mentir à soi-même pour fuir sa liberté"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Conscience** spontanée / réfléchie / morale.",
+    "**Descartes** : je pense, donc je suis (1637).",
+    "**Locke** : la conscience fait l'identité personnelle.",
+    "**Leibniz** : petites perceptions inconscientes.",
+    "**Husserl** : toute conscience est conscience de quelque chose.",
+    "**Sartre** : mauvaise foi, responsabilité."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "« Je pense, donc je suis » est de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Descartes",
+          "correct": true,
+          "explication": "*Discours de la méthode*, 1637."
+        },
+        {
+          "id": "b",
+          "texte": "Sartre",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "L'intentionnalité signifie que…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "toute conscience est conscience de quelque chose",
+          "correct": true,
+          "explication": "Husserl."
+        },
+        {
+          "id": "b",
+          "texte": "on agit toujours exprès",
+          "correct": false,
+          "explication": "Contresens."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Les « petites perceptions » sont de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Leibniz",
+          "correct": true,
+          "explication": "Le bruit de la mer."
+        },
+        {
+          "id": "b",
+          "texte": "Locke",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "La mauvaise foi, chez Sartre, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "se mentir à soi-même",
+          "correct": true,
+          "explication": "Pour fuir sa liberté."
+        },
+        {
+          "id": "b",
+          "texte": "tromper les autres",
+          "correct": false,
+          "explication": "Non, c'est le mensonge ordinaire."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Pour Locke, l'identité personnelle repose sur…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la conscience et la mémoire",
+          "correct": true,
+          "explication": "Je me souviens de mes actes."
+        },
+        {
+          "id": "b",
+          "texte": "le corps seul",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "h2-c2",
+  "exercices": [
+    {
+      "id": "h2-c2-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le pacte de Varsovie est créé en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1955",
+              "correct": true,
+              "explication": "Bloc soviétique."
+            },
+            {
+              "id": "b",
+              "texte": "1949",
+              "correct": false,
+              "explication": "OTAN."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Les non-alignés refusent…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "de choisir entre les deux blocs",
+              "correct": true,
+              "explication": "Belgrade, 1961."
+            },
+            {
+              "id": "b",
+              "texte": "l'ONU",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "L'offensive du Têt a lieu en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1968",
+              "correct": true,
+              "explication": "Vietnam."
+            },
+            {
+              "id": "b",
+              "texte": "1975",
+              "correct": false,
+              "explication": "Chute de Saïgon."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Martin Luther King est assassiné en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1968",
+              "correct": true,
+              "explication": "4 avril 1968."
+            },
+            {
+              "id": "b",
+              "texte": "1963",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Après Cuba est installé…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un « téléphone rouge »",
+              "correct": true,
+              "explication": "1963, début de la détente."
+            },
+            {
+              "id": "b",
+              "texte": "un nouveau mur",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "h2-c2-composition",
+      "titre": "Plan de composition : « Guerre froide et décolonisation : un monde bipolaire bousculé (1947-début des années 1970) »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « Guerre froide et décolonisation : un monde bipolaire bousculé (1947-début des années 1970) »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : définitions (bipolarisation, tiers-monde) ; problématique : comment l'émergence de nouveaux acteurs remet-elle en cause l'ordre bipolaire ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Un monde divisé en deux blocs**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Alliances et course aux armements",
+            "B. Des crises au bord de la guerre : Berlin (1961), Cuba (1962)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. L'émergence du tiers-monde**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Les décolonisations : l'Indochine (1946-1954)",
+            "B. Bandung (1955), les non-alignés (1961)",
+            "C. Mais le tiers-monde reste un terrain d'affrontement : Vietnam"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III. 1968, une contestation mondiale**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. À l'Ouest : Vietnam, Mai 68",
+            "B. À l'Est : Printemps de Prague",
+            "C. Au Sud : Tlatelolco"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : un monde moins strictement bipolaire au début des années 1970 (détente)."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

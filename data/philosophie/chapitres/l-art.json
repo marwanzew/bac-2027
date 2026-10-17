@@ -1,0 +1,357 @@
+{
+  "id": "l-art",
+  "matiere": "philosophie",
+  "titre": "L'art",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "L'art",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer l'art, l'artisanat et la technique ; l'œuvre d'art et l'objet utile.",
+    "Comprendre le débat sur l'imitation et sur le beau.",
+    "Connaître Platon, Aristote, Kant, Hegel, Bergson, Benjamin.",
+    "Traiter un sujet sur l'art."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "oeuvre-art"
+        },
+        {
+          "type": "definition",
+          "glossaire": "beau"
+        },
+        {
+          "type": "definition",
+          "glossaire": "mimesis"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "L'**artisan** produit un objet utile selon des règles ; l'**artiste** crée une œuvre unique, qui n'a pas d'abord d'utilité et qui se donne à contempler."
+        },
+        {
+          "type": "definition",
+          "glossaire": "catharsis"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : l'art imite-t-il la réalité ou nous la fait-il voir autrement ? Le beau est-il une affaire de goût personnel ou peut-il être universel ? Et, depuis le XX^e^ siècle, tout peut-il devenir de l'art ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **imitation / création** ; **goût subjectif / beau universel** ; **utile / gratuit**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Platon (*La République*, livre X)",
+              "L'art imite les apparences : il est éloigné de la vérité",
+              "Méfiance envers l'art"
+            ],
+            [
+              "Aristote (*Poétique*)",
+              "Imiter est naturel à l'homme et l'on apprend en imitant ; la tragédie produit une purification des passions (catharsis)",
+              "Défense de l'imitation"
+            ],
+            [
+              "Kant (*Critique de la faculté de juger*, 1790)",
+              "Est beau ce qui plaît universellement sans concept ; le génie donne ses règles à l'art",
+              "Le jugement de goût prétend à l'universel"
+            ],
+            [
+              "Hegel (*Esthétique*, cours publiés en 1835)",
+              "L'art est une manifestation sensible de l'esprit ; le beau artistique est supérieur au beau naturel",
+              "L'art exprime l'esprit d'une époque"
+            ],
+            [
+              "Bergson (*Le Rire*, 1900)",
+              "L'artiste écarte le voile des habitudes et nous fait voir ce que nous ne remarquions pas",
+              "L'art dévoile la réalité"
+            ],
+            [
+              "Benjamin (*L'Œuvre d'art à l'époque de sa reproductibilité technique*, 1935)",
+              "La reproduction technique fait perdre à l'œuvre son « aura », son caractère unique",
+              "L'art à l'ère des copies"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Platon** — L'imitation comme copie de copie"
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "*Fontaine* de Marcel Duchamp (1917) : un urinoir exposé comme œuvre.",
+            "Une photo d'un tableau célèbre partagée des millions de fois : perte de l'aura ?",
+            "Pleurer devant un film : la catharsis d'Aristote.",
+            "Un paysage peint par Monet qui fait voir autrement la lumière."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "L'art imite-t-il la nature ?",
+            "Le beau est-il une affaire de goût ?",
+            "L'art est-il inutile ?",
+            "Tout peut-il être de l'art ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Méfiance envers l'art",
+      "valeur": "Platon, *La République*, livre X",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Défense de l'imitation",
+      "valeur": "Aristote, *Poétique*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Le jugement de goût prétend à l'universel",
+      "valeur": "Kant, *Critique de la faculté de juger*, 1790",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "L'art exprime l'esprit d'une époque",
+      "valeur": "Hegel, *Esthétique*, cours publiés en 1835",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "L'art dévoile la réalité",
+      "valeur": "Bergson, *Le Rire*, 1900",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "L'art : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Platon",
+        "L'art imite les apparences : il est éloigné de la vérité"
+      ],
+      [
+        "Aristote",
+        "Imiter est naturel à l'homme et l'on apprend en imitant ; la tragédie produit une purification des passions (catharsis)"
+      ],
+      [
+        "Kant",
+        "Est beau ce qui plaît universellement sans concept ; le génie donne ses règles à l'art"
+      ],
+      [
+        "Hegel",
+        "L'art est une manifestation sensible de l'esprit ; le beau artistique est supérieur au beau naturel"
+      ],
+      [
+        "Bergson",
+        "L'artiste écarte le voile des habitudes et nous fait voir ce que nous ne remarquions pas"
+      ],
+      [
+        "Benjamin",
+        "La reproduction technique fait perdre à l'œuvre son « aura », son caractère unique"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Art** ≠ artisanat : œuvre contemplée ≠ objet utile.",
+    "**Platon** : imitation éloignée du vrai.",
+    "**Aristote** : imiter est naturel ; catharsis.",
+    "**Kant** : beau = plaît universellement sans concept ; génie.",
+    "**Hegel** : manifestation sensible de l'esprit.",
+    "**Bergson** : l'artiste dévoile.",
+    "**Benjamin** : perte de l'aura."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Pour Kant, le beau plaît…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "universellement sans concept",
+          "correct": true,
+          "explication": "*Critique de la faculté de juger*, 1790."
+        },
+        {
+          "id": "b",
+          "texte": "seulement à l'artiste",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La catharsis est une notion de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Aristote",
+          "correct": true,
+          "explication": "*Poétique*."
+        },
+        {
+          "id": "b",
+          "texte": "Hegel",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Pour Platon, l'art…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "imite les apparences et s'éloigne du vrai",
+          "correct": true,
+          "explication": "*La République*, X."
+        },
+        {
+          "id": "b",
+          "texte": "révèle les Idées",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "L'« aura » est une notion de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Benjamin",
+          "correct": true,
+          "explication": "1935."
+        },
+        {
+          "id": "b",
+          "texte": "Bergson",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*Fontaine* de Duchamp date de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1917",
+          "correct": true,
+          "explication": "Urinoir exposé."
+        },
+        {
+          "id": "b",
+          "texte": "1790",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

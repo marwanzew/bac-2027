@@ -1,0 +1,269 @@
+{
+  "id": "methode-commentaire",
+  "matiere": "francais",
+  "titre": "Méthode : le commentaire",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthodes des épreuves",
+    "intitule": "Méthode : le commentaire",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+    }
+  },
+  "objectifs": [
+    "Comprendre ce que l'on attend d'un commentaire.",
+    "Construire un projet de lecture et un plan.",
+    "Rédiger une introduction et des paragraphes d'analyse."
+  ],
+  "parties": [
+    {
+      "id": "principe",
+      "titre": "Le principe",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "commentaire"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le texte n'est **pas extrait d'une œuvre au programme**, mais il est lié à l'un des quatre objets d'étude. Tu as **4 heures**. Le sujet peut proposer des pistes : elles t'aident à construire ton plan."
+        },
+        {
+          "type": "definition",
+          "glossaire": "problematique"
+        }
+      ]
+    },
+    {
+      "id": "brouillon",
+      "titre": "Au brouillon (environ 1 h 15)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Lis le texte plusieurs fois ; repère le **genre**, l'**auteur**, la **date**, la **situation d'énonciation**.",
+            "Souligne les procédés : champs lexicaux, figures, temps verbaux, rythme, ponctuation.",
+            "Rédige un **projet de lecture** : « Comment ce texte… ? »",
+            "Regroupe tes observations en **2 ou 3 axes** (pas « fond » et « forme » séparés)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rediger",
+      "titre": "Rédiger",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "La structure",
+          "colonnes": [
+            "Partie",
+            "Contenu"
+          ],
+          "lignes": [
+            [
+              "Introduction",
+              "Présentation du texte (auteur, œuvre, date, contexte) ; situation du passage ; projet de lecture ; annonce du plan"
+            ],
+            [
+              "Développement",
+              "2 ou 3 parties ; chaque paragraphe : idée → citation courte → procédé nommé → interprétation"
+            ],
+            [
+              "Conclusion",
+              "Bilan qui répond au projet de lecture ; ouverture"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "**Citer, nommer, interpréter** : une citation sans analyse ne rapporte rien ; un procédé sans interprétation non plus."
+        },
+        {
+          "type": "piege",
+          "titre": "la paraphrase",
+          "texte": "Répéter le texte avec d'autres mots n'est pas analyser. Demande-toi toujours : **quel effet** ce procédé produit-il, et **pourquoi** ?"
+        }
+      ]
+    },
+    {
+      "id": "exemple",
+      "titre": "Exemple de paragraphe",
+      "blocs": [
+        {
+          "type": "exemple",
+          "titre": "Hugo, « Demain, dès l'aube… »",
+          "texte": "Dès le premier vers, le poète exprime une détermination absolue : le futur de certitude « Je partirai » et l'anaphore « J'irai par la forêt, j'irai par la montagne » donnent au voyage l'allure d'une marche que rien ne peut arrêter. Le lecteur croit d'abord à un rendez-vous amoureux, ce qui prépare la révélation finale de la « tombe »."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Durée de l'écrit",
+      "valeur": "4 heures",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    },
+    {
+      "type": "mecanisme",
+      "libelle": "Paragraphe d'analyse",
+      "valeur": "idée → citation → procédé → interprétation",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le commentaire en bref",
+    "colonnes": [
+      "Étape",
+      "Clé"
+    ],
+    "lignes": [
+      [
+        "Brouillon",
+        "Projet de lecture + 2 ou 3 axes"
+      ],
+      [
+        "Introduction",
+        "Présenter, situer, problématiser, annoncer"
+      ],
+      [
+        "Paragraphe",
+        "Citer, nommer, interpréter"
+      ],
+      [
+        "Conclusion",
+        "Répondre, ouvrir"
+      ]
+    ]
+  },
+  "fiche": [
+    "Texte **hors programme**, lié à un objet d'étude.",
+    "**Projet de lecture** = la question que tu résous.",
+    "Paragraphe : **idée → citation → procédé → interprétation**.",
+    "Pas de paraphrase ; pas de plan fond / forme."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le texte du commentaire est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "hors des œuvres au programme",
+          "correct": true,
+          "explication": "Lié à un objet d'étude."
+        },
+        {
+          "id": "b",
+          "texte": "tiré d'une œuvre au programme",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Un paragraphe d'analyse contient…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une idée, une citation, un procédé, une interprétation",
+          "correct": true,
+          "explication": "Les quatre."
+        },
+        {
+          "id": "b",
+          "texte": "seulement des citations",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La paraphrase, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "répéter le texte sans l'analyser",
+          "correct": true,
+          "explication": "À éviter."
+        },
+        {
+          "id": "b",
+          "texte": "une figure de style",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le plan conseillé :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2 ou 3 axes mêlant fond et forme",
+          "correct": true,
+          "explication": "Toujours interpréter."
+        },
+        {
+          "id": "b",
+          "texte": "une partie fond, une partie forme",
+          "correct": false,
+          "explication": "À éviter."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "L'introduction se termine par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "l'annonce du plan",
+          "correct": true,
+          "explication": "Après le projet de lecture."
+        },
+        {
+          "id": "b",
+          "texte": "une citation de l'auteur",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

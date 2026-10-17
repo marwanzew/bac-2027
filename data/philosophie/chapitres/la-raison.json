@@ -1,0 +1,339 @@
+{
+  "id": "la-raison",
+  "matiere": "philosophie",
+  "titre": "La raison",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "La raison",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer raison, raisonnement, rationalité et passions.",
+    "Comprendre les pouvoirs et les limites de la raison.",
+    "Connaître Descartes, Pascal, Leibniz, Hume, Kant, Hegel.",
+    "Traiter un sujet sur la raison."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "raison"
+        },
+        {
+          "type": "definition",
+          "glossaire": "raisonnement"
+        },
+        {
+          "type": "definition",
+          "glossaire": "passion"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La raison est à la fois une **faculté de connaître** (raisonner, démontrer) et une **faculté pratique** (juger de ce qu'il faut faire)."
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : la raison semble ce qui fait la dignité de l'homme et lui permet de connaître le vrai. Mais peut-elle tout connaître ? Gouverne-t-elle vraiment nos actions, ou sommes-nous menés par nos passions ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **raison / passions** ; **raison / foi** ; **pouvoirs / limites** de la raison."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Descartes (*Discours de la méthode*, 1637)",
+              "« Le bon sens est la chose du monde la mieux partagée »",
+              "Tous les hommes ont la raison ; il faut bien la conduire"
+            ],
+            [
+              "Pascal (*Pensées*, 1670)",
+              "« Le cœur a ses raisons, que la raison ne connaît point »",
+              "La raison n'est pas la seule voie vers le vrai"
+            ],
+            [
+              "Leibniz (*Monadologie*, 1714)",
+              "Principe de raison suffisante : rien n'arrive sans qu'il y ait une raison pour laquelle cela est ainsi plutôt qu'autrement",
+              "La raison cherche le pourquoi de tout"
+            ],
+            [
+              "Hume (*Traité de la nature humaine*, 1739-1740)",
+              "La raison est l'esclave des passions : elle choisit les moyens, pas les fins",
+              "Ce sont les désirs qui nous font agir"
+            ],
+            [
+              "Kant (*Critique de la raison pure*, 1781)",
+              "La raison ne peut pas connaître ce qui dépasse toute expérience possible (Dieu, l'âme, le monde comme totalité)",
+              "La raison doit connaître ses propres limites"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Résoudre un problème de maths : la raison démonstrative.",
+            "Tomber amoureux « sans raison » : le cœur de Pascal.",
+            "Les complotistes qui « raisonnent » à partir de prémisses fausses.",
+            "Décider de réviser au lieu de sortir : la raison pratique contre le désir."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "La raison peut-elle tout expliquer ?",
+            "Faut-il se méfier de ses passions ?",
+            "Peut-on tout démontrer ?",
+            "La raison s'oppose-t-elle à la croyance ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Tous les hommes ont la raison ; il faut bien la conduire",
+      "valeur": "Descartes, *Discours de la méthode*, 1637",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La raison n'est pas la seule voie vers le vrai",
+      "valeur": "Pascal, *Pensées*, 1670",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La raison cherche le pourquoi de tout",
+      "valeur": "Leibniz, *Monadologie*, 1714",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Ce sont les désirs qui nous font agir",
+      "valeur": "Hume, *Traité de la nature humaine*, 1739-1740",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La raison doit connaître ses propres limites",
+      "valeur": "Kant, *Critique de la raison pure*, 1781",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La raison : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Descartes",
+        "« Le bon sens est la chose du monde la mieux partagée »"
+      ],
+      [
+        "Pascal",
+        "« Le cœur a ses raisons, que la raison ne connaît point »"
+      ],
+      [
+        "Leibniz",
+        "Principe de raison suffisante : rien n'arrive sans qu'il y ait une raison pour laquelle cela est ainsi plutôt qu'autrement"
+      ],
+      [
+        "Hume",
+        "La raison est l'esclave des passions : elle choisit les moyens, pas les fins"
+      ],
+      [
+        "Kant",
+        "La raison ne peut pas connaître ce qui dépasse toute expérience possible (Dieu, l'âme, le monde comme totalité)"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Raison** : faculté de connaître et de juger.",
+    "**Descartes** : le bon sens est la chose du monde la mieux partagée ; méthode.",
+    "**Pascal** : le cœur a ses raisons.",
+    "**Leibniz** : principe de raison suffisante.",
+    "**Hume** : la raison esclave des passions.",
+    "**Kant** : limites de la raison."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "« Le bon sens est la chose du monde la mieux partagée » :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Descartes",
+          "correct": true,
+          "explication": "1637."
+        },
+        {
+          "id": "b",
+          "texte": "Pascal",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Pour Hume, la raison…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "est l'esclave des passions",
+          "correct": true,
+          "explication": "Elle choisit les moyens."
+        },
+        {
+          "id": "b",
+          "texte": "domine toujours",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Le principe de raison suffisante est de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Leibniz",
+          "correct": true,
+          "explication": "*Monadologie*, 1714."
+        },
+        {
+          "id": "b",
+          "texte": "Kant",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "« Le cœur a ses raisons… » :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Pascal",
+          "correct": true,
+          "explication": "*Pensées*."
+        },
+        {
+          "id": "b",
+          "texte": "Hume",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Pour Kant, la raison ne peut connaître…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "ce qui dépasse toute expérience",
+          "correct": true,
+          "explication": "Dieu, l'âme…"
+        },
+        {
+          "id": "b",
+          "texte": "les mathématiques",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

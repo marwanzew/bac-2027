@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "exercice.schema.json",
+  "title": "Exercices d'un chapitre (fichier data/<matiere>/exercices/<chapitre>.json)",
+  "type": "object",
+  "required": ["matiere", "chapitre", "exercices"],
+  "additionalProperties": false,
+  "properties": {
+    "matiere": { "$ref": "commun.schema.json#/$defs/id" },
+    "chapitre": { "$ref": "commun.schema.json#/$defs/id" },
+    "exercices": { "type": "array", "items": { "$ref": "#/$defs/exercice" } }
+  },
+  "$defs": {
+    "exercice": {
+      "type": "object",
+      "required": ["id", "titre", "type", "difficulte", "dureeMinutes", "origine", "enonce", "methode", "bareme"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "commun.schema.json#/$defs/id" },
+        "titre": { "type": "string" },
+        "type": {
+          "description": "Types par matière. qcm = correction automatique.",
+          "enum": [
+            "qcm",
+            "mobilisation-connaissances", "etude-document", "raisonnement-dossier", "plan-dissertation",
+            "problematisation", "plan-detaille", "explication-texte",
+            "reperes", "analyse-documents", "plan-composition", "croquis",
+            "raisonnement-scientifique",
+            "comprehension-ecrit", "expression-ecrite", "synthese", "traduction", "dossier-oral",
+            "argumentation"
+          ]
+        },
+        "difficulte": { "enum": ["facile", "moyen", "bac"] },
+        "dureeMinutes": { "type": "integer", "minimum": 1, "maximum": 240, "description": "Durée conseillée, utilisée par le mode épreuve." },
+        "origine": {
+          "description": "Par défaut « entrainement » : affiché « Créé pour s'entraîner, au format bac ». « annale » exige une source officielle (règle R6).",
+          "oneOf": [
+            { "type": "object", "required": ["type"], "additionalProperties": false,
+              "properties": { "type": { "const": "entrainement" } } },
+            { "type": "object", "required": ["type", "session", "centre", "source"], "additionalProperties": false,
+              "properties": { "type": { "const": "annale" }, "session": { "type": "string" }, "centre": { "type": "string" },
+                "source": { "$ref": "commun.schema.json#/$defs/source" } } }
+          ]
+        },
+        "enonce": { "type": "array", "minItems": 1, "items": { "$ref": "commun.schema.json#/$defs/texte" } },
+        "documents": {
+          "type": "array",
+          "items": {
+            "type": "object", "required": ["titre", "contenu", "certitude", "source"], "additionalProperties": false,
+            "properties": {
+              "titre": { "type": "string" },
+              "contenu": { "oneOf": [ { "$ref": "commun.schema.json#/$defs/texte" }, { "$ref": "commun.schema.json#/$defs/tableau" } ] },
+              "certitude": { "$ref": "commun.schema.json#/$defs/certitude" },
+              "source": { "$ref": "commun.schema.json#/$defs/source" },
+              "raison": { "type": "string" }
+            }
+          }
+        },
+        "qcm": { "type": "array", "minItems": 1, "items": { "$ref": "qcm.schema.json" }, "description": "Obligatoire si type = qcm." },
+        "methode": { "type": "array", "minItems": 1, "items": { "$ref": "commun.schema.json#/$defs/texte" } },
+        "corrige": { "type": "array", "minItems": 1, "items": { "$ref": "chapitre.schema.json#/$defs/bloc" }, "description": "Masqué par défaut. Obligatoire sauf pour un QCM (corrigé automatique)." },
+        "bareme": {
+          "type": "array",
+          "items": {
+            "type": "object", "required": ["critere", "points"], "additionalProperties": false,
+            "properties": { "critere": { "type": "string" }, "points": { "type": "number", "minimum": 0 } }
+          },
+          "description": "Barème indicatif."
+        }
+      },
+      "if": { "properties": { "type": { "const": "qcm" } } },
+      "then": { "required": ["qcm"] },
+      "else": { "required": ["corrige"] }
+    }
+  }
+}

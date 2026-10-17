@@ -1,0 +1,308 @@
+{
+  "id": "theatre",
+  "matiere": "francais",
+  "titre": "Le théâtre du XVIIe au XXIe siècle",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Objets d'étude et œuvres au programme 2026-2027",
+    "intitule": "Le théâtre du XVIIe au XXIe siècle",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+      "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+    }
+  },
+  "objectifs": [
+    "Connaître les trois pièces au programme et leurs parcours.",
+    "Savoir analyser une scène (dialogue, mise en scène, double énonciation).",
+    "Préparer la dissertation sur le théâtre."
+  ],
+  "parties": [
+    {
+      "id": "programme",
+      "titre": "Les œuvres au programme",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Théâtre : œuvres et parcours 2026-2027",
+          "colonnes": [
+            "Œuvre",
+            "Parcours associé"
+          ],
+          "lignes": [
+            [
+              "Corneille, Le Menteur",
+              "mensonge et comédie"
+            ],
+            [
+              "Musset, On ne badine pas avec l'amour",
+              "les jeux du cœur et de la parole"
+            ],
+            [
+              "Sarraute, Pour un oui ou pour un non",
+              "théâtre et dispute"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "double-enonciation"
+        }
+      ]
+    },
+    {
+      "id": "menteur",
+      "titre": "Corneille, Le Menteur",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Comédie** en cinq actes et en vers de **Pierre Corneille**, créée vers **1643-1644**, inspirée d'une pièce espagnole de Juan Ruiz de Alarcón. Le jeune **Dorante**, arrivé à Paris, invente sans cesse des mensonges pour briller et séduire, aidé et commenté par son valet **Cliton**, face à son père **Géronte**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « mensonge et comédie »** : le mensonge fait avancer l'intrigue et produit le **comique** (quiproquos, situations absurdes). Mais Dorante est aussi un **créateur d'illusions**, comme le théâtre lui-même."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Enjeux : comique de situation et de mots, rapport père-fils, art de la parole, théâtre et illusion."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "musset",
+      "titre": "Musset, On ne badine pas avec l'amour",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Pièce en prose d'**Alfred de Musset**, publiée en **1834**. **Perdican** et sa cousine **Camille** devraient se marier, mais Camille, élevée au couvent, refuse l'amour par peur d'être trahie. Par orgueil, ils se blessent avec des mots ; Perdican séduit la paysanne **Rosette** pour rendre Camille jalouse. La pièce, d'abord comique, finit tragiquement."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « les jeux du cœur et de la parole »** : les personnages jouent avec les mots et avec les sentiments ; la parole sert à séduire, à mentir, à blesser. Le titre est un avertissement : on ne joue pas impunément avec l'amour."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Enjeux : mélange du comique et du tragique, orgueil, romantisme, personnages grotesques (le Baron, Blazius, Bridaine)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sarraute",
+      "titre": "Sarraute, Pour un oui ou pour un non",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Pièce courte de **Nathalie Sarraute** (1900-1999), publiée en **1982**. Deux amis, nommés seulement **H1** et **H2**, se disputent parce que l'un a dit à l'autre « C'est bien… ça », avec une intonation qu'il a jugée méprisante."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « théâtre et dispute »** : la pièce montre comment un détail de langage (une intonation, un silence) peut révéler des tensions profondes ; Sarraute appelle **tropismes** ces mouvements intérieurs à peine perceptibles. Le conflit naît du langage lui-même."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Enjeux : pouvoir des mots, amitié, sous-conversation, théâtre sans action spectaculaire."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "analyser",
+      "titre": "Analyser une scène",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Situer la scène et ses enjeux dans l'intrigue.",
+            "Étudier le **dialogue** : répliques courtes (stichomythie) ou longues (tirade), monologue, aparté.",
+            "Étudier les **didascalies** (indications de mise en scène).",
+            "Penser la **double énonciation** : ce que le spectateur sait et que les personnages ignorent (ironie dramatique).",
+            "Identifier le registre : comique, tragique, pathétique."
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "registre"
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Le Menteur (Corneille)",
+      "valeur": "créée vers 1643-1644",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "On ne badine pas avec l'amour (Musset)",
+      "valeur": "publiée en 1834",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Pour un oui ou pour un non (Sarraute)",
+      "valeur": "publiée en 1982",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le théâtre en un tableau",
+    "colonnes": [
+      "Pièce",
+      "Personnages",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Le Menteur",
+        "Dorante, Cliton, Géronte",
+        "Le mensonge crée le comique et l'illusion"
+      ],
+      [
+        "On ne badine pas avec l'amour",
+        "Perdican, Camille, Rosette",
+        "Jouer avec les mots et l'amour peut tuer"
+      ],
+      [
+        "Pour un oui ou pour un non",
+        "H1, H2",
+        "Une intonation suffit à faire naître une dispute"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Corneille**, Le Menteur (vers 1643-1644) : Dorante ; « mensonge et comédie ».",
+    "**Musset**, On ne badine pas avec l'amour (1834) : Perdican, Camille, Rosette ; « les jeux du cœur et de la parole ».",
+    "**Sarraute**, Pour un oui ou pour un non (1982) : H1 et H2 ; « théâtre et dispute ».",
+    "Double énonciation, didascalies, registres."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le menteur de Corneille s'appelle…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Dorante",
+          "correct": true,
+          "explication": "Aidé de son valet Cliton."
+        },
+        {
+          "id": "b",
+          "texte": "Perdican",
+          "correct": false,
+          "explication": "C'est Musset."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Qui sont H1 et H2 ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Deux amis chez Sarraute",
+          "correct": true,
+          "explication": "Pour un oui ou pour un non."
+        },
+        {
+          "id": "b",
+          "texte": "Deux rois chez Corneille",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Comment finit On ne badine pas avec l'amour ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Tragiquement",
+          "correct": true,
+          "explication": "Après un début comique."
+        },
+        {
+          "id": "b",
+          "texte": "Par un double mariage heureux",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le parcours associé à Musset :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "les jeux du cœur et de la parole",
+          "correct": true,
+          "explication": "Intitulé officiel."
+        },
+        {
+          "id": "b",
+          "texte": "mensonge et comédie",
+          "correct": false,
+          "explication": "C'est Corneille."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "La double énonciation signifie que…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "les répliques s'adressent aussi au public",
+          "correct": true,
+          "explication": "Propre au théâtre."
+        },
+        {
+          "id": "b",
+          "texte": "deux personnages parlent en même temps",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

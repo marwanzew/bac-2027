@@ -1,0 +1,251 @@
+{
+  "matiere": "llcer",
+  "chapitre": "mise-en-scene-soi",
+  "exercices": [
+    {
+      "id": "scene-vocabulaire",
+      "titre": "Vocabulary check : staging the self",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Pense aux mots composés avec self- : self-portrait, self-image, self-made."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*an alter ego*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un double",
+              "correct": true,
+              "explication": "the narrator is his alter ego."
+            },
+            {
+              "id": "b",
+              "texte": "un ennemi",
+              "correct": false,
+              "explication": "Ennemi = enemy."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*to assert one's identity*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "affirmer son identité",
+              "correct": true,
+              "explication": "assert = affirmer."
+            },
+            {
+              "id": "b",
+              "texte": "cacher son identité",
+              "correct": false,
+              "explication": "Cacher = to hide."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*a memoir*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un récit de souvenirs",
+              "correct": true,
+              "explication": "Centré sur une période ou une expérience."
+            },
+            {
+              "id": "b",
+              "texte": "un mémoire universitaire",
+              "correct": false,
+              "explication": "Celui-ci = a dissertation, a thesis."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*to stage oneself*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "se mettre en scène",
+              "correct": true,
+              "explication": "Mot-clé de l'axe."
+            },
+            {
+              "id": "b",
+              "texte": "s'arrêter",
+              "correct": false,
+              "explication": "S'arrêter = to stop."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*self-image*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "image de soi",
+              "correct": true,
+              "explication": "to control one's self-image."
+            },
+            {
+              "id": "b",
+              "texte": "autocollant",
+              "correct": false,
+              "explication": "Autocollant = sticker."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "scene-traduction",
+      "titre": "Translation : the profile picture",
+      "type": "traduction",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Translate the following passage into French. (Traduis le passage en français.)"
+      ],
+      "documents": [
+        {
+          "titre": "Passage à traduire (texte écrit pour l'entraînement)",
+          "contenu": "He changed his profile picture three times that evening. In the first one he looked too serious; in the second, he was smiling, but the smile seemed forced. The third had been taken by a friend at the beach, two summers ago, when he had not yet started to care about how he looked. That was the one he kept, even though it was no longer quite him.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        }
+      ],
+      "methode": [
+        "Lis tout le passage avant de traduire une seule phrase.",
+        "Repère les temps : le prétérit d'un récit se traduit souvent par le passé simple ou le passé composé, et par l'imparfait pour les descriptions.",
+        "Ne traduis pas mot à mot : la phrase française doit sonner naturelle.",
+        "Relis ta traduction comme un texte français, sans regarder l'anglais.",
+        "*two summers ago* dans un récit au passé : « deux étés plus tôt ».",
+        "*to care about how he looked* : se soucier de son apparence.",
+        "*That was the one he kept* : mise en relief « C'est celle-là qu'il garda »."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Proposition de traduction** (d'autres versions sont possibles) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Il changea trois fois de photo de profil ce soir-là. Sur la première, il avait l'air trop sérieux ; sur la deuxième, il souriait, mais le sourire semblait forcé. La troisième avait été prise par un ami à la plage, deux étés plus tôt, quand il ne se souciait pas encore de son apparence. C'est celle-là qu'il garda, même si ce n'était plus tout à fait lui."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Sens exact (pas de contresens ni d'oubli)",
+          "points": 2
+        },
+        {
+          "critere": "Correction et naturel du français",
+          "points": 1.5
+        },
+        {
+          "critere": "Temps et registre respectés",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "scene-essai",
+      "titre": "Short essay : social media and the self",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "In about 250 words: *Do social media allow us to express who we really are, or do they force us to stage ourselves?*"
+      ],
+      "methode": [
+        "Introduction : le selfie, mot de l'année 2013.",
+        "Pour : liberté d'expression, communautés, voix nouvelles.",
+        "Contre : image contrôlée, pression, identité « performée ».",
+        "Lien avec une œuvre : autobiographie, autoportrait."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (un exemple de réponse possible, pas la seule) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In 2013, \"selfie\" was chosen as Oxford Dictionaries' Word of the Year. Today, millions of people share images of themselves every day. But do these images show who we really are?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the one hand, social media give everyone a voice. People who were rarely represented can tell their own stories, just as Frederick Douglass did in 1845 when he wrote his own narrative instead of letting others speak for him."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the other hand, every post is a choice. We select the best picture and hide what we do not like, so our profile becomes a persona rather than a portrait. Like an artist painting a self-portrait, we stage ourselves for an audience."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In conclusion, social media do not necessarily lie, but they encourage us to perform an identity. The challenge is to remain aware of the gap between the image and the person."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse à la consigne, idées pertinentes",
+          "points": 4
+        },
+        {
+          "critere": "Organisation (introduction, paragraphes, connecteurs)",
+          "points": 3
+        },
+        {
+          "critere": "Richesse et correction de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

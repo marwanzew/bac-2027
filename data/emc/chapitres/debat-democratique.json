@@ -1,0 +1,320 @@
+{
+  "id": "debat-democratique",
+  "matiere": "emc",
+  "titre": "Les principes et les espaces du débat démocratique",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "La vie démocratique : débat, délibération et prise de décision",
+    "intitule": "Les principes et les espaces du débat démocratique",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+    }
+  },
+  "objectifs": [
+    "Comprendre ce qu'est une culture du débat démocratique.",
+    "Connaître le rôle des partis, de l'opinion publique et de la société civile.",
+    "Analyser des dispositifs de démocratie participative et délibérative."
+  ],
+  "parties": [
+    {
+      "id": "evaluation",
+      "titre": "Ce que dit le programme",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Cette première partie (environ **9 heures**) porte sur la **culture du débat**, l'**éthique de la discussion**, les **partis politiques**, le **pluralisme**, la **démocratie participative et délibérative**, l'**opinion publique**, la **société civile organisée** et la **société numérique**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Évaluation** : l'EMC est évalué en **contrôle continu**, coefficient 2 (moyennes de première et de terminale)."
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "titre": "Une culture du débat",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "En démocratie, le désaccord est normal : le **débat** permet de confronter des opinions de façon pacifique. Il suppose des règles : écouter, argumenter, respecter l'autre, accepter d'être contredit."
+        },
+        {
+          "type": "definition",
+          "glossaire": "ethique-discussion"
+        },
+        {
+          "type": "definition",
+          "glossaire": "pluralisme"
+        },
+        {
+          "type": "piege",
+          "titre": "débat ≠ clash",
+          "texte": "Un débat vise à éclairer une décision ; un « clash » vise à disqualifier l'adversaire. Les réseaux sociaux favorisent souvent le second."
+        }
+      ]
+    },
+    {
+      "id": "acteurs",
+      "titre": "Les acteurs du débat",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Les partis politiques** : selon l'**article 4 de la Constitution** de 1958, « les partis et groupements politiques concourent à l'expression du suffrage ». Ils sélectionnent des candidats, proposent des programmes et structurent le débat."
+        },
+        {
+          "type": "definition",
+          "glossaire": "opinion-publique"
+        },
+        {
+          "type": "definition",
+          "glossaire": "societe-civile"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**La société numérique** : Internet et les réseaux sociaux élargissent l'accès au débat, mais posent des problèmes : **désinformation**, **bulles de filtre** (l'algorithme ne montre que ce qui confirme nos idées), harcèlement."
+        }
+      ]
+    },
+    {
+      "id": "participation",
+      "titre": "Démocratie participative et délibérative",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "democratie-participative"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**La Convention citoyenne sur la fin de vie** : **184 citoyens tirés au sort**, réunis par le CESE de **décembre 2022 à avril 2023** à la demande de la Première ministre. **75,6 %** des votants se sont prononcés en faveur d'une aide active à mourir, sous conditions. Leur avis a nourri le débat parlementaire, mais la décision appartient au Parlement."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Avant elle, la **Convention citoyenne pour le climat** (2019-2020) avait réuni **150 citoyens tirés au sort**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le programme propose aussi de simuler en classe une convention citoyenne ou un « **Grenelle** » contre les violences sexistes et sexuelles dans l'établissement."
+        },
+        {
+          "type": "tableau",
+          "titre": "Représenter ou participer ?",
+          "colonnes": [
+            "",
+            "Démocratie représentative",
+            "Démocratie participative"
+          ],
+          "lignes": [
+            [
+              "Qui décide ?",
+              "Les élus",
+              "Les citoyens donnent un avis ; les élus décident souvent"
+            ],
+            [
+              "Légitimité",
+              "L'élection",
+              "La délibération, la diversité des participants"
+            ],
+            [
+              "Limites",
+              "Distance entre élus et citoyens",
+              "Avis parfois non suivis ; tirés au sort non élus"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "notion",
+      "libelle": "Article 4 de la Constitution : rôle des partis",
+      "valeur": "« Les partis et groupements politiques concourent à l'expression du suffrage. »",
+      "certitude": "certain",
+      "source": {
+        "titre": "Constitution du 4 octobre 1958",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Convention citoyenne sur la fin de vie",
+      "valeur": "décembre 2022 – avril 2023 (184 citoyens)",
+      "certitude": "certain",
+      "source": {
+        "titre": "CESE, communiqué de la Convention citoyenne sur la fin de vie, 2 avril 2023",
+        "url": "https://conventioncitoyennesurlafindevie.lecese.fr/"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Avis favorable à une aide active à mourir",
+      "valeur": "75,6 % des votants",
+      "certitude": "certain",
+      "source": {
+        "titre": "CESE, communiqué de la Convention citoyenne sur la fin de vie, 2 avril 2023",
+        "url": "https://conventioncitoyennesurlafindevie.lecese.fr/"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Convention citoyenne pour le climat",
+      "valeur": "2019-2020 (150 citoyens)",
+      "certitude": "certain",
+      "source": {
+        "titre": "Fait institutionnel établi (vie-publique.fr)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le débat démocratique",
+    "colonnes": [
+      "Notion",
+      "À retenir"
+    ],
+    "lignes": [
+      [
+        "Culture du débat",
+        "Argumenter, écouter, accepter le désaccord"
+      ],
+      [
+        "Éthique de la discussion",
+        "Habermas : force du meilleur argument"
+      ],
+      [
+        "Partis",
+        "Art. 4 : concourent à l'expression du suffrage"
+      ],
+      [
+        "Société civile",
+        "Associations, syndicats, ONG"
+      ],
+      [
+        "Participation",
+        "Conventions citoyennes (climat, fin de vie)"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Pluralisme** : diversité des opinions, condition de la démocratie.",
+    "**Habermas** : éthique de la discussion.",
+    "**Art. 4** de la Constitution : rôle des partis.",
+    "**Convention fin de vie** : 184 tirés au sort, 2022-2023, 75,6 % pour une aide active à mourir.",
+    "**Réseaux sociaux** : accès au débat mais désinformation, bulles de filtre."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Quel article de la Constitution évoque les partis ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Constitution du 4 octobre 1958",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "L'article 4",
+          "correct": true,
+          "explication": "Ils concourent à l'expression du suffrage."
+        },
+        {
+          "id": "b",
+          "texte": "L'article 49",
+          "correct": false,
+          "explication": "Responsabilité du gouvernement."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "L'éthique de la discussion est associée à…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Habermas",
+          "correct": true,
+          "explication": "Philosophe allemand."
+        },
+        {
+          "id": "b",
+          "texte": "Malthus",
+          "correct": false,
+          "explication": "Démographie."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Combien de citoyens tirés au sort dans la Convention sur la fin de vie ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "CESE, communiqué de la Convention citoyenne sur la fin de vie, 2 avril 2023",
+        "url": "https://conventioncitoyennesurlafindevie.lecese.fr/"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "184",
+          "correct": true,
+          "explication": "CESE, 2022-2023."
+        },
+        {
+          "id": "b",
+          "texte": "577",
+          "correct": false,
+          "explication": "C'est le nombre de députés."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Une bulle de filtre…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "enferme l'utilisateur dans des contenus qui confirment ses opinions",
+          "correct": true,
+          "explication": "Effet des algorithmes."
+        },
+        {
+          "id": "b",
+          "texte": "protège des virus",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "La société civile organisée, ce sont…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "les associations, syndicats et ONG",
+          "correct": true,
+          "explication": "Hors partis et institutions."
+        },
+        {
+          "id": "b",
+          "texte": "les ministres",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

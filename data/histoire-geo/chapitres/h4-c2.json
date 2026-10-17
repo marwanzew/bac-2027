@@ -1,0 +1,313 @@
+{
+  "id": "h4-c2",
+  "matiere": "histoire-geo",
+  "titre": "La construction européenne entre élargissement, approfondissement et remises en question",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Histoire · Thème 4 – Le monde, l'Europe et la France depuis les années 1990, entre coopérations et conflits",
+    "intitule": "La construction européenne entre élargissement, approfondissement et remises en question",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Connaître les grandes étapes de la construction européenne depuis la CEE.",
+    "Distinguer élargissement (plus de membres) et approfondissement (plus de compétences communes).",
+    "Comprendre les crises et remises en question (référendum de 2005, Brexit).",
+    "Connaître les points de passage : le tunnel sous la Manche, l'euro."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les points de passage et d'ouverture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "le tunnel sous la Manche ;",
+            "l'euro : genèse, mise en place et débats."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "etapes",
+      "titre": "Approfondir et élargir",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "approfondissement"
+        },
+        {
+          "type": "definition",
+          "glossaire": "elargissement"
+        },
+        {
+          "type": "tableau",
+          "titre": "Grandes étapes",
+          "colonnes": [
+            "Date",
+            "Étape"
+          ],
+          "lignes": [
+            [
+              "1957",
+              "Traité de Rome : CEE à six"
+            ],
+            [
+              "1986",
+              "Acte unique européen : marché unique (en place en 1993)"
+            ],
+            [
+              "1992",
+              "Traité de Maastricht : naissance de l'Union européenne, citoyenneté européenne, projet de monnaie unique"
+            ],
+            [
+              "2004",
+              "Élargissement à 10 pays, surtout d'Europe centrale et orientale"
+            ],
+            [
+              "2007",
+              "Traité de Lisbonne (en vigueur en 2009)"
+            ],
+            [
+              "2020",
+              "Le Royaume-Uni quitte l'UE (Brexit) ; l'UE compte 27 membres"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "points",
+      "titre": "Le tunnel sous la Manche et l'euro",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le tunnel sous la Manche**, inauguré le **6 mai 1994**, relie la France et le Royaume-Uni par le rail ; c'est un symbole de coopération et un exemple de grand projet financé par des capitaux privés."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'euro** : prévu par le traité de Maastricht (1992), il devient la monnaie de onze pays le **1er janvier 1999** ; les pièces et billets circulent depuis le **1er janvier 2002**. Il facilite les échanges mais suscite des débats : perte de la souveraineté monétaire, règles budgétaires, crise des dettes publiques (Grèce, à partir de 2010)."
+        }
+      ]
+    },
+    {
+      "id": "crises",
+      "titre": "Les remises en question",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**2005** : les Français (29 mai) puis les Néerlandais rejettent par référendum le traité établissant une Constitution pour l'Europe.",
+            "**Crise de la zone euro** à partir de 2010.",
+            "**Brexit** : référendum du 23 juin 2016 ; sortie effective le 31 janvier 2020.",
+            "Montée de l'euroscepticisme et des débats sur les migrations."
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Traité de Maastricht",
+      "valeur": "1992",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Tunnel sous la Manche inauguré",
+      "valeur": "6 mai 1994",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Naissance de l'euro",
+      "valeur": "1er janvier 1999",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Élargissement à 10 pays",
+      "valeur": "2004",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Rejet du traité constitutionnel par la France",
+      "valeur": "29 mai 2005",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Sortie du Royaume-Uni",
+      "valeur": "31 janvier 2020",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Élargissement, approfondissement, remises en question",
+    "colonnes": [
+      "Élargissement",
+      "Approfondissement",
+      "Remises en question"
+    ],
+    "lignes": [
+      [
+        "6 → 27 membres (2004 : +10)",
+        "Marché unique, Maastricht, euro, Lisbonne",
+        "Rejet de 2005, crise de l'euro, Brexit"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Approfondissement** : Acte unique (1986), Maastricht (1992), euro (1999-2002), Lisbonne (2007).",
+    "**Élargissement** : 2004 (+10 pays), 2007, 2013 ; 27 membres depuis 2020.",
+    "**Tunnel sous la Manche** : 6 mai 1994.",
+    "**Euro** : 1999 (monnaie), 2002 (pièces et billets) ; débats sur la souveraineté.",
+    "**Remises en question** : rejet du traité constitutionnel (2005), crise de la dette (2010), Brexit (2016-2020)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le traité de Maastricht date de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1992",
+          "correct": true,
+          "explication": "Naissance de l'UE."
+        },
+        {
+          "id": "b",
+          "texte": "1957",
+          "correct": false,
+          "explication": "Traité de Rome."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Le tunnel sous la Manche est inauguré en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1994",
+          "correct": true,
+          "explication": "6 mai 1994."
+        },
+        {
+          "id": "b",
+          "texte": "2004",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Les pièces et billets en euros circulent depuis…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2002",
+          "correct": true,
+          "explication": "1er janvier 2002."
+        },
+        {
+          "id": "b",
+          "texte": "1992",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "L'élargissement de 2004 concerne…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "10 pays",
+          "correct": true,
+          "explication": "Surtout d'Europe centrale et orientale."
+        },
+        {
+          "id": "b",
+          "texte": "2 pays",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Le Royaume-Uni quitte l'UE le…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "31 janvier 2020",
+          "correct": true,
+          "explication": "Après le référendum de 2016."
+        },
+        {
+          "id": "b",
+          "texte": "23 juin 2016",
+          "correct": false,
+          "explication": "C'est la date du référendum."
+        }
+      ]
+    }
+  ]
+}

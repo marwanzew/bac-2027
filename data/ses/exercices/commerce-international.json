@@ -1,0 +1,297 @@
+{
+  "matiere": "ses",
+  "chapitre": "commerce-international",
+  "exercices": [
+    {
+      "id": "commerce-qcm",
+      "titre": "Commerce international : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Repère le mot clé de chaque question : spécialisation, intrabranche, compétitivité, IDE…"
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le Portugal produit tout plus efficacement que l'Angleterre. Selon Ricardo…",
+          "certitude": "certain",
+          "source": {
+            "titre": "D. Ricardo, 1817"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les deux pays gagnent quand même à se spécialiser",
+              "correct": true,
+              "explication": "Chacun se spécialise selon son avantage comparatif."
+            },
+            {
+              "id": "b",
+              "texte": "seul le Portugal gagne à l'échange",
+              "correct": false,
+              "explication": "Ricardo montre que les deux pays gagnent."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Un pays où le travail peu qualifié est abondant exportera plutôt…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Modèle HOS"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "des biens qui demandent beaucoup de travail peu qualifié",
+              "correct": true,
+              "explication": "C'est la prédiction du modèle HOS."
+            },
+            {
+              "id": "b",
+              "texte": "des biens à forte intensité en recherche",
+              "correct": false,
+              "explication": "Ces biens utilisent intensément le travail qualifié."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Une entreprise française achète 60 % d'une entreprise brésilienne. C'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition OCDE / FMI"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un investissement direct à l'étranger",
+              "correct": true,
+              "explication": "Prise de contrôle durable (au-delà de 10 % des droits de vote)."
+            },
+            {
+              "id": "b",
+              "texte": "une exportation",
+              "correct": false,
+              "explication": "Une exportation est une vente de biens ou de services."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Quel élément relève de la compétitivité hors prix ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "La qualité et l'image de marque",
+              "correct": true,
+              "explication": "Vendre grâce à autre chose que le prix."
+            },
+            {
+              "id": "b",
+              "texte": "Une baisse du coût du travail",
+              "correct": false,
+              "explication": "Elle joue sur la compétitivité-prix."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Un droit de douane est un instrument protectionniste…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "tarifaire",
+              "correct": true,
+              "explication": "C'est une taxe sur les importations."
+            },
+            {
+              "id": "b",
+              "texte": "non tarifaire",
+              "correct": false,
+              "explication": "Les quotas et les normes sont non tarifaires."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "commerce-pays-comparables",
+      "titre": "Le commerce entre pays comparables",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que des pays comparables ont intérêt à échanger entre eux."
+      ],
+      "methode": [
+        "Définis le commerce intrabranche.",
+        "Développe au moins deux explications : différenciation (variété), qualité, fragmentation de la chaîne de valeur.",
+        "Illustre avec un exemple (automobile en Europe…)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Affirmation.** Des pays proches par leur niveau de développement échangent beaucoup entre eux, souvent des produits d'une même branche : c'est le commerce intrabranche."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Explication.** Les consommateurs aiment la variété : chaque pays produit des variétés différentes d'un même bien et les échange (différenciation horizontale). Les produits peuvent aussi différer par leur gamme (différenciation verticale, par la qualité). Enfin, la fabrication d'un produit est fragmentée entre plusieurs pays, qui échangent des pièces et des composants."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Illustration.** La France et l'Allemagne échangent des voitures de marques et de gammes différentes : les consommateurs des deux pays disposent d'un choix plus large."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "commerce-inegalites",
+      "titre": "Commerce international et inégalités",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que le commerce international peut réduire les inégalités entre pays tout en augmentant les inégalités de revenus au sein des pays."
+      ],
+      "methode": [
+        "Traite les deux effets dans deux paragraphes distincts.",
+        "Pour les inégalités internes, explique qui gagne et qui perd dans un pays riche (raisonnement HOS)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Entre pays.** L'ouverture permet à des pays émergents de se spécialiser selon leurs avantages comparatifs, d'attirer des investissements directs étrangers et de s'insérer dans les chaînes de valeur. Leur croissance plus rapide réduit l'écart avec les pays riches."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Au sein des pays.** Dans un pays riche, où le travail qualifié est abondant, l'ouverture favorise les secteurs qui l'utilisent : les travailleurs qualifiés gagnent. Les travailleurs peu qualifiés subissent la concurrence des importations de pays où ce travail est abondant : leurs salaires et leurs emplois sont menacés. Les inégalités de revenus augmentent."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Inégalités entre pays : mécanisme",
+          "points": 1.5
+        },
+        {
+          "critere": "Inégalités internes : gagnants et perdants",
+          "points": 1.5
+        },
+        {
+          "critere": "Vocabulaire précis",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "commerce-plan-dissertation",
+      "titre": "Plan de dissertation : faut-il protéger son économie ?",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet : « Le protectionnisme est-il une réponse adaptée aux effets négatifs du commerce international ? »",
+        "Construis la problématique et un plan détaillé en deux parties."
+      ],
+      "methode": [
+        "Définis protectionnisme et libre-échange.",
+        "Plan possible « oui, dans certains cas… mais… ».",
+        "Chaque argument : un mécanisme et un exemple.",
+        "Barème sur 18 : à l'épreuve, les 2 derniers points portent sur la maîtrise de la langue."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique possible.** Protéger son économie permet-il de corriger les effets négatifs de l'ouverture sans en perdre les gains ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Le protectionnisme peut répondre à certains effets négatifs de l'ouverture.**"
+        },
+        {
+          "type": "liste",
+          "ordonnee": false,
+          "items": [
+            "A. Protéger temporairement des industries naissantes le temps qu'elles deviennent compétitives (argument de F. List).",
+            "B. Préserver des emplois et des secteurs menacés par la concurrence, et limiter la hausse des inégalités internes.",
+            "C. Protéger des secteurs stratégiques et imposer des normes sociales ou environnementales."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Mais il a des coûts et d'autres réponses existent.**"
+        },
+        {
+          "type": "liste",
+          "ordonnee": false,
+          "items": [
+            "A. Il fait monter les prix pour les consommateurs et pour les entreprises qui importent des composants.",
+            "B. Il expose à des représailles (« guerre commerciale ») qui pénalisent les exportateurs.",
+            "C. D'autres politiques peuvent compenser les perdants sans fermer l'économie : formation, redistribution, accompagnement des reconversions."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes et problématique",
+          "points": 4
+        },
+        {
+          "critere": "Partie I : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Partie II : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Pertinence des mécanismes et des exemples",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

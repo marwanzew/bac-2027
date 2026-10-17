@@ -1,0 +1,435 @@
+{
+  "id": "axe2",
+  "matiere": "espagnol",
+  "titre": "Axe 2. Territoire et mémoire",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Axes culturels de terminale",
+    "intitule": "Axe 2. Territoire et mémoire",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'espagnol pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 10",
+      "url": "https://www.education.gouv.fr/sites/default/files/annexe-10-programme-d-espagnol-pour-les-classes-de-lyc-e-g-n-ral-et-technologique-440376.pdf"
+    }
+  },
+  "objectifs": [
+    "Parler de la mémoire des guerres et des dictatures dans le monde hispanique.",
+    "Connaître les grands repères : guerre civile espagnole, franquisme, dictatures latino-américaines.",
+    "Raconter au passé avec le pretérito indefinido et l'imperfecto."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "El eje en breve · L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "ce qui est officiel",
+          "texte": "Le **titre de l'axe** vient du programme officiel. Les **pistes** proposées s'inspirent des ressources de La Clé espagnole (ENS de Lyon), qui ne sont pas des consignes officielles : ton professeur choisit ses propres documents."
+        },
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVB, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B1**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Cet axe interroge le **lien entre un territoire et la mémoire** de ce qui s'y est passé : guerres, dictatures, disparitions, mais aussi paysages transformés et patrimoine. Comment une société se souvient-elle, et comment l'art lutte-t-il contre l'oubli ?"
+        }
+      ]
+    },
+    {
+      "id": "vocabulario",
+      "titre": "Vocabulario",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Vocabulaire de l'axe",
+          "colonnes": [
+            "Español",
+            "Français",
+            "Ejemplo"
+          ],
+          "lignes": [
+            [
+              "la memoria",
+              "la mémoire",
+              "La memoria histórica."
+            ],
+            [
+              "el olvido",
+              "l'oubli",
+              "Luchar contra el olvido."
+            ],
+            [
+              "la guerra civil",
+              "la guerre civile",
+              "La guerra civil española (1936-1939)."
+            ],
+            [
+              "la dictadura",
+              "la dictature",
+              "La dictadura de Franco."
+            ],
+            [
+              "los desaparecidos",
+              "les disparus",
+              "Las madres buscan a los desaparecidos."
+            ],
+            [
+              "la fosa común",
+              "la fosse commune",
+              "Exhumar una fosa común."
+            ],
+            [
+              "recordar",
+              "se souvenir, rappeler",
+              "Recordar a las víctimas."
+            ],
+            [
+              "el patrimonio",
+              "le patrimoine",
+              "El patrimonio de Toledo."
+            ],
+            [
+              "la paz",
+              "la paix",
+              "Firmar la paz."
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "memoria-historica"
+        },
+        {
+          "type": "definition",
+          "glossaire": "desaparecidos"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "titre": "Referencias culturales · Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Pourquoi c'est important"
+          ],
+          "lignes": [
+            [
+              "Guerre civile espagnole",
+              "1936-1939",
+              "Fracture durable de la société espagnole"
+            ],
+            [
+              "Dictature de Franco",
+              "1939-1975",
+              "Répression et silence imposé"
+            ],
+            [
+              "Coup d'État au Chili (Pinochet)",
+              "11 septembre 1973",
+              "Début de la dictature chilienne"
+            ],
+            [
+              "Dictature en Argentine",
+              "1976-1983",
+              "Des milliers de disparus ; Abuelas et Madres de Plaza de Mayo"
+            ],
+            [
+              "Loi de mémoire historique (Espagne)",
+              "2007",
+              "Reconnaissance des victimes"
+            ],
+            [
+              "Accord de paix en Colombie (FARC)",
+              "2016",
+              "Fin d'un long conflit armé"
+            ],
+            [
+              "Transfert des restes de Franco hors du Valle de los Caídos",
+              "24 octobre 2019",
+              "Débat sur les lieux de mémoire"
+            ],
+            [
+              "Loi de mémoire démocratique (Espagne)",
+              "2022",
+              "Elle prolonge la loi de 2007"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pistes",
+      "titre": "Pistas de reflexión · Pistes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**La mémoire historique** : Espagne, Argentine, Chili, Colombie.",
+            "**L'art contre l'oubli** : films, romans, bandes dessinées, documentaires (*Nostalgia de la luz*, Patricio Guzmán, 2010).",
+            "**Paysages et patrimoine** : villes historiques (Tolède), paysages transformés par l'homme."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "titre": "Gramática · Le point de grammaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Pretérito indefinido o imperfecto** : l'indéfini raconte une action terminée et datée ; l'imparfait décrit une situation ou une habitude."
+        },
+        {
+          "type": "tableau",
+          "titre": "Exemples",
+          "colonnes": [
+            "Temps",
+            "Emploi",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "Indefinido",
+              "Action ponctuelle, terminée",
+              "La guerra **empezó** en 1936."
+            ],
+            [
+              "Imperfecto",
+              "Description, habitude",
+              "Mi abuelo **vivía** en un pueblo de Andalucía."
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Indéfini des verbes réguliers : *hablé, habló, hablaron* ; *comí, comió, comieron*.",
+            "Irréguliers fréquents : *fue* (ser/ir), *tuvo* (tener), *hizo* (hacer)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frases",
+      "titre": "Frases útiles · Phrases utiles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Pour parler ou écrire sur l'axe",
+          "colonnes": [
+            "Español",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "Hace … años",
+              "Il y a … ans"
+            ],
+            [
+              "Durante la dictadura…",
+              "Pendant la dictature…"
+            ],
+            [
+              "No hay que olvidar que…",
+              "Il ne faut pas oublier que…"
+            ],
+            [
+              "Gracias a este documento…",
+              "Grâce à ce document…"
+            ],
+            [
+              "Este testimonio muestra que…",
+              "Ce témoignage montre que…"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Guerre civile espagnole",
+      "valeur": "1936-1939",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Fin de la dictature de Franco (mort de Franco)",
+      "valeur": "1975",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Coup d'État au Chili",
+      "valeur": "11 septembre 1973",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Accord de paix en Colombie",
+      "valeur": "2016",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Axe 2. Territoire et mémoire : l'essentiel",
+    "colonnes": [
+      "Aspect",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "Vocabulaire clé",
+        "la memoria, el olvido, la guerra civil, la dictadura, los desaparecidos, la fosa común"
+      ],
+      [
+        "Repères",
+        "Guerre civile espagnole (1936-1939), Dictature de Franco (1939-1975), Coup d'État au Chili (Pinochet) (11 septembre 1973), Dictature en Argentine (1976-1983)"
+      ],
+      [
+        "Grammaire",
+        "Pretérito indefinido o imperfecto"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Espagne** : guerre civile (1936-1939), franquisme (1939-1975), lois de mémoire (2007, 2022).",
+    "**Amérique latine** : Chili (1973), Argentine (1976-1983), Colombie (paix de 2016).",
+    "**Mémoire** : desaparecidos, fosas comunes, Abuelas de Plaza de Mayo.",
+    "**Grammaire** : indefinido (action) / imperfecto (description)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "La guerre civile espagnole a lieu de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1936 à 1939",
+          "correct": true,
+          "explication": "Puis dictature de Franco."
+        },
+        {
+          "id": "b",
+          "texte": "1914 à 1918",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*los desaparecidos*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "les disparus",
+          "correct": true,
+          "explication": "Victimes des dictatures."
+        },
+        {
+          "id": "b",
+          "texte": "les désespérés",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*La guerra … en 1936.*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "empezó",
+          "correct": true,
+          "explication": "Indéfini : action datée."
+        },
+        {
+          "id": "b",
+          "texte": "empezaba",
+          "correct": false,
+          "explication": "L'imparfait décrit."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le coup d'État au Chili a lieu le…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "11 septembre 1973",
+          "correct": true,
+          "explication": "Pinochet."
+        },
+        {
+          "id": "b",
+          "texte": "20 novembre 1975",
+          "correct": false,
+          "explication": "Mort de Franco."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*el olvido*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "l'oubli",
+          "correct": true,
+          "explication": "Luchar contra el olvido."
+        },
+        {
+          "id": "b",
+          "texte": "l'olive",
+          "correct": false,
+          "explication": "Olive = aceituna."
+        }
+      ]
+    }
+  ]
+}

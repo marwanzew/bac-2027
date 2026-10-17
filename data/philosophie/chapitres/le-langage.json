@@ -1,0 +1,353 @@
+{
+  "id": "le-langage",
+  "matiere": "philosophie",
+  "titre": "Le langage",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "Le langage",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer langage, langue et parole ; langage humain et communication animale.",
+    "Comprendre le rapport entre langage et pensée.",
+    "Connaître Platon, Descartes, Rousseau, Hegel, Bergson, Wittgenstein.",
+    "Traiter un sujet sur le langage."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "langage"
+        },
+        {
+          "type": "definition",
+          "glossaire": "langue"
+        },
+        {
+          "type": "definition",
+          "glossaire": "signe"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le **langage** est la faculté de communiquer et de penser par des signes ; une **langue** est un système de signes propre à une communauté (le français, l'anglais) ; la **parole** est l'usage individuel de la langue."
+        },
+        {
+          "type": "definition",
+          "glossaire": "ineffable"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : le langage permet de penser, de communiquer et de vivre ensemble. Mais les mots trahissent-ils notre pensée (ce qu'on ressent est-il dicible ?) ou la rendent-ils possible ? Le langage peut aussi servir à manipuler. Est-il un simple instrument ou ce qui fait de nous des hommes ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **langage / pensée** ; **communiquer / manipuler** ; **mots / choses**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Platon (*Gorgias*)",
+              "Socrate critique la rhétorique des sophistes, qui cherche à persuader sans se soucier du vrai",
+              "Le langage peut tromper"
+            ],
+            [
+              "Descartes (*Lettre au marquis de Newcastle*, 1646)",
+              "Les animaux ne parlent pas au sens propre : ils n'expriment que des passions, alors que l'homme, même sourd et muet, invente des signes pour exprimer ses pensées",
+              "Le langage est le signe de la pensée"
+            ],
+            [
+              "Rousseau (*Essai sur l'origine des langues*, publié en 1781)",
+              "Les premières langues seraient nées des passions plutôt que des besoins",
+              "Origine affective du langage"
+            ],
+            [
+              "Hegel (*Encyclopédie des sciences philosophiques*, 1817)",
+              "C'est dans les mots que nous pensons : l'ineffable n'est qu'une pensée obscure",
+              "Le langage rend la pensée possible"
+            ],
+            [
+              "Bergson (*Le Rire*, 1900)",
+              "Les mots sont des étiquettes générales qui nous cachent ce qu'il y a d'unique dans nos sentiments",
+              "Le langage trahit l'individuel"
+            ],
+            [
+              "Wittgenstein (*Tractatus logico-philosophicus*, 1921)",
+              "Les limites de mon langage sont les limites de mon monde",
+              "Langage et pensée du monde"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Les abeilles qui « dansent » pour indiquer du pollen : communication, mais pas langage humain.",
+            "Ne pas trouver ses mots pour dire une émotion forte.",
+            "Les slogans publicitaires et politiques.",
+            "Apprendre une langue étrangère : découvrir une autre manière de voir le monde."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Les mots trahissent-ils la pensée ?",
+            "Le langage n'est-il qu'un outil de communication ?",
+            "Peut-on penser sans langage ?",
+            "Les animaux ont-ils un langage ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Le langage peut tromper",
+      "valeur": "Platon, *Gorgias*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Le langage est le signe de la pensée",
+      "valeur": "Descartes, *Lettre au marquis de Newcastle*, 1646",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Origine affective du langage",
+      "valeur": "Rousseau, *Essai sur l'origine des langues*, publié en 1781",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Le langage rend la pensée possible",
+      "valeur": "Hegel, *Encyclopédie des sciences philosophiques*, 1817",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Le langage trahit l'individuel",
+      "valeur": "Bergson, *Le Rire*, 1900",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le langage : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Platon",
+        "Socrate critique la rhétorique des sophistes, qui cherche à persuader sans se soucier du vrai"
+      ],
+      [
+        "Descartes",
+        "Les animaux ne parlent pas au sens propre : ils n'expriment que des passions, alors que l'homme, même sourd et muet, invente des signes pour exprimer ses pensées"
+      ],
+      [
+        "Rousseau",
+        "Les premières langues seraient nées des passions plutôt que des besoins"
+      ],
+      [
+        "Hegel",
+        "C'est dans les mots que nous pensons : l'ineffable n'est qu'une pensée obscure"
+      ],
+      [
+        "Bergson",
+        "Les mots sont des étiquettes générales qui nous cachent ce qu'il y a d'unique dans nos sentiments"
+      ],
+      [
+        "Wittgenstein",
+        "Les limites de mon langage sont les limites de mon monde"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Langage** (faculté) ≠ **langue** (système) ≠ **parole** (usage).",
+    "**Platon** : critique de la rhétorique des sophistes.",
+    "**Descartes** : les animaux ne parlent pas ; le langage signe de la pensée.",
+    "**Rousseau** : origine passionnelle des langues.",
+    "**Hegel** : on pense dans les mots ; l'ineffable est obscur.",
+    "**Bergson** : mots-étiquettes.",
+    "**Wittgenstein** : limites du langage = limites du monde."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Pour Hegel, l'ineffable est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une pensée obscure",
+          "correct": true,
+          "explication": "On pense dans les mots."
+        },
+        {
+          "id": "b",
+          "texte": "la pensée la plus haute",
+          "correct": false,
+          "explication": "C'est ce qu'il refuse."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Les mots comme « étiquettes » : idée de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Bergson",
+          "correct": true,
+          "explication": "*Le Rire*, 1900."
+        },
+        {
+          "id": "b",
+          "texte": "Descartes",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Pour Descartes, les animaux…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "ne parlent pas au sens propre",
+          "correct": true,
+          "explication": "Lettre de 1646."
+        },
+        {
+          "id": "b",
+          "texte": "pensent comme nous",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Une langue est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un système de signes d'une communauté",
+          "correct": true,
+          "explication": "Le français, l'anglais…"
+        },
+        {
+          "id": "b",
+          "texte": "la faculté de parler",
+          "correct": false,
+          "explication": "C'est le langage."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*Tractatus logico-philosophicus* :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Wittgenstein",
+          "correct": true,
+          "explication": "1921."
+        },
+        {
+          "id": "b",
+          "texte": "Rousseau",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "matiere": "francais",
+  "chapitre": "poesie",
+  "exercices": [
+    {
+      "id": "poesie-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Rimbaud confie ses poèmes de Douai à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Paul Demeny",
+              "correct": true,
+              "explication": "D'où « Recueil Demeny »."
+            },
+            {
+              "id": "b",
+              "texte": "Verlaine",
+              "correct": false,
+              "explication": "Pas pour ce recueil."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "La répétition d'un mot en début de vers est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une anaphore",
+              "correct": true,
+              "explication": "Effet d'insistance."
+            },
+            {
+              "id": "b",
+              "texte": "une hyperbole",
+              "correct": false,
+              "explication": "Exagération."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "« Ma Bohème » appartient au…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+            "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Cahier de Douai",
+              "correct": true,
+              "explication": "Dernier poème du recueil au programme."
+            },
+            {
+              "id": "b",
+              "texte": "recueil Mes forêts",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Ponge montre surtout…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le travail d'écriture en train de se faire",
+              "correct": true,
+              "explication": "Brouillons, essais."
+            },
+            {
+              "id": "b",
+              "texte": "des poèmes d'amour classiques",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Une comparaison utilise…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un outil de comparaison (comme, tel…)",
+              "correct": true,
+              "explication": "Sinon, c'est une métaphore."
+            },
+            {
+              "id": "b",
+              "texte": "aucun outil",
+              "correct": false,
+              "explication": "C'est la métaphore."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "poesie-diss",
+      "titre": "Plan de dissertation : Cahier de Douai",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 60,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner, au format bac) : « Dans le Cahier de Douai, la poésie de Rimbaud est-elle seulement une révolte ? »",
+        "Rédige l'introduction et un plan détaillé en deux ou trois parties, avec des exemples précis tirés de l'œuvre et du parcours."
+      ],
+      "methode": [
+        "Analyse chaque mot du sujet, reformule-le, puis pose une problématique.",
+        "Chaque sous-partie = un argument + un exemple précis (épisode, personnage, citation courte que tu as vérifiée dans ton édition)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique** : la révolte est-elle la seule force du recueil, ou devient-elle le moyen d'une création poétique libre ?"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**I. Une poésie de la révolte** : contre l'autorité, la morale bourgeoise ; satire du pouvoir et de la guerre de 1870 ; fugue et refus des règles.",
+            "**II. Une poésie du bonheur et de la liberté** : errance joyeuse, nature, sensualité (« Ma Bohème », « Sensation ») ; adolescence et désir.",
+            "**III. Une émancipation créatrice** : jeu avec les formes (sonnets libres), images neuves ; la révolte devient invention d'une voix personnelle."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : la révolte est le moteur, mais le recueil célèbre surtout la liberté de créer, comme le dit le parcours « émancipations créatrices »."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (accroche, sujet, problématique, annonce)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la question",
+          "points": 6
+        },
+        {
+          "critere": "Connaissance précise de l'œuvre et du parcours",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

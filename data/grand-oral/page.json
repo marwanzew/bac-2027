@@ -1,0 +1,313 @@
+{
+  "titre": "Grand oral",
+  "intro": "Méthode et entraînement · coefficient 8 · 20 minutes de préparation, 20 minutes d'épreuve",
+  "maj": "2026-10-17",
+  "outil": "chrono-grand-oral",
+  "sections": [
+    {
+      "titre": "Le format officiel (session 2027)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Préparation : 20 minutes.** Tu peux préparer un support, qui n'est pas évalué.",
+            "**Premier temps : 10 minutes, debout** (sauf aménagement). Tu expliques pourquoi tu as choisi la question, puis tu la développes et tu y réponds.",
+            "**Deuxième temps : 10 minutes, assis ou debout.** Le jury t'interroge pour approfondir ta pensée ; il peut porter sur tout le programme du cycle terminal de tes spécialités, en lien avec le premier temps. Un tableau est à ta disposition.",
+            "**Coefficient 8**, note sur 20. Aucun matériel autorisé hors de quoi écrire ; un tableau est à ta disposition."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "l'ancien format",
+          "texte": "Beaucoup de ressources décrivent encore un exposé de 5 minutes et une partie sur le projet d'orientation. Ce format est remplacé à partir de la session 2027 : deux temps de 10 minutes."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Date** : entre le 21 juin et le 2 juillet 2027 ; ton jour et ton heure seront sur ta convocation."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Source : note de service du 10 septembre 2026 (BO spécial n° 4 du 17 septembre 2026)."
+        }
+      ]
+    },
+    {
+      "titre": "Choisir tes deux questions",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Tu présentes **deux questions** adossées à tes deux spécialités (SES et LLCER anglais), préparées avec tes professeurs. Trois combinaisons sont possibles :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "une question en SES et une question en LLCER anglais ;",
+            "une question sur une spécialité et une question transversale (SES et LLCER) ;",
+            "deux questions transversales."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le jury en choisit **une**, en fonction des spécialités de ses membres. La liste de tes questions est signée par tes professeurs de spécialité et porte le cachet du lycée. Si tu n'as pas de questions conformes le jour de l'épreuve, tu es convoqué à une session de remplacement ; si tu te présentes à nouveau sans questions conformes, tu obtiens 0."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "La formulation de la question n'est pas notée : le jury évalue ton argumentation, la solidité de tes connaissances et ta façon de parler."
+        }
+      ]
+    },
+    {
+      "titre": "Parler en anglais",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Si la question tirée porte sur la LLCER anglais, tu peux parler en anglais pendant **au maximum 5 minutes de chaque temps** (la moitié)."
+        }
+      ]
+    },
+    {
+      "titre": "Ce que le jury valorise",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "la solidité des connaissances ;",
+            "la capacité à argumenter et à relier les savoirs ;",
+            "l'esprit critique ;",
+            "la précision de l'expression et la clarté du propos ;",
+            "l'engagement dans la parole et la force de conviction."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le jury est composé de **deux professeurs de disciplines différentes** : l'un représente une de tes deux spécialités ; l'autre représente ton autre spécialité, un enseignement commun, ou il est professeur documentaliste. L'un des deux n'est donc pas forcément spécialiste de ta question : parle clairement, pour tous."
+        }
+      ]
+    },
+    {
+      "titre": "Structurer tes 10 minutes",
+      "blocs": [
+        {
+          "type": "exemple",
+          "titre": "un découpage possible",
+          "texte": "1 min : pourquoi cette question (lien avec tes études, ton projet). 1 min : définitions et problématique. 7 min : deux ou trois arguments, chacun avec un exemple. 1 min : réponse claire à la question."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Ce découpage est une suggestion d'entraînement, pas une règle officielle. Utilise le chronomètre ci-dessus pour t'exercer dans les conditions réelles."
+        }
+      ]
+    },
+    {
+      "titre": "Des pistes de questions (créées pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "des exemples, pas des modèles à recopier",
+          "texte": "Ces questions sont des pistes pour t'aider à démarrer. Ta vraie liste se construit avec tes professeurs, à partir de ce qui t'intéresse vraiment : le jury le sent."
+        },
+        {
+          "type": "tableau",
+          "titre": "Exemples de questions",
+          "colonnes": [
+            "Type",
+            "Question possible",
+            "Chapitres ou axes mobilisés"
+          ],
+          "lignes": [
+            [
+              "SES",
+              "Le diplôme protège-t-il encore du chômage ?",
+              "Chômage ; École ; Mobilité sociale"
+            ],
+            [
+              "SES",
+              "Taxer le carbone : une solution juste pour le climat ?",
+              "Action publique pour l'environnement ; Justice sociale"
+            ],
+            [
+              "SES",
+              "Le télétravail transforme-t-il notre rapport au travail ?",
+              "Mutations du travail et de l'emploi"
+            ],
+            [
+              "LLCER anglais",
+              "Can a film change the way we think about justice?",
+              "L'art du débat ; *12 Angry Men*"
+            ],
+            [
+              "LLCER anglais",
+              "Why do dystopias still speak to us today?",
+              "Art et contestation ; *The Handmaid's Tale*"
+            ],
+            [
+              "Transversale",
+              "Partir à l'étranger : une chance pour la mobilité sociale ?",
+              "SES : Mobilité sociale ; LLCER : Migration et exil (*Brooklyn*, *Americanah*)"
+            ],
+            [
+              "Transversale",
+              "L'art peut-il faire évoluer une société ?",
+              "SES : Engagement politique ; LLCER : Art et contestation"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "titre": "Préparer au fil de l'année",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Un calendrier possible (suggestion)",
+          "colonnes": [
+            "Période",
+            "À faire"
+          ],
+          "lignes": [
+            [
+              "Novembre – décembre",
+              "Noter les sujets de cours qui t'intéressent ; en parler à tes professeurs"
+            ],
+            [
+              "Janvier – février",
+              "Choisir deux questions ; chercher 3 ou 4 sources solides par question"
+            ],
+            [
+              "Mars – avril",
+              "Écrire le plan de tes 10 minutes ; t'entraîner à voix haute avec le chronomètre"
+            ],
+            [
+              "Mai – juin",
+              "Simuler l'épreuve devant quelqu'un ; préparer les questions probables du jury"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Pour chaque question, garde une **fiche** : définitions, problématique, 3 arguments, 3 exemples précis (chiffres, auteurs, œuvres), 5 questions que le jury pourrait poser."
+        }
+      ]
+    },
+    {
+      "titre": "Utiliser les 20 minutes de préparation",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Écris ton **plan** en grandes lignes et tes **mots-clés** sur une seule feuille : tu ne liras pas, tu t'en serviras comme repère.",
+            "Note ta **phrase d'accroche** et ta **phrase de conclusion** en entier : ce sont les moments où le stress est le plus fort.",
+            "Si tu veux utiliser le tableau, prépare un **schéma** simple (il n'est pas noté, mais il aide le jury à suivre)."
+          ]
+        }
+      ]
+    },
+    {
+      "titre": "L'entretien : les questions du jury",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Types de questions fréquents et comment répondre",
+          "colonnes": [
+            "Le jury demande…",
+            "Ta réponse"
+          ],
+          "lignes": [
+            [
+              "de préciser une notion",
+              "Une définition claire, puis un exemple"
+            ],
+            [
+              "d'approfondir un argument",
+              "Un mécanisme supplémentaire, une donnée, un auteur"
+            ],
+            [
+              "une objection (« Mais ne pourrait-on pas dire que… ? »)",
+              "Reconnaître ce qui est juste dans l'objection, puis nuancer"
+            ],
+            [
+              "un lien avec un autre chapitre",
+              "Relier à une autre partie du programme de tes spécialités"
+            ],
+            [
+              "quelque chose que tu ne sais pas",
+              "Le dire honnêtement, puis proposer une piste de réflexion"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "L'entretien n'est pas un piège : c'est une conversation. Écoute la question jusqu'au bout, prends deux secondes, et réponds en plusieurs phrases."
+        }
+      ]
+    },
+    {
+      "titre": "La voix et le corps",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Regard** : balaie les deux membres du jury, pas seulement ta feuille.",
+            "**Débit** : plus lent que dans la vie ; marque une pause après chaque idée importante.",
+            "**Posture** : debout, pieds ancrés, mains libres pour accompagner tes idées.",
+            "**Annonce ton plan** à voix haute : le jury sait toujours où tu en es.",
+            "**Entraîne-toi en t'enregistrant** sur ton téléphone, puis réécoute-toi."
+          ]
+        }
+      ]
+    },
+    {
+      "titre": "Parler en anglais : phrases utiles",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Si le jury choisit ta question de LLCER, tu peux parler anglais jusqu'à 5 minutes par temps. Prévois une transition nette entre les deux langues."
+        },
+        {
+          "type": "tableau",
+          "titre": "Phrases utiles",
+          "colonnes": [
+            "English",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "*I chose this question because…*",
+              "J'ai choisi cette question parce que…"
+            ],
+            [
+              "*I will first…, then…, and finally…*",
+              "Je vais d'abord…, puis…, et enfin…"
+            ],
+            [
+              "*Let me now switch to French.*",
+              "Je vais maintenant passer au français."
+            ],
+            [
+              "*That's an interesting point. I would say that…*",
+              "C'est une remarque intéressante. Je dirais que…"
+            ],
+            [
+              "*To sum up, …*",
+              "Pour résumer, …"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "titre": "Le jour J : check-list",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Convocation et pièce d'identité.",
+            "La liste de tes deux questions signée par tes professeurs et portant le cachet du lycée.",
+            "De quoi écrire (aucun autre matériel autorisé).",
+            "Une bouteille d'eau, et arriver en avance."
+          ]
+        }
+      ]
+    }
+  ]
+}

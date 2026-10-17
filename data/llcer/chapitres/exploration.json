@@ -1,0 +1,450 @@
+{
+  "id": "exploration",
+  "matiere": "llcer",
+  "titre": "Exploration et aventure",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thématique « Voyages, territoires, frontières »",
+    "intitule": "Exploration et aventure",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Connaître les grands repères de l'expansion et de l'impérialisme britannique et américain.",
+    "Expliquer le mythe de la Frontière et de la « destinée manifeste » aux États-Unis.",
+    "Distinguer exploration géographique, scientifique et intérieure (dépassement de soi).",
+    "Porter un regard critique : l'aventure des uns est souvent la conquête subie par les autres."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment lire cet axe",
+          "texte": "Le programme officiel présente chaque axe par une problématique, des mots-clés et des pistes d'œuvres. Les objectifs « À la fin, je dois savoir… » sont une reformulation pédagogique ; les mots-clés et les pistes, eux, viennent du programme."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique de la thématique (programme)** : comment le voyage, la frontière et le territoire ont-ils façonné l'histoire, l'identité et les sociétés du monde anglophone, dans un contexte d'expansion et de colonisation ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'axe** : explorer, c'est partir vers l'inconnu : terres lointaines, pôles, espace, mais aussi savoir scientifique et limites de soi-même. Le programme demande de connaître les **repères historiques et philosophiques de l'impérialisme**, et de distinguer l'exploration **individuelle, nationale ou scientifique**, de l'**inconnu** comme du **proche**."
+        },
+        {
+          "type": "definition",
+          "glossaire": "frontier"
+        },
+        {
+          "type": "definition",
+          "glossaire": "manifest-destiny"
+        },
+        {
+          "type": "piege",
+          "titre": "un regard critique",
+          "texte": "L'« aventure » des explorateurs est aussi l'histoire de la **colonisation** pour les peuples rencontrés (Amérindiens, Africains, Aborigènes). Les écrivains postcoloniaux, comme Chinua Achebe, ont raconté l'autre versant de l'histoire."
+        }
+      ]
+    },
+    {
+      "id": "vocabulaire",
+      "titre": "Key words",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Mots-clés et vocabulaire utile",
+          "colonnes": [
+            "English",
+            "Français",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "empire / imperialism",
+              "empire / impérialisme",
+              "the British Empire"
+            ],
+            [
+              "colonisation / settlers",
+              "colonisation / colons",
+              "European settlers in North America"
+            ],
+            [
+              "a quest",
+              "une quête",
+              "a quest for knowledge"
+            ],
+            [
+              "to explore / an explorer",
+              "explorer / un explorateur",
+              "polar explorers"
+            ],
+            [
+              "the wilderness",
+              "la nature sauvage",
+              "the American wilderness"
+            ],
+            [
+              "to push back the boundaries",
+              "repousser les limites",
+              "to push back the boundaries of science"
+            ],
+            [
+              "a pioneer",
+              "un pionnier",
+              "pioneers heading West"
+            ],
+            [
+              "to conquer",
+              "conquérir",
+              "to conquer space"
+            ],
+            [
+              "an expedition",
+              "une expédition",
+              "the Endurance expedition"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reperes-culturels",
+      "titre": "Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Explorations, récits, idées",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Intérêt"
+          ],
+          "lignes": [
+            [
+              "Expédition de Lewis et Clark à travers l'Ouest américain",
+              "1804-1806",
+              "Exploration des territoires de l'Ouest jusqu'au Pacifique"
+            ],
+            [
+              "Voyage de Charles Darwin sur le *Beagle*",
+              "1831-1836",
+              "Exploration scientifique ; *On the Origin of Species* paraît en 1859"
+            ],
+            [
+              "« Manifest Destiny » (John O'Sullivan)",
+              "1845",
+              "Justification de l'expansion américaine vers l'Ouest"
+            ],
+            [
+              "Stanley retrouve Livingstone en Afrique",
+              "1871",
+              "« Dr Livingstone, I presume? »"
+            ],
+            [
+              "Robert Louis Stevenson, *Treasure Island*",
+              "1883",
+              "Le roman d'aventure par excellence"
+            ],
+            [
+              "Frederick Jackson Turner, thèse de la Frontière",
+              "1893",
+              "La Frontière aurait façonné le caractère américain"
+            ],
+            [
+              "Joseph Conrad, *Heart of Darkness*",
+              "1899",
+              "Un voyage au Congo qui révèle la violence coloniale"
+            ],
+            [
+              "Rudyard Kipling, *The White Man's Burden*",
+              "1899",
+              "Poème qui justifie l'impérialisme : à lire de façon critique"
+            ],
+            [
+              "Robert Scott atteint le pôle Sud et meurt au retour",
+              "1912",
+              "L'exploration polaire comme épopée tragique"
+            ],
+            [
+              "Expédition *Endurance* d'Ernest Shackleton",
+              "1914-1917",
+              "Survie de tout l'équipage en Antarctique"
+            ],
+            [
+              "Watson et Crick : la structure de l'ADN",
+              "1953",
+              "Exploration du vivant"
+            ],
+            [
+              "Kennedy et la « New Frontier »",
+              "1960",
+              "Nouvelle frontière : science, espace, progrès social"
+            ],
+            [
+              "Apollo 11 se pose sur la Lune (premiers pas le 21 juillet, heure européenne)",
+              "20 juillet 1969",
+              "La Frontière déplacée dans l'espace"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "programme-limitatif",
+      "titre": "Liens possibles avec le programme limitatif",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "des pistes, pas des règles",
+          "texte": "Ton professeur choisit les œuvres et l'axe auquel il les relie."
+        },
+        {
+          "type": "tableau",
+          "titre": "Pistes",
+          "colonnes": [
+            "Œuvre",
+            "Pourquoi elle peut illustrer l'axe"
+          ],
+          "lignes": [
+            [
+              "Paul Auster, *Moon Palace* (1989)",
+              "Le récit se déroule à l'époque des premiers pas sur la Lune et comporte un voyage vers l'Ouest américain"
+            ],
+            [
+              "Martin Scorsese, *Killers of the Flower Moon* (2023)",
+              "L'Oklahoma des années 1920 : la face sombre de la conquête de l'Ouest pour le peuple osage"
+            ],
+            [
+              "Jane Campion, *The Piano* (1993)",
+              "La Nouvelle-Zélande coloniale du XIX^e^ siècle : colons européens et Maoris"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "titre": "Useful phrases",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "*The explorer is portrayed as a hero, but…*",
+            "*This narrative reflects the imperial ideology of the time.*",
+            "*Exploration can also be an inner journey.*",
+            "*From the colonised people's point of view, …*"
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Toujours deux points de vue : **celui de l'explorateur** (courage, découverte, gloire) et **celui des peuples rencontrés** (conquête, dépossession)."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Expédition de Lewis et Clark",
+      "valeur": "1804-1806",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "« Manifest Destiny »",
+      "valeur": "1845",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Joseph Conrad, *Heart of Darkness*",
+      "valeur": "1899",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Apollo 11 se pose sur la Lune",
+      "valeur": "20 juillet 1969",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Paul Auster, *Moon Palace*",
+      "valeur": "1989",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "Explorer, c'est…",
+    "sens": "vertical",
+    "noeuds": [
+      {
+        "id": "geo",
+        "texte": "Découvrir des terres (pôles, Ouest, Afrique)"
+      },
+      {
+        "id": "sci",
+        "texte": "Repousser les limites du savoir"
+      },
+      {
+        "id": "soi",
+        "texte": "Se dépasser soi-même"
+      },
+      {
+        "id": "col",
+        "texte": "Mais aussi coloniser, conquérir"
+      }
+    ],
+    "liens": [
+      {
+        "de": "geo",
+        "vers": "col",
+        "texte": "souvent"
+      }
+    ]
+  },
+  "fiche": [
+    "**Axe** : exploration géographique, scientifique, intérieure ; impérialisme et colonisation.",
+    "**Frontier** et **Manifest Destiny** (1845) : mythe de l'expansion américaine.",
+    "**Repères** : Lewis et Clark (1804-1806), Darwin (*Beagle*, 1831-1836), *Heart of Darkness* (1899), Scott (1912), Shackleton (1914-1917), Apollo 11 (1969).",
+    "**Regard critique** : l'aventure des uns, la conquête subie des autres (Achebe).",
+    "**Programme limitatif** : *Moon Palace*, *Killers of the Flower Moon*, *The Piano* (pistes)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*Manifest Destiny* justified…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "American expansion to the West",
+          "correct": true,
+          "explication": "Formule de 1845."
+        },
+        {
+          "id": "b",
+          "texte": "the British monarchy",
+          "correct": false,
+          "explication": "Rien à voir."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*Heart of Darkness* is set in…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "the Congo",
+          "correct": true,
+          "explication": "Roman de Conrad, 1899."
+        },
+        {
+          "id": "b",
+          "texte": "the Arctic",
+          "correct": false,
+          "explication": "Ce n'est pas le cadre."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*settlers*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "des colons",
+          "correct": true,
+          "explication": "European settlers."
+        },
+        {
+          "id": "b",
+          "texte": "des sièges",
+          "correct": false,
+          "explication": "Siège = seat."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "The first Moon landing took place in…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1969",
+          "correct": true,
+          "explication": "Apollo 11, 20 juillet 1969."
+        },
+        {
+          "id": "b",
+          "texte": "1959",
+          "correct": false,
+          "explication": "Dix ans trop tôt."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*the wilderness*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la nature sauvage",
+          "correct": true,
+          "explication": "the American wilderness."
+        },
+        {
+          "id": "b",
+          "texte": "la folie",
+          "correct": false,
+          "explication": "Folie = madness."
+        }
+      ]
+    }
+  ]
+}

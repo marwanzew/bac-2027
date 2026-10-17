@@ -1,0 +1,163 @@
+{
+  "id": "commerce-international",
+  "matiere": "ses",
+  "titre": "Quels sont les fondements du commerce international et de l'internationalisation de la production ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Science économique",
+    "intitule": "Quels sont les fondements du commerce international et de l'internationalisation de la production ?",
+    "evaluableEcrit": true,
+    "certitude": "a_verifier",
+    "raison": "Objectifs relevés dans un document de l'académie de La Réunion qui cite le programme ; le PDF officiel n'a pas pu être rouvert pour ce chapitre.",
+    "source": { "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019", "consulteLe": "2026-10-17" }
+  },
+  "objectifs": [
+    "Comprendre le rôle des dotations factorielles et technologiques (avantages comparatifs) dans les échanges commerciaux et la spécialisation internationale.",
+    "Comprendre le commerce entre pays comparables (différenciation des produits, qualité des produits, et fragmentation de la chaîne de valeur).",
+    "Comprendre que la productivité des firmes sous-tend la compétitivité d'un pays, c'est-à-dire son aptitude à exporter.",
+    "Comprendre l'internationalisation de la chaîne de valeur et savoir l'illustrer.",
+    "Comprendre les effets induits par le commerce international : gains moyens en termes de baisse de prix, réduction des inégalités entre pays, accroissement des inégalités de revenus au sein de chaque pays ; comprendre les termes du débat entre libre-échange et protectionnisme."
+  ],
+  "parties": [
+    {
+      "id": "avantages-comparatifs",
+      "titre": "Dotations factorielles et technologiques : les avantages comparatifs",
+      "blocs": [
+        { "type": "paragraphe", "texte": "Les pays échangent parce qu'ils ne produisent pas tous les biens avec la même efficacité. Chacun a intérêt à se spécialiser dans les productions où il dispose d'un [[avantage comparatif]], puis à échanger : c'est la **spécialisation internationale**." },
+        { "type": "definition", "glossaire": "avantage-comparatif" },
+        { "type": "paragraphe", "texte": "**Les différences technologiques (David Ricardo, 1817).** Même un pays plus efficace que son partenaire dans toutes les productions a intérêt à se spécialiser là où son avantage est le plus grand. Son partenaire se spécialise là où son désavantage est le plus faible. L'échange permet alors aux deux pays de consommer davantage." },
+        { "type": "paragraphe", "texte": "**Les dotations factorielles (modèle HOS : Heckscher, Ohlin, Samuelson).** Un pays se spécialise dans les biens qui utilisent intensément le facteur de production dont il est **abondamment doté**. Un pays riche en travail qualifié exporte des biens qui en demandent beaucoup ; un pays riche en travail peu qualifié exporte des biens qui en demandent beaucoup." },
+        { "type": "definition", "glossaire": "dotations-factorielles" },
+        { "type": "piege", "titre": "avantage comparatif et avantage absolu", "texte": "Un pays peut n'avoir **aucun** avantage absolu (être moins efficace partout) et pourtant gagner à l'échange. Ce qui compte, c'est l'efficacité **relative** d'une production par rapport à l'autre." }
+      ]
+    },
+    {
+      "id": "pays-comparables",
+      "titre": "Le commerce entre pays comparables",
+      "blocs": [
+        { "type": "paragraphe", "texte": "Une grande partie du commerce mondial se fait entre pays proches par leur niveau de développement et leurs dotations (par exemple entre pays européens). Les avantages comparatifs ne suffisent pas à l'expliquer." },
+        { "type": "liste", "items": [
+          "**La différenciation des produits** : les consommateurs aiment la diversité. Des pays semblables échangent des variétés différentes d'un même produit (des voitures de marques différentes, par exemple). C'est le [[commerce intrabranche]].",
+          "**La qualité des produits** : des pays échangent des produits semblables mais de gammes différentes (bas de gamme, haut de gamme).",
+          "**La fragmentation de la chaîne de valeur** : un même produit est fabriqué en plusieurs étapes réparties entre plusieurs pays ; les pièces et les composants traversent les frontières plusieurs fois."
+        ] },
+        { "type": "definition", "glossaire": "commerce-intrabranche" },
+        { "type": "paragraphe", "texte": "Ces explications sont associées à la « nouvelle théorie du commerce international » de Paul Krugman (prix Nobel d'économie 2008), qui insiste sur le goût pour la variété et sur les économies d'échelle." }
+      ]
+    },
+    {
+      "id": "competitivite",
+      "titre": "La productivité des firmes, fondement de la compétitivité",
+      "blocs": [
+        { "type": "paragraphe", "texte": "La [[compétitivité]] d'un pays est son aptitude à exporter, c'est-à-dire à vendre ses produits sur les marchés étrangers. Elle repose d'abord sur la **productivité de ses entreprises** : ce sont les firmes, pas les pays, qui exportent." },
+        { "type": "definition", "glossaire": "competitivite" },
+        { "type": "liste", "items": [
+          "**La compétitivité-prix** : capacité à vendre moins cher que les concurrents, pour une qualité comparable. Elle dépend des coûts de production (dont le coût du travail rapporté à la productivité) et du taux de change.",
+          "**La compétitivité hors prix** : capacité à vendre grâce à d'autres éléments que le prix : qualité, innovation, image de marque, service après-vente."
+        ] },
+        { "type": "paragraphe", "texte": "Les entreprises sont très différentes les unes des autres : seules les plus productives parviennent à supporter les coûts de l'exportation (s'informer sur les marchés étrangers, adapter les produits, se faire connaître). Une économie compte donc relativement peu d'entreprises exportatrices." },
+        { "type": "a-retenir", "texte": "Productivité des firmes → compétitivité-prix et hors prix → aptitude à exporter." }
+      ]
+    },
+    {
+      "id": "chaine-de-valeur",
+      "titre": "L'internationalisation de la chaîne de valeur",
+      "blocs": [
+        { "type": "paragraphe", "texte": "La [[chaîne de valeur]] regroupe toutes les étapes de la fabrication d'un produit : conception, production des composants, assemblage, commercialisation. Elle est de plus en plus **internationalisée** : chaque étape est réalisée là où elle est la moins coûteuse ou la plus efficace." },
+        { "type": "definition", "glossaire": "chaine-de-valeur" },
+        { "type": "paragraphe", "texte": "Les [[firmes multinationales|firme-multinationale]] organisent cette division internationale du travail. Elles utilisent des filiales à l'étranger, créées ou rachetées grâce à des [[investissements directs à l'étranger|ide]] (IDE), ou font appel à la sous-traitance internationale." },
+        { "type": "definition", "glossaire": "firme-multinationale" },
+        { "type": "definition", "glossaire": "ide" },
+        { "type": "exemple", "titre": "un smartphone", "texte": "Il peut être conçu dans un pays, ses composants (écran, puces, batterie) fabriqués dans plusieurs autres, puis assemblé dans un dernier pays avant d'être vendu dans le monde entier. Le pays d'assemblage n'est qu'une étape : il ne capte qu'une partie de la valeur du produit." }
+      ]
+    },
+    {
+      "id": "effets-debat",
+      "titre": "Les effets du commerce international et le débat libre-échange / protectionnisme",
+      "blocs": [
+        { "type": "paragraphe", "texte": "Le commerce international a trois grands effets :" },
+        { "type": "liste", "ordonnee": true, "items": [
+          "**Des gains moyens en termes de baisse des prix** : la spécialisation et la concurrence font baisser les prix et augmentent la variété des produits disponibles.",
+          "**Une réduction des inégalités entre pays** : des pays émergents s'intègrent au commerce mondial et rattrapent en partie les pays riches.",
+          "**Un accroissement des inégalités de revenus au sein de chaque pays** : dans un pays riche, les travailleurs peu qualifiés sont concurrencés par les importations de pays où ce travail est abondant, tandis que les travailleurs qualifiés gagnent à l'ouverture."
+        ] },
+        { "type": "paragraphe", "texte": "D'où un débat entre [[libre-échange]] et [[protectionnisme]]." },
+        { "type": "definition", "glossaire": "libre-echange" },
+        { "type": "definition", "glossaire": "protectionnisme" },
+        { "type": "tableau", "titre": "Les termes du débat", "colonnes": ["", "Arguments", "Limites"], "lignes": [
+          ["Libre-échange", "Gains de la spécialisation, baisse des prix, variété, concurrence qui stimule l'innovation", "Perdants de l'ouverture (secteurs et travailleurs concurrencés), dépendance envers l'étranger"],
+          ["Protectionnisme", "Protéger les industries naissantes, les emplois menacés, les secteurs stratégiques ; imposer des normes sociales ou environnementales", "Hausse des prix pour les consommateurs, risque de représailles et de « guerre commerciale », moindre incitation à innover"]
+        ] },
+        { "type": "paragraphe", "texte": "Les instruments du protectionnisme sont tarifaires (droits de douane) ou non tarifaires (quotas, normes techniques ou sanitaires, subventions aux producteurs nationaux)." },
+        { "type": "piege", "titre": "pas de réponse toute faite", "texte": "Le programme demande de comprendre **les termes du débat**, pas de trancher. Présente les arguments des deux côtés avec leurs mécanismes." }
+      ]
+    }
+  ],
+  "reperes": [
+    { "type": "auteur", "libelle": "Théorie des avantages comparatifs", "valeur": "David Ricardo, 1817", "certitude": "certain",
+      "source": { "titre": "D. Ricardo, Des principes de l'économie politique et de l'impôt, 1817" } },
+    { "type": "auteur", "libelle": "Dotations factorielles (modèle HOS)", "valeur": "Heckscher, Ohlin, Samuelson", "certitude": "certain",
+      "source": { "titre": "E. Heckscher (1919), B. Ohlin (1933), P. Samuelson (1941-1948)" } },
+    { "type": "auteur", "libelle": "Nouvelle théorie du commerce international", "valeur": "Paul Krugman (prix Nobel 2008)", "certitude": "certain",
+      "source": { "titre": "Prix en sciences économiques en mémoire d'Alfred Nobel 2008" } },
+    { "type": "auteur", "libelle": "Protectionnisme éducateur (industries naissantes)", "valeur": "Friedrich List, 1841", "certitude": "certain",
+      "source": { "titre": "F. List, Système national d'économie politique, 1841" } },
+    { "type": "date", "libelle": "Création de l'Organisation mondiale du commerce (OMC)", "valeur": "1^er^ janvier 1995", "certitude": "certain",
+      "source": { "titre": "Accord de Marrakech instituant l'OMC, entré en vigueur le 1er janvier 1995" } },
+    { "type": "date", "libelle": "Signature du GATT", "valeur": "1947", "certitude": "certain",
+      "source": { "titre": "Accord général sur les tarifs douaniers et le commerce (GATT), 1947" } }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Pourquoi les pays échangent-ils ?",
+    "colonnes": ["Explication", "Mécanisme", "Type d'échange expliqué"],
+    "lignes": [
+      ["Différences technologiques (Ricardo)", "Spécialisation selon l'avantage comparatif", "Entre pays différents (interbranche)"],
+      ["Dotations factorielles (HOS)", "Spécialisation dans les biens qui utilisent le facteur abondant", "Entre pays différents (interbranche)"],
+      ["Différenciation et qualité", "Goût des consommateurs pour la variété et la gamme", "Entre pays comparables (intrabranche)"],
+      ["Fragmentation de la chaîne de valeur", "Chaque étape là où elle est la moins coûteuse ou la plus efficace", "Biens intermédiaires, au sein des FMN"]
+    ]
+  },
+  "fiche": [
+    "**Avantage comparatif** (Ricardo, 1817) : se spécialiser là où l'on est relativement le plus efficace ; tous les pays peuvent gagner à l'échange.",
+    "**Dotations factorielles** (HOS) : se spécialiser dans les biens qui utilisent intensément le facteur abondant.",
+    "**Pays comparables** : différenciation des produits (variété), qualité (gamme), fragmentation de la chaîne de valeur → commerce intrabranche (Krugman).",
+    "**Compétitivité** = aptitude à exporter ; elle repose sur la productivité des firmes. Compétitivité-prix et hors prix.",
+    "**Chaîne de valeur internationalisée** : FMN, filiales créées par IDE, sous-traitance.",
+    "**Effets** : baisse des prix et plus de variété ; moins d'inégalités entre pays ; plus d'inégalités de revenus dans chaque pays.",
+    "**Débat** : libre-échange (gains de la spécialisation) contre protectionnisme (industries naissantes, emplois, souveraineté) ; instruments tarifaires et non tarifaires."
+  ],
+  "quiz": [
+    { "id": "q1", "enonce": "Selon Ricardo, un pays moins efficace que son partenaire dans toutes les productions…", "certitude": "certain",
+      "source": { "titre": "D. Ricardo, 1817" },
+      "choix": [
+        { "id": "a", "texte": "a quand même intérêt à se spécialiser et à échanger", "correct": true, "explication": "Il se spécialise là où son désavantage est le plus faible : c'est son avantage comparatif." },
+        { "id": "b", "texte": "doit se protéger et ne pas échanger", "correct": false, "explication": "C'est l'inverse de la conclusion de Ricardo." }
+      ] },
+    { "id": "q2", "enonce": "Dans le modèle HOS, un pays se spécialise dans les biens qui utilisent…", "certitude": "certain",
+      "source": { "titre": "Modèle Heckscher-Ohlin-Samuelson" },
+      "choix": [
+        { "id": "a", "texte": "intensément le facteur dont il est abondamment doté", "correct": true, "explication": "Le facteur abondant est relativement bon marché." },
+        { "id": "b", "texte": "le facteur dont il manque", "correct": false, "explication": "Ce facteur est rare, donc cher : le pays importe plutôt les biens qui l'utilisent." }
+      ] },
+    { "id": "q3", "enonce": "La France vend des voitures à l'Allemagne et lui en achète. C'est…", "certitude": "certain",
+      "source": { "titre": "Définition usuelle en science économique" },
+      "choix": [
+        { "id": "a", "texte": "du commerce intrabranche", "correct": true, "explication": "Échange de produits d'une même branche, différenciés par la marque ou la gamme." },
+        { "id": "b", "texte": "du commerce interbranche", "correct": false, "explication": "L'interbranche, c'est l'échange de produits de branches différentes." }
+      ] },
+    { "id": "q4", "enonce": "Une baisse des prix des produits exportés, à qualité égale, améliore…", "certitude": "certain",
+      "source": { "titre": "Définition usuelle en science économique" },
+      "choix": [
+        { "id": "a", "texte": "la compétitivité-prix", "correct": true, "explication": "Vendre moins cher à qualité comparable." },
+        { "id": "b", "texte": "la compétitivité hors prix", "correct": false, "explication": "Elle repose sur la qualité, l'innovation, l'image, pas sur le prix." }
+      ] },
+    { "id": "q5", "enonce": "Quel effet du commerce international le programme associe-t-il à l'intérieur de chaque pays ?", "certitude": "a_verifier",
+      "raison": "Formulation des objectifs relevée dans un document académique citant le programme.",
+      "source": { "titre": "Programme de SES de terminale, BO spécial n° 8 du 25 juillet 2019" },
+      "choix": [
+        { "id": "a", "texte": "Un accroissement des inégalités de revenus", "correct": true, "explication": "Les travailleurs des secteurs concurrencés perdent, ceux des secteurs exportateurs gagnent." },
+        { "id": "b", "texte": "Une disparition des inégalités de revenus", "correct": false, "explication": "Non : l'ouverture fait des gagnants et des perdants." }
+      ] }
+  ]
+}

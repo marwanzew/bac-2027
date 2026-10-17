@@ -1,0 +1,379 @@
+{
+  "id": "axe5",
+  "matiere": "espagnol",
+  "titre": "Axe 5. Citoyenneté et mondes virtuels",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Axes culturels de terminale",
+    "intitule": "Axe 5. Citoyenneté et mondes virtuels",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'espagnol pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 10",
+      "url": "https://www.education.gouv.fr/sites/default/files/annexe-10-programme-d-espagnol-pour-les-classes-de-lyc-e-g-n-ral-et-technologique-440376.pdf"
+    }
+  },
+  "objectifs": [
+    "Parler de l'engagement citoyen à l'ère des réseaux sociaux.",
+    "Repérer la désinformation (bulos) et en parler.",
+    "Exprimer une hypothèse avec si + imparfait du subjonctif et le conditionnel."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "El eje en breve · L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "ce qui est officiel",
+          "texte": "Le **titre de l'axe** vient du programme officiel. Les **pistes** proposées s'inspirent des ressources de La Clé espagnole (ENS de Lyon), qui ne sont pas des consignes officielles : ton professeur choisit ses propres documents."
+        },
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVB, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B1**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Cet axe interroge **le rôle d'Internet dans la vie citoyenne** : mobilisations sur les réseaux, information et désinformation, accès au numérique dans les zones isolées."
+        }
+      ]
+    },
+    {
+      "id": "vocabulario",
+      "titre": "Vocabulario",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Vocabulaire de l'axe",
+          "colonnes": [
+            "Español",
+            "Français",
+            "Ejemplo"
+          ],
+          "lignes": [
+            [
+              "la ciudadanía",
+              "la citoyenneté",
+              "Ejercer la ciudadanía."
+            ],
+            [
+              "el ciudadano",
+              "le citoyen",
+              "Un ciudadano comprometido."
+            ],
+            [
+              "el bulo",
+              "la fausse nouvelle (fake news)",
+              "Compartir un bulo."
+            ],
+            [
+              "la desinformación",
+              "la désinformation",
+              "Luchar contra la desinformación."
+            ],
+            [
+              "comprometerse",
+              "s'engager",
+              "Comprometerse por una causa."
+            ],
+            [
+              "la brecha digital",
+              "la fracture numérique",
+              "Reducir la brecha digital."
+            ],
+            [
+              "la pantalla",
+              "l'écran",
+              "Pasar horas delante de la pantalla."
+            ],
+            [
+              "el acoso",
+              "le harcèlement",
+              "El ciberacoso."
+            ],
+            [
+              "verificar",
+              "vérifier",
+              "Verificar una información."
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "bulo"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "titre": "Referencias culturales · Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Pourquoi c'est important"
+          ],
+          "lignes": [
+            [
+              "Mouvement du 15-M (« Indignados »), Madrid",
+              "15 mai 2011",
+              "Mobilisation citoyenne organisée sur les réseaux sociaux"
+            ],
+            [
+              "Pandémie de covid-19",
+              "2020",
+              "Enseignement et culture en ligne"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pistes",
+      "titre": "Pistas de reflexión · Pistes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Réseaux sociaux et initiatives citoyennes** : du 15-M aux pétitions en ligne.",
+            "**Information ou manipulation** : bulos et désinformation.",
+            "**Le numérique dans les zones isolées** : Amazonie, Andes, Patagonie."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "titre": "Gramática · Le point de grammaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**La hipótesis** : pour une hypothèse peu probable ou irréelle : *si* + imparfait du subjonctif, puis conditionnel."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Si **tuviera** más tiempo, **participaría** en una asociación. (Si j'avais plus de temps, je participerais…)",
+            "Si no **hubiera** redes sociales, **sería** más difícil organizarse."
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Conditionnel",
+          "colonnes": [
+            "Verbe",
+            "Forme (yo)"
+          ],
+          "lignes": [
+            [
+              "participar",
+              "participaría"
+            ],
+            [
+              "tener",
+              "tendría"
+            ],
+            [
+              "poder",
+              "podría"
+            ],
+            [
+              "hacer",
+              "haría"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frases",
+      "titre": "Frases útiles · Phrases utiles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Pour parler ou écrire sur l'axe",
+          "colonnes": [
+            "Español",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "Hoy en día, gracias a Internet…",
+              "Aujourd'hui, grâce à Internet…"
+            ],
+            [
+              "Hay que verificar que…",
+              "Il faut vérifier que…"
+            ],
+            [
+              "Me parece peligroso que + subjuntivo",
+              "Il me semble dangereux que…"
+            ],
+            [
+              "Si yo fuera…, haría…",
+              "Si j'étais…, je ferais…"
+            ],
+            [
+              "En resumen…",
+              "En résumé…"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Mouvement du 15-M en Espagne",
+      "valeur": "15 mai 2011",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Axe 5. Citoyenneté et mondes virtuels : l'essentiel",
+    "colonnes": [
+      "Aspect",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "Vocabulaire clé",
+        "la ciudadanía, el ciudadano, el bulo, la desinformación, comprometerse, la brecha digital"
+      ],
+      [
+        "Repères",
+        "Mouvement du 15-M (« Indignados »), Madrid (15 mai 2011), Pandémie de covid-19 (2020)"
+      ],
+      [
+        "Grammaire",
+        "La hipótesis"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Citoyenneté numérique** : mobilisations (15-M, 2011), pétitions.",
+    "**Désinformation** : bulos ; vérifier les sources.",
+    "**Fracture numérique** (brecha digital).",
+    "**Grammaire** : *si* + imparfait du subjonctif + conditionnel."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*el bulo*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la fausse nouvelle",
+          "correct": true,
+          "explication": "Fake news."
+        },
+        {
+          "id": "b",
+          "texte": "la bulle",
+          "correct": false,
+          "explication": "Bulle = burbuja."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*Si tuviera tiempo, …*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "participaría",
+          "correct": true,
+          "explication": "Conditionnel."
+        },
+        {
+          "id": "b",
+          "texte": "participo",
+          "correct": false,
+          "explication": "Il faut le conditionnel."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Le mouvement du 15-M a lieu en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2011",
+          "correct": true,
+          "explication": "Madrid, Puerta del Sol."
+        },
+        {
+          "id": "b",
+          "texte": "1968",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*la brecha digital*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la fracture numérique",
+          "correct": true,
+          "explication": "Inégalités d'accès."
+        },
+        {
+          "id": "b",
+          "texte": "la brèche militaire",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*verificar*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "vérifier",
+          "correct": true,
+          "explication": "Verificar una fuente."
+        },
+        {
+          "id": "b",
+          "texte": "verbaliser",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

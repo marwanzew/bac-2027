@@ -1,0 +1,185 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "la-conscience",
+  "exercices": [
+    {
+      "id": "conscience-qcm",
+      "titre": "La conscience : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relie auteur et idée."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le remords relève de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la conscience morale",
+              "correct": true,
+              "explication": "Juger ses actes."
+            },
+            {
+              "id": "b",
+              "texte": "la perception",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Le cogito résiste…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "au doute",
+              "correct": true,
+              "explication": "Même en doutant, je pense."
+            },
+            {
+              "id": "b",
+              "texte": "à la fatigue",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Conduire « en pilote automatique » montre…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une action sans conscience réfléchie",
+              "correct": true,
+              "explication": "Conscience spontanée."
+            },
+            {
+              "id": "b",
+              "texte": "l'absence totale d'esprit",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*L'Être et le néant* date de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1943",
+              "correct": true,
+              "explication": "Sartre."
+            },
+            {
+              "id": "b",
+              "texte": "1637",
+              "correct": false,
+              "explication": "Descartes."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Pour Leibniz, le bruit de la mer est composé…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "de petites perceptions inconscientes",
+              "correct": true,
+              "explication": "Chaque vague."
+            },
+            {
+              "id": "b",
+              "texte": "de silence",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "conscience-probl",
+      "titre": "Problématiser : « Se connaître soi-même, est-ce possible ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Se connaître soi-même, est-ce possible ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Pense à Descartes (certitude de soi) et à Leibniz, Freud, Sartre (limites)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Se connaître : savoir ce que l'on est, ses désirs, son caractère, ses raisons d'agir."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** Personne n'est mieux placé que moi pour savoir ce que je pense (Descartes). Pourtant, je me trompe souvent sur mes motifs, j'ignore une part de ce qui se passe en moi et je me mens parfois (mauvaise foi)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** La conscience nous rend-elle transparents à nous-mêmes, ou la connaissance de soi est-elle une tâche jamais achevée, qui passe aussi par les autres ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

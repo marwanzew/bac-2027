@@ -1,0 +1,224 @@
+{
+  "id": "epreuve-ecrite",
+  "matiere": "ses",
+  "titre": "L'épreuve écrite de SES en 2027",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthode",
+    "intitule": "Épreuve terminale de l'enseignement de spécialité sciences économiques et sociales (SES)",
+    "source": {
+      "titre": "Note de service du 11 septembre 2026, BO spécial n° 4 du 17 septembre 2026",
+      "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2622656N",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Connaître la durée et la structure de l'épreuve.",
+    "Distinguer la **dissertation** et l'**épreuve composée** pour choisir son sujet."
+  ],
+  "parties": [
+    {
+      "id": "deux-sujets",
+      "titre": "Deux sujets au choix",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "L'épreuve dure **4 heures**. Le candidat choisit entre une dissertation s'appuyant sur un dossier documentaire et une [[épreuve composée]]."
+        },
+        {
+          "type": "definition",
+          "glossaire": "epreuve-composee"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Dans les deux sujets, **2 points sur 20** sont réservés à la maîtrise des normes orthographiques et syntaxiques."
+        },
+        {
+          "type": "piege",
+          "titre": "Le dossier n'est pas un sujet de commentaire",
+          "texte": "Le dossier documentaire aide à argumenter : il ne doit pas remplacer tes connaissances ni être commenté document par document."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Durée de l'épreuve",
+      "valeur": "4 heures",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026, BO spécial n° 4"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Barème de l'épreuve composée",
+      "valeur": "3,5 + 5,5 + 9 points",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026, BO spécial n° 4"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Date de l'écrit de SES",
+      "valeur": "Mercredi 16 juin 2027 (selon la convocation)",
+      "certitude": "a_verifier",
+      "source": {
+        "titre": "Calendrier, annexe III, BO spécial n° 2 du 25 août 2026"
+      },
+      "raison": "Le calendrier place la SES le 16 et le 17 juin ; la convocation fixe le jour."
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Dissertation ou épreuve composée ?",
+    "colonnes": [
+      "",
+      "Dissertation",
+      "Épreuve composée"
+    ],
+    "lignes": [
+      [
+        "Structure",
+        "Un seul sujet, un plan à construire",
+        "Trois parties indépendantes"
+      ],
+      [
+        "Documents",
+        "Dossier de 3 ou 4 documents factuels",
+        "Partie 2 : 1 document statistique ; partie 3 : 2 ou 3 documents"
+      ],
+      [
+        "Barème",
+        "Note globale sur 20",
+        "3,5 + 5,5 + 9 points"
+      ]
+    ]
+  },
+  "fiche": [
+    "4 heures, coefficient 16.",
+    "Deux sujets au choix : dissertation ou épreuve composée.",
+    "Épreuve composée : 3,5 + 5,5 + 9 points.",
+    "2 points sur 20 pour l'orthographe et la syntaxe."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Quelle est la durée de l'écrit de SES ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026, BO spécial n° 4"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "3 h 30",
+          "correct": false,
+          "explication": "3 h 30, c'est la durée de l'écrit de LLCER."
+        },
+        {
+          "id": "b",
+          "texte": "4 heures",
+          "correct": true,
+          "explication": "La note de service fixe la durée à 4 heures."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Combien de points vaut la partie 3 de l'épreuve composée ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026, BO spécial n° 4"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "9 points",
+          "correct": true,
+          "explication": "Raisonnement s'appuyant sur un dossier documentaire : 9 points."
+        },
+        {
+          "id": "b",
+          "texte": "10 points",
+          "correct": false,
+          "explication": "C'était le barème avant la session 2027."
+        },
+        {
+          "id": "c",
+          "texte": "5,5 points",
+          "correct": false,
+          "explication": "5,5 points, c'est la partie 2 (étude d'un document)."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Combien de documents compte le dossier de la dissertation ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026, BO spécial n° 4"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2 ou 3",
+          "correct": false,
+          "explication": "2 ou 3, c'est le dossier de la partie 3 de l'épreuve composée."
+        },
+        {
+          "id": "b",
+          "texte": "3 ou 4",
+          "correct": true,
+          "explication": "Le dossier de dissertation comporte trois ou quatre documents factuels."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Combien de points sont réservés à l'orthographe et à la syntaxe ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026, BO spécial n° 4"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Aucun",
+          "correct": false,
+          "explication": "Faux : la maîtrise de la langue a des points dédiés."
+        },
+        {
+          "id": "b",
+          "texte": "2 points sur 20",
+          "correct": true,
+          "explication": "Deux points sur vingt sont dédiés aux normes orthographiques et syntaxiques."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "La partie 1 de l'épreuve composée s'appuie-t-elle sur un document ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026, BO spécial n° 4"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Oui, un document statistique",
+          "correct": false,
+          "explication": "Le document statistique est en partie 2."
+        },
+        {
+          "id": "b",
+          "texte": "Non, elle se traite sans document",
+          "correct": true,
+          "explication": "La mobilisation des connaissances se fait sans document."
+        }
+      ]
+    }
+  ]
+}

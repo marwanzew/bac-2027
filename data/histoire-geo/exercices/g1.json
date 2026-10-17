@@ -1,0 +1,268 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "g1",
+  "exercices": [
+    {
+      "id": "g1-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "La haute mer commence…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "au-delà des ZEE",
+              "correct": true,
+              "explication": "Elle est libre."
+            },
+            {
+              "id": "b",
+              "texte": "au bord de la plage",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Le traité sur la haute mer est en vigueur depuis…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Carenews, « Le traité sur la haute mer est entré en vigueur » (janvier 2026)",
+            "url": "https://www.carenews.com/carenews-info/news/le-traite-sur-la-haute-mer-est-entre-en-vigueur-que-change-t-il"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "janvier 2026",
+              "correct": true,
+              "explication": "17 janvier 2026."
+            },
+            {
+              "id": "b",
+              "texte": "1982",
+              "correct": false,
+              "explication": "Montego Bay."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Une interface est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une zone de contact entre deux espaces",
+              "correct": true,
+              "explication": "Ex. : un port, entre terre et mer."
+            },
+            {
+              "id": "b",
+              "texte": "un câble",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Les câbles sous-marins transportent surtout…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les communications intercontinentales",
+              "correct": true,
+              "explication": "Internet."
+            },
+            {
+              "id": "b",
+              "texte": "du pétrole",
+              "correct": false,
+              "explication": "Ce sont les oléoducs."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "L'opération Atalante lutte contre…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la piraterie",
+              "correct": true,
+              "explication": "Golfe d'Aden."
+            },
+            {
+              "id": "b",
+              "texte": "la pollution plastique",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "g1-composition",
+      "titre": "Plan de composition : « Les mers et les océans, espaces au cœur de la mondialisation »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « Les mers et les océans, espaces au cœur de la mondialisation »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : définitions (maritimisation, mondialisation) ; problématique : en quoi les espaces maritimes sont-ils à la fois des vecteurs de la mondialisation et des espaces convoités ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Des espaces de circulation essentiels**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Les flux de marchandises et d'informations",
+            "B. Les ports et les passages stratégiques"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Des espaces appropriés et disputés**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Le droit de la mer (ZEE)",
+            "B. Tensions : mer de Chine, piraterie, Arctique"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III. Des espaces à protéger**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Les menaces (surpêche, pollutions)",
+            "B. Les réponses (traité sur la haute mer, 2026)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : l'exemple de la France, puissance maritime grâce à ses outre-mer."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "g1-croquis",
+      "titre": "Légende de croquis : « Les espaces maritimes, au cœur de la mondialisation »",
+      "type": "croquis",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de croquis (créé pour s'entraîner) : « Les espaces maritimes, au cœur de la mondialisation »",
+        "Construis une légende organisée en 2 ou 3 parties, avec pour chaque élément le figuré que tu utiliserais (aplat de couleur, point, flèche, trait)."
+      ],
+      "methode": [
+        "Chaque partie de la légende a un titre qui répond au sujet.",
+        "Les figurés : surfaces = aplats ou hachures ; lieux = points ou symboles ; flux = flèches ; limites = traits.",
+        "Hiérarchise : la taille d'un figuré traduit l'importance."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "**1. Des flux maritimes mondialisés** : grandes routes maritimes (flèches épaisses Asie–Europe, Asie–Amérique du Nord, transatlantique) ; grands ports (points proportionnels : Shanghai, Singapour, Rotterdam…).",
+            "**2. Des passages stratégiques** : détroits et canaux (symboles : Malacca, Ormuz, Suez, Panama, Gibraltar).",
+            "**3. Des espaces convoités et à protéger** : zones de tensions (hachures rouges : mer de Chine méridionale, golfe d'Aden) ; Arctique (hachures) ; ZEE françaises (aplat bleu)."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Légende organisée et titrée",
+          "points": 8
+        },
+        {
+          "critere": "Figurés adaptés",
+          "points": 6
+        },
+        {
+          "critere": "Exemples localisés",
+          "points": 6
+        }
+      ]
+    }
+  ]
+}

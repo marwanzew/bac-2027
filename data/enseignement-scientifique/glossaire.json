@@ -1,0 +1,149 @@
+{
+  "matiere": "enseignement-scientifique",
+  "entrees": [
+    {
+      "id": "effet-de-serre",
+      "terme": "effet de serre",
+      "definition": "Phénomène naturel : certains gaz de l'atmosphère (vapeur d'eau, CO₂, méthane…) absorbent le rayonnement infrarouge émis par la Terre et en renvoient une partie vers le sol, ce qui réchauffe la surface.",
+      "chapitres": [
+        "climat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "id": "retroaction",
+      "terme": "rétroaction",
+      "definition": "Mécanisme par lequel une conséquence d'une perturbation agit en retour sur cette perturbation : elle l'amplifie (rétroaction positive) ou l'atténue (rétroaction négative).",
+      "chapitres": [
+        "climat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "id": "albedo",
+      "terme": "albédo",
+      "definition": "Fraction de la puissance solaire reçue qui est réfléchie par une surface (entre 0 et 1). La glace a un albédo élevé, l'océan un albédo faible.",
+      "chapitres": [
+        "climat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "id": "acidification-oceans",
+      "terme": "acidification des océans",
+      "definition": "Baisse du pH de l'eau de mer due à la dissolution d'une partie du CO₂ atmosphérique dans l'océan.",
+      "chapitres": [
+        "climat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "id": "effet-joule",
+      "terme": "effet Joule",
+      "definition": "Dissipation d'énergie sous forme de chaleur lorsqu'un courant électrique traverse un conducteur ; la puissance perdue vaut P = R × I².",
+      "chapitres": [
+        "energies"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "id": "rendement",
+      "terme": "rendement",
+      "definition": "Rapport entre l'énergie (ou la puissance) utile obtenue et l'énergie (ou la puissance) reçue par un convertisseur ; il est toujours inférieur à 1 (100 %).",
+      "chapitres": [
+        "energies"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "id": "empreinte-carbone",
+      "terme": "empreinte carbone",
+      "definition": "Quantité de gaz à effet de serre (en équivalent CO₂) émise pour produire, transporter, utiliser et éliminer un bien ou un service, ou par une personne ou un pays sur une période.",
+      "chapitres": [
+        "energies"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "id": "energie-renouvelable",
+      "terme": "énergie renouvelable",
+      "definition": "Énergie dont la source se renouvelle à l'échelle humaine (Soleil, vent, eau, biomasse), contrairement aux combustibles fossiles et à l'uranium.",
+      "chapitres": [
+        "energies"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "id": "biodiversite",
+      "terme": "biodiversité",
+      "definition": "Diversité du vivant à trois échelles : diversité des écosystèmes, des espèces et des gènes (allèles) au sein d'une espèce.",
+      "chapitres": [
+        "vivant"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "id": "derive-genetique",
+      "terme": "dérive génétique",
+      "definition": "Variation aléatoire des fréquences des allèles d'une génération à l'autre, d'autant plus forte que la population est petite.",
+      "chapitres": [
+        "vivant"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "id": "selection-naturelle",
+      "terme": "sélection naturelle",
+      "definition": "Mécanisme par lequel les individus porteurs de caractères avantageux dans un milieu donné survivent et se reproduisent davantage, ce qui augmente la fréquence de ces caractères.",
+      "chapitres": [
+        "vivant"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "id": "une-seule-sante",
+      "terme": "Une seule santé",
+      "definition": "Approche (One Health) qui considère que la santé humaine, la santé animale et celle des écosystèmes sont liées.",
+      "chapitres": [
+        "vivant"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Concept cité par le programme ; définition de l'OMS"
+      }
+    }
+  ]
+}

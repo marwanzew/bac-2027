@@ -1,0 +1,501 @@
+{
+  "id": "justice-sociale",
+  "matiere": "ses",
+  "titre": "Quelles inégalités sont compatibles avec les différentes conceptions de la justice sociale ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Regards croisés",
+    "intitule": "Quelles inégalités sont compatibles avec les différentes conceptions de la justice sociale ?",
+    "evaluableEcrit": false,
+    "certitude": "a_verifier",
+    "raison": "Objectifs relevés dans un support de formation de l'académie de Besançon (et recoupés avec un document de l'académie de Nice) ; le PDF officiel n'a pas pu être relu directement.",
+    "source": {
+      "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Connaître les grandes tendances d'évolution des inégalités économiques depuis le début du XX^e^ siècle et comprendre que les inégalités économiques et sociales présentent un caractère multiforme et cumulatif.",
+    "Savoir interpréter les principaux outils de mesure des inégalités, statique (rapport inter-quantiles, courbe de Lorenz et coefficient de Gini, top 1 %) et dynamique (corrélation de revenu parents-enfants).",
+    "Comprendre que les différentes formes d'égalité (égalité des droits, des chances ou des situations) permettent de définir ce qui est considéré comme juste selon différentes conceptions de la justice sociale (notamment l'utilitarisme, le libertarisme, l'égalitarisme libéral, l'égalitarisme strict).",
+    "Comprendre que l'action des pouvoirs publics en matière de justice sociale (fiscalité, protection sociale, services collectifs, mesures de lutte contre les discriminations) s'exerce sous contrainte de financement et fait l'objet de débats en termes d'efficacité (réduction des inégalités), de légitimité (notamment consentement à l'impôt) et de risque d'effets pervers (désincitations)."
+  ],
+  "parties": [
+    {
+      "id": "tendances",
+      "titre": "Les inégalités depuis le début du XXᵉ siècle",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "pas évaluable à l'écrit",
+          "texte": "Ce chapitre n'est **pas évaluable à l'épreuve écrite** de SES en 2027. Il reste utile pour le Grand oral et pour comprendre les autres chapitres."
+        },
+        {
+          "type": "definition",
+          "glossaire": "inegalites"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Les grandes tendances** (travaux de Thomas Piketty notamment) : les inégalités de revenus et de patrimoine sont très fortes au début du XX^e^ siècle ; elles baissent fortement entre 1914 et 1945 (guerres, crise de 1929, destructions de patrimoines, impôts progressifs) ; elles restent basses pendant les Trente Glorieuses ; elles remontent depuis les années 1980, fortement aux États-Unis, plus modérément en France."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Des inégalités multiformes** : elles concernent le revenu et le patrimoine, mais aussi l'école, la santé, le logement, l'accès à la culture…"
+        },
+        {
+          "type": "definition",
+          "glossaire": "inegalites-cumulatives"
+        }
+      ]
+    },
+    {
+      "id": "mesure",
+      "titre": "Mesurer les inégalités",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "rapport-interdecile"
+        },
+        {
+          "type": "definition",
+          "glossaire": "courbe-de-lorenz"
+        },
+        {
+          "type": "definition",
+          "glossaire": "coefficient-de-gini"
+        },
+        {
+          "type": "definition",
+          "glossaire": "top-1"
+        },
+        {
+          "type": "definition",
+          "glossaire": "correlation-revenus-parents-enfants"
+        },
+        {
+          "type": "tableau",
+          "titre": "Les outils du programme",
+          "colonnes": [
+            "Outil",
+            "Type",
+            "Ce qu'il montre"
+          ],
+          "lignes": [
+            [
+              "Rapport inter-quantiles (D9/D1…)",
+              "Statique",
+              "L'écart entre le haut et le bas de la distribution"
+            ],
+            [
+              "Courbe de Lorenz",
+              "Statique",
+              "Toute la répartition, visuellement"
+            ],
+            [
+              "Coefficient de Gini",
+              "Statique",
+              "Un seul chiffre entre 0 et 1"
+            ],
+            [
+              "Top 1 %",
+              "Statique",
+              "La concentration au sommet"
+            ],
+            [
+              "Corrélation des revenus parents-enfants",
+              "Dynamique",
+              "La transmission des inégalités entre générations"
+            ]
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "France métropolitaine, niveau de vie en 2024 (Insee)",
+          "colonnes": [
+            "Indicateur",
+            "Valeur"
+          ],
+          "lignes": [
+            [
+              "Coefficient de Gini",
+              "0,302 (son maximum depuis 1996)"
+            ],
+            [
+              "Rapport interdécile D9/D1",
+              "3,48"
+            ],
+            [
+              "Taux de pauvreté (seuil à 60 % du niveau de vie médian)",
+              "15,4 %"
+            ]
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "lire un D9/D1",
+          "texte": "D9/D1 = 3,48 signifie : le niveau de vie au-dessus duquel se trouvent les 10 % les plus aisés est **3,48 fois** plus élevé que celui en dessous duquel se trouvent les 10 % les plus modestes. Ce n'est **pas** le rapport entre les revenus moyens des deux groupes."
+        }
+      ]
+    },
+    {
+      "id": "conceptions",
+      "titre": "Égalités et conceptions de la justice sociale",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "egalite-des-droits"
+        },
+        {
+          "type": "definition",
+          "glossaire": "egalite-des-chances"
+        },
+        {
+          "type": "definition",
+          "glossaire": "egalite-des-situations"
+        },
+        {
+          "type": "definition",
+          "glossaire": "justice-sociale"
+        },
+        {
+          "type": "tableau",
+          "titre": "Quatre conceptions de la justice",
+          "colonnes": [
+            "Conception",
+            "Auteur",
+            "Ce qui est juste",
+            "Inégalités acceptables ?"
+          ],
+          "lignes": [
+            [
+              "Utilitarisme",
+              "Jeremy Bentham",
+              "Maximiser la somme des bien-être",
+              "Oui, si elles augmentent le bien-être total"
+            ],
+            [
+              "Libertarisme",
+              "Robert Nozick",
+              "Respecter les libertés et la propriété ; État minimal",
+              "Oui, si elles résultent d'échanges libres"
+            ],
+            [
+              "Égalitarisme libéral",
+              "John Rawls",
+              "Libertés égales, égalité des chances, principe de différence",
+              "Oui, si elles profitent aux plus défavorisés"
+            ],
+            [
+              "Égalitarisme strict",
+              "—",
+              "Égalité des situations",
+              "Non (ou très peu)"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "utilitarisme"
+        },
+        {
+          "type": "definition",
+          "glossaire": "libertarisme"
+        },
+        {
+          "type": "definition",
+          "glossaire": "egalitarisme-liberal"
+        },
+        {
+          "type": "definition",
+          "glossaire": "egalitarisme-strict"
+        }
+      ]
+    },
+    {
+      "id": "action-publique",
+      "titre": "L'action des pouvoirs publics et ses débats",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Les pouvoirs publics disposent de quatre leviers (programme) :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**la fiscalité** : un impôt progressif (comme l'impôt sur le revenu) prélève une part plus grande des revenus élevés ;",
+            "**la [[protection sociale]]** : assurance, assistance (comme le RSA) et prestations universelles ;",
+            "**les [[services collectifs]]** : éducation, santé…, accessibles à tous ;",
+            "**la lutte contre les [[discrimination|discrimination]]s** : sanctions, contrôles, mesures en faveur de l'égalité."
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "protection-sociale"
+        },
+        {
+          "type": "definition",
+          "glossaire": "services-collectifs"
+        },
+        {
+          "type": "definition",
+          "glossaire": "discrimination"
+        },
+        {
+          "type": "definition",
+          "glossaire": "prelevements-obligatoires"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Une contrainte de financement.** Ces politiques coûtent cher : en 2025, les prélèvements obligatoires représentent **43,6 % du PIB** (chiffre provisoire)."
+        },
+        {
+          "type": "tableau",
+          "titre": "Trois débats (programme)",
+          "colonnes": [
+            "Débat",
+            "Question posée"
+          ],
+          "lignes": [
+            [
+              "Efficacité",
+              "Ces politiques réduisent-elles vraiment les inégalités ?"
+            ],
+            [
+              "Légitimité",
+              "Les citoyens acceptent-ils de payer l'impôt (consentement à l'impôt) ?"
+            ],
+            [
+              "Effets pervers",
+              "Les aides découragent-elles le travail ou l'investissement (désincitations) ?"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "effets-pervers"
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Utilitarisme",
+      "valeur": "Jeremy Bentham (1748-1832)",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie politique"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Égalitarisme libéral, principe de différence",
+      "valeur": "John Rawls, *Théorie de la justice*, 1971",
+      "certitude": "certain",
+      "source": {
+        "titre": "J. Rawls, A Theory of Justice, 1971"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Libertarisme",
+      "valeur": "Robert Nozick, *Anarchie, État et utopie*, 1974",
+      "certitude": "certain",
+      "source": {
+        "titre": "R. Nozick, Anarchy, State, and Utopia, 1974"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Évolution des inégalités sur longue période",
+      "valeur": "Thomas Piketty, *Le Capital au XXI^e^ siècle*, 2013",
+      "certitude": "certain",
+      "source": {
+        "titre": "T. Piketty, Le Capital au XXIe siècle, Seuil, 2013"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Coefficient de Gini du niveau de vie, France, 2024",
+      "valeur": "0,302",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee Première n° 2117, « Niveau de vie et pauvreté en 2024 », 9 juillet 2026",
+        "url": "https://insee.fr/fr/statistiques/9019316"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Taux de pauvreté, France, 2024",
+      "valeur": "15,4 %",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee Première n° 2117, « Niveau de vie et pauvreté en 2024 », 9 juillet 2026",
+        "url": "https://insee.fr/fr/statistiques/9019316"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Taux de prélèvements obligatoires, 2025 (provisoire)",
+      "valeur": "43,6 % du PIB",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, « Taux de prélèvements obligatoires rapportés au PIB », août 2026",
+        "url": "https://www.insee.fr/fr/statistiques/2381412"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Justice sociale : l'essentiel",
+    "colonnes": [
+      "Question",
+      "Réponse"
+    ],
+    "lignes": [
+      [
+        "Comment évoluent les inégalités ?",
+        "Fortes vers 1900, baisse 1914-1945, remontée depuis 1980"
+      ],
+      [
+        "Comment les mesurer ?",
+        "D9/D1, Lorenz, Gini, top 1 % ; corrélation parents-enfants"
+      ],
+      [
+        "Qu'est-ce qui est juste ?",
+        "Selon la conception : utilitarisme, libertarisme, égalitarisme libéral, égalitarisme strict"
+      ],
+      [
+        "Que fait l'État ?",
+        "Fiscalité, protection sociale, services collectifs, lutte contre les discriminations"
+      ],
+      [
+        "Quels débats ?",
+        "Efficacité, légitimité (consentement à l'impôt), effets pervers"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Tendances** : fortes inégalités vers 1900, forte baisse 1914-1945, remontée depuis les années 1980.",
+    "**Multiformes et cumulatives**.",
+    "**Mesures statiques** : D9/D1, Lorenz, Gini (0 à 1), top 1 %. **Dynamique** : corrélation des revenus parents-enfants.",
+    "**France 2024** : Gini 0,302, D9/D1 3,48, pauvreté 15,4 %.",
+    "**3 égalités** : droits, chances, situations.",
+    "**4 conceptions** : utilitarisme (Bentham), libertarisme (Nozick), égalitarisme libéral (Rawls), égalitarisme strict.",
+    "**4 leviers** : fiscalité, protection sociale, services collectifs, lutte contre les discriminations.",
+    "**Débats** : efficacité, légitimité, effets pervers ; contrainte de financement (PO = 43,6 % du PIB en 2025)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Un coefficient de Gini égal à 0 signifie…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une égalité parfaite",
+          "correct": true,
+          "explication": "Tout le monde a la même chose."
+        },
+        {
+          "id": "b",
+          "texte": "une inégalité maximale",
+          "correct": false,
+          "explication": "Ce serait 1."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Pour Rawls, une inégalité est juste si…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "elle profite aux plus défavorisés",
+          "correct": true,
+          "explication": "Principe de différence."
+        },
+        {
+          "id": "b",
+          "texte": "elle résulte d'un échange libre",
+          "correct": false,
+          "explication": "C'est le critère libertarien de Nozick."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Quelle conception défend un État minimal ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Le libertarisme",
+          "correct": true,
+          "explication": "Nozick."
+        },
+        {
+          "id": "b",
+          "texte": "L'égalitarisme strict",
+          "correct": false,
+          "explication": "Il suppose au contraire une forte redistribution."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "La corrélation des revenus parents-enfants est un outil de mesure…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "dynamique",
+          "correct": true,
+          "explication": "Elle mesure la transmission entre générations."
+        },
+        {
+          "id": "b",
+          "texte": "statique",
+          "correct": false,
+          "explication": "Les outils statiques décrivent une répartition à un moment donné."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "« Les aides découragent le retour à l'emploi » est un argument portant sur…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "les effets pervers",
+          "correct": true,
+          "explication": "Désincitations."
+        },
+        {
+          "id": "b",
+          "texte": "la légitimité",
+          "correct": false,
+          "explication": "La légitimité concerne le consentement à l'impôt."
+        }
+      ]
+    }
+  ]
+}

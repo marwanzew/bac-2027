@@ -1,0 +1,411 @@
+{
+  "id": "axe4",
+  "matiere": "espagnol",
+  "titre": "Axe 4. Enjeux et formes de la communication",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Axes culturels de terminale",
+    "intitule": "Axe 4. Enjeux et formes de la communication",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'espagnol pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 10",
+      "url": "https://www.education.gouv.fr/sites/default/files/annexe-10-programme-d-espagnol-pour-les-classes-de-lyc-e-g-n-ral-et-technologique-440376.pdf"
+    }
+  },
+  "objectifs": [
+    "Analyser des discours, des publicités et les nouvelles formes de communication.",
+    "Parler de la langue espagnole et de la traduction.",
+    "Rapporter des paroles (style indirect)."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "El eje en breve · L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "ce qui est officiel",
+          "texte": "Le **titre de l'axe** vient du programme officiel. Les **pistes** proposées s'inspirent des ressources de La Clé espagnole (ENS de Lyon), qui ne sont pas des consignes officielles : ton professeur choisit ses propres documents."
+        },
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVB, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B1**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Cet axe interroge **la manière dont on communique** et ce qui est en jeu : discours politiques, publicité, langage des SMS et des réseaux, traduction et sous-titrage. Communiquer, c'est informer, mais aussi convaincre ou manipuler."
+        }
+      ]
+    },
+    {
+      "id": "vocabulario",
+      "titre": "Vocabulario",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Vocabulaire de l'axe",
+          "colonnes": [
+            "Español",
+            "Français",
+            "Ejemplo"
+          ],
+          "lignes": [
+            [
+              "el discurso",
+              "le discours",
+              "Un discurso político."
+            ],
+            [
+              "la publicidad",
+              "la publicité",
+              "Un anuncio de publicidad."
+            ],
+            [
+              "el anuncio",
+              "l'annonce, la publicité",
+              "Un anuncio en la tele."
+            ],
+            [
+              "convencer",
+              "convaincre",
+              "El político quiere convencer."
+            ],
+            [
+              "el eslogan",
+              "le slogan",
+              "Un eslogan eficaz."
+            ],
+            [
+              "la traducción",
+              "la traduction",
+              "La traducción automática."
+            ],
+            [
+              "los subtítulos",
+              "les sous-titres",
+              "Ver una película con subtítulos."
+            ],
+            [
+              "el mensaje",
+              "le message",
+              "Mandar un mensaje."
+            ],
+            [
+              "el idioma",
+              "la langue",
+              "El español es un idioma internacional."
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "publicidad"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "titre": "Referencias culturales · Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Pourquoi c'est important"
+          ],
+          "lignes": [
+            [
+              "Fondation de la Real Academia Española (RAE)",
+              "1713",
+              "Elle fixe les normes de la langue"
+            ],
+            [
+              "Création de l'Instituto Cervantes",
+              "1991",
+              "Diffusion de l'espagnol dans le monde"
+            ],
+            [
+              "Plébiscite au Chili (« No » à Pinochet)",
+              "5 octobre 1988",
+              "Une campagne publicitaire qui aide à vaincre une dictature"
+            ],
+            [
+              "Pablo Larraín, film *No*",
+              "2012",
+              "Raconte cette campagne du plébiscite"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pistes",
+      "titre": "Pistas de reflexión · Pistes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**L'évolution des discours** politiques (Perón, Castro, Pinochet).",
+            "**La publicité** et ses références culturelles.",
+            "**La traduction** à l'ère numérique : sous-titrage, doublage, traduction automatique."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "titre": "Gramática · Le point de grammaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**El estilo indirecto** : pour rapporter des paroles, on change les personnes et souvent les temps."
+        },
+        {
+          "type": "tableau",
+          "titre": "Exemples",
+          "colonnes": [
+            "Style direct",
+            "Style indirect"
+          ],
+          "lignes": [
+            [
+              "*«Voy a ganar.»*",
+              "Dijo que **iba** a ganar."
+            ],
+            [
+              "*«Estoy cansado.»*",
+              "Dijo que **estaba** cansado."
+            ],
+            [
+              "*«Venid mañana.»*",
+              "Nos pidió que **fuéramos** al día siguiente. (niveau avancé)"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Verbes introducteurs : *decir, explicar, afirmar, contar, preguntar*."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frases",
+      "titre": "Frases útiles · Phrases utiles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Pour parler ou écrire sur l'axe",
+          "colonnes": [
+            "Español",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "Según el autor…",
+              "Selon l'auteur…"
+            ],
+            [
+              "El objetivo de este anuncio es…",
+              "L'objectif de cette publicité est…"
+            ],
+            [
+              "Se dirige a…",
+              "Il s'adresse à…"
+            ],
+            [
+              "Para convencer, utiliza…",
+              "Pour convaincre, il utilise…"
+            ],
+            [
+              "Dicho de otro modo…",
+              "Autrement dit…"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Fondation de la RAE",
+      "valeur": "1713",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Plébiscite chilien du « No »",
+      "valeur": "5 octobre 1988",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Création de l'Instituto Cervantes",
+      "valeur": "1991",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Locuteurs de l'espagnol dans le monde",
+      "valeur": "près de 600 millions",
+      "certitude": "certain",
+      "source": {
+        "titre": "Instituto Cervantes, « El español: una lengua viva », rapport annuel"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Axe 4. Enjeux et formes de la communication : l'essentiel",
+    "colonnes": [
+      "Aspect",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "Vocabulaire clé",
+        "el discurso, la publicidad, el anuncio, convencer, el eslogan, la traducción"
+      ],
+      [
+        "Repères",
+        "Fondation de la Real Academia Española (RAE) (1713), Création de l'Instituto Cervantes (1991), Plébiscite au Chili (« No » à Pinochet) (5 octobre 1988), Pablo Larraín, film *No* (2012)"
+      ],
+      [
+        "Grammaire",
+        "El estilo indirecto"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Communication** : discours, publicité, réseaux, traduction.",
+    "**Langue** : près de 600 millions de locuteurs ; RAE (1713) ; Instituto Cervantes (1991).",
+    "**Exemple** : le plébiscite chilien de 1988 et le film *No* (2012).",
+    "**Grammaire** : style indirect (*dijo que…*)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*el anuncio*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la publicité, l'annonce",
+          "correct": true,
+          "explication": "Un anuncio en la tele."
+        },
+        {
+          "id": "b",
+          "texte": "l'anniversaire",
+          "correct": false,
+          "explication": "Anniversaire = cumpleaños."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*«Estoy cansado.» → Dijo que…*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "estaba cansado",
+          "correct": true,
+          "explication": "Présent → imparfait."
+        },
+        {
+          "id": "b",
+          "texte": "está cansado",
+          "correct": false,
+          "explication": "Il faut changer le temps."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La RAE est fondée en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1713",
+          "correct": true,
+          "explication": "Real Academia Española."
+        },
+        {
+          "id": "b",
+          "texte": "1991",
+          "correct": false,
+          "explication": "Instituto Cervantes."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*el idioma*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la langue",
+          "correct": true,
+          "explication": "El español es un idioma."
+        },
+        {
+          "id": "b",
+          "texte": "l'idiome régional seulement",
+          "correct": false,
+          "explication": "Sens général : langue."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Le film *No* raconte…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la campagne du plébiscite chilien de 1988",
+          "correct": true,
+          "explication": "Pablo Larraín, 2012."
+        },
+        {
+          "id": "b",
+          "texte": "la guerre civile espagnole",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

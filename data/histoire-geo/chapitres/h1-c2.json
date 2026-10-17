@@ -1,0 +1,323 @@
+{
+  "id": "h1-c2",
+  "matiere": "histoire-geo",
+  "titre": "Les régimes totalitaires",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Histoire · Thème 1 – Fragilités des démocraties, totalitarismes et Seconde Guerre mondiale (1929-1945)",
+    "intitule": "Les régimes totalitaires",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Définir le totalitarisme et ses caractéristiques.",
+    "Comparer l'URSS de Staline, l'Italie de Mussolini et l'Allemagne de Hitler.",
+    "Expliquer les effets des totalitarismes sur l'ordre européen.",
+    "Connaître les trois points de passage."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les points de passage et d'ouverture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "1937-1938 : la Grande Terreur en URSS ;",
+            "9-10 novembre 1938 : la nuit de Cristal ;",
+            "1936-1938 : les interventions étrangères dans la guerre civile espagnole : géopolitique des totalitarismes."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "definir",
+      "titre": "Qu'est-ce qu'un régime totalitaire ?",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "totalitarisme"
+        },
+        {
+          "type": "tableau",
+          "titre": "Les caractéristiques communes",
+          "colonnes": [
+            "Caractéristique",
+            "Exemples"
+          ],
+          "lignes": [
+            [
+              "Une idéologie qui veut transformer l'homme et la société",
+              "Communisme (URSS), fascisme (Italie), nazisme (Allemagne)"
+            ],
+            [
+              "Un parti unique et un chef tout-puissant (culte du chef)",
+              "Staline, Mussolini (le Duce), Hitler (le Führer)"
+            ],
+            [
+              "L'encadrement de la société et la propagande",
+              "Jeunesses hitlériennes, organisations de masse, contrôle de la presse et de l'art"
+            ],
+            [
+              "La violence et la terreur",
+              "Police politique (NKVD, Gestapo), camps (Goulag, camps de concentration)"
+            ]
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "des régimes différents",
+          "texte": "Les trois régimes partagent ces traits mais pas la même idéologie : le nazisme est fondé sur le racisme et l'antisémitisme ; le communisme soviétique prétend construire une société sans classes."
+        }
+      ]
+    },
+    {
+      "id": "trois",
+      "titre": "Trois régimes",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**L'Italie fasciste** : Mussolini prend le pouvoir après la marche sur Rome (octobre 1922) et installe progressivement une dictature."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'URSS de Staline** : collectivisation forcée des terres à partir de 1929, famine en Ukraine (1932-1933), camps du **Goulag**. Pendant la **Grande Terreur (1937-1938)**, la police politique (NKVD) arrête plus d'un million et demi de personnes et en exécute des centaines de milliers : opposants supposés, cadres du parti, officiers, minorités."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'Allemagne nazie** : Hitler chancelier le 30 janvier 1933 ; suppression des libertés et des partis ; persécution des Juifs : **lois de Nuremberg (15 septembre 1935)**, puis **nuit de Cristal (9-10 novembre 1938)** : pogrom dans toute l'Allemagne, synagogues incendiées, magasins pillés, environ 30 000 Juifs envoyés en camps de concentration."
+        },
+        {
+          "type": "definition",
+          "glossaire": "goulag"
+        },
+        {
+          "type": "definition",
+          "glossaire": "antisemitisme"
+        }
+      ]
+    },
+    {
+      "id": "espagne",
+      "titre": "La guerre d'Espagne, laboratoire des totalitarismes",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "En juillet 1936, des militaires menés par le général **Franco** se soulèvent contre la République espagnole : c'est la **guerre civile (1936-1939)**. L'Allemagne nazie et l'Italie fasciste aident Franco (bombardement de **Guernica** le 26 avril 1937 par la légion Condor) ; l'URSS aide les républicains ; des volontaires étrangers forment les **Brigades internationales**. La France et le Royaume-Uni choisissent la **non-intervention**."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "La guerre d'Espagne montre l'alliance des régimes fasciste et nazi, et la faiblesse des démocraties face à eux."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Marche sur Rome (Mussolini)",
+      "valeur": "octobre 1922",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Lois de Nuremberg",
+      "valeur": "15 septembre 1935",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Guerre civile espagnole",
+      "valeur": "1936-1939",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Grande Terreur en URSS",
+      "valeur": "1937-1938",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Nuit de Cristal",
+      "valeur": "9-10 novembre 1938",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Comparer les trois régimes",
+    "colonnes": [
+      "",
+      "Italie fasciste",
+      "URSS stalinienne",
+      "Allemagne nazie"
+    ],
+    "lignes": [
+      [
+        "Chef",
+        "Mussolini",
+        "Staline",
+        "Hitler"
+      ],
+      [
+        "Idéologie",
+        "Nationalisme, culte de l'État",
+        "Communisme",
+        "Racisme, antisémitisme, « espace vital »"
+      ],
+      [
+        "Terreur",
+        "Police politique, opposants emprisonnés",
+        "Goulag, Grande Terreur (1937-1938)",
+        "Gestapo, camps, nuit de Cristal (1938)"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Totalitarisme** : idéologie, parti unique, chef, propagande, terreur.",
+    "**Italie** : Mussolini, marche sur Rome (1922).",
+    "**URSS** : Staline, collectivisation, Goulag, **Grande Terreur 1937-1938**.",
+    "**Allemagne** : Hitler (1933), lois de Nuremberg (1935), **nuit de Cristal 9-10 novembre 1938**.",
+    "**Espagne 1936-1939** : Allemagne et Italie aident Franco, l'URSS aide les républicains ; Guernica (1937)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "La nuit de Cristal a lieu les…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "9-10 novembre 1938",
+          "correct": true,
+          "explication": "Pogrom antisémite."
+        },
+        {
+          "id": "b",
+          "texte": "30 janvier 1933",
+          "correct": false,
+          "explication": "Hitler chancelier."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La Grande Terreur se déroule en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "URSS, 1937-1938",
+          "correct": true,
+          "explication": "NKVD."
+        },
+        {
+          "id": "b",
+          "texte": "Italie, 1922",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Qui aide Franco pendant la guerre d'Espagne ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "L'Allemagne et l'Italie",
+          "correct": true,
+          "explication": "Guernica, 1937."
+        },
+        {
+          "id": "b",
+          "texte": "La France et le Royaume-Uni",
+          "correct": false,
+          "explication": "Ils choisissent la non-intervention."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le Goulag désigne…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le système des camps de travail forcé en URSS",
+          "correct": true,
+          "explication": "Sous Staline."
+        },
+        {
+          "id": "b",
+          "texte": "la police nazie",
+          "correct": false,
+          "explication": "C'est la Gestapo."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Les lois de Nuremberg datent de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1935",
+          "correct": true,
+          "explication": "15 septembre 1935."
+        },
+        {
+          "id": "b",
+          "texte": "1945",
+          "correct": false,
+          "explication": "Le procès de Nuremberg, c'est 1945-1946."
+        }
+      ]
+    }
+  ]
+}

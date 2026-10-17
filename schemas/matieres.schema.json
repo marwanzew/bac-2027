@@ -1,0 +1,234 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "matieres.schema.json",
+  "title": "Catalogue du site (fichier data/matieres.json)",
+  "type": "object",
+  "required": [
+    "version",
+    "session",
+    "epreuves",
+    "matieres"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "session": {
+      "const": "2027"
+    },
+    "epreuves": {
+      "description": "Compte à rebours. date = null tant que la date n'est pas officielle ; modifiable = l'utilisateur peut la saisir.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "libelle",
+          "date",
+          "modifiable"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "$ref": "commun.schema.json#/$defs/id"
+          },
+          "libelle": {
+            "type": "string"
+          },
+          "date": {
+            "oneOf": [
+              {
+                "$ref": "commun.schema.json#/$defs/date"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "heure": {
+            "type": "string",
+            "pattern": "^\\d{2}:\\d{2}$"
+          },
+          "modifiable": {
+            "type": "boolean"
+          },
+          "source": {
+            "$ref": "commun.schema.json#/$defs/source"
+          }
+        },
+        "if": {
+          "properties": {
+            "modifiable": {
+              "const": false
+            }
+          }
+        },
+        "then": {
+          "required": [
+            "source"
+          ],
+          "properties": {
+            "date": {
+              "$ref": "commun.schema.json#/$defs/date"
+            }
+          }
+        }
+      }
+    },
+    "matieres": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "nom",
+          "page",
+          "couleur",
+          "icone",
+          "bac",
+          "programme",
+          "chapitres"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "$ref": "commun.schema.json#/$defs/id"
+          },
+          "nom": {
+            "type": "string"
+          },
+          "page": {
+            "enum": [
+              "cours",
+              "methode",
+              "rappel"
+            ],
+            "description": "cours = leçons + exercices ; methode = Grand oral ; rappel = EPS."
+          },
+          "couleur": {
+            "type": "object",
+            "required": [
+              "clair",
+              "sombre"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "clair": {
+                "type": "string",
+                "pattern": "^#[0-9A-Fa-f]{6}$"
+              },
+              "sombre": {
+                "type": "string",
+                "pattern": "^#[0-9A-Fa-f]{6}$"
+              }
+            }
+          },
+          "icone": {
+            "type": "string",
+            "description": "Nom du symbole dans assets/icones.svg."
+          },
+          "bac": {
+            "type": "object",
+            "required": [
+              "evaluation",
+              "coefficient"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "evaluation": {
+                "enum": [
+                  "epreuve-ecrite",
+                  "epreuve-ecrite-et-orale",
+                  "epreuve-orale",
+                  "controle-continu"
+                ]
+              },
+              "coefficient": {
+                "type": "number"
+              },
+              "epreuve": {
+                "$ref": "commun.schema.json#/$defs/id",
+                "description": "Lien vers un élément de epreuves."
+              }
+            }
+          },
+          "programme": {
+            "type": "object",
+            "required": [
+              "intitule",
+              "source"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "intitule": {
+                "type": "string"
+              },
+              "source": {
+                "$ref": "commun.schema.json#/$defs/source"
+              }
+            }
+          },
+          "glossaire": {
+            "type": "string",
+            "description": "Chemin du glossaire, s'il existe."
+          },
+          "chapitres": {
+            "type": "array",
+            "description": "Dans l'ordre du programme. fichier = null tant que le chapitre n'est pas rédigé (affiché « bientôt »).",
+            "items": {
+              "type": "object",
+              "required": [
+                "id",
+                "titre",
+                "groupe",
+                "fichier"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "id": {
+                  "$ref": "commun.schema.json#/$defs/id"
+                },
+                "titre": {
+                  "type": "string"
+                },
+                "groupe": {
+                  "type": "string",
+                  "description": "Thème, champ ou thématique : sert à regrouper l'affichage."
+                },
+                "evaluableEcrit": {
+                  "type": "boolean"
+                },
+                "fichier": {
+                  "oneOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "exercices": {
+                  "oneOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "contenuPage": {
+            "type": "string",
+            "description": "Pages « methode » ou « rappel » : chemin du fichier de contenu (format schemas/page.schema.json)."
+          }
+        }
+      }
+    }
+  }
+}

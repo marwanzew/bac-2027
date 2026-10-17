@@ -1,0 +1,405 @@
+{
+  "id": "ecole",
+  "matiere": "ses",
+  "titre": "Quelle est l'action de l'École sur les destins individuels et sur l'évolution de la société ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Sociologie et science politique",
+    "intitule": "Quelle est l'action de l'École sur les destins individuels et sur l'évolution de la société ?",
+    "evaluableEcrit": false,
+    "source": {
+      "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+      "consulteLe": "2026-10-17"
+    },
+    "certitude": "a_verifier",
+    "raison": "Objectifs relevés dans un support de formation de l'académie de Normandie qui cite le programme ; le PDF officiel n'a pas pu être relu directement."
+  },
+  "objectifs": [
+    "Comprendre que, dans les sociétés démocratiques, l'École transmet des savoirs et vise à favoriser l'égalité des chances ; comprendre l'évolution, depuis les années 1950, des principaux indicateurs mesurant l'accès à l'école et à l'enseignement supérieur (taux de scolarisation, taux d'accès à un diplôme ou à un type de formation) en distinguant les processus de massification et de démocratisation.",
+    "Comprendre la multiplicité des facteurs d'inégalités de réussite scolaire (notamment, rôle de l'École, rôle du capital culturel et des investissements familiaux, socialisation selon le genre, effets des stratégies des ménages) dans la construction des trajectoires individuelles de formation."
+  ],
+  "parties": [
+    {
+      "id": "missions",
+      "titre": "Les missions de l'École",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "pas évaluable à l'écrit",
+          "texte": "Ce chapitre n'est **pas évaluable à l'épreuve écrite** de SES en 2027. Il est utile pour le chapitre « Mobilité sociale » (rôle du diplôme), qui l'est, et pour le Grand oral."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Dans une société démocratique, l'École a deux missions : **transmettre des savoirs** (connaissances, compétences, valeurs communes) et **favoriser l'égalité des chances**, c'est-à-dire permettre à chacun de réussir selon son mérite et non selon son origine."
+        },
+        {
+          "type": "definition",
+          "glossaire": "egalite-des-chances"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "L'École est à la fois une instance de socialisation et une instance de **sélection** : elle délivre des diplômes qui comptent pour l'accès à l'emploi."
+        }
+      ]
+    },
+    {
+      "id": "massification",
+      "titre": "Massification et démocratisation",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "taux-de-scolarisation"
+        },
+        {
+          "type": "definition",
+          "glossaire": "taux-d-acces"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Depuis les années 1950, l'accès à l'école s'est fortement élargi : prolongation de la scolarité obligatoire jusqu'à 16 ans (réforme de 1959), collège unique (1975), objectif de 80 % d'une génération au niveau du bac (1985), création du bac professionnel (1985). Au début des années 1950, moins d'un jeune sur dix obtenait le bac ; en 2024, **79,4 %** d'une génération est bachelière."
+        },
+        {
+          "type": "definition",
+          "glossaire": "massification-scolaire"
+        },
+        {
+          "type": "definition",
+          "glossaire": "democratisation-scolaire"
+        },
+        {
+          "type": "piege",
+          "titre": "massification ≠ démocratisation",
+          "texte": "La massification (plus d'élèves) ne garantit pas la démocratisation (moins d'inégalités). Tous les milieux ont accédé au bac, mais pas aux mêmes : les enfants de cadres sont surreprésentés dans la voie générale et dans les filières sélectives du supérieur, les enfants d'ouvriers dans la voie professionnelle. Les inégalités se sont **déplacées** vers le type de diplôme."
+        },
+        {
+          "type": "tableau",
+          "titre": "Proportion de bacheliers dans une génération en 2024 (provisoire)",
+          "colonnes": [
+            "Voie",
+            "Femmes",
+            "Hommes",
+            "Ensemble"
+          ],
+          "lignes": [
+            [
+              "Générale",
+              "49,8 %",
+              "36,8 %",
+              "43,1 %"
+            ],
+            [
+              "Technologique",
+              "17,0 %",
+              "15,2 %",
+              "16,1 %"
+            ],
+            [
+              "Professionnelle",
+              "17,7 %",
+              "22,6 %",
+              "20,2 %"
+            ],
+            [
+              "Tous bacs",
+              "84,5 %",
+              "74,7 %",
+              "79,4 %"
+            ]
+          ]
+        },
+        {
+          "type": "plus-loin",
+          "titre": "Démocratisation « ségrégative »",
+          "texte": "Le sociologue Pierre Merle parle de démocratisation ségrégative pour désigner cette situation : l'accès au bac s'ouvre, mais les filières restent socialement séparées."
+        }
+      ]
+    },
+    {
+      "id": "facteurs",
+      "titre": "Les facteurs des inégalités de réussite scolaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme cite quatre facteurs, qui se combinent."
+        },
+        {
+          "type": "definition",
+          "glossaire": "capital-culturel"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Le capital culturel et les investissements familiaux.** Selon Pierre Bourdieu et Jean-Claude Passeron (*Les Héritiers*, 1964 ; *La Reproduction*, 1970), l'École valorise une culture proche de celle des classes favorisées. Les enfants qui la reçoivent dans leur famille sont avantagés : leur réussite paraît due à leur « don » alors qu'elle vient en partie de leur héritage. Les familles investissent aussi du temps et de l'argent (aide aux devoirs, cours particuliers, activités culturelles)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Le rôle de l'École.** L'institution elle-même peut accentuer les écarts : attentes différentes des enseignants, inégalités entre établissements, procédures d'orientation."
+        },
+        {
+          "type": "definition",
+          "glossaire": "socialisation-genre"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**La socialisation selon le genre.** Les filles réussissent en moyenne mieux que les garçons (elles sont plus souvent bachelières), mais elles s'orientent moins vers les filières scientifiques et techniques les plus valorisées."
+        },
+        {
+          "type": "definition",
+          "glossaire": "strategies-menages"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Les stratégies des ménages.** Selon Raymond Boudon (*L'Inégalité des chances*, 1973), à résultats scolaires égaux, les familles font des choix différents : les études longues paraissent plus coûteuses et plus risquées aux familles modestes, et moins indispensables pour garder leur position. Les familles favorisées choisissent aussi leur établissement ou leurs options."
+        },
+        {
+          "type": "tableau",
+          "titre": "Deux explications classiques",
+          "colonnes": [
+            "",
+            "Bourdieu et Passeron",
+            "Boudon"
+          ],
+          "lignes": [
+            [
+              "Logique",
+              "Reproduction : l'héritage culturel",
+              "Choix rationnels : calcul coût-avantage"
+            ],
+            [
+              "Ce qui compte",
+              "Le capital culturel transmis par la famille",
+              "Les décisions prises à chaque palier d'orientation"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "La réussite scolaire résulte de **plusieurs facteurs combinés** : École, capital culturel et investissements familiaux, genre, stratégies des ménages."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Proportion de bacheliers dans une génération (2024, provisoire)",
+      "valeur": "79,4 %",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, « Proportion de bacheliers dans une génération selon la filière et le sexe » (données 2024 provisoires)",
+        "url": "https://www.insee.fr/fr/statistiques/2383585"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Capital culturel, reproduction",
+      "valeur": "Pierre Bourdieu et Jean-Claude Passeron, *Les Héritiers* (1964), *La Reproduction* (1970)",
+      "certitude": "certain",
+      "source": {
+        "titre": "P. Bourdieu, J.-C. Passeron, Les Héritiers, Minuit, 1964 ; La Reproduction, Minuit, 1970"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Stratégies, calcul coût-avantage",
+      "valeur": "Raymond Boudon, *L'Inégalité des chances* (1973)",
+      "certitude": "certain",
+      "source": {
+        "titre": "R. Boudon, L'Inégalité des chances, Armand Colin, 1973"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Création du collège unique (loi Haby)",
+      "valeur": "1975",
+      "certitude": "certain",
+      "source": {
+        "titre": "Loi n° 75-620 du 11 juillet 1975 relative à l'éducation"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Création du baccalauréat professionnel",
+      "valeur": "1985",
+      "certitude": "certain",
+      "source": {
+        "titre": "Ministère de l'Éducation nationale, histoire du baccalauréat"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "Massification et inégalités",
+    "sens": "vertical",
+    "noeuds": [
+      {
+        "id": "a",
+        "texte": "Massification : plus d'élèves, études plus longues"
+      },
+      {
+        "id": "b",
+        "texte": "Mais inégalités de réussite et d'orientation"
+      },
+      {
+        "id": "c",
+        "texte": "Capital culturel et investissements familiaux"
+      },
+      {
+        "id": "d",
+        "texte": "Rôle de l'École"
+      },
+      {
+        "id": "e",
+        "texte": "Socialisation selon le genre"
+      },
+      {
+        "id": "f",
+        "texte": "Stratégies des ménages"
+      }
+    ],
+    "liens": [
+      {
+        "de": "a",
+        "vers": "b"
+      },
+      {
+        "de": "c",
+        "vers": "b"
+      },
+      {
+        "de": "d",
+        "vers": "b"
+      },
+      {
+        "de": "e",
+        "vers": "b"
+      },
+      {
+        "de": "f",
+        "vers": "b"
+      }
+    ]
+  },
+  "fiche": [
+    "**Missions** : transmettre des savoirs ; favoriser l'égalité des chances.",
+    "**Indicateurs** : taux de scolarisation, taux d'accès à un diplôme (79,4 % de bacheliers dans une génération en 2024).",
+    "**Massification** = plus d'élèves ; **démocratisation** = moins d'inégalités d'accès. L'une n'entraîne pas l'autre.",
+    "**Bourdieu et Passeron** : capital culturel, reproduction (*Les Héritiers*, 1964).",
+    "**Boudon** : stratégies des ménages, calcul coût-avantage (1973).",
+    "**Genre** : les filles réussissent mieux mais s'orientent moins vers les filières scientifiques.",
+    "**Rôle de l'École** : établissements, attentes, orientation."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le nombre de bacheliers augmente mais les enfants d'ouvriers restent concentrés dans la voie professionnelle. C'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une massification sans démocratisation complète",
+          "correct": true,
+          "explication": "Plus d'élèves, mais des inégalités déplacées."
+        },
+        {
+          "id": "b",
+          "texte": "une démocratisation complète",
+          "correct": false,
+          "explication": "Les inégalités demeurent dans le type de bac."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Le capital culturel est un concept de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Pierre Bourdieu",
+          "correct": true,
+          "explication": "Avec J.-C. Passeron."
+        },
+        {
+          "id": "b",
+          "texte": "Raymond Boudon",
+          "correct": false,
+          "explication": "Boudon analyse les stratégies et les choix."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Selon Boudon, à notes égales, les familles modestes choisissent moins souvent les études longues car…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "elles les jugent plus coûteuses et plus risquées",
+          "correct": true,
+          "explication": "Calcul coût-avantage."
+        },
+        {
+          "id": "b",
+          "texte": "elles n'ont pas le droit d'y accéder",
+          "correct": false,
+          "explication": "L'accès est ouvert à tous."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Quelle part d'une génération obtient le bac en 2024 (provisoire) ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, « Proportion de bacheliers dans une génération selon la filière et le sexe » (données 2024 provisoires)",
+        "url": "https://www.insee.fr/fr/statistiques/2383585"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Environ 79 %",
+          "correct": true,
+          "explication": "79,4 %."
+        },
+        {
+          "id": "b",
+          "texte": "Environ 50 %",
+          "correct": false,
+          "explication": "Ce n'est pas le chiffre de 2024 : 79,4 %."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Les filles, par rapport aux garçons…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, « Proportion de bacheliers dans une génération selon la filière et le sexe » (données 2024 provisoires)",
+        "url": "https://www.insee.fr/fr/statistiques/2383585"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "obtiennent plus souvent le bac",
+          "correct": true,
+          "explication": "84,5 % contre 74,7 % en 2024."
+        },
+        {
+          "id": "b",
+          "texte": "obtiennent moins souvent le bac",
+          "correct": false,
+          "explication": "C'est l'inverse."
+        }
+      ]
+    }
+  ]
+}

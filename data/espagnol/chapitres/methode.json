@@ -1,0 +1,290 @@
+{
+  "id": "methode",
+  "matiere": "espagnol",
+  "titre": "Méthode : compréhension et expression",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthode",
+    "intitule": "Compétences de compréhension et d'expression (niveau B1 en LVB)",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'espagnol pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 10",
+      "url": "https://www.education.gouv.fr/sites/default/files/annexe-10-programme-d-espagnol-pour-les-classes-de-lyc-e-g-n-ral-et-technologique-440376.pdf"
+    }
+  },
+  "objectifs": [
+    "Savoir comprendre un texte ou un document audio en espagnol.",
+    "Rédiger un texte organisé de niveau B1.",
+    "Prendre la parole en continu et en interaction."
+  ],
+  "parties": [
+    {
+      "id": "evaluation",
+      "titre": "Comment tu es évalué",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVB, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B1**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le niveau **B1** signifie : comprendre l'essentiel d'un texte sur un sujet familier, raconter un événement, donner son avis et le justifier simplement."
+        }
+      ]
+    },
+    {
+      "id": "comprehension",
+      "titre": "Comprendre un document",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Avant de lire** : regarde le titre, la source, la date, les images : fais des hypothèses.",
+            "**Première lecture** : repère qui, quoi, où, quand, pourquoi.",
+            "**Mots transparents** : *la libertad, la tecnología, importante*… Méfie-toi des faux amis (*embarazada* = enceinte, *constipado* = enrhumé, *exquisito* = délicieux).",
+            "**Pour l'audio** : écoute une fois sans écrire, puis note les mots-clés, les nombres, les noms."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "expresion",
+      "titre": "Écrire un texte",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Introduction** : présente le sujet en une ou deux phrases.",
+            "**Développement** : deux ou trois idées, chacune avec un exemple.",
+            "**Conclusion** : ton avis clair."
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Connecteurs indispensables",
+          "colonnes": [
+            "Español",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "primero / después / por último",
+              "d'abord / ensuite / enfin"
+            ],
+            [
+              "además",
+              "de plus"
+            ],
+            [
+              "sin embargo",
+              "cependant"
+            ],
+            [
+              "por eso",
+              "c'est pourquoi"
+            ],
+            [
+              "por ejemplo",
+              "par exemple"
+            ],
+            [
+              "en conclusión",
+              "en conclusion"
+            ],
+            [
+              "creo que / pienso que",
+              "je crois que / je pense que"
+            ],
+            [
+              "no creo que + subjuntivo",
+              "je ne crois pas que…"
+            ]
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "les erreurs fréquentes",
+          "texte": "Oublier l'accent écrit (*está*, *también*) ; confondre *ser* et *estar* ; écrire « es necesario de » au lieu de *es necesario* + infinitif ; oublier les points d'interrogation et d'exclamation à l'envers (¿…? ¡…!)."
+        }
+      ]
+    },
+    {
+      "id": "oral",
+      "titre": "Parler",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**En continu** : annonce ton plan (*Primero voy a presentar…, después…*).",
+            "**En interaction** : *¿Puede repetir, por favor?*, *No estoy de acuerdo porque…*, *Tienes razón, pero…*.",
+            "Entraîne-toi à voix haute avec un chronomètre."
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "notion",
+      "libelle": "Niveau visé en LVB en fin de terminale",
+      "valeur": "B1",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'espagnol pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 10",
+        "url": "https://www.education.gouv.fr/sites/default/files/annexe-10-programme-d-espagnol-pour-les-classes-de-lyc-e-g-n-ral-et-technologique-440376.pdf"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Coefficient de la LVB (contrôle continu)",
+      "valeur": "6",
+      "certitude": "certain",
+      "source": {
+        "titre": "Arrêté relatif aux modalités d'organisation du baccalauréat général"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Les compétences",
+    "colonnes": [
+      "Compétence",
+      "Clé de réussite"
+    ],
+    "lignes": [
+      [
+        "Comprendre (écrit, oral)",
+        "Hypothèses, mots transparents, qui/quoi/où/quand/pourquoi"
+      ],
+      [
+        "Écrire",
+        "Plan simple, connecteurs, exemples, avis justifié"
+      ],
+      [
+        "Parler",
+        "Annoncer son plan, réagir, demander de répéter"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Niveau B1** en LVB ; contrôle continu, coefficient 6.",
+    "**Comprendre** : hypothèses, mots transparents, attention aux faux amis.",
+    "**Écrire** : introduction, 2-3 idées avec exemples, conclusion avec avis.",
+    "**Connecteurs** : además, sin embargo, por eso, por ejemplo, en conclusión.",
+    "**Pièges** : accents, ser/estar, ¿…? ¡…!."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*embarazada* signifie…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "enceinte",
+          "correct": true,
+          "explication": "Faux ami."
+        },
+        {
+          "id": "b",
+          "texte": "embarrassée",
+          "correct": false,
+          "explication": "Embarrassé = avergonzado."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*sin embargo*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "cependant",
+          "correct": true,
+          "explication": "Connecteur d'opposition."
+        },
+        {
+          "id": "b",
+          "texte": "sans embarras",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Le niveau visé en LVB en terminale est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'espagnol pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 10",
+        "url": "https://www.education.gouv.fr/sites/default/files/annexe-10-programme-d-espagnol-pour-les-classes-de-lyc-e-g-n-ral-et-technologique-440376.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "B1",
+          "correct": true,
+          "explication": "Programme de 2025."
+        },
+        {
+          "id": "b",
+          "texte": "C1",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*No creo que …*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "sea verdad",
+          "correct": true,
+          "explication": "Subjonctif après une négation d'opinion."
+        },
+        {
+          "id": "b",
+          "texte": "es verdad",
+          "correct": false,
+          "explication": "Il faut le subjonctif."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*constipado*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "enrhumé",
+          "correct": true,
+          "explication": "Faux ami."
+        },
+        {
+          "id": "b",
+          "texte": "constipé",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

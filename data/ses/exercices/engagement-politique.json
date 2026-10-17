@@ -1,0 +1,292 @@
+{
+  "matiere": "ses",
+  "chapitre": "engagement-politique",
+  "exercices": [
+    {
+      "id": "engagement-qcm",
+      "titre": "Engagement politique : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Repère : forme, explication, variable ou transformation ?"
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Lequel n'est pas une forme d'engagement citée par le programme ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+            "consulteLe": "2026-10-17"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Regarder un débat télévisé",
+              "correct": true,
+              "explication": "Ce n'est pas une action."
+            },
+            {
+              "id": "b",
+              "texte": "La consommation engagée",
+              "correct": false,
+              "explication": "Elle est citée."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Le paradoxe de l'action collective a été formulé par…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Mancur Olson",
+              "correct": true,
+              "explication": "En 1965."
+            },
+            {
+              "id": "b",
+              "texte": "Daniel Gaxie",
+              "correct": false,
+              "explication": "Gaxie a étudié les rétributions du militantisme."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Une association environnementale qui naît des années 1970 relève…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "des nouveaux mouvements sociaux",
+              "correct": true,
+              "explication": "Nouveaux enjeux de mobilisation."
+            },
+            {
+              "id": "b",
+              "texte": "des conflits du travail",
+              "correct": false,
+              "explication": "L'enjeu n'est pas le travail."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Les jeunes votent moins mais manifestent et signent des pétitions. Cela montre que…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'engagement change de forme selon l'âge et la génération",
+              "correct": true,
+              "explication": "Il ne disparaît pas."
+            },
+            {
+              "id": "b",
+              "texte": "les jeunes ne s'intéressent pas à la politique",
+              "correct": false,
+              "explication": "C'est une conclusion trop rapide."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Un groupe d'intérêt cherche à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "influencer les décisions publiques",
+              "correct": true,
+              "explication": "Sans exercer le pouvoir."
+            },
+            {
+              "id": "b",
+              "texte": "conquérir le pouvoir",
+              "correct": false,
+              "explication": "C'est le rôle des partis politiques."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "engagement-paradoxe",
+      "titre": "Surmonter le paradoxe de l'action collective",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que les individus peuvent s'engager malgré le paradoxe de l'action collective."
+      ],
+      "methode": [
+        "Explique le paradoxe en 2 phrases.",
+        "Développe deux explications du programme avec un exemple chacune."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le paradoxe.** Selon Olson, un individu rationnel a intérêt à laisser les autres agir, puisqu'il profitera des résultats sans payer le coût de l'engagement : c'est le passager clandestin."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Incitations sélectives.** Des avantages réservés aux participants rendent l'engagement rentable : un syndicat offre à ses adhérents une aide juridique."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Rétributions symboliques.** L'engagement procure aussi des gratifications non matérielles (Gaxie) : reconnaissance, amitiés, sentiment d'utilité."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "engagement-variables",
+      "titre": "Les variables de l'engagement",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que l'engagement politique dépend de variables sociodémographiques."
+      ],
+      "methode": [
+        "Développe deux variables du programme, avec le mécanisme."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le diplôme.** Plus on est diplômé, plus on participe : le diplôme donne des connaissances politiques et un sentiment de compétence qui encouragent à voter et à militer."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'âge et la génération.** Les jeunes votent moins régulièrement (effet d'âge, lié à une insertion sociale moins stable) et les jeunes générations vivent moins le vote comme un devoir (effet de génération). Mais elles s'engagent dans d'autres formes : manifestations, pétitions, associations."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "engagement-plan-dissertation",
+      "titre": "Plan de dissertation : transformations de l'action collective",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet : « L'action collective s'est-elle transformée ? »",
+        "Construis la problématique et un plan détaillé."
+      ],
+      "methode": [
+        "Plan possible « continuités / transformations » sur les objets, les acteurs, les répertoires.",
+        "Barème sur 18 : à l'épreuve, les 2 derniers points portent sur la maîtrise de la langue."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique possible.** Les nouvelles formes d'action collective ont-elles remplacé les anciennes ou s'y ajoutent-elles ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Des transformations importantes.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. De nouveaux objets : environnement, luttes minoritaires (nouveaux mouvements sociaux).",
+            "B. De nouveaux acteurs : associations, collectifs, coordinations moins hiérarchisés.",
+            "C. De nouveaux répertoires : pétitions en ligne, réseaux sociaux, consommation engagée."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Mais des continuités.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Les conflits du travail restent nombreux (grèves sur les salaires, les retraites).",
+            "B. Syndicats et partis restent des acteurs centraux.",
+            "C. La grève et la manifestation restent au cœur du répertoire."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes et problématique",
+          "points": 4
+        },
+        {
+          "critere": "Partie I : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Partie II : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Pertinence des mécanismes et des exemples",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "le-langage",
+  "exercices": [
+    {
+      "id": "le-langage-qcm",
+      "titre": "Le langage : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relie chaque auteur à sa thèse."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "La danse des abeilles est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une communication, pas un langage humain",
+              "correct": true,
+              "explication": "Pas de combinaisons infinies ni de dialogue."
+            },
+            {
+              "id": "b",
+              "texte": "une langue comme le français",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Le *Gorgias* critique…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la rhétorique des sophistes",
+              "correct": true,
+              "explication": "Platon."
+            },
+            {
+              "id": "b",
+              "texte": "la science",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Rousseau pense que les premières langues sont nées…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "des passions",
+              "correct": true,
+              "explication": "*Essai sur l'origine des langues*."
+            },
+            {
+              "id": "b",
+              "texte": "des besoins techniques",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Le signe linguistique unit…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un signifiant et un signifié",
+              "correct": true,
+              "explication": "Son et sens."
+            },
+            {
+              "id": "b",
+              "texte": "deux mots",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Ineffable signifie…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "qu'on ne peut pas dire",
+              "correct": true,
+              "explication": "Inexprimable."
+            },
+            {
+              "id": "b",
+              "texte": "inefficace",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "le-langage-probl",
+      "titre": "Problématiser : « Les mots trahissent-ils la pensée ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Les mots trahissent-ils la pensée ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Trahir : déformer, mais aussi révéler (« trahir un secret »).",
+        "Bergson contre Hegel."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Trahir a deux sens : déformer (être infidèle) et révéler malgré soi. La pensée est ce que l'esprit conçoit."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** Nous avons souvent l'impression que les mots ne disent pas exactement ce que nous ressentons : ils sont généraux et nos sentiments uniques (Bergson). Mais une pensée qui ne trouve pas ses mots est-elle vraiment claire ? C'est peut-être dans les mots que la pensée se forme (Hegel)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** Le langage est-il un obstacle qui déforme une pensée déjà formée, ou le lieu même où la pensée prend forme ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

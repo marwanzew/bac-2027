@@ -1,0 +1,474 @@
+{
+  "id": "structure-sociale",
+  "matiere": "ses",
+  "titre": "Comment est structurée la société française actuelle ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Sociologie et science politique",
+    "intitule": "Comment est structurée la société française actuelle ?",
+    "evaluableEcrit": true,
+    "source": {
+      "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+      "consulteLe": "2026-10-17"
+    },
+    "certitude": "a_verifier",
+    "raison": "Objectifs relevés dans une fiche de l'académie d'Orléans-Tours qui cite le programme ; le PDF officiel n'a pas pu être relu directement."
+  },
+  "objectifs": [
+    "Savoir identifier les multiples facteurs de structuration et de hiérarchisation de l'espace social (catégories socioprofessionnelles, revenu, diplômes, composition du ménage, position dans le cycle de vie, sexe, lieu de résidence).",
+    "Comprendre les principales évolutions de la structure socioprofessionnelle en France depuis la seconde moitié du XX^e^ siècle (salarisation, tertiarisation, élévation du niveau de qualification, féminisation des emplois).",
+    "Connaître les théories des classes et de la stratification sociale dans la tradition sociologique (Marx et Weber) ; comprendre que la pertinence d'une approche en termes de classes sociales pour rendre compte de la société française fait l'objet de débats théoriques et statistiques : évolution des distances inter- et intra-classes, articulation avec les rapports sociaux de genre, identifications subjectives à un groupe social, multiplication des facteurs d'individualisation."
+  ],
+  "parties": [
+    {
+      "id": "facteurs",
+      "titre": "Les facteurs qui structurent l'espace social",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "espace-social"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La société n'est pas un ensemble d'individus identiques : elle est **structurée** (divisée en groupes) et **hiérarchisée** (certaines positions donnent plus de ressources ou de prestige). Le programme cite sept facteurs :"
+        },
+        {
+          "type": "tableau",
+          "titre": "Sept facteurs de structuration",
+          "colonnes": [
+            "Facteur",
+            "Exemple de différence"
+          ],
+          "lignes": [
+            [
+              "Catégorie socioprofessionnelle",
+              "Un cadre et un ouvrier n'ont ni les mêmes revenus ni les mêmes pratiques culturelles"
+            ],
+            [
+              "Revenu",
+              "Il conditionne le niveau de vie et la consommation"
+            ],
+            [
+              "Diplôme",
+              "Il donne accès à certaines professions et influence les pratiques culturelles"
+            ],
+            [
+              "Composition du ménage",
+              "Une famille monoparentale a en moyenne un niveau de vie plus faible qu'un couple"
+            ],
+            [
+              "Position dans le cycle de vie",
+              "Le patrimoine augmente avec l'âge"
+            ],
+            [
+              "Sexe",
+              "À poste comparable, les femmes gagnent en moyenne moins que les hommes"
+            ],
+            [
+              "Lieu de résidence",
+              "Habiter une métropole, une petite ville ou un quartier prioritaire ne donne pas le même accès à l'emploi ni aux services"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "pcs"
+        },
+        {
+          "type": "tableau",
+          "titre": "Les six groupes socioprofessionnels (personnes en emploi)",
+          "colonnes": [
+            "N°",
+            "Groupe"
+          ],
+          "lignes": [
+            [
+              "1",
+              "Agriculteurs exploitants"
+            ],
+            [
+              "2",
+              "Artisans, commerçants et chefs d'entreprise"
+            ],
+            [
+              "3",
+              "Cadres et professions intellectuelles supérieures"
+            ],
+            [
+              "4",
+              "Professions intermédiaires"
+            ],
+            [
+              "5",
+              "Employés"
+            ],
+            [
+              "6",
+              "Ouvriers"
+            ]
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "PCS et revenu",
+          "texte": "Les PCS ne classent pas directement selon le revenu : dans un même groupe (par exemple les artisans), les revenus peuvent être très différents."
+        }
+      ]
+    },
+    {
+      "id": "evolutions",
+      "titre": "Les évolutions de la structure socioprofessionnelle",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Depuis les années 1950, la structure des emplois en France a connu quatre grandes évolutions."
+        },
+        {
+          "type": "definition",
+          "glossaire": "salarisation"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les agriculteurs, artisans et commerçants, souvent indépendants, sont beaucoup moins nombreux qu'en 1950. En 2025, **86,5 %** des personnes en emploi sont salariées. La part des indépendants remonte un peu depuis quelques années (micro-entrepreneurs)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "tertiarisation"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les emplois se sont déplacés de l'agriculture et de l'industrie vers les services : les employés et les professions intermédiaires sont devenus nombreux, alors que la part des ouvriers a reculé."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'élévation du niveau de qualification** : la part des cadres et des professions intellectuelles supérieures a fortement augmenté (**23,8 %** des personnes en emploi en 2025), grâce à la hausse du niveau de diplôme et à l'essor des emplois qualifiés."
+        },
+        {
+          "type": "definition",
+          "glossaire": "feminisation-emplois"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les femmes sont désormais presque aussi nombreuses que les hommes parmi les actifs. Mais elles restent concentrées dans certains emplois : elles sont majoritaires parmi les employés et minoritaires parmi les ouvriers."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Quatre évolutions à citer : **salarisation, tertiarisation, élévation du niveau de qualification, féminisation des emplois**."
+        }
+      ]
+    },
+    {
+      "id": "marx-weber",
+      "titre": "Les classes sociales selon Marx et Weber",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "classe-sociale"
+        },
+        {
+          "type": "tableau",
+          "titre": "Deux approches",
+          "colonnes": [
+            "",
+            "Karl Marx",
+            "Max Weber"
+          ],
+          "lignes": [
+            [
+              "Critère principal",
+              "La place dans les rapports de production : propriétaires des moyens de production (bourgeoisie) ou non (prolétariat)",
+              "Plusieurs dimensions : économique (classes), sociale (prestige : groupes de statut), politique (partis)"
+            ],
+            [
+              "Vision de la société",
+              "Approche **réaliste** : les classes existent réellement et sont en **conflit** (lutte des classes)",
+              "Approche **nominaliste** : les strates sont des regroupements construits par le chercheur ; une hiérarchie sans conflit nécessaire"
+            ],
+            [
+              "Notion clé",
+              "Conscience de classe : classe « en soi » / classe « pour soi »",
+              "Stratification sociale"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "conscience-de-classe"
+        },
+        {
+          "type": "definition",
+          "glossaire": "stratification-sociale"
+        },
+        {
+          "type": "definition",
+          "glossaire": "groupe-de-statut"
+        },
+        {
+          "type": "piege",
+          "titre": "Weber et les classes",
+          "texte": "Weber parle aussi de **classes**, mais pour lui ce n'est qu'une des trois dimensions de la hiérarchie sociale (l'ordre économique)."
+        }
+      ]
+    },
+    {
+      "id": "debat",
+      "titre": "Les classes sociales existent-elles encore ?",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme cite quatre débats. Pour chacun, il faut savoir présenter les deux côtés."
+        },
+        {
+          "type": "tableau",
+          "titre": "Arguments du débat",
+          "colonnes": [
+            "Débat",
+            "Arguments contre la pertinence des classes",
+            "Arguments pour"
+          ],
+          "lignes": [
+            [
+              "Distances **inter-classes** (entre classes) et **intra-classes** (à l'intérieur)",
+              "Les écarts de mode de vie entre groupes se sont réduits pendant les Trente Glorieuses ([[moyennisation]]) ; chaque groupe est devenu très hétérogène",
+              "Les inégalités de patrimoine et de revenus restent fortes et se transmettent ; les classes supérieures restent très homogènes"
+            ],
+            [
+              "Rapports sociaux de **genre**",
+              "Le genre crée des inégalités qui traversent toutes les classes : une approche par les seules classes les néglige",
+              "Classe et genre se combinent : une ouvrière cumule deux formes de domination"
+            ],
+            [
+              "Identifications **subjectives**",
+              "Peu de personnes déclarent appartenir à une classe ; beaucoup se disent « classe moyenne »",
+              "Le sentiment d'appartenance reste fort dans certains groupes et peut réapparaître lors de mobilisations"
+            ],
+            [
+              "Facteurs d'**individualisation**",
+              "Les individus se définissent par leurs choix personnels plus que par leur groupe",
+              "Les choix « individuels » restent très marqués par l'origine sociale"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "moyennisation"
+        },
+        {
+          "type": "definition",
+          "glossaire": "individualisation"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Une bonne copie montre qu'il y a **débat** : les classes sociales n'ont pas disparu, mais l'analyse en classes doit être complétée par d'autres facteurs (genre, âge, lieu de résidence…)."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Classes sociales, lutte des classes",
+      "valeur": "Karl Marx (1818-1883)",
+      "certitude": "certain",
+      "source": {
+        "titre": "Manuels de SES de terminale"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Stratification sociale en trois ordres",
+      "valeur": "Max Weber (1864-1920)",
+      "certitude": "certain",
+      "source": {
+        "titre": "Manuels de SES de terminale"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Moyennisation de la société française",
+      "valeur": "Henri Mendras, *La Seconde Révolution française*, 1988",
+      "certitude": "certain",
+      "source": {
+        "titre": "H. Mendras, La Seconde Révolution française 1965-1984, Gallimard, 1988"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Part des salariés parmi les personnes en emploi (2025)",
+      "valeur": "86,5 %",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee Première n° 2096, « Une photographie du marché du travail en 2025 », mars 2026",
+        "url": "https://www.insee.fr/fr/statistiques/fichier/8901327/ip2096.pdf"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Part des cadres parmi les personnes en emploi (2025)",
+      "valeur": "23,8 %",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee Première n° 2096, « Une photographie du marché du travail en 2025 », mars 2026",
+        "url": "https://www.insee.fr/fr/statistiques/fichier/8901327/ip2096.pdf"
+      }
+    },
+    {
+      "type": "notion",
+      "libelle": "Nomenclature de l'Insee",
+      "valeur": "PCS 2020 : 6 groupes socioprofessionnels pour les personnes en emploi",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, nomenclature PCS 2020",
+        "url": "https://www.insee.fr/fr/metadonnees/pcs2020/groupeSocioprofessionnel/1"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Structure sociale : l'essentiel",
+    "colonnes": [
+      "Question",
+      "Réponse"
+    ],
+    "lignes": [
+      [
+        "Qu'est-ce qui structure l'espace social ?",
+        "PCS, revenu, diplôme, composition du ménage, âge, sexe, lieu de résidence"
+      ],
+      [
+        "Comment a-t-il évolué ?",
+        "Salarisation, tertiarisation, élévation des qualifications, féminisation"
+      ],
+      [
+        "Comment l'analyser ?",
+        "Marx (classes en conflit, réalisme) ; Weber (trois ordres, nominalisme)"
+      ],
+      [
+        "Les classes existent-elles encore ?",
+        "Débat : distances inter- et intra-classes, genre, identification subjective, individualisation"
+      ]
+    ]
+  },
+  "fiche": [
+    "**7 facteurs** : PCS, revenu, diplôme, composition du ménage, cycle de vie, sexe, lieu de résidence.",
+    "**PCS** (Insee) : 6 groupes pour les personnes en emploi.",
+    "**4 évolutions** : salarisation (86,5 % de salariés en 2025), tertiarisation, élévation des qualifications (23,8 % de cadres), féminisation.",
+    "**Marx** : classes définies par les rapports de production, en conflit ; classe en soi / pour soi.",
+    "**Weber** : trois ordres (économique, social, politique) ; approche nominaliste.",
+    "**Débat** : distances inter-/intra-classes, genre, identification subjective, individualisation.",
+    "**Moyennisation** (Mendras) : argument contre les classes ; persistance des inégalités : argument pour."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Pour Marx, ce qui définit une classe sociale, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la place dans les rapports de production",
+          "correct": true,
+          "explication": "Propriétaires ou non des moyens de production."
+        },
+        {
+          "id": "b",
+          "texte": "le prestige social",
+          "correct": false,
+          "explication": "Le prestige relève des groupes de statut chez Weber."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Weber distingue trois ordres. Lequel n'en fait pas partie ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "L'ordre religieux",
+          "correct": true,
+          "explication": "Les trois ordres sont économique, social et politique."
+        },
+        {
+          "id": "b",
+          "texte": "L'ordre politique",
+          "correct": false,
+          "explication": "C'est l'un des trois ordres (les partis)."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La baisse de la part des indépendants dans l'emploi s'appelle…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la salarisation",
+          "correct": true,
+          "explication": "La part des salariés augmente."
+        },
+        {
+          "id": "b",
+          "texte": "la tertiarisation",
+          "correct": false,
+          "explication": "La tertiarisation concerne le poids des services."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Un argument contre la pertinence des classes sociales aujourd'hui :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "peu de personnes déclarent appartenir à une classe sociale",
+          "correct": true,
+          "explication": "C'est l'affaiblissement de l'identification subjective."
+        },
+        {
+          "id": "b",
+          "texte": "les inégalités de patrimoine restent fortes",
+          "correct": false,
+          "explication": "C'est un argument pour les classes sociales."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Combien de groupes socioprofessionnels compte la PCS pour les personnes en emploi ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, nomenclature PCS 2020",
+        "url": "https://www.insee.fr/fr/metadonnees/pcs2020/groupeSocioprofessionnel/1"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "6",
+          "correct": true,
+          "explication": "Agriculteurs, artisans-commerçants-chefs d'entreprise, cadres, professions intermédiaires, employés, ouvriers."
+        },
+        {
+          "id": "b",
+          "texte": "8",
+          "correct": false,
+          "explication": "8 groupes existent quand on ajoute les retraités et les autres inactifs."
+        }
+      ]
+    }
+  ]
+}

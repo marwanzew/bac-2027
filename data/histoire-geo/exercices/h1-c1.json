@@ -1,0 +1,215 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "h1-c1",
+  "exercices": [
+    {
+      "id": "h1-c1-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Hitler devient chancelier le…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "30 janvier 1933",
+              "correct": true,
+              "explication": "En pleine crise."
+            },
+            {
+              "id": "b",
+              "texte": "1er septembre 1939",
+              "correct": false,
+              "explication": "Début de la guerre."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Le protectionnisme consiste à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "taxer les importations pour protéger sa production",
+              "correct": true,
+              "explication": "Il aggrave la chute du commerce mondial."
+            },
+            {
+              "id": "b",
+              "texte": "ouvrir ses frontières",
+              "correct": false,
+              "explication": "C'est le libre-échange."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Le Social Security Act (1935) crée…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une assurance vieillesse et chômage aux États-Unis",
+              "correct": true,
+              "explication": "Dans le cadre du New Deal."
+            },
+            {
+              "id": "b",
+              "texte": "le SMIC",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Le président du Conseil du Front populaire est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Léon Blum",
+              "correct": true,
+              "explication": "1936."
+            },
+            {
+              "id": "b",
+              "texte": "Charles de Gaulle",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Getúlio Vargas prend le pouvoir au Brésil en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1930",
+              "correct": true,
+              "explication": "Après la crise."
+            },
+            {
+              "id": "b",
+              "texte": "1950",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "h1-c1-composition",
+      "titre": "Plan de composition : « La crise de 1929, une crise économique et politique mondiale »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « La crise de 1929, une crise économique et politique mondiale »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : accroche (jeudi noir, 24 octobre 1929) ; définition de la crise ; bornes 1929-1939 ; problématique : comment une crise boursière américaine devient-elle une crise économique, sociale et politique mondiale ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Une crise économique devenue mondiale**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Le krach et ses causes (spéculation à crédit)",
+            "B. La diffusion : capitaux rapatriés, effondrement du commerce, protectionnisme",
+            "C. L'exemple de l'Amérique latine"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Une crise sociale et politique**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Le chômage de masse et la misère",
+            "B. Les démocraties répondent : New Deal (1933), Front populaire et accords Matignon (1936)",
+            "C. Mais la crise favorise les régimes autoritaires : Hitler chancelier (1933), Vargas (1930)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : une crise qui fragilise les démocraties et prépare le terrain des totalitarismes."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

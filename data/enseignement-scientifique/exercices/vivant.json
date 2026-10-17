@@ -1,0 +1,192 @@
+{
+  "matiere": "enseignement-scientifique",
+  "chapitre": "vivant",
+  "exercices": [
+    {
+      "id": "vivant-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "La dérive génétique est plus forte dans…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Connaissance scientifique établie (programme et manuels)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les petites populations",
+              "correct": true,
+              "explication": "Effet du hasard."
+            },
+            {
+              "id": "b",
+              "texte": "les grandes populations",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Intervalle de confiance pour f = 0,4 et n = 100 :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme d'enseignement scientifique de terminale générale, BO n° 25 du 22 juin 2023"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "[0,3 ; 0,5]",
+              "correct": true,
+              "explication": "1/√100 = 0,1."
+            },
+            {
+              "id": "b",
+              "texte": "[0,39 ; 0,41]",
+              "correct": false,
+              "explication": "1/√n = 0,1."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Malthus a publié son Essai en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Connaissance scientifique établie (programme et manuels)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1798",
+              "correct": true,
+              "explication": "Croissance exponentielle de la population."
+            },
+            {
+              "id": "b",
+              "texte": "1936",
+              "correct": false,
+              "explication": "C'est la machine de Turing."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Population mondiale prévue en 2050 :",
+          "certitude": "certain",
+          "source": {
+            "titre": "ONU, World Population Prospects 2024 (synthèse INED)",
+            "url": "https://www.ined.fr/en/everything_about_population/demographic-facts-sheets/focus-on/2024-les-nations-unies-publient-de-nouvelles-projections-de-population-mondiale/"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "environ 9,7 milliards",
+              "correct": true,
+              "explication": "ONU, 2024."
+            },
+            {
+              "id": "b",
+              "texte": "environ 15 milliards",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Un biais d'une IA vient souvent…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Connaissance scientifique établie (programme et manuels)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "de données d'entraînement déséquilibrées",
+              "correct": true,
+              "explication": "Elle reproduit les biais des données."
+            },
+            {
+              "id": "b",
+              "texte": "de l'électricité",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "vivant-hw",
+      "titre": "Hardy-Weinberg et dépistage",
+      "type": "raisonnement-scientifique",
+      "difficulte": "bac",
+      "dureeMinutes": 25,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "1. Dans une population, la fréquence de l'allèle a est q = 0,1. Calcule p, puis les fréquences des génotypes AA, Aa et aa selon le modèle de Hardy-Weinberg.",
+        "2. Un test de dépistage d'une maladie touchant 2 % de la population détecte 95 % des malades et donne 10 % de faux positifs chez les non-malades. Sur 10 000 personnes, calcule la probabilité d'être malade si le test est positif.",
+        "3. Que conclure sur l'interprétation d'un test positif ?"
+      ],
+      "methode": [
+        "p + q = 1 ; génotypes p², 2pq, q².",
+        "Travaille avec un tableau d'effectifs sur 10 000 personnes."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "1. p = 0,9 ; AA = 0,81 ; Aa = 2 × 0,9 × 0,1 = 0,18 ; aa = 0,01 (total = 1)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "2. 200 malades → 190 positifs ; 9 800 non-malades → 980 faux positifs. Positifs = 1 170. Probabilité = 190 / 1 170 ≈ **0,16, soit environ 16 %**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "3. Quand la maladie est rare, la majorité des tests positifs sont des faux positifs : il faut confirmer par un second examen."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Hardy-Weinberg juste",
+          "points": 6
+        },
+        {
+          "critere": "Tableau d'effectifs et calcul",
+          "points": 8
+        },
+        {
+          "critere": "Conclusion",
+          "points": 4
+        },
+        {
+          "critere": "Rédaction",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

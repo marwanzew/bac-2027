@@ -1,0 +1,367 @@
+{
+  "id": "vivant",
+  "matiere": "enseignement-scientifique",
+  "titre": "Une histoire du vivant",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thème 3",
+    "intitule": "Une histoire du vivant",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'enseignement scientifique de terminale générale, BO n° 25 du 22 juin 2023"
+    }
+  },
+  "objectifs": [
+    "Estimer une biodiversité et utiliser le modèle de Hardy-Weinberg.",
+    "Comprendre l'évolution comme grille de lecture du vivant, y compris pour l'espèce humaine.",
+    "Utiliser des modèles démographiques et comprendre les bases de l'intelligence artificielle."
+  ],
+  "parties": [
+    {
+      "id": "biodiversite",
+      "titre": "La biodiversité et son évolution",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "biodiversite"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Estimer un effectif** par **capture-marquage-recapture** : on capture et marque n₁ individus, on les relâche, puis on en capture n₂ dont m sont marqués. Si la proportion de marqués est la même dans l'échantillon que dans la population : **N ≈ n₁ × n₂ / m**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Intervalle de confiance** : pour une fréquence f mesurée sur un échantillon de taille n (n ≥ 25 environ), l'intervalle [f − 1/√n ; f + 1/√n] contient la vraie proportion avec un niveau de confiance de 95 %."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Modèle de Hardy-Weinberg** : pour un gène à deux allèles de fréquences p et q (p + q = 1), les fréquences des génotypes sont **p², 2pq et q²**, et restent stables d'une génération à l'autre si : population très grande, unions au hasard, pas de mutation, de sélection ni de migration."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Dans la réalité, ces conditions ne sont jamais réunies : les fréquences changent sous l'effet de la **sélection naturelle**, de la **dérive génétique**, des mutations et des migrations."
+        },
+        {
+          "type": "definition",
+          "glossaire": "selection-naturelle"
+        },
+        {
+          "type": "definition",
+          "glossaire": "derive-genetique"
+        }
+      ]
+    },
+    {
+      "id": "evolution",
+      "titre": "L'évolution comme grille de lecture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "L'évolution explique de nombreux phénomènes actuels. Exemple : la **résistance aux antibiotiques**. Dans une population de bactéries, quelques-unes portent par hasard une mutation de résistance ; l'antibiotique tue les autres : les résistantes survivent et se multiplient."
+        },
+        {
+          "type": "piege",
+          "titre": "l'antibiotique ne crée pas la résistance",
+          "texte": "La mutation existe **avant** le traitement ; l'antibiotique **sélectionne** les bactéries résistantes. D'où l'importance de ne pas utiliser les antibiotiques sans nécessité."
+        },
+        {
+          "type": "definition",
+          "glossaire": "une-seule-sante"
+        }
+      ]
+    },
+    {
+      "id": "humain",
+      "titre": "L'évolution humaine",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "L'espèce humaine est un primate. Les comparaisons génétiques permettent de construire des **arbres phylogénétiques** : l'Homme et le chimpanzé partagent un **ancêtre commun** vieux de quelques millions d'années (environ 7 millions d'années). L'Homme ne descend pas du chimpanzé."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le genre **Homo** a compté plusieurs espèces. **Homo sapiens** apparaît en Afrique ; les plus anciens fossiles connus (Jebel Irhoud, Maroc) ont environ **300 000 ans**. Il a coexisté avec d'autres humains, comme les **Néandertaliens** et les **Dénisoviens**, avec lesquels il s'est hybridé : les humains actuels non africains portent environ **2 %** d'ADN néandertalien."
+        }
+      ]
+    },
+    {
+      "id": "demographie",
+      "titre": "Les modèles démographiques",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Deux modèles",
+          "colonnes": [
+            "Modèle",
+            "Formule",
+            "Évolution"
+          ],
+          "lignes": [
+            [
+              "Linéaire",
+              "uₙ₊₁ = uₙ + r",
+              "On ajoute la même quantité chaque année"
+            ],
+            [
+              "Exponentiel",
+              "uₙ₊₁ = uₙ × q",
+              "On multiplie par le même nombre chaque année"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Malthus** (*Essai sur le principe de population*, 1798) estimait que la population croît de façon exponentielle et les ressources de façon linéaire, ce qui mènerait à des famines. Les progrès agricoles ont démenti cette prévision à l'échelle mondiale."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La population mondiale est d'environ **8,2 milliards** en 2024 ; l'ONU prévoit environ **9,7 milliards en 2050** et un pic d'environ **10,3 milliards** vers le milieu des années 2080."
+        },
+        {
+          "type": "piege",
+          "titre": "pas d'exponentielle éternelle",
+          "texte": "Un modèle n'est valable que sur une période limitée : aucune population ne peut croître indéfiniment de façon exponentielle."
+        }
+      ]
+    },
+    {
+      "id": "ia",
+      "titre": "De la machine de Turing à l'intelligence artificielle",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "En 1936, **Alan Turing** décrit une machine théorique capable d'exécuter n'importe quel algorithme : c'est la base de l'informatique."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "L'**apprentissage automatique** (machine learning) consiste à entraîner un programme sur de nombreuses données pour qu'il apprenne à reconnaître ou prédire. Si les données d'entraînement sont déséquilibrées, l'IA reproduit ces **biais**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Inférence bayésienne** : on met à jour une probabilité grâce à une nouvelle information. Elle explique les **faux positifs** : quand une maladie est rare, un test positif ne signifie pas forcément qu'on est malade."
+        },
+        {
+          "type": "exemple",
+          "titre": "Faux positifs",
+          "texte": "Maladie touchant 1 % de 10 000 personnes (100 malades). Le test détecte 99 % des malades (99 positifs) et donne 5 % de faux positifs chez les 9 900 non-malades (495). Sur 594 positifs, seuls 99 sont malades : **environ 17 %**."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "formule",
+      "libelle": "Capture-marquage-recapture",
+      "valeur": "N ≈ n₁ × n₂ / m",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "type": "formule",
+      "libelle": "Hardy-Weinberg",
+      "valeur": "p² + 2pq + q² = 1",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "type": "formule",
+      "libelle": "Intervalle de confiance à 95 %",
+      "valeur": "[f − 1/√n ; f + 1/√n]",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'enseignement scientifique de terminale générale, BO n° 25 du 22 juin 2023"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Plus anciens fossiles d'Homo sapiens (Jebel Irhoud)",
+      "valeur": "environ 300 000 ans",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Malthus, Essai sur le principe de population",
+      "valeur": "1798",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Population mondiale prévue en 2050 (ONU)",
+      "valeur": "environ 9,7 milliards",
+      "certitude": "certain",
+      "source": {
+        "titre": "ONU, World Population Prospects 2024 (synthèse INED)",
+        "url": "https://www.ined.fr/en/everything_about_population/demographic-facts-sheets/focus-on/2024-les-nations-unies-publient-de-nouvelles-projections-de-population-mondiale/"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Machine de Turing",
+      "valeur": "1936",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le vivant en un tableau",
+    "colonnes": [
+      "Thème",
+      "À retenir"
+    ],
+    "lignes": [
+      [
+        "Biodiversité",
+        "CMR, intervalle de confiance, Hardy-Weinberg"
+      ],
+      [
+        "Évolution",
+        "Sélection, dérive ; résistance aux antibiotiques"
+      ],
+      [
+        "Humain",
+        "Ancêtre commun avec le chimpanzé ; Homo sapiens ≈ 300 000 ans"
+      ],
+      [
+        "Démographie",
+        "Linéaire / exponentiel ; Malthus ; 9,7 milliards en 2050"
+      ],
+      [
+        "IA",
+        "Turing, apprentissage, biais, faux positifs"
+      ]
+    ]
+  },
+  "fiche": [
+    "**CMR** : N ≈ n₁ × n₂ / m.",
+    "**Hardy-Weinberg** : p², 2pq, q² stables si aucune force évolutive.",
+    "**Sélection** et **dérive** font évoluer les fréquences d'allèles.",
+    "**Homo sapiens** : Afrique, ≈ 300 000 ans ; hybridation avec Néandertal.",
+    "**Démographie** : linéaire (+r) ou exponentiel (×q) ; 9,7 milliards en 2050.",
+    "**Bayes** : quand la maladie est rare, beaucoup de positifs sont faux."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "On marque 50 poissons ; on en recapture 40 dont 10 marqués. Effectif estimé :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "200",
+          "correct": true,
+          "explication": "50 × 40 / 10."
+        },
+        {
+          "id": "b",
+          "texte": "100",
+          "correct": false,
+          "explication": "Recalcule n₁ × n₂ / m."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Si p = 0,7, la fréquence des homozygotes p² vaut…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "0,49",
+          "correct": true,
+          "explication": "0,7²."
+        },
+        {
+          "id": "b",
+          "texte": "0,7",
+          "correct": false,
+          "explication": "C'est p, pas p²."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La résistance aux antibiotiques s'explique par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la sélection de bactéries déjà mutées",
+          "correct": true,
+          "explication": "L'antibiotique sélectionne."
+        },
+        {
+          "id": "b",
+          "texte": "l'antibiotique qui crée la mutation",
+          "correct": false,
+          "explication": "La mutation préexiste."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "L'Homme…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "partage un ancêtre commun avec le chimpanzé",
+          "correct": true,
+          "explication": "Il n'en descend pas."
+        },
+        {
+          "id": "b",
+          "texte": "descend du chimpanzé",
+          "correct": false,
+          "explication": "Erreur classique."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Modèle exponentiel :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "uₙ₊₁ = uₙ × q",
+          "correct": true,
+          "explication": "On multiplie."
+        },
+        {
+          "id": "b",
+          "texte": "uₙ₊₁ = uₙ + r",
+          "correct": false,
+          "explication": "C'est le modèle linéaire."
+        }
+      ]
+    }
+  ]
+}

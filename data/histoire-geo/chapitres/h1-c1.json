@@ -1,0 +1,287 @@
+{
+  "id": "h1-c1",
+  "matiere": "histoire-geo",
+  "titre": "L'impact de la crise de 1929 : déséquilibres économiques et sociaux",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Histoire · Thème 1 – Fragilités des démocraties, totalitarismes et Seconde Guerre mondiale (1929-1945)",
+    "intitule": "L'impact de la crise de 1929 : déséquilibres économiques et sociaux",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Expliquer comment un krach boursier aux États-Unis devient une crise mondiale.",
+    "Décrire les conséquences sociales : chômage de masse, misère.",
+    "Montrer les réponses politiques : New Deal, Front populaire, mais aussi montée des régimes autoritaires.",
+    "Connaître les trois points de passage du programme."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les points de passage et d'ouverture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "les conséquences de la crise de 1929 en Amérique latine ;",
+            "1933 : un nouveau président des États-Unis, F. D. Roosevelt, pour une nouvelle politique économique, le New Deal ;",
+            "juin 1936 : les accords Matignon."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "crise",
+      "titre": "D'un krach à une crise mondiale",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le **jeudi 24 octobre 1929** (« jeudi noir »), les cours de la Bourse de New York s'effondrent. Beaucoup d'Américains avaient acheté des actions à crédit : ils sont ruinés, les banques font faillite, le crédit disparaît."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**La crise se propage** : les banques américaines rapatrient leurs capitaux prêtés à l'Europe (notamment à l'Allemagne) ; le commerce mondial s'effondre ; les États se protègent par des droits de douane (protectionnisme), ce qui aggrave la crise."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**En Amérique latine**, les pays exportateurs de matières premières (café du Brésil, cuivre du Chili, viande d'Argentine) voient leurs prix et leurs exportations s'effondrer. La crise favorise l'arrivée de régimes autoritaires, comme Getúlio Vargas au Brésil en 1930."
+        },
+        {
+          "type": "definition",
+          "glossaire": "crise-economique"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "**Krach (1929) → faillites bancaires → chute de la production et du commerce → chômage de masse → crise politique.**"
+        }
+      ]
+    },
+    {
+      "id": "reponses",
+      "titre": "Les réponses : New Deal, Front populaire… ou dictature",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Aux États-Unis**, Franklin D. Roosevelt, élu en novembre 1932, devient président en **mars 1933**. Avec le **New Deal**, l'État intervient dans l'économie : grands travaux, aide aux agriculteurs, régulation des banques, création d'une assurance vieillesse et chômage (Social Security Act, 1935)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "new-deal"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**En France**, la crise arrive plus tard. En 1936, le **Front populaire** (socialistes, radicaux, soutenus par les communistes) gagne les élections ; Léon Blum devient président du Conseil. Après de grandes grèves, les **accords Matignon (7-8 juin 1936)** entre patronat et syndicats accordent des hausses de salaires, les conventions collectives et les délégués du personnel ; les lois de juin 1936 créent **deux semaines de congés payés** et la **semaine de 40 heures**."
+        },
+        {
+          "type": "definition",
+          "glossaire": "front-populaire"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**En Allemagne**, le chômage de masse favorise les nazis : Hitler devient chancelier le **30 janvier 1933**."
+        },
+        {
+          "type": "piege",
+          "titre": "ne pas confondre",
+          "texte": "Le New Deal relance l'économie par l'intervention de l'État, mais il ne met pas fin seul à la crise : c'est surtout la Seconde Guerre mondiale qui relance massivement la production américaine."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Krach de Wall Street (« jeudi noir »)",
+      "valeur": "24 octobre 1929",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Roosevelt président, début du New Deal",
+      "valeur": "mars 1933",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Hitler chancelier",
+      "valeur": "30 janvier 1933",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Accords Matignon",
+      "valeur": "7-8 juin 1936",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La crise de 1929 : causes, effets, réponses",
+    "colonnes": [
+      "",
+      "Aspects"
+    ],
+    "lignes": [
+      [
+        "Causes",
+        "Spéculation à crédit, surproduction, krach boursier"
+      ],
+      [
+        "Diffusion",
+        "Retrait des capitaux américains, effondrement du commerce, protectionnisme"
+      ],
+      [
+        "Effets",
+        "Chômage de masse, misère, crise des démocraties"
+      ],
+      [
+        "Réponses",
+        "New Deal (États-Unis), Front populaire (France), régimes autoritaires (Allemagne, Amérique latine)"
+      ]
+    ]
+  },
+  "fiche": [
+    "**24 octobre 1929** : krach de Wall Street.",
+    "Crise **mondiale** : capitaux rapatriés, commerce effondré, protectionnisme.",
+    "**Amérique latine** : chute des exportations de matières premières, régimes autoritaires (Vargas, 1930).",
+    "**New Deal** (Roosevelt, 1933) : intervention de l'État.",
+    "**Front populaire** (1936) : accords Matignon (7-8 juin), congés payés, 40 heures.",
+    "**Allemagne** : Hitler chancelier le 30 janvier 1933."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le krach de Wall Street a lieu en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "octobre 1929",
+          "correct": true,
+          "explication": "Le jeudi 24 octobre."
+        },
+        {
+          "id": "b",
+          "texte": "octobre 1933",
+          "correct": false,
+          "explication": "1933 : Roosevelt et Hitler arrivent au pouvoir."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Le New Deal est la politique de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Roosevelt",
+          "correct": true,
+          "explication": "À partir de 1933."
+        },
+        {
+          "id": "b",
+          "texte": "Léon Blum",
+          "correct": false,
+          "explication": "Blum : Front populaire."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Les accords Matignon sont signés en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "juin 1936",
+          "correct": true,
+          "explication": "7-8 juin 1936."
+        },
+        {
+          "id": "b",
+          "texte": "mai 1968",
+          "correct": false,
+          "explication": "Ce sont les accords de Grenelle."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "En Amérique latine, la crise frappe surtout…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "les exportations de matières premières",
+          "correct": true,
+          "explication": "Café, cuivre, viande…"
+        },
+        {
+          "id": "b",
+          "texte": "les usines automobiles",
+          "correct": false,
+          "explication": "Ce n'est pas l'essentiel."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Le Front populaire crée…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "deux semaines de congés payés",
+          "correct": true,
+          "explication": "Lois de juin 1936."
+        },
+        {
+          "id": "b",
+          "texte": "la Sécurité sociale",
+          "correct": false,
+          "explication": "Elle date de 1945."
+        }
+      ]
+    }
+  ]
+}

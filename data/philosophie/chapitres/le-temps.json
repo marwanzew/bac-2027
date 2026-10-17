@@ -1,0 +1,349 @@
+{
+  "id": "le-temps",
+  "matiere": "philosophie",
+  "titre": "Le temps",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "Le temps",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer temps objectif (mesuré) et temps vécu (durée).",
+    "Comprendre le rapport au passé, au présent et à l'avenir.",
+    "Connaître Augustin, Sénèque, Pascal, Kant, Bergson, Heidegger.",
+    "Traiter un sujet sur le temps."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "temps"
+        },
+        {
+          "type": "definition",
+          "glossaire": "duree"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le temps **objectif** est celui des horloges, mesurable et identique pour tous ; le temps **vécu** dépend de notre conscience : une heure d'ennui paraît longue, une heure de joie trop courte."
+        },
+        {
+          "type": "definition",
+          "glossaire": "finitude"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : nous vivons dans le temps sans pouvoir le saisir : le passé n'est plus, l'avenir n'est pas encore, le présent passe aussitôt. Le temps nous détruit-il (vieillesse, mort), ou est-il la condition de toute action et de tout projet ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **temps mesuré / temps vécu** ; **fuite du temps / projet** ; **présent / passé et avenir**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Augustin (*Confessions*, livre XI, vers 400)",
+              "Je sais ce qu'est le temps tant qu'on ne me le demande pas ; il existe dans l'esprit : mémoire du passé, attention au présent, attente de l'avenir",
+              "Le temps est dans l'âme"
+            ],
+            [
+              "Sénèque (*De la brièveté de la vie*, I^er^ siècle)",
+              "La vie n'est pas courte, c'est nous qui la gaspillons",
+              "Bien employer son temps"
+            ],
+            [
+              "Pascal (*Pensées*, 1670)",
+              "« Ainsi nous ne vivons jamais, mais nous espérons de vivre »",
+              "Nous fuyons le présent"
+            ],
+            [
+              "Kant (*Critique de la raison pure*, 1781)",
+              "Le temps est une forme a priori de notre sensibilité : la manière dont nous percevons toute chose",
+              "Le temps vient du sujet"
+            ],
+            [
+              "Bergson (*Essai sur les données immédiates de la conscience*, 1889)",
+              "La durée vécue est continue et qualitative ; le temps des horloges la découpe en morceaux",
+              "Temps vécu ≠ temps mesuré"
+            ],
+            [
+              "Heidegger (*Être et temps*, 1927)",
+              "L'homme est un être-pour-la-mort : la conscience de sa finitude lui permet d'exister authentiquement",
+              "Le temps, horizon de l'existence"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Les vacances qui passent trop vite, les cours qui n'en finissent pas.",
+            "Le souvenir qui fait revivre le passé.",
+            "Remettre au lendemain : la procrastination.",
+            "Vivre l'instant présent : carpe diem."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Le temps est-il notre ennemi ?",
+            "Peut-on échapper au temps ?",
+            "Le passé a-t-il plus de réalité que l'avenir ?",
+            "Faut-il vivre dans le présent ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Le temps est dans l'âme",
+      "valeur": "Augustin, *Confessions*, livre XI, vers 400",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Bien employer son temps",
+      "valeur": "Sénèque, *De la brièveté de la vie*, I^er^ siècle",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Nous fuyons le présent",
+      "valeur": "Pascal, *Pensées*, 1670",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Le temps vient du sujet",
+      "valeur": "Kant, *Critique de la raison pure*, 1781",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Temps vécu ≠ temps mesuré",
+      "valeur": "Bergson, *Essai sur les données immédiates de la conscience*, 1889",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le temps : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Augustin",
+        "Je sais ce qu'est le temps tant qu'on ne me le demande pas ; il existe dans l'esprit : mémoire du passé, attention au présent, attente de l'avenir"
+      ],
+      [
+        "Sénèque",
+        "La vie n'est pas courte, c'est nous qui la gaspillons"
+      ],
+      [
+        "Pascal",
+        "« Ainsi nous ne vivons jamais, mais nous espérons de vivre »"
+      ],
+      [
+        "Kant",
+        "Le temps est une forme a priori de notre sensibilité : la manière dont nous percevons toute chose"
+      ],
+      [
+        "Bergson",
+        "La durée vécue est continue et qualitative ; le temps des horloges la découpe en morceaux"
+      ],
+      [
+        "Heidegger",
+        "L'homme est un être-pour-la-mort : la conscience de sa finitude lui permet d'exister authentiquement"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Temps objectif** (horloges) ≠ **temps vécu** (durée).",
+    "**Augustin** : le temps est dans l'esprit (mémoire, attention, attente).",
+    "**Sénèque** : la vie n'est pas courte, nous la gaspillons.",
+    "**Pascal** : nous ne vivons jamais, nous espérons de vivre.",
+    "**Kant** : forme a priori de la sensibilité.",
+    "**Bergson** : la durée.",
+    "**Heidegger** : être-pour-la-mort."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "La durée est une notion de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Bergson",
+          "correct": true,
+          "explication": "1889."
+        },
+        {
+          "id": "b",
+          "texte": "Kant",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Pour Augustin, le temps existe…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "dans l'esprit",
+          "correct": true,
+          "explication": "*Confessions*, XI."
+        },
+        {
+          "id": "b",
+          "texte": "seulement dans les horloges",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "« Nous ne vivons jamais, mais nous espérons de vivre » :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Pascal",
+          "correct": true,
+          "explication": "*Pensées*."
+        },
+        {
+          "id": "b",
+          "texte": "Sénèque",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Être-pour-la-mort :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Heidegger",
+          "correct": true,
+          "explication": "*Être et temps*, 1927."
+        },
+        {
+          "id": "b",
+          "texte": "Augustin",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Pour Sénèque, la vie…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "n'est pas courte, nous la gaspillons",
+          "correct": true,
+          "explication": "*De la brièveté de la vie*."
+        },
+        {
+          "id": "b",
+          "texte": "est trop longue",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

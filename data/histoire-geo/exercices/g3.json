@@ -1,0 +1,267 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "g3",
+  "exercices": [
+    {
+      "id": "g3-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "La PAC est créée en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1962",
+              "correct": true,
+              "explication": "Politique agricole commune."
+            },
+            {
+              "id": "b",
+              "texte": "1992",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Frontex surveille…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les frontières extérieures de l'UE",
+              "correct": true,
+              "explication": "Créée en 2004."
+            },
+            {
+              "id": "b",
+              "texte": "les prix",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "L'eurorégion Pyrénées-Méditerranée associe…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'Occitanie et la Catalogne",
+              "correct": true,
+              "explication": "Coopération transfrontalière."
+            },
+            {
+              "id": "b",
+              "texte": "la Bretagne et l'Irlande",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Le marché unique est en place depuis…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1993",
+              "correct": true,
+              "explication": "Libre circulation."
+            },
+            {
+              "id": "b",
+              "texte": "1957",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "La cohésion territoriale cherche…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'équilibre entre les territoires",
+              "correct": true,
+              "explication": "Solidarité."
+            },
+            {
+              "id": "b",
+              "texte": "la concentration à Paris",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "g3-composition",
+      "titre": "Plan de composition : « L'Union européenne dans la mondialisation, entre compétitivité et cohésion »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « L'Union européenne dans la mondialisation, entre compétitivité et cohésion »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : problématique : l'UE peut-elle être à la fois compétitive dans la mondialisation et solidaire entre ses territoires ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Un espace compétitif**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Le marché unique et la dorsale",
+            "B. Un espace ouvert au monde (ports, commerce)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Un espace qui cherche la cohésion**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Des inégalités entre régions",
+            "B. Les politiques de cohésion et la PAC"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III. Un espace plus ou moins ouvert**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Schengen et Frontex",
+            "B. Les territoires transfrontaliers (exemple de la France)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : un équilibre difficile."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "g3-croquis",
+      "titre": "Légende de croquis : « L'Union européenne, entre compétitivité et cohésion »",
+      "type": "croquis",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de croquis (créé pour s'entraîner) : « L'Union européenne, entre compétitivité et cohésion »",
+        "Construis une légende organisée en 2 ou 3 parties, avec pour chaque élément le figuré que tu utiliserais (aplat de couleur, point, flèche, trait)."
+      ],
+      "methode": [
+        "Chaque partie de la légende a un titre qui répond au sujet.",
+        "Les figurés : surfaces = aplats ou hachures ; lieux = points ou symboles ; flux = flèches ; limites = traits.",
+        "Hiérarchise : la taille d'un figuré traduit l'importance."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "**1. Un cœur compétitif** : la dorsale européenne (aplat foncé) ; grandes métropoles (points) ; grands ports (Rotterdam, Anvers, Hambourg).",
+            "**2. Des régions aidées** : régions en retard de développement (aplat clair, Europe de l'Est et du Sud).",
+            "**3. Un espace ouvert mais contrôlé** : frontières extérieures de Schengen (trait épais) ; routes migratoires (flèches) ; échanges mondiaux (flèches vers l'extérieur)."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Légende organisée et titrée",
+          "points": 8
+        },
+        {
+          "critere": "Figurés adaptés",
+          "points": 6
+        },
+        {
+          "critere": "Exemples localisés",
+          "points": 6
+        }
+      ]
+    }
+  ]
+}

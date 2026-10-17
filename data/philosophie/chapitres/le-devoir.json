@@ -1,0 +1,325 @@
+{
+  "id": "le-devoir",
+  "matiere": "philosophie",
+  "titre": "Le devoir",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "Le devoir",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer devoir moral, obligation juridique et contrainte.",
+    "Comprendre la différence entre agir « par devoir » et « conformément au devoir ».",
+    "Connaître les positions de Kant, de l'utilitarisme (Mill) et l'exemple d'Antigone.",
+    "Traiter un sujet sur le devoir avec des exemples."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "devoir"
+        },
+        {
+          "type": "definition",
+          "glossaire": "morale"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le devoir n'est pas une **contrainte** (une force qui s'impose) : c'est une **obligation**, que l'on peut refuser de suivre, mais que l'on reconnaît comme valable."
+        },
+        {
+          "type": "definition",
+          "glossaire": "imperatif-categorique"
+        },
+        {
+          "type": "definition",
+          "glossaire": "utilitarisme-philo"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : le devoir semble s'opposer à notre désir et à notre intérêt. D'où vient alors son autorité ? De la société (l'éducation, la coutume) ou de la raison de chacun ? Et que faire quand deux devoirs entrent en conflit ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **devoir / désir** ; **devoir / bonheur** ; **devoir moral / loi de l'État** (Antigone)."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Sophocle (*Antigone*, V^e^ s. av. J.-C.)",
+              "Antigone enterre son frère malgré l'interdiction du roi Créon, au nom d'une loi non écrite",
+              "Le devoir moral peut s'opposer à la loi de la cité"
+            ],
+            [
+              "Kant (*Fondements de la métaphysique des mœurs*, 1785)",
+              "Une action n'a de valeur morale que si elle est faite par devoir, et non par intérêt ; la loi morale commande sans condition (impératif catégorique)",
+              "L'exemple du commerçant honnête par intérêt : il agit conformément au devoir, pas par devoir"
+            ],
+            [
+              "Kant (*Sur un prétendu droit de mentir par humanité*, 1797)",
+              "Il ne faut jamais mentir, même pour sauver un ami",
+              "Le devoir ne souffre pas d'exception"
+            ],
+            [
+              "Mill (*L'Utilitarisme*, 1861)",
+              "Une action est bonne si elle produit le plus grand bonheur pour le plus grand nombre",
+              "Ce sont les conséquences qui comptent"
+            ],
+            [
+              "Durkheim (*L'Éducation morale*, cours publiés en 1925)",
+              "Le devoir vient de la société : la morale est faite de règles sociales que l'éducation transmet",
+              "Origine sociale du sentiment d'obligation"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Le commerçant qui ne vole pas ses clients par peur de perdre sa clientèle (Kant).",
+            "Le lanceur d'alerte qui viole son contrat pour révéler une injustice : conflit de devoirs.",
+            "Mentir pour protéger quelqu'un : le devoir de vérité contre le devoir d'aider.",
+            "Le soldat qui refuse d'exécuter un ordre injuste."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Le devoir s'oppose-t-il au bonheur ?",
+            "Peut-on se tromper sur son devoir ?",
+            "Faire son devoir, est-ce obéir ?",
+            "Le devoir a-t-il des limites ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Agir par devoir, impératif catégorique",
+      "valeur": "Kant, *Fondements de la métaphysique des mœurs*, 1785",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Le plus grand bonheur du plus grand nombre",
+      "valeur": "Mill, *L'Utilitarisme*, 1861",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Loi non écrite contre loi de la cité",
+      "valeur": "Sophocle, *Antigone*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le devoir : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Sophocle",
+        "Antigone enterre son frère malgré l'interdiction du roi Créon, au nom d'une loi non écrite"
+      ],
+      [
+        "Kant",
+        "Une action n'a de valeur morale que si elle est faite par devoir, et non par intérêt ; la loi morale commande sans condition (impératif catégorique)"
+      ],
+      [
+        "Kant",
+        "Il ne faut jamais mentir, même pour sauver un ami"
+      ],
+      [
+        "Mill",
+        "Une action est bonne si elle produit le plus grand bonheur pour le plus grand nombre"
+      ],
+      [
+        "Durkheim",
+        "Le devoir vient de la société : la morale est faite de règles sociales que l'éducation transmet"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Devoir** = obligation reconnue ≠ contrainte subie.",
+    "**Kant** : par devoir ≠ conformément au devoir ; impératif catégorique ; jamais mentir.",
+    "**Mill** : juger une action par ses conséquences.",
+    "**Antigone** : devoir moral contre loi de la cité.",
+    "**Durkheim** : origine sociale du devoir.",
+    "**Repères** : obligation / contrainte ; légal / légitime."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le commerçant honnête par intérêt agit…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "conformément au devoir, pas par devoir",
+          "correct": true,
+          "explication": "Selon Kant, son action n'a pas de valeur morale."
+        },
+        {
+          "id": "b",
+          "texte": "par devoir",
+          "correct": false,
+          "explication": "Son motif est l'intérêt."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Un impératif catégorique commande…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "sans condition",
+          "correct": true,
+          "explication": "« Tu dois », sans « si… »."
+        },
+        {
+          "id": "b",
+          "texte": "seulement si on veut un résultat",
+          "correct": false,
+          "explication": "Ce serait un impératif hypothétique."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Pour l'utilitarisme, une action est bonne si…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "elle produit le plus grand bonheur du plus grand nombre",
+          "correct": true,
+          "explication": "Mill, Bentham."
+        },
+        {
+          "id": "b",
+          "texte": "elle est faite par devoir",
+          "correct": false,
+          "explication": "C'est Kant."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Antigone désobéit à Créon au nom…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "d'une loi non écrite",
+          "correct": true,
+          "explication": "Le devoir envers son frère."
+        },
+        {
+          "id": "b",
+          "texte": "de son intérêt",
+          "correct": false,
+          "explication": "Elle risque la mort."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Le devoir se distingue de la contrainte car…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "on peut refuser de le suivre",
+          "correct": true,
+          "explication": "C'est une obligation."
+        },
+        {
+          "id": "b",
+          "texte": "il est toujours agréable",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

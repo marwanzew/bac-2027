@@ -1,0 +1,238 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "l-art",
+  "exercices": [
+    {
+      "id": "l-art-qcm",
+      "titre": "L'art : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relie chaque auteur à sa thèse."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "L'artiste, selon Bergson,…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "nous fait voir ce que nous ne remarquions pas",
+              "correct": true,
+              "explication": "*Le Rire*, 1900."
+            },
+            {
+              "id": "b",
+              "texte": "copie exactement",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "L'artisan produit…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un objet utile selon des règles",
+              "correct": true,
+              "explication": "≠ œuvre d'art."
+            },
+            {
+              "id": "b",
+              "texte": "une œuvre unique à contempler",
+              "correct": false,
+              "explication": "C'est l'artiste."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Hegel juge le beau artistique…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "supérieur au beau naturel",
+              "correct": true,
+              "explication": "Il vient de l'esprit."
+            },
+            {
+              "id": "b",
+              "texte": "inférieur au beau naturel",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "La mimèsis, c'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'imitation",
+              "correct": true,
+              "explication": "Grec."
+            },
+            {
+              "id": "b",
+              "texte": "la musique",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "« Le génie donne ses règles à l'art » :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Kant",
+              "correct": true,
+              "explication": "1790."
+            },
+            {
+              "id": "b",
+              "texte": "Platon",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "l-art-probl",
+      "titre": "Problématiser : « Le beau est-il une affaire de goût ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Le beau est-il une affaire de goût ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Distingue l'agréable (personnel) et le beau.",
+        "Pense à Kant et à la diversité des goûts."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Le goût est la faculté de juger de ce qui plaît ; « affaire de goût » suggère que chacun juge à sa manière, sans discussion possible."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** Les goûts varient selon les personnes et les époques. Pourtant, quand je dis « c'est beau », je ne dis pas seulement « ça me plaît » : j'attends l'accord des autres (Kant), et certaines œuvres traversent les siècles."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** Le jugement de beauté n'est-il que l'expression d'une préférence personnelle, ou peut-il prétendre à une valeur universelle ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    },
+    {
+      "id": "l-art-plan",
+      "titre": "Plan détaillé : « Le beau est-il une affaire de goût ? »",
+      "type": "plan-detaille",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Le beau est-il une affaire de goût ? »",
+        "Construis un plan détaillé en deux ou trois parties, avec pour chaque partie une thèse, des arguments et au moins une référence."
+      ],
+      "methode": [
+        "Commence par l'analyse des termes et la problématique.",
+        "Chaque partie répond à la question ; la partie suivante naît d'une limite de la précédente.",
+        "Une référence d'auteur sert à éclairer un argument, pas à le remplacer.",
+        "À l'épreuve, la note est globale sur 20 : ce barème n'est qu'un repère d'entraînement."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**I.** Les goûts semblent relatifs : chacun ses préférences, variables selon la culture et l'époque (exemples : musiques, modes)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II.** Mais l'agréable n'est pas le beau : dire « c'est beau », c'est attendre l'accord de tous (Kant) ; certaines œuvres sont admirées à travers les siècles."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III.** Le goût se forme et s'éduque : le jugement de beauté est subjectif dans son origine, mais il vise l'universel et se discute."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Problématique",
+          "points": 4
+        },
+        {
+          "critere": "Progression des parties",
+          "points": 6
+        },
+        {
+          "critere": "Arguments et exemples",
+          "points": 6
+        },
+        {
+          "critere": "Références pertinentes",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

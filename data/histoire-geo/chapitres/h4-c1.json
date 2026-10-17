@@ -1,0 +1,292 @@
+{
+  "id": "h4-c1",
+  "matiere": "histoire-geo",
+  "titre": "Nouveaux rapports de puissance et enjeux mondiaux",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Histoire · Thème 4 – Le monde, l'Europe et la France depuis les années 1990, entre coopérations et conflits",
+    "intitule": "Nouveaux rapports de puissance et enjeux mondiaux",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Comprendre le monde après la guerre froide : hyperpuissance américaine puis monde multipolaire.",
+    "Connaître de nouvelles formes de conflits et de crimes de masse (Rwanda, ex-Yougoslavie, terrorisme).",
+    "Comprendre les efforts de gouvernance mondiale (ONU, Cour pénale internationale).",
+    "Connaître les points de passage : fin de l'apartheid, 11 septembre 2001."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les points de passage et d'ouverture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "la fin de l'Apartheid en Afrique du Sud ;",
+            "le 11 septembre 2001."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "monde",
+      "titre": "D'un monde unipolaire à un monde multipolaire",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "multipolarite"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Après 1991, les États-Unis sont la seule superpuissance (« hyperpuissance »). Mais de nouvelles puissances émergent : **Chine** (entrée à l'OMC en 2001), Inde, Brésil, Russie (BRICS). La Russie conteste l'ordre international : annexion de la **Crimée** (2014), invasion de l'**Ukraine** (24 février 2022)."
+        }
+      ]
+    },
+    {
+      "id": "conflits",
+      "titre": "Conflits et crimes de masse",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Guerres en ex-Yougoslavie** (1991-1999) : massacre de **Srebrenica** (juillet 1995), plus de 8 000 hommes et garçons bosniaques musulmans tués.",
+            "**Génocide des Tutsi au Rwanda** (avril-juillet 1994) : environ 800 000 morts en trois mois.",
+            "**Le terrorisme islamiste** : le **11 septembre 2001**, des attentats d'Al-Qaïda frappent New York (World Trade Center) et Washington (Pentagone) : près de 3 000 morts. Les États-Unis interviennent en Afghanistan (2001) puis en Irak (2003)."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Justice internationale** : tribunaux pénaux internationaux pour l'ex-Yougoslavie (1993) et le Rwanda (1994), puis **Cour pénale internationale** (statut de Rome, 1998 ; en activité depuis 2002)."
+        }
+      ]
+    },
+    {
+      "id": "apartheid",
+      "titre": "La fin de l'apartheid en Afrique du Sud",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "apartheid"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Mis en place à partir de 1948, l'apartheid sépare les populations selon leur couleur de peau. **Nelson Mandela**, chef de l'ANC, est emprisonné de 1964 à 1990. Sous la pression intérieure et internationale (sanctions), le président **Frederik de Klerk** le libère le **11 février 1990** ; les lois d'apartheid sont abolies en 1991. Mandela et de Klerk reçoivent le prix Nobel de la paix en 1993. Lors des premières élections multiraciales (avril 1994), Mandela devient **président**."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Fin de l'URSS, début de l'hyperpuissance américaine",
+      "valeur": "1991",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Libération de Nelson Mandela",
+      "valeur": "11 février 1990",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Génocide des Tutsi au Rwanda",
+      "valeur": "avril-juillet 1994",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Massacre de Srebrenica",
+      "valeur": "juillet 1995",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Attentats du 11 septembre",
+      "valeur": "11 septembre 2001",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Invasion de l'Ukraine par la Russie",
+      "valeur": "24 février 2022",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le monde depuis 1991",
+    "colonnes": [
+      "Tendance",
+      "Exemples"
+    ],
+    "lignes": [
+      [
+        "Puissances",
+        "Hyperpuissance américaine puis monde multipolaire (Chine, Russie…)"
+      ],
+      [
+        "Conflits",
+        "Ex-Yougoslavie, Rwanda, terrorisme (11 septembre 2001), Ukraine (2022)"
+      ],
+      [
+        "Gouvernance",
+        "ONU, tribunaux pénaux, CPI (1998-2002)"
+      ],
+      [
+        "Démocratie",
+        "Fin de l'apartheid (1990-1994)"
+      ]
+    ]
+  },
+  "fiche": [
+    "**1991** : un monde unipolaire, puis **multipolaire** (Chine, Russie, BRICS).",
+    "**Crimes de masse** : Rwanda (1994), Srebrenica (1995).",
+    "**11 septembre 2001** : Al-Qaïda ; guerres d'Afghanistan (2001) et d'Irak (2003).",
+    "**CPI** : statut de Rome (1998).",
+    "**Apartheid** : Mandela libéré le 11 février 1990, président en 1994."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Les attentats du 11 septembre 2001 frappent…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "New York et Washington",
+          "correct": true,
+          "explication": "Al-Qaïda."
+        },
+        {
+          "id": "b",
+          "texte": "Londres",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Nelson Mandela est libéré en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1990",
+          "correct": true,
+          "explication": "11 février 1990."
+        },
+        {
+          "id": "b",
+          "texte": "1964",
+          "correct": false,
+          "explication": "Année de sa condamnation."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Le génocide des Tutsi a lieu en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1994",
+          "correct": true,
+          "explication": "Avril-juillet."
+        },
+        {
+          "id": "b",
+          "texte": "1974",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "La CPI est créée par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le statut de Rome (1998)",
+          "correct": true,
+          "explication": "En activité depuis 2002."
+        },
+        {
+          "id": "b",
+          "texte": "le traité de Versailles",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Mandela devient président en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1994",
+          "correct": true,
+          "explication": "Premières élections multiraciales."
+        },
+        {
+          "id": "b",
+          "texte": "1990",
+          "correct": false,
+          "explication": "Libération."
+        }
+      ]
+    }
+  ]
+}

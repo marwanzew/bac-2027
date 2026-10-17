@@ -1,0 +1,251 @@
+{
+  "matiere": "espagnol",
+  "chapitre": "axe6",
+  "exercices": [
+    {
+      "id": "axe6-qcm",
+      "titre": "Vocabulario : 5 preguntas",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Responde a las 5 preguntas. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*la convivencia*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la coexistence",
+              "correct": true,
+              "explication": "Vivre ensemble."
+            },
+            {
+              "id": "b",
+              "texte": "la convenance",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*la herencia*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'héritage",
+              "correct": true,
+              "explication": "La herencia árabe."
+            },
+            {
+              "id": "b",
+              "texte": "l'hérésie",
+              "correct": false,
+              "explication": "Hérésie = herejía."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*los indígenas*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les peuples autochtones",
+              "correct": true,
+              "explication": "Culturas indígenas."
+            },
+            {
+              "id": "b",
+              "texte": "les indigents",
+              "correct": false,
+              "explication": "Faux ami."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*tan importante … la lengua*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "como",
+              "correct": true,
+              "explication": "Égalité."
+            },
+            {
+              "id": "b",
+              "texte": "que",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*Comentarios reales* (1609) est de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère culturel (date établie)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'Inca Garcilaso de la Vega",
+              "correct": true,
+              "explication": "Auteur métis."
+            },
+            {
+              "id": "b",
+              "texte": "Cervantes",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Una respuesta correcta",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe6-comprension",
+      "titre": "Comprensión escrita",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Lee el texto y contesta a las preguntas. (Lis le texte et réponds aux questions.)",
+        "1. ¿Qué celebra la familia de Carmen y cuándo?",
+        "2. ¿Qué ponen en el altar?",
+        "3. ¿Por qué es esta fiesta un ejemplo de mestizaje?",
+        "4. ¿Qué hace la familia por la noche?"
+      ],
+      "documents": [
+        {
+          "titre": "Texto (escrito para el entrenamiento)",
+          "contenu": "En Ciudad de México, la familia de Carmen celebra el Día de Muertos cada 2 de noviembre. En casa, preparan un altar con fotos de los abuelos, flores de color naranja, velas y pan de muerto. «Es una fiesta alegre», explica Carmen. «Mezcla tradiciones de los pueblos indígenas y del catolicismo traído por los españoles.» Por la noche, la familia va al cementerio, come, canta y recuerda a sus difuntos.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. Celebra el Día de Muertos, cada 2 de noviembre.",
+            "2. Fotos de los abuelos, flores naranjas, velas y pan de muerto.",
+            "3. Porque mezcla tradiciones indígenas y tradiciones católicas traídas por los españoles.",
+            "4. Va al cementerio, come, canta y recuerda a sus difuntos."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe6-expresion",
+      "titre": "Expresión escrita",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Elige un ejemplo de mestizaje en el mundo hispánico (una fiesta, una música, un monumento, una comida) y preséntalo en 120 palabras aproximadamente."
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *primero, además, sin embargo, por eso, en conclusión*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Modelo** (niveau B1, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Un buen ejemplo de mestizaje en el mundo hispánico es la Mezquita de Córdoba."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Fue construida a partir del año 785, cuando una gran parte de la península era musulmana. Con sus arcos rojos y blancos, es una obra maestra del arte islámico."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Después de la conquista cristiana de la ciudad, en el siglo XIII, se convirtió en catedral, y en el siglo XVI se construyó una catedral en su interior. Por eso hoy es un monumento único, donde se mezclan dos culturas y dos religiones."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "En mi opinión, la Mezquita muestra que el mestizaje enriquece el patrimonio: es más interesante que un monumento de un solo estilo."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

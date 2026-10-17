@@ -1,0 +1,324 @@
+{
+  "id": "roman",
+  "matiere": "francais",
+  "titre": "Le roman et le récit du Moyen Âge au XXIe siècle",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Objets d'étude et œuvres au programme 2026-2027",
+    "intitule": "Le roman et le récit du Moyen Âge au XXIe siècle",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+      "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+    }
+  },
+  "objectifs": [
+    "Connaître les trois œuvres au programme et leurs parcours.",
+    "Choisir l'œuvre que tu présenteras à l'oral.",
+    "Préparer la dissertation sur le roman."
+  ],
+  "parties": [
+    {
+      "id": "programme",
+      "titre": "Les œuvres au programme",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Roman et récit : œuvres et parcours 2026-2027",
+          "colonnes": [
+            "Œuvre",
+            "Parcours associé"
+          ],
+          "lignes": [
+            [
+              "Chrétien de Troyes, Le Chevalier de la charrette (édition bilingue)",
+              "le roman et l'invention de l'amour"
+            ],
+            [
+              "Zola, Pot-Bouille",
+              "dévoiler les rouages de la société"
+            ],
+            [
+              "Simone Schwarz-Bart, Pluie et vent sur Télumée Miracle",
+              "tisser les mémoires, habiter le monde"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "parcours"
+        },
+        {
+          "type": "definition",
+          "glossaire": "focalisation"
+        }
+      ]
+    },
+    {
+      "id": "charrette",
+      "titre": "Chrétien de Troyes, Le Chevalier de la charrette",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Roman en vers** (octosyllabes) écrit à la fin du XIIe siècle (vers 1177-1181), à la demande de **Marie de Champagne** ; il a été achevé par **Godefroi de Leigni**. On le lit en **édition bilingue** (ancien français et traduction)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'histoire** : la reine **Guenièvre** est enlevée par **Méléagant**. Le chevalier **Lancelot** part la délivrer. Pour la retrouver, il accepte de monter dans une **charrette** d'infamie (réservée aux condamnés), ce qui le déshonore. Il traverse le **pont de l'Épée** et triomphe par amour pour la reine."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « le roman et l'invention de l'amour »** : l'œuvre illustre l'**amour courtois** (la *fin'amor*) : le chevalier se soumet entièrement à sa dame, au point de sacrifier son honneur. Le roman naît en partie avec cette mise en récit de l'amour."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Enjeux : amour et honneur, aventure et quête, merveilleux, naissance du roman.",
+            "Textes possibles du parcours : autres récits d'amour (*Tristan et Iseut*, romans de différentes époques)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pot-bouille",
+      "titre": "Zola, Pot-Bouille",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Roman publié en **1882**, **dixième volume** des *Rougon-Macquart*, l'« histoire naturelle et sociale d'une famille sous le Second Empire »."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'histoire** : le jeune ambitieux **Octave Mouret** s'installe dans un immeuble bourgeois de la **rue de Choiseul**, à Paris. Derrière la façade respectable, il découvre l'**hypocrisie**, les adultères, les mariages d'argent et le mépris envers les domestiques."
+        },
+        {
+          "type": "definition",
+          "glossaire": "naturalisme"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « dévoiler les rouages de la société »** : le roman montre comment fonctionne une société (argent, apparences, hiérarchie sociale). L'immeuble, avec l'escalier des maîtres et la cour des domestiques, devient une **image de la société**."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Enjeux : satire de la bourgeoisie, opposition façade / coulisses, rôle de l'argent, condition des femmes et des domestiques."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "telumee",
+      "titre": "Simone Schwarz-Bart, Pluie et vent sur Télumée Miracle",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Roman publié en **1972** par l'écrivaine guadeloupéenne **Simone Schwarz-Bart**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'histoire** : la narratrice, **Télumée**, raconte sa vie en Guadeloupe et celle des femmes de sa lignée, les **Lougandor**, notamment sa grand-mère **Reine Sans Nom**, qui lui transmet sa force face aux malheurs. Le récit est marqué par la mémoire de l'esclavage, la pauvreté, l'amour et la résistance."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « tisser les mémoires, habiter le monde »** : le roman transmet une **mémoire collective** (de femmes, d'un peuple) et montre comment on peut **habiter le monde** malgré la souffrance, grâce à la parole, aux contes, à la solidarité."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Enjeux : transmission, mémoire, résilience, langue (créole et français), récit à la première personne."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "choisir",
+      "titre": "Quelle œuvre choisir ?",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Choisis l'œuvre que tu as **le plus envie de lire en entier** : tu devras la connaître précisément pour l'oral (présentation et entretien) et pour une éventuelle dissertation. *Pot-Bouille* est le plus long ; *Le Chevalier de la charrette* demande l'habitude de l'édition bilingue ; *Pluie et vent sur Télumée Miracle* est plus court et très riche pour l'oral."
+        },
+        {
+          "type": "piege",
+          "titre": "ne pas confondre",
+          "texte": "La **dissertation** porte sur une œuvre **et son parcours** ; le sujet peut porter sur n'importe laquelle des trois œuvres de l'objet d'étude, mais tu choisis parmi trois sujets (un par objet d'étude)."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Le Chevalier de la charrette",
+      "valeur": "vers 1177-1181",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Pot-Bouille (10e volume des Rougon-Macquart)",
+      "valeur": "1882",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Pluie et vent sur Télumée Miracle",
+      "valeur": "1972",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le roman en un tableau",
+    "colonnes": [
+      "Œuvre",
+      "Personnages",
+      "Idée clé du parcours"
+    ],
+    "lignes": [
+      [
+        "Le Chevalier de la charrette",
+        "Lancelot, Guenièvre, Méléagant",
+        "L'amour courtois, plus fort que l'honneur"
+      ],
+      [
+        "Pot-Bouille",
+        "Octave Mouret, les bourgeois de l'immeuble",
+        "Derrière la façade, l'hypocrisie sociale"
+      ],
+      [
+        "Pluie et vent sur Télumée Miracle",
+        "Télumée, Reine Sans Nom",
+        "Transmettre la mémoire, résister"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Charrette** (XIIe s.) : Lancelot, Guenièvre, amour courtois ; parcours « le roman et l'invention de l'amour ».",
+    "**Pot-Bouille** (1882) : Octave Mouret, immeuble bourgeois ; « dévoiler les rouages de la société ».",
+    "**Télumée Miracle** (1972) : Télumée, Reine Sans Nom ; « tisser les mémoires, habiter le monde »."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Qui est l'auteur de Pot-Bouille ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Zola",
+          "correct": true,
+          "explication": "1882."
+        },
+        {
+          "id": "b",
+          "texte": "Balzac",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Le parcours associé à Pluie et vent sur Télumée Miracle :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "tisser les mémoires, habiter le monde",
+          "correct": true,
+          "explication": "Intitulé officiel."
+        },
+        {
+          "id": "b",
+          "texte": "dévoiler les rouages de la société",
+          "correct": false,
+          "explication": "C'est Pot-Bouille."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Dans Le Chevalier de la charrette, Lancelot cherche à délivrer…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la reine Guenièvre",
+          "correct": true,
+          "explication": "Enlevée par Méléagant."
+        },
+        {
+          "id": "b",
+          "texte": "Iseut",
+          "correct": false,
+          "explication": "Tristan et Iseut est un autre récit."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Pot-Bouille se déroule principalement…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "dans un immeuble bourgeois parisien",
+          "correct": true,
+          "explication": "Rue de Choiseul."
+        },
+        {
+          "id": "b",
+          "texte": "dans une mine",
+          "correct": false,
+          "explication": "C'est Germinal."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Pluie et vent sur Télumée Miracle se passe…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "en Guadeloupe",
+          "correct": true,
+          "explication": "Simone Schwarz-Bart est guadeloupéenne."
+        },
+        {
+          "id": "b",
+          "texte": "en Bretagne",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

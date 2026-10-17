@@ -1,0 +1,88 @@
+/* =========================================================
+   variables.css — couleurs, polices, espacements.
+   Direction : sombre, sobre, précise. Noir profond, anthracite,
+   une seule lumière froide ; chaque matière teinte sa propre lumière.
+   ========================================================= */
+
+/* Police incluse dans le site (aucune connexion nécessaire) : Inter et Inter Display (licence OFL). */
+@font-face { font-family: "Inter"; src: url("../assets/fonts/inter-400.woff") format("woff"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Inter"; src: url("../assets/fonts/inter-400-italic.woff") format("woff"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Inter"; src: url("../assets/fonts/inter-600.woff") format("woff"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "Inter"; src: url("../assets/fonts/inter-700.woff") format("woff"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "Inter Display"; src: url("../assets/fonts/inter-display-600.woff") format("woff"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "Inter Display"; src: url("../assets/fonts/inter-display-700.woff") format("woff"); font-weight: 700; font-display: swap; }
+
+:root {
+  /* --- Typographie --- */
+  --police-titre: "Inter Display", "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --police-texte: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --taille-base: 17px;            /* téléphone ; 18px sur ordinateur (base.css) */
+  --echelle: 1;
+  --interligne: 1.65;
+  --mesure: 68ch;
+
+  /* --- Espacements (grille de 4 px) --- */
+  --e1: 4px; --e2: 8px; --e3: 12px; --e4: 16px; --e5: 24px; --e6: 32px; --e7: 48px; --e8: 64px;
+  --rayon: 16px;
+  --rayon-petit: 10px;
+  --duree: 180ms;
+  --courbe: cubic-bezier(.22, .61, .36, 1);
+
+  /* --- Couleurs : SOMBRE (par défaut) --- */
+  --fond: #07080A;          /* noir profond */
+  --fond-opaque: #111215;   /* fenêtres */
+  --surface: #0E0F12;       /* anthracite */
+  --surface-2: #16171B;
+  --bordure: rgb(255 255 255 / .08);
+  --bordure-forte: rgb(255 255 255 / .16);
+  --reflet: rgb(255 255 255 / .05);       /* liseré de lumière en haut des cartes */
+  --texte: #F2F3F5;
+  --texte-2: #8D919B;
+  --accent: #A3ACFF;        /* lumière froide */
+  --focus: #A3ACFF;
+  --ombre: 0 1px 0 rgb(255 255 255 / .03) inset, 0 20px 40px -24px rgb(0 0 0 / .9);
+  --bouton-fond: #F2F3F5;   /* bouton principal : clair sur sombre */
+  --bouton-texte: #07080A;
+
+  /* Encadrés */
+  --retenir-fond: rgb(255 214 140 / .06); --retenir-bord: #E8C98A;
+  --piege-bord: #F2A38C;    --exemple-bord: #8FD6B4;
+  --verifier-fond: rgb(232 201 138 / .12); --verifier-texte: #F0D9A6;
+  --succes: #8FD6B4;        --erreur: #F49AA6;
+
+  /* Couleur de la matière courante (changée par le code) */
+  --matiere: var(--accent);
+  --matiere-sur: #07080A;
+
+  color-scheme: dark;
+}
+
+/* --- Thème CLAIR --- */
+:root[data-theme="clair"] {
+  --fond: #FBFBFD; --fond-opaque: #FFFFFF; --surface: #FFFFFF; --surface-2: #F3F4F6;
+  --bordure: rgb(0 0 0 / .08); --bordure-forte: rgb(0 0 0 / .16); --reflet: rgb(255 255 255 / .9);
+  --texte: #111215; --texte-2: #63676F; --accent: #4F5BD5; --focus: #4F5BD5;
+  --ombre: 0 1px 2px rgb(0 0 0 / .04), 0 16px 32px -20px rgb(0 0 0 / .18);
+  --bouton-fond: #111215; --bouton-texte: #FFFFFF;
+  --retenir-fond: #FFF8E6; --retenir-bord: #A86F00; --piege-bord: #B5402F; --exemple-bord: #1B7A52;
+  --verifier-fond: #FDECC8; --verifier-texte: #6B4400; --succes: #1B7A52; --erreur: #B42318;
+  --matiere-sur: #FFFFFF;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: light) {
+  :root[data-theme="systeme"] {
+    --fond: #FBFBFD; --fond-opaque: #FFFFFF; --surface: #FFFFFF; --surface-2: #F3F4F6;
+    --bordure: rgb(0 0 0 / .08); --bordure-forte: rgb(0 0 0 / .16); --reflet: rgb(255 255 255 / .9);
+    --texte: #111215; --texte-2: #63676F; --accent: #4F5BD5; --focus: #4F5BD5;
+    --ombre: 0 1px 2px rgb(0 0 0 / .04), 0 16px 32px -20px rgb(0 0 0 / .18);
+    --bouton-fond: #111215; --bouton-texte: #FFFFFF;
+    --retenir-fond: #FFF8E6; --retenir-bord: #A86F00; --piege-bord: #B5402F; --exemple-bord: #1B7A52;
+    --verifier-fond: #FDECC8; --verifier-texte: #6B4400; --succes: #1B7A52; --erreur: #B42318;
+    --matiere-sur: #FFFFFF;
+    color-scheme: light;
+  }
+}
+
+/* Animations coupées si demandé par le système ou par Paramètres */
+@media (prefers-reduced-motion: reduce) { :root { --duree: 0ms; } }
+:root[data-animations="non"] { --duree: 0ms; }

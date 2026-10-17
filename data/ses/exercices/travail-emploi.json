@@ -1,0 +1,296 @@
+{
+  "matiere": "ses",
+  "chapitre": "travail-emploi",
+  "exercices": [
+    {
+      "id": "travail-qcm",
+      "titre": "Travail et emploi : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Repère le mot clé : statut, organisation, numérique, intégration."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "La population active comprend…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les personnes en emploi et les chômeurs",
+              "correct": true,
+              "explication": "Les autres sont inactives."
+            },
+            {
+              "id": "b",
+              "texte": "seulement les personnes en emploi",
+              "correct": false,
+              "explication": "Les chômeurs en font aussi partie."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Un CDD est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une forme particulière d'emploi",
+              "correct": true,
+              "explication": "Il s'écarte du CDI à temps plein."
+            },
+            {
+              "id": "b",
+              "texte": "un statut de non-salarié",
+              "correct": false,
+              "explication": "Le titulaire d'un CDD est salarié."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Le travail à la chaîne est associé à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Henry Ford",
+              "correct": true,
+              "explication": "Fordisme, 1913."
+            },
+            {
+              "id": "b",
+              "texte": "Émile Durkheim",
+              "correct": false,
+              "explication": "Durkheim est un sociologue de la solidarité."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "La disparition des emplois intermédiaires routiniers s'appelle…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la polarisation des emplois",
+              "correct": true,
+              "explication": "Les emplois aux deux extrémités progressent."
+            },
+            {
+              "id": "b",
+              "texte": "la tertiarisation",
+              "correct": false,
+              "explication": "La tertiarisation est le poids croissant des services."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Recevoir des courriels professionnels le dimanche illustre…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le brouillage des frontières entre travail et hors-travail",
+              "correct": true,
+              "explication": "Effet du numérique."
+            },
+            {
+              "id": "b",
+              "texte": "le taylorisme",
+              "correct": false,
+              "explication": "Rien à voir avec l'organisation des tâches."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "travail-organisation",
+      "titre": "Effets des organisations du travail",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que le passage au post-taylorisme a des effets positifs et négatifs sur les conditions de travail."
+      ],
+      "methode": [
+        "Décris rapidement le taylorisme puis le post-taylorisme.",
+        "Un effet positif, un effet négatif, chacun avec un exemple."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Du taylorisme au post-taylorisme.** Le taylorisme divise le travail en tâches simples et sépare conception et exécution, sous une hiérarchie stricte. Le post-taylorisme recompose les tâches, valorise la polyvalence, le travail en équipe et le management participatif."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Effet positif.** Les salariés ont plus d'autonomie et des tâches plus variées : un ouvrier en équipe autonome peut régler sa machine et contrôler la qualité."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Effet négatif.** Le travail s'intensifie : la production en juste-à-temps et les objectifs individuels augmentent la pression et le stress."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "travail-integration",
+      "titre": "Le travail, facteur d'intégration fragilisé",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que certaines évolutions de l'emploi peuvent affaiblir le pouvoir intégrateur du travail."
+      ],
+      "methode": [
+        "Explique d'abord pourquoi le travail intègre (Durkheim, Paugam).",
+        "Puis développe deux évolutions du programme."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le travail intègre** : il procure un revenu, des relations, une identité et une reconnaissance ; Durkheim parle de solidarité organique."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Précarisation.** Les CDD, l'intérim et le temps partiel subi offrent peu de sécurité et de perspectives : selon Paugam, l'intégration est alors incertaine, car la stabilité de l'emploi manque."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Polarisation de la qualité des emplois.** D'un côté des emplois qualifiés, bien payés et stables ; de l'autre des emplois peu qualifiés et instables, qui intègrent beaucoup moins."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "travail-plan-dissertation",
+      "titre": "Plan de dissertation : le numérique et le travail",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet : « Le numérique améliore-t-il les conditions de travail et d'emploi ? »",
+        "Construis la problématique et un plan détaillé."
+      ],
+      "methode": [
+        "Plan « oui… mais… » en t'appuyant sur les trois effets du programme et sur la qualité de l'emploi.",
+        "Barème sur 18 : à l'épreuve, les 2 derniers points portent sur la maîtrise de la langue."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique possible.** Le numérique est-il une source de liberté pour les travailleurs, ou un facteur de dégradation de leurs conditions de travail et d'emploi ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Le numérique peut améliorer les conditions de travail.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Le télétravail réduit les temps de transport et donne plus d'autonomie.",
+            "B. L'automatisation supprime des tâches pénibles et répétitives.",
+            "C. Il crée des emplois qualifiés, bien rémunérés, avec un fort potentiel de formation."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Mais il peut aussi les dégrader.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Il brouille la frontière entre travail et hors-travail (connexion permanente).",
+            "B. Il transforme les relations d'emploi : travailleurs des plateformes peu protégés.",
+            "C. Il accroît la polarisation des emplois et la précarisation d'une partie des travailleurs."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes et problématique",
+          "points": 4
+        },
+        {
+          "critere": "Partie I : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Partie II : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Pertinence des mécanismes et des exemples",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

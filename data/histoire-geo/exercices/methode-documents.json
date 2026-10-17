@@ -1,0 +1,42 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "methode-documents",
+  "exercices": [
+    {
+      "id": "doc-presentation",
+      "titre": "Présenter un document",
+      "type": "analyse-documents",
+      "difficulte": "facile",
+      "dureeMinutes": 10,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Document : l'appel lancé le 18 juin 1940 à la radio de Londres (BBC) par le général de Gaulle. Présente ce document en quelques lignes."
+      ],
+      "methode": [
+        "Nature, auteur, date, destinataire, contexte."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "Ce document est un **discours radiodiffusé** prononcé le **18 juin 1940** sur les ondes de la BBC à Londres par le **général de Gaulle**, sous-secrétaire d'État à la Guerre du gouvernement précédent, qui vient de refuser la défaite. Il s'adresse aux Français, en particulier aux militaires et aux ingénieurs présents en Grande-Bretagne. Le **contexte** est celui de la défaite française : la veille, le maréchal Pétain a annoncé qu'il fallait cesser le combat et demander l'armistice."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Nature et auteur",
+          "points": 3
+        },
+        {
+          "critere": "Date et destinataires",
+          "points": 3
+        },
+        {
+          "critere": "Contexte",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

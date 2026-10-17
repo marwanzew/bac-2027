@@ -1,0 +1,353 @@
+{
+  "id": "la-science",
+  "matiere": "philosophie",
+  "titre": "La science",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "La science",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer science, opinion et croyance.",
+    "Comprendre la méthode expérimentale et le rôle de la théorie.",
+    "Connaître Bacon, Galilée, Claude Bernard, Comte, Bachelard, Popper.",
+    "Traiter un sujet sur la science."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "science"
+        },
+        {
+          "type": "definition",
+          "glossaire": "experience-experimentation"
+        },
+        {
+          "type": "definition",
+          "glossaire": "induction"
+        },
+        {
+          "type": "definition",
+          "glossaire": "refutabilite"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La science vise une connaissance **objective**, **démontrée ou vérifiée**, et **universelle**. Elle se distingue de l'**opinion**, qui n'est pas examinée."
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : la science semble le modèle de la connaissance vraie. Mais ses théories changent, et l'expérience ne prouve jamais définitivement une loi générale. La science dit-elle la vérité, ou seulement des vérités provisoires ? Peut-elle répondre à toutes les questions, y compris morales ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **expérience / théorie** ; **vérité / révision** ; **savoir / opinion** ; **science / morale**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Bacon (*Novum Organum*, 1620)",
+              "Il faut partir de l'observation et de l'expérience, et généraliser par induction",
+              "Fonder la science sur l'expérience"
+            ],
+            [
+              "Galilée (*L'Essayeur*, 1623)",
+              "Le livre de la nature est écrit en langage mathématique",
+              "La science moderne est mathématique"
+            ],
+            [
+              "Comte (*Cours de philosophie positive*, 1830-1842)",
+              "L'humanité passe par trois états : théologique, métaphysique, positif (scientifique)",
+              "La science remplace les explications religieuses"
+            ],
+            [
+              "Claude Bernard (*Introduction à l'étude de la médecine expérimentale*, 1865)",
+              "Observation, hypothèse, expérimentation, conclusion : la méthode expérimentale",
+              "L'hypothèse guide l'expérience"
+            ],
+            [
+              "Bachelard (*La Formation de l'esprit scientifique*, 1938)",
+              "La science progresse contre les obstacles épistémologiques (l'opinion, l'expérience immédiate) ; « rien n'est donné, tout est construit »",
+              "Le fait scientifique est construit"
+            ],
+            [
+              "Popper (*Logique de la découverte scientifique*, 1934)",
+              "Une théorie est scientifique si elle est réfutable ; elle est seulement corroborée, jamais prouvée",
+              "La vérité scientifique est provisoire"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "La découverte que la Terre tourne autour du Soleil : contre l'évidence des sens.",
+            "Les vaccins : la méthode expérimentale au service de la santé.",
+            "« C'est scientifiquement prouvé » utilisé dans la publicité.",
+            "L'astrologie : pourquoi n'est-ce pas une science (pas réfutable) ?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "La science peut-elle tout expliquer ?",
+            "Les vérités scientifiques sont-elles définitives ?",
+            "L'expérience suffit-elle à fonder la science ?",
+            "La science s'oppose-t-elle à l'opinion ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Fonder la science sur l'expérience",
+      "valeur": "Bacon, *Novum Organum*, 1620",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La science moderne est mathématique",
+      "valeur": "Galilée, *L'Essayeur*, 1623",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La science remplace les explications religieuses",
+      "valeur": "Comte, *Cours de philosophie positive*, 1830-1842",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "L'hypothèse guide l'expérience",
+      "valeur": "Claude Bernard, *Introduction à l'étude de la médecine expérimentale*, 1865",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Le fait scientifique est construit",
+      "valeur": "Bachelard, *La Formation de l'esprit scientifique*, 1938",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La science : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Bacon",
+        "Il faut partir de l'observation et de l'expérience, et généraliser par induction"
+      ],
+      [
+        "Galilée",
+        "Le livre de la nature est écrit en langage mathématique"
+      ],
+      [
+        "Comte",
+        "L'humanité passe par trois états : théologique, métaphysique, positif (scientifique)"
+      ],
+      [
+        "Claude Bernard",
+        "Observation, hypothèse, expérimentation, conclusion : la méthode expérimentale"
+      ],
+      [
+        "Bachelard",
+        "La science progresse contre les obstacles épistémologiques (l'opinion, l'expérience immédiate) ; « rien n'est donné, tout est construit »"
+      ],
+      [
+        "Popper",
+        "Une théorie est scientifique si elle est réfutable ; elle est seulement corroborée, jamais prouvée"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Science** : objective, méthodique, vérifiable ≠ opinion.",
+    "**Bacon** : expérience et induction.",
+    "**Galilée** : nature écrite en langage mathématique.",
+    "**Comte** : loi des trois états.",
+    "**Claude Bernard** : méthode expérimentale.",
+    "**Bachelard** : obstacles épistémologiques ; tout est construit.",
+    "**Popper** : réfutabilité ; vérité provisoire."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "La réfutabilité est un critère de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Popper",
+          "correct": true,
+          "explication": "1934."
+        },
+        {
+          "id": "b",
+          "texte": "Bacon",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "« Rien n'est donné, tout est construit » :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Bachelard",
+          "correct": true,
+          "explication": "1938."
+        },
+        {
+          "id": "b",
+          "texte": "Comte",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La loi des trois états est de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Comte",
+          "correct": true,
+          "explication": "Théologique, métaphysique, positif."
+        },
+        {
+          "id": "b",
+          "texte": "Galilée",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "L'induction va…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "du particulier au général",
+          "correct": true,
+          "explication": "Jamais absolument certaine."
+        },
+        {
+          "id": "b",
+          "texte": "du général au particulier",
+          "correct": false,
+          "explication": "C'est la déduction."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "L'astrologie n'est pas une science car…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "elle n'est pas réfutable",
+          "correct": true,
+          "explication": "Critère de Popper."
+        },
+        {
+          "id": "b",
+          "texte": "elle parle des étoiles",
+          "correct": false,
+          "explication": "L'astronomie aussi."
+        }
+      ]
+    }
+  ]
+}

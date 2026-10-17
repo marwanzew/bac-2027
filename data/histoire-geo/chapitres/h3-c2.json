@@ -1,0 +1,302 @@
+{
+  "id": "h3-c2",
+  "matiere": "histoire-geo",
+  "titre": "Un tournant social, politique et culturel, la France de 1974 à 1988",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Histoire · Thème 3 – Les remises en cause économiques, politiques et sociales des années 1970 à 1991",
+    "intitule": "Un tournant social, politique et culturel, la France de 1974 à 1988",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Montrer les transformations de la société française (droits des femmes, jeunesse, immigration, chômage).",
+    "Connaître les grandes réformes de Valéry Giscard d'Estaing et de François Mitterrand.",
+    "Comprendre l'alternance (1981) et la cohabitation (1986).",
+    "Connaître les points de passage."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les points de passage et d'ouverture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "1975 : la légalisation de l'interruption volontaire de grossesse : un tournant dans l'évolution des droits des femmes ;",
+            "1981 : abolition de la peine de mort ;",
+            "l'épidémie du sida en France : recherche, prévention et luttes politiques."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "giscard",
+      "titre": "Les réformes des années Giscard (1974-1981)",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Valéry Giscard d'Estaing**, président en 1974, veut une « société libérale avancée » : majorité civile et électorale à **18 ans** (1974), divorce par consentement mutuel (1975)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**La loi Veil (17 janvier 1975)** : portée par la ministre de la Santé **Simone Veil** face à une Assemblée très majoritairement masculine, elle dépénalise l'**interruption volontaire de grossesse** (IVG). C'est un tournant dans les droits des femmes, après la légalisation de la contraception (loi Neuwirth, 1967)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Dans le même temps, la crise économique s'installe : chômage de masse, désindustrialisation."
+        }
+      ]
+    },
+    {
+      "id": "mitterrand",
+      "titre": "L'alternance de 1981 et la cohabitation",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "alternance"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le **10 mai 1981**, **François Mitterrand** (Parti socialiste) est élu président : première alternance de la Ve République. Réformes : **abolition de la peine de mort** (loi du 9 octobre 1981, défendue par le garde des Sceaux Robert Badinter), lois de décentralisation (1982), radios libres, cinquième semaine de congés payés et 39 heures (1982), nationalisations."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "En **1986**, la droite gagne les législatives : Mitterrand nomme **Jacques Chirac** Premier ministre. C'est la première **cohabitation** (1986-1988)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "cohabitation"
+        }
+      ]
+    },
+    {
+      "id": "sida",
+      "titre": "L'épidémie de sida : recherche, prévention, luttes",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Les premiers cas de sida sont décrits en 1981. En **1983**, une équipe de l'**Institut Pasteur** (Françoise Barré-Sinoussi, Luc Montagnier) identifie le virus responsable (le VIH) ; ils recevront le prix Nobel de médecine en 2008."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La maladie frappe d'abord fortement les homosexuels et les usagers de drogues, victimes de stigmatisation. Des associations se mobilisent : **AIDES** (1984), **Act Up-Paris** (1989). La prévention progresse (préservatif, vente libre des seringues en 1987), ainsi que les traitements (trithérapies à partir de 1996)."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Majorité à 18 ans",
+      "valeur": "1974",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Loi Veil sur l'IVG",
+      "valeur": "17 janvier 1975",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Élection de François Mitterrand",
+      "valeur": "10 mai 1981",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Abolition de la peine de mort",
+      "valeur": "9 octobre 1981",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Identification du VIH à l'Institut Pasteur",
+      "valeur": "1983",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Première cohabitation",
+      "valeur": "1986-1988",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "1974-1988 : ce qui change",
+    "colonnes": [
+      "Domaine",
+      "Exemples"
+    ],
+    "lignes": [
+      [
+        "Droits des femmes",
+        "Loi Veil (1975), divorce par consentement mutuel (1975)"
+      ],
+      [
+        "Libertés et droits",
+        "Majorité à 18 ans (1974), abolition de la peine de mort (1981), radios libres"
+      ],
+      [
+        "Politique",
+        "Alternance (1981), cohabitation (1986)"
+      ],
+      [
+        "Société",
+        "Chômage de masse, immigration, épidémie de sida"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Giscard** (1974) : majorité à 18 ans, divorce par consentement mutuel.",
+    "**Loi Veil** : 17 janvier 1975, IVG.",
+    "**Mitterrand** élu le 10 mai 1981 : alternance.",
+    "**Abolition de la peine de mort** : 9 octobre 1981 (Badinter).",
+    "**Cohabitation** : 1986-1988 (Chirac Premier ministre).",
+    "**Sida** : VIH identifié en 1983 (Institut Pasteur) ; AIDES (1984), Act Up (1989)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "La loi Veil est votée en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1975",
+          "correct": true,
+          "explication": "17 janvier 1975."
+        },
+        {
+          "id": "b",
+          "texte": "1967",
+          "correct": false,
+          "explication": "Loi Neuwirth sur la contraception."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La peine de mort est abolie en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1981",
+          "correct": true,
+          "explication": "Robert Badinter."
+        },
+        {
+          "id": "b",
+          "texte": "1945",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Qui est élu président le 10 mai 1981 ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "François Mitterrand",
+          "correct": true,
+          "explication": "Première alternance."
+        },
+        {
+          "id": "b",
+          "texte": "Jacques Chirac",
+          "correct": false,
+          "explication": "Chirac devient Premier ministre en 1986."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "La cohabitation, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un président et un gouvernement de camps opposés",
+          "correct": true,
+          "explication": "1986-1988."
+        },
+        {
+          "id": "b",
+          "texte": "deux présidents en même temps",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Le VIH est identifié en 1983 par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "l'Institut Pasteur",
+          "correct": true,
+          "explication": "Barré-Sinoussi, Montagnier."
+        },
+        {
+          "id": "b",
+          "texte": "la NASA",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

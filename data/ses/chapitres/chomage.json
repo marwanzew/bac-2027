@@ -1,0 +1,163 @@
+{
+  "id": "chomage",
+  "matiere": "ses",
+  "titre": "Comment lutter contre le chômage ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Science économique",
+    "intitule": "Comment lutter contre le chômage ?",
+    "evaluableEcrit": true,
+    "certitude": "a_verifier",
+    "raison": "Objectifs relevés dans des documents des académies d'Orléans-Tours et de Nice qui citent le programme ; de petites variantes de mots existent entre eux (« allégement / allègement »).",
+    "source": { "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019", "consulteLe": "2026-10-17" }
+  },
+  "objectifs": [
+    "Savoir définir le chômage et le sous-emploi et connaître les indicateurs de taux de chômage et de taux d'emploi.",
+    "Comprendre que les problèmes d'appariement (frictions, inadéquations spatiales et de qualification) et les asymétries d'information (salaire d'efficience) sont des sources de chômage structurel.",
+    "Comprendre les effets (positifs ou négatifs) des institutions sur le chômage structurel (notamment salaire minimum et règles de protection de l'emploi).",
+    "Comprendre les effets des fluctuations de l'activité économique sur le chômage conjoncturel.",
+    "Connaître les principales politiques mises en œuvre pour lutter contre le chômage : politiques macroéconomiques de soutien de la demande globale, politiques d'allègement du coût du travail, politiques de formation et politiques de flexibilisation pour lutter contre les rigidités du marché du travail."
+  ],
+  "parties": [
+    {
+      "id": "mesurer",
+      "titre": "Définir et mesurer le chômage",
+      "blocs": [
+        { "type": "paragraphe", "texte": "En France, l'Insee mesure le chômage selon la définition du Bureau international du travail (BIT), qui permet des comparaisons entre pays." },
+        { "type": "definition", "glossaire": "chomeur-bit" },
+        { "type": "definition", "glossaire": "taux-de-chomage" },
+        { "type": "definition", "glossaire": "taux-d-emploi" },
+        { "type": "definition", "glossaire": "sous-emploi" },
+        { "type": "paragraphe", "texte": "Les frontières entre emploi, chômage et inactivité sont floues. Le **halo autour du chômage** regroupe des personnes inactives au sens du BIT mais proches du marché du travail : elles souhaitent travailler sans remplir toutes les conditions pour être comptées comme chômeuses." },
+        { "type": "piege", "titre": "taux de chômage et taux d'emploi", "texte": "Le taux de chômage rapporte les chômeurs aux **actifs**. Le taux d'emploi rapporte les personnes en emploi à **toute la population** de la tranche d'âge (actifs et inactifs). Les deux peuvent baisser en même temps si des chômeurs découragés deviennent inactifs." }
+      ]
+    },
+    {
+      "id": "structurel",
+      "titre": "Le chômage structurel : appariement et asymétries d'information",
+      "blocs": [
+        { "type": "paragraphe", "texte": "Le [[chômage structurel]] ne dépend pas de la conjoncture : il tient au fonctionnement du marché du travail et persiste même quand l'activité est bonne." },
+        { "type": "definition", "glossaire": "chomage-structurel" },
+        { "type": "paragraphe", "texte": "**Les problèmes d'appariement.** Des chômeurs et des emplois vacants coexistent, sans se rencontrer :" },
+        { "type": "liste", "items": [
+          "**les frictions** : chercher un emploi, puis recruter, prend du temps ;",
+          "**l'inadéquation spatiale** : les emplois ne sont pas là où vivent les chômeurs ;",
+          "**l'inadéquation des qualifications** : les compétences des chômeurs ne correspondent pas à celles que demandent les employeurs."
+        ] },
+        { "type": "definition", "glossaire": "appariement" },
+        { "type": "paragraphe", "texte": "**Les asymétries d'information.** L'employeur ne connaît pas exactement la productivité ou l'effort d'un salarié. Il peut alors verser un [[salaire d'efficience]], supérieur au salaire d'équilibre, pour attirer les meilleurs candidats, les inciter à l'effort et les fidéliser. Mais à ce salaire, l'offre de travail dépasse la demande : une partie des candidats reste au chômage." },
+        { "type": "definition", "glossaire": "asymetrie-information" },
+        { "type": "definition", "glossaire": "salaire-efficience" }
+      ]
+    },
+    {
+      "id": "institutions",
+      "titre": "Les effets des institutions sur le chômage structurel",
+      "blocs": [
+        { "type": "paragraphe", "texte": "Les institutions du marché du travail peuvent réduire ou augmenter le chômage structurel. Le programme cite le salaire minimum et les règles de protection de l'emploi." },
+        { "type": "tableau", "titre": "Des effets ambivalents", "colonnes": ["Institution", "Effets possibles sur l'emploi : négatifs", "Effets possibles sur l'emploi : positifs"], "lignes": [
+          ["Salaire minimum (le SMIC en France)", "S'il est supérieur à la productivité des moins qualifiés, il peut freiner leur embauche", "Il soutient le pouvoir d'achat et la demande ; il peut limiter le pouvoir d'un employeur en situation de monopsone"],
+          ["Règles de protection de l'emploi", "Elles rendent les embauches plus risquées pour l'employeur et peuvent favoriser un dualisme entre salariés protégés et précaires", "Elles limitent les licenciements, stabilisent l'emploi et incitent à former les salariés"]
+        ] },
+        { "type": "definition", "glossaire": "smic" },
+        { "type": "definition", "glossaire": "monopsone" },
+        { "type": "piege", "titre": "pas de conclusion univoque", "texte": "Le programme parle d'effets « positifs ou négatifs » : une bonne copie présente les deux, avec leur mécanisme." }
+      ]
+    },
+    {
+      "id": "conjoncturel",
+      "titre": "Les fluctuations de l'activité et le chômage conjoncturel",
+      "blocs": [
+        { "type": "paragraphe", "texte": "Le [[chômage conjoncturel]] apparaît quand l'activité ralentit. Si la demande globale (consommation, investissement, exportations) baisse, les entreprises vendent moins, produisent moins et réduisent leurs effectifs ou n'embauchent plus." },
+        { "type": "definition", "glossaire": "chomage-conjoncturel" },
+        { "type": "paragraphe", "texte": "John Maynard Keynes (1936) montre qu'une économie peut rester durablement en situation de chômage si la demande anticipée par les entreprises est insuffisante : le chômage n'est alors pas « volontaire »." },
+        { "type": "schema", "titre": "Le mécanisme du chômage conjoncturel", "sens": "horizontal", "noeuds": [
+          { "id": "demande", "texte": "Baisse de la demande globale" },
+          { "id": "production", "texte": "Les entreprises produisent moins" },
+          { "id": "emploi", "texte": "Moins d'emplois, moins d'embauches" },
+          { "id": "chomage", "texte": "Hausse du chômage conjoncturel" }
+        ], "liens": [
+          { "de": "demande", "vers": "production" }, { "de": "production", "vers": "emploi" }, { "de": "emploi", "vers": "chomage" }
+        ] }
+      ]
+    },
+    {
+      "id": "politiques",
+      "titre": "Les politiques de lutte contre le chômage",
+      "blocs": [
+        { "type": "paragraphe", "texte": "À chaque cause de chômage correspond une politique :" },
+        { "type": "tableau", "titre": "Quelle politique contre quel chômage ?", "colonnes": ["Politique", "Moyens", "Chômage visé"], "lignes": [
+          ["Soutien de la demande globale (politique macroéconomique)", "Politique budgétaire (dépenses publiques, baisse d'impôts) et politique monétaire (baisse des taux d'intérêt)", "Chômage conjoncturel"],
+          ["Allègement du coût du travail", "Baisse des cotisations sociales patronales, surtout sur les bas salaires", "Chômage lié à un coût du travail élevé, notamment des peu qualifiés"],
+          ["Formation", "Formation des chômeurs et des salariés, orientation", "Chômage structurel d'inadéquation des qualifications"],
+          ["Flexibilisation", "Assouplir les contrats, le temps de travail, les règles de licenciement", "Chômage structurel lié aux rigidités du marché du travail"]
+        ] },
+        { "type": "paragraphe", "texte": "Les politiques d'accompagnement des demandeurs d'emploi (par France Travail, ex-Pôle emploi) visent aussi à améliorer l'appariement." },
+        { "type": "a-retenir", "texte": "Chômage conjoncturel → soutenir la demande. Chômage structurel → baisser le coût du travail, former, flexibiliser, améliorer l'appariement." },
+        { "type": "piege", "titre": "les limites", "texte": "Chaque politique a des limites : la relance budgétaire augmente le déficit public ; les allègements de cotisations coûtent cher à l'État ; la flexibilisation peut accroître la précarité. Une copie de niveau bac les mentionne." }
+      ]
+    }
+  ],
+  "reperes": [
+    { "type": "notion", "libelle": "Les trois conditions du chômage au sens du BIT", "valeur": "Sans emploi · disponible · en recherche active", "certitude": "certain",
+      "source": { "titre": "Insee, définition « Chômeur (au sens du BIT) »", "url": "https://www.insee.fr/fr/metadonnees/definition/c1129" } },
+    { "type": "formule", "libelle": "Taux de chômage", "valeur": "chômeurs ÷ actifs × 100", "certitude": "certain",
+      "source": { "titre": "Insee, documentation de l'enquête Emploi" } },
+    { "type": "auteur", "libelle": "Chômage involontaire et insuffisance de la demande", "valeur": "John Maynard Keynes, 1936", "certitude": "certain",
+      "source": { "titre": "J. M. Keynes, Théorie générale de l'emploi, de l'intérêt et de la monnaie, 1936" } },
+    { "type": "date", "libelle": "Création du SMIC (il remplace le SMIG de 1950)", "valeur": "1970", "certitude": "certain",
+      "source": { "titre": "Loi du 2 janvier 1970 créant le salaire minimum interprofessionnel de croissance" } },
+    { "type": "date", "libelle": "Pôle emploi devient France Travail", "valeur": "1^er^ janvier 2024", "certitude": "certain",
+      "source": { "titre": "Loi du 18 décembre 2023 pour le plein emploi" } }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Les sources du chômage et les réponses",
+    "colonnes": ["Type de chômage", "Causes", "Politiques"],
+    "lignes": [
+      ["Structurel", "Appariement (frictions, inadéquations spatiales et de qualification), salaire d'efficience, effets de certaines institutions", "Formation, flexibilisation, allègement du coût du travail, accompagnement"],
+      ["Conjoncturel", "Baisse de la demande globale lors d'un ralentissement de l'activité", "Soutien de la demande : politiques budgétaire et monétaire"]
+    ]
+  },
+  "fiche": [
+    "**Chômeur BIT** : 15 ans ou plus, sans emploi, disponible sous 2 semaines, en recherche active.",
+    "**Taux de chômage** = chômeurs ÷ actifs ; **taux d'emploi** = personnes en emploi ÷ population de la tranche d'âge.",
+    "**Sous-emploi** : temps partiel subi et chômage technique ou partiel. **Halo** : inactifs proches du marché du travail.",
+    "**Chômage structurel** : appariement (frictions, inadéquations) et asymétries d'information (salaire d'efficience).",
+    "**Institutions** (salaire minimum, protection de l'emploi) : effets positifs ou négatifs.",
+    "**Chômage conjoncturel** : baisse de la demande globale (Keynes, 1936).",
+    "**Politiques** : soutien de la demande ; allègement du coût du travail ; formation ; flexibilisation. Chacune a des limites."
+  ],
+  "quiz": [
+    { "id": "q1", "enonce": "Une personne sans emploi qui ne cherche pas de travail est, au sens du BIT…", "certitude": "certain",
+      "source": { "titre": "Insee, définition « Chômeur (au sens du BIT) »" },
+      "choix": [
+        { "id": "a", "texte": "inactive", "correct": true, "explication": "Sans recherche active, elle n'est pas chômeuse ; elle peut faire partie du halo autour du chômage." },
+        { "id": "b", "texte": "chômeuse", "correct": false, "explication": "Il faut remplir les trois conditions, dont la recherche active." }
+      ] },
+    { "id": "q2", "enonce": "Le taux de chômage rapporte le nombre de chômeurs…", "certitude": "certain",
+      "source": { "titre": "Insee, documentation de l'enquête Emploi" },
+      "choix": [
+        { "id": "a", "texte": "au nombre d'actifs", "correct": true, "explication": "Actifs = personnes en emploi + chômeurs." },
+        { "id": "b", "texte": "à la population totale", "correct": false, "explication": "C'est le taux d'emploi qui se rapporte à toute la population de la tranche d'âge." }
+      ] },
+    { "id": "q3", "enonce": "Un salaire d'efficience peut créer du chômage parce qu'il est…", "certitude": "certain",
+      "source": { "titre": "Programme de SES de terminale : asymétries d'information" },
+      "choix": [
+        { "id": "a", "texte": "supérieur au salaire d'équilibre", "correct": true, "explication": "À ce salaire, plus de personnes veulent travailler que d'emplois proposés." },
+        { "id": "b", "texte": "inférieur au salaire minimum", "correct": false, "explication": "Non, c'est un salaire volontairement élevé." }
+      ] },
+    { "id": "q4", "enonce": "Quelle politique cible le chômage conjoncturel ?", "certitude": "certain",
+      "source": { "titre": "Programme de SES de terminale" },
+      "choix": [
+        { "id": "a", "texte": "Le soutien de la demande globale", "correct": true, "explication": "Le chômage conjoncturel vient d'une demande insuffisante." },
+        { "id": "b", "texte": "La formation des chômeurs", "correct": false, "explication": "Elle vise surtout le chômage structurel d'inadéquation des qualifications." }
+      ] },
+    { "id": "q5", "enonce": "Des emplois restent vacants dans une région pendant que des chômeurs vivent dans une autre. C'est…", "certitude": "certain",
+      "source": { "titre": "Programme de SES de terminale : problèmes d'appariement" },
+      "choix": [
+        { "id": "a", "texte": "une inadéquation spatiale", "correct": true, "explication": "Un problème d'appariement, source de chômage structurel." },
+        { "id": "b", "texte": "du chômage conjoncturel", "correct": false, "explication": "Il ne vient pas ici d'une baisse de la demande globale." }
+      ] }
+  ]
+}

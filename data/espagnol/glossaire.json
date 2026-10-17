@@ -1,0 +1,149 @@
+{
+  "matiere": "espagnol",
+  "entrees": [
+    {
+      "id": "intimidad",
+      "terme": "la intimidad",
+      "definition": "Ce qui relève de la vie personnelle et que l'on ne montre pas à tout le monde.",
+      "traduction": {
+        "cible": "la intimidad",
+        "fr": "l'intimité"
+      },
+      "chapitres": [
+        "axe1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      }
+    },
+    {
+      "id": "igualdad",
+      "terme": "la igualdad",
+      "definition": "Le fait d'avoir les mêmes droits ; *la igualdad entre hombres y mujeres*.",
+      "traduction": {
+        "cible": "la igualdad",
+        "fr": "l'égalité"
+      },
+      "chapitres": [
+        "axe1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      }
+    },
+    {
+      "id": "memoria-historica",
+      "terme": "la memoria histórica",
+      "definition": "En Espagne et en Amérique latine, ensemble des actions pour reconnaître les victimes de la guerre et des dictatures.",
+      "traduction": {
+        "cible": "la memoria histórica",
+        "fr": "la mémoire historique"
+      },
+      "chapitres": [
+        "axe2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      }
+    },
+    {
+      "id": "desaparecidos",
+      "terme": "los desaparecidos",
+      "definition": "Personnes enlevées par les dictatures, dont on ignore le sort.",
+      "traduction": {
+        "cible": "los desaparecidos",
+        "fr": "les disparus"
+      },
+      "chapitres": [
+        "axe2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      }
+    },
+    {
+      "id": "realismo-magico",
+      "terme": "el realismo mágico",
+      "definition": "Courant littéraire latino-américain où le merveilleux surgit dans la vie quotidienne comme une chose normale (García Márquez).",
+      "traduction": {
+        "cible": "el realismo mágico",
+        "fr": "le réalisme magique"
+      },
+      "chapitres": [
+        "axe3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      }
+    },
+    {
+      "id": "publicidad",
+      "terme": "la publicidad",
+      "definition": "Ensemble des moyens pour faire connaître un produit et donner envie de l'acheter.",
+      "traduction": {
+        "cible": "la publicidad",
+        "fr": "la publicité"
+      },
+      "chapitres": [
+        "axe4"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      }
+    },
+    {
+      "id": "bulo",
+      "terme": "el bulo",
+      "definition": "Information fausse diffusée volontairement, souvent sur les réseaux sociaux.",
+      "traduction": {
+        "cible": "el bulo",
+        "fr": "la fausse nouvelle"
+      },
+      "chapitres": [
+        "axe5"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      }
+    },
+    {
+      "id": "mestizaje",
+      "terme": "el mestizaje",
+      "definition": "Mélange de populations et de cultures, qui donne naissance à des formes nouvelles.",
+      "traduction": {
+        "cible": "el mestizaje",
+        "fr": "le métissage"
+      },
+      "chapitres": [
+        "axe6"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      }
+    },
+    {
+      "id": "sincretismo",
+      "terme": "el sincretismo",
+      "definition": "Fusion d'éléments de religions ou de cultures différentes (ex. : Día de Muertos).",
+      "traduction": {
+        "cible": "el sincretismo",
+        "fr": "le syncrétisme"
+      },
+      "chapitres": [
+        "axe6"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      }
+    }
+  ]
+}

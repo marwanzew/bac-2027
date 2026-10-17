@@ -1,0 +1,353 @@
+{
+  "id": "le-bonheur",
+  "matiere": "philosophie",
+  "titre": "Le bonheur",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "Le bonheur",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer bonheur, plaisir, joie et satisfaction.",
+    "Comprendre pourquoi le bonheur semble difficile à définir et à atteindre.",
+    "Connaître les positions d'Aristote, Épicure, Épictète, Pascal, Kant et Schopenhauer.",
+    "Construire une réflexion sur le bonheur avec des exemples."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "bonheur"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le bonheur se distingue du **plaisir** (passager, lié à un besoin satisfait) et de la **joie** (vive mais momentanée) : il désigne un état **durable** et **global**."
+        },
+        {
+          "type": "definition",
+          "glossaire": "hedonisme"
+        },
+        {
+          "type": "definition",
+          "glossaire": "ataraxie"
+        },
+        {
+          "type": "definition",
+          "glossaire": "divertissement"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : tout le monde veut être heureux, mais personne ne sait exactement en quoi consiste le bonheur. Dépend-il de nous (de notre sagesse, de nos choix) ou de la chance ? Faut-il chercher le plaisir, ou au contraire limiter ses désirs ? Le bonheur est-il même le but le plus important de la vie ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **plaisir / sagesse** ; **dépend de nous / dépend du hasard** ; **bonheur / devoir**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Aristote (*Éthique à Nicomaque*, IV^e^ s. av. J.-C.)",
+              "Le bonheur est la fin ultime de toutes nos actions ; il consiste dans une activité conforme à la vertu, tout au long d'une vie",
+              "On ne cherche pas le bonheur pour autre chose que lui-même"
+            ],
+            [
+              "Épicure (*Lettre à Ménécée*, III^e^ s. av. J.-C.)",
+              "Le bonheur est l'absence de trouble de l'âme (ataraxie) et de douleur du corps ; il faut satisfaire les désirs naturels et nécessaires",
+              "Le plaisir bien compris passe par la modération"
+            ],
+            [
+              "Épictète (*Manuel*, II^e^ s.)",
+              "Distinguer ce qui dépend de nous (nos jugements, nos désirs) de ce qui n'en dépend pas",
+              "On est heureux en ne désirant que ce qui dépend de nous"
+            ],
+            [
+              "Pascal (*Pensées*, 1670)",
+              "Les hommes se divertissent pour ne pas penser à leur condition misérable et mortelle",
+              "Le divertissement fuit le malheur au lieu de donner le bonheur"
+            ],
+            [
+              "Kant (*Fondements de la métaphysique des mœurs*, 1785)",
+              "Le bonheur est un idéal de l'imagination et non de la raison : on ne peut pas le définir précisément",
+              "Il ne peut pas fonder la morale ; il faut se rendre digne d'être heureux"
+            ],
+            [
+              "Schopenhauer (*Le Monde comme volonté et comme représentation*, 1818)",
+              "La vie oscille entre la souffrance du désir insatisfait et l'ennui du désir satisfait",
+              "Le bonheur durable est impossible"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Le gagnant du loto qui n'est pas plus heureux quelques années plus tard.",
+            "Les réseaux sociaux qui montrent le bonheur des autres : bonheur ou image du bonheur ?",
+            "Le sportif qui s'entraîne dur : le bonheur peut passer par l'effort.",
+            "Faire défiler des vidéos pendant des heures : un divertissement au sens de Pascal."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Le bonheur dépend-il de nous ?",
+            "Faut-il chercher à être heureux ?",
+            "Le bonheur est-il le but de la vie ?",
+            "Peut-on être heureux sans les autres ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Le bonheur comme fin ultime",
+      "valeur": "Aristote, *Éthique à Nicomaque*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Ataraxie, désirs naturels et nécessaires",
+      "valeur": "Épicure, *Lettre à Ménécée*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Ce qui dépend de nous",
+      "valeur": "Épictète, *Manuel*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Le divertissement",
+      "valeur": "Pascal, *Pensées*, 1670",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Idéal de l'imagination",
+      "valeur": "Kant, 1785",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le bonheur : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Aristote",
+        "Le bonheur est la fin ultime de toutes nos actions ; il consiste dans une activité conforme à la vertu, tout au long d'une vie"
+      ],
+      [
+        "Épicure",
+        "Le bonheur est l'absence de trouble de l'âme (ataraxie) et de douleur du corps ; il faut satisfaire les désirs naturels et nécessaires"
+      ],
+      [
+        "Épictète",
+        "Distinguer ce qui dépend de nous (nos jugements, nos désirs) de ce qui n'en dépend pas"
+      ],
+      [
+        "Pascal",
+        "Les hommes se divertissent pour ne pas penser à leur condition misérable et mortelle"
+      ],
+      [
+        "Kant",
+        "Le bonheur est un idéal de l'imagination et non de la raison : on ne peut pas le définir précisément"
+      ],
+      [
+        "Schopenhauer",
+        "La vie oscille entre la souffrance du désir insatisfait et l'ennui du désir satisfait"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Bonheur** : état durable et global ≠ plaisir ou joie passagers.",
+    "**Aristote** : fin ultime, activité conforme à la vertu.",
+    "**Épicure** : ataraxie, désirs naturels et nécessaires.",
+    "**Épictète** : ne désirer que ce qui dépend de nous.",
+    "**Pascal** : le divertissement fuit la pensée de notre condition.",
+    "**Kant** : idéal de l'imagination ; se rendre digne d'être heureux.",
+    "**Schopenhauer** : souffrance ou ennui."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "L'ataraxie, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "l'absence de trouble de l'âme",
+          "correct": true,
+          "explication": "Idéal épicurien et stoïcien."
+        },
+        {
+          "id": "b",
+          "texte": "le plaisir intense",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Pour Épictète, il faut distinguer…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "ce qui dépend de nous et ce qui n'en dépend pas",
+          "correct": true,
+          "explication": "*Manuel*."
+        },
+        {
+          "id": "b",
+          "texte": "le corps et l'âme",
+          "correct": false,
+          "explication": "Pas ici."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Le divertissement est une notion de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Pascal",
+          "correct": true,
+          "explication": "*Pensées*, 1670."
+        },
+        {
+          "id": "b",
+          "texte": "Aristote",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Pour Kant, le bonheur est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un idéal de l'imagination",
+          "correct": true,
+          "explication": "On ne peut pas le définir précisément."
+        },
+        {
+          "id": "b",
+          "texte": "le fondement de la morale",
+          "correct": false,
+          "explication": "C'est ce qu'il refuse."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Pour Aristote, le bonheur est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la fin ultime de nos actions",
+          "correct": true,
+          "explication": "Voulu pour lui-même."
+        },
+        {
+          "id": "b",
+          "texte": "impossible",
+          "correct": false,
+          "explication": "C'est plutôt Schopenhauer."
+        }
+      ]
+    }
+  ]
+}

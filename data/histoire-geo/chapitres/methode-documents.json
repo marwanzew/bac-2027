@@ -1,0 +1,223 @@
+{
+  "id": "methode-documents",
+  "matiere": "histoire-geo",
+  "titre": "Méthode : l'analyse de document(s)",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthode",
+    "intitule": "Méthode : l'analyse de document(s)",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Présenter un document (nature, auteur, date, contexte).",
+    "Répondre à une consigne en citant le document et en apportant des connaissances.",
+    "Exercer un regard critique (point de vue, limites)."
+  ],
+  "parties": [
+    {
+      "id": "evaluation",
+      "titre": "À quoi ça sert",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En histoire-géographie, la note du bac vient du **contrôle continu** (coefficient 6) : ce sont tes moyennes de première et de terminale. Il n'y a pas d'épreuve finale. Ces méthodes servent pour tes devoirs en classe, qui font ta moyenne."
+        }
+      ]
+    },
+    {
+      "id": "etapes",
+      "titre": "Les étapes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Lire la consigne** d'abord : c'est elle qui guide l'analyse.",
+            "**Présenter le document** : nature (discours, affiche, carte, photo, statistiques…), auteur (qui est-il ? quel est son point de vue ?), date, destinataire, contexte historique ou géographique.",
+            "**Prélever** les informations utiles (cite entre guillemets, avec la ligne).",
+            "**Expliquer** avec tes connaissances : qui, quoi, pourquoi, quelles conséquences ?",
+            "**Critiquer** : le document est-il objectif ? que montre-t-il, que ne montre-t-il pas ?"
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "La règle d'or : **citer + expliquer**. Une citation sans explication ne vaut rien ; une explication sans le document, non plus."
+        },
+        {
+          "type": "piege",
+          "titre": "la paraphrase",
+          "texte": "Répéter le document avec d'autres mots n'est pas l'analyser. Apporte toujours une connaissance qui n'est pas dans le document."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Coefficient de l'histoire-géographie (contrôle continu)",
+      "valeur": "6",
+      "certitude": "certain",
+      "source": {
+        "titre": "Arrêté relatif aux modalités d'organisation du baccalauréat général"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Méthode : l'analyse de document(s) : les étapes",
+    "colonnes": [
+      "Étape",
+      "À faire"
+    ],
+    "lignes": [
+      [
+        "1",
+        "Lire la consigne"
+      ],
+      [
+        "2",
+        "Présenter le document (nature, auteur, date, contexte)"
+      ],
+      [
+        "3",
+        "Prélever des informations (citations)"
+      ],
+      [
+        "4",
+        "Expliquer avec ses connaissances"
+      ],
+      [
+        "5",
+        "Critiquer (point de vue, limites)"
+      ],
+      [
+        "6",
+        "Conclure en répondant à la consigne"
+      ]
+    ]
+  },
+  "fiche": [
+    "Lire la consigne",
+    "Présenter le document (nature, auteur, date, contexte)",
+    "Prélever des informations (citations)",
+    "Expliquer avec ses connaissances",
+    "Critiquer (point de vue, limites)",
+    "Conclure en répondant à la consigne"
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "La première chose à faire :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "lire la consigne",
+          "correct": true,
+          "explication": "Elle guide tout."
+        },
+        {
+          "id": "b",
+          "texte": "recopier le document",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Présenter un document, c'est donner…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "nature, auteur, date, contexte",
+          "correct": true,
+          "explication": "Et destinataire."
+        },
+        {
+          "id": "b",
+          "texte": "son avis personnel",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Paraphraser, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "répéter le document",
+          "correct": true,
+          "explication": "À éviter."
+        },
+        {
+          "id": "b",
+          "texte": "l'expliquer",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Critiquer un document, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "montrer son point de vue et ses limites",
+          "correct": true,
+          "explication": "Esprit critique."
+        },
+        {
+          "id": "b",
+          "texte": "dire qu'il est mauvais",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Une citation doit être…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "expliquée",
+          "correct": true,
+          "explication": "Citer + expliquer."
+        },
+        {
+          "id": "b",
+          "texte": "la plus longue possible",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

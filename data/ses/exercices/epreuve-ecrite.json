@@ -1,0 +1,44 @@
+{
+  "matiere": "ses",
+  "chapitre": "epreuve-ecrite",
+  "exercices": [
+    {
+      "id": "epreuve-ecrite-ex1",
+      "titre": "Les trois parties de l'épreuve composée",
+      "type": "mobilisation-connaissances",
+      "difficulte": "facile",
+      "dureeMinutes": 5,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Présente les trois parties de l'épreuve composée de SES et le nombre de points de chacune."
+      ],
+      "methode": [
+        "Nomme chaque partie avec son intitulé officiel.",
+        "Associe à chacune son barème."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "ordonnee": true,
+          "items": [
+            "Partie 1 : mobilisation des connaissances, sans document (3,5 points).",
+            "Partie 2 : étude d'un document statistique, deux questions (5,5 points).",
+            "Partie 3 : raisonnement s'appuyant sur un dossier documentaire de 2 ou 3 documents (9 points)."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Intitulé de chaque partie",
+          "points": 1.5
+        },
+        {
+          "critere": "Barème de chaque partie",
+          "points": 1.5
+        }
+      ]
+    }
+  ]
+}

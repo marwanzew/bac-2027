@@ -1,0 +1,137 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "dissertation",
+  "exercices": [
+    {
+      "id": "dissertation-probl",
+      "titre": "Problématiser : « Le travail rend-il libre ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Le travail rend-il libre ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Définis travail (plusieurs sens) et liberté.",
+        "Cherche ce qui oppose spontanément travail et liberté.",
+        "Cherche ensuite en quoi le travail pourrait libérer."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Le travail est une activité pénible imposée par le besoin (sens étymologique souvent rappelé : la peine) ; c'est aussi une activité par laquelle l'homme transforme la nature et produit. La liberté peut être l'absence de contrainte ou la capacité d'agir par soi-même."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** Le travail semble s'opposer à la liberté : on travaille parce qu'on y est obligé. Mais sans travail, l'homme resterait dépendant de la nature ; en travaillant, il développe ses capacités."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** Le travail n'est-il qu'une contrainte qui nous asservit, ou peut-il être le moyen par lequel l'homme conquiert sa liberté ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    },
+    {
+      "id": "dissertation-plan",
+      "titre": "Plan détaillé : « Le travail rend-il libre ? »",
+      "type": "plan-detaille",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Le travail rend-il libre ? »",
+        "Construis un plan détaillé en deux ou trois parties, avec pour chaque partie une thèse, des arguments et au moins une référence."
+      ],
+      "methode": [
+        "Commence par l'analyse des termes et la problématique.",
+        "Chaque partie répond à la question ; la partie suivante naît d'une limite de la précédente.",
+        "Une référence d'auteur sert à éclairer un argument, pas à le remplacer.",
+        "À l'épreuve, la note est globale sur 20 : ce barème n'est qu'un repère d'entraînement."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : accroche (on rêve des vacances et de la retraite comme d'une libération) ; analyse ; problématique ; annonce."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Le travail semble s'opposer à la liberté.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Il est imposé par le besoin : on travaille pour vivre.",
+            "Il peut être aliénant : tâches répétitives, travail à la chaîne (Marx parle d'aliénation du travailleur).",
+            "Exemple : le salarié qui ne voit pas le sens de ce qu'il fait."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Pourtant, le travail libère l'homme de la nature.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "En transformant la nature, l'homme se rend moins dépendant d'elle.",
+            "En travaillant, il développe ses capacités et se forme (Hegel : le travail forme).",
+            "Exemple : l'artisan qui maîtrise un savoir-faire."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III. Le travail libère à certaines conditions.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Tout dépend des conditions : un travail choisi, qui a du sens, n'est pas un travail subi.",
+            "Distinction : le travail comme activité (qui peut libérer) et l'emploi dans certaines conditions (qui peut aliéner).",
+            "Conclusion : le travail n'est pas libre par nature, mais il peut devenir un moyen de liberté."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : le travail n'est ni une pure servitude ni une liberté donnée ; il est l'occasion d'une libération qui dépend de la manière dont il est organisé et vécu."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Problématique",
+          "points": 4
+        },
+        {
+          "critere": "Progression des parties",
+          "points": 6
+        },
+        {
+          "critere": "Arguments et exemples",
+          "points": 6
+        },
+        {
+          "critere": "Références pertinentes",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

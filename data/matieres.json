@@ -1,0 +1,974 @@
+{
+  "version": 1,
+  "session": "2027",
+  "epreuves": [
+    {
+      "id": "francais-ecrit",
+      "libelle": "Français, épreuve anticipée (écrit)",
+      "date": "2027-06-15",
+      "modifiable": false,
+      "source": {
+        "titre": "Éduscol, dates des examens 2027 : épreuve écrite anticipée de français le mardi 15 juin 2027"
+      }
+    },
+    {
+      "id": "francais-oral",
+      "libelle": "Français, épreuve anticipée (oral)",
+      "date": null,
+      "modifiable": true
+    },
+    {
+      "id": "philosophie",
+      "libelle": "Philosophie (écrit)",
+      "date": "2027-06-14",
+      "heure": "08:00",
+      "modifiable": false,
+      "source": {
+        "titre": "Calendrier session 2027, annexe III, BO spécial n° 2 du 25 août 2026"
+      }
+    },
+    {
+      "id": "ses",
+      "libelle": "SES (écrit)",
+      "date": "2027-06-16",
+      "heure": "08:00",
+      "modifiable": true,
+      "source": {
+        "titre": "Calendrier session 2027 : SES les 16 et 17 juin ; le jour est fixé par la convocation"
+      }
+    },
+    {
+      "id": "llcer-ecrit",
+      "libelle": "LLCER anglais (écrit)",
+      "date": "2027-06-17",
+      "heure": "08:00",
+      "modifiable": false,
+      "source": {
+        "titre": "Calendrier session 2027, annexe III, BO spécial n° 2 du 25 août 2026"
+      }
+    },
+    {
+      "id": "llcer-oral",
+      "libelle": "LLCER anglais (oral)",
+      "date": null,
+      "modifiable": true
+    },
+    {
+      "id": "grand-oral",
+      "libelle": "Grand oral (entre le 21 juin et le 2 juillet)",
+      "date": null,
+      "modifiable": true
+    }
+  ],
+  "matieres": [
+    {
+      "id": "francais",
+      "nom": "Français (épreuves anticipées)",
+      "page": "cours",
+      "couleur": {
+        "clair": "#9A4A12",
+        "sombre": "#F2B27A"
+      },
+      "icone": "crayon",
+      "bac": {
+        "evaluation": "epreuve-ecrite-et-orale",
+        "coefficient": 10,
+        "epreuve": "francais-ecrit"
+      },
+      "programme": {
+        "intitule": "Programme de français de première, voie générale : objets d'étude et œuvres 2026-2027",
+        "source": {
+          "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+          "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+        }
+      },
+      "chapitres": [
+        {
+          "id": "candidat-libre",
+          "titre": "Ta situation : candidat libre et épreuves de français",
+          "groupe": "Avant de commencer",
+          "fichier": "data/francais/chapitres/candidat-libre.json",
+          "exercices": "data/francais/exercices/candidat-libre.json"
+        },
+        {
+          "id": "roman",
+          "titre": "Le roman et le récit du Moyen Âge au XXIe siècle",
+          "groupe": "Objets d'étude et œuvres au programme 2026-2027",
+          "fichier": "data/francais/chapitres/roman.json",
+          "exercices": "data/francais/exercices/roman.json"
+        },
+        {
+          "id": "poesie",
+          "titre": "La poésie du XIXe au XXIe siècle",
+          "groupe": "Objets d'étude et œuvres au programme 2026-2027",
+          "fichier": "data/francais/chapitres/poesie.json",
+          "exercices": "data/francais/exercices/poesie.json"
+        },
+        {
+          "id": "litterature-idees",
+          "titre": "La littérature d'idées du XVIe au XVIIIe siècle",
+          "groupe": "Objets d'étude et œuvres au programme 2026-2027",
+          "fichier": "data/francais/chapitres/litterature-idees.json",
+          "exercices": "data/francais/exercices/litterature-idees.json"
+        },
+        {
+          "id": "theatre",
+          "titre": "Le théâtre du XVIIe au XXIe siècle",
+          "groupe": "Objets d'étude et œuvres au programme 2026-2027",
+          "fichier": "data/francais/chapitres/theatre.json",
+          "exercices": "data/francais/exercices/theatre.json"
+        },
+        {
+          "id": "methode-commentaire",
+          "titre": "Méthode : le commentaire",
+          "groupe": "Méthodes des épreuves",
+          "fichier": "data/francais/chapitres/methode-commentaire.json",
+          "exercices": "data/francais/exercices/methode-commentaire.json"
+        },
+        {
+          "id": "methode-dissertation",
+          "titre": "Méthode : la dissertation",
+          "groupe": "Méthodes des épreuves",
+          "fichier": "data/francais/chapitres/methode-dissertation.json",
+          "exercices": "data/francais/exercices/methode-dissertation.json"
+        },
+        {
+          "id": "methode-oral",
+          "titre": "Méthode : l'épreuve orale",
+          "groupe": "Méthodes des épreuves",
+          "fichier": "data/francais/chapitres/methode-oral.json",
+          "exercices": "data/francais/exercices/methode-oral.json"
+        },
+        {
+          "id": "grammaire",
+          "titre": "La question de grammaire",
+          "groupe": "Méthodes des épreuves",
+          "fichier": "data/francais/chapitres/grammaire.json",
+          "exercices": "data/francais/exercices/grammaire.json"
+        }
+      ],
+      "glossaire": "data/francais/glossaire.json"
+    },
+    {
+      "id": "ses",
+      "nom": "Sciences économiques et sociales",
+      "page": "cours",
+      "couleur": {
+        "clair": "#0F6674",
+        "sombre": "#6CCAD6"
+      },
+      "icone": "courbe",
+      "bac": {
+        "evaluation": "epreuve-ecrite",
+        "coefficient": 16,
+        "epreuve": "ses"
+      },
+      "programme": {
+        "intitule": "Programme de l'enseignement de spécialité de SES de la classe terminale",
+        "source": {
+          "titre": "Arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019"
+        }
+      },
+      "chapitres": [
+        {
+          "id": "croissance",
+          "titre": "Quels sont les sources et les défis de la croissance économique ?",
+          "groupe": "Science économique",
+          "fichier": "data/ses/chapitres/croissance.json",
+          "exercices": "data/ses/exercices/croissance.json",
+          "evaluableEcrit": true
+        },
+        {
+          "id": "commerce-international",
+          "titre": "Quels sont les fondements du commerce international et de l'internationalisation de la production ?",
+          "groupe": "Science économique",
+          "fichier": "data/ses/chapitres/commerce-international.json",
+          "exercices": "data/ses/exercices/commerce-international.json",
+          "evaluableEcrit": true
+        },
+        {
+          "id": "chomage",
+          "titre": "Comment lutter contre le chômage ?",
+          "groupe": "Science économique",
+          "fichier": "data/ses/chapitres/chomage.json",
+          "exercices": "data/ses/exercices/chomage.json",
+          "evaluableEcrit": true
+        },
+        {
+          "id": "crises-financieres",
+          "titre": "Comment expliquer les crises financières et réguler le système financier ?",
+          "groupe": "Science économique",
+          "fichier": "data/ses/chapitres/crises-financieres.json",
+          "exercices": "data/ses/exercices/crises-financieres.json",
+          "evaluableEcrit": false
+        },
+        {
+          "id": "politiques-europeennes",
+          "titre": "Quelles politiques économiques dans le cadre européen ?",
+          "groupe": "Science économique",
+          "fichier": "data/ses/chapitres/politiques-europeennes.json",
+          "exercices": "data/ses/exercices/politiques-europeennes.json",
+          "evaluableEcrit": true
+        },
+        {
+          "id": "structure-sociale",
+          "titre": "Comment est structurée la société française actuelle ?",
+          "groupe": "Sociologie et science politique",
+          "fichier": "data/ses/chapitres/structure-sociale.json",
+          "exercices": "data/ses/exercices/structure-sociale.json",
+          "evaluableEcrit": true
+        },
+        {
+          "id": "ecole",
+          "titre": "Quelle est l'action de l'École sur les destins individuels et sur l'évolution de la société ?",
+          "groupe": "Sociologie et science politique",
+          "fichier": "data/ses/chapitres/ecole.json",
+          "exercices": "data/ses/exercices/ecole.json",
+          "evaluableEcrit": false
+        },
+        {
+          "id": "mobilite-sociale",
+          "titre": "Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ?",
+          "groupe": "Sociologie et science politique",
+          "fichier": "data/ses/chapitres/mobilite-sociale.json",
+          "exercices": "data/ses/exercices/mobilite-sociale.json",
+          "evaluableEcrit": true
+        },
+        {
+          "id": "travail-emploi",
+          "titre": "Quelles mutations du travail et de l'emploi ?",
+          "groupe": "Sociologie et science politique",
+          "fichier": "data/ses/chapitres/travail-emploi.json",
+          "exercices": "data/ses/exercices/travail-emploi.json",
+          "evaluableEcrit": true
+        },
+        {
+          "id": "engagement-politique",
+          "titre": "Comment expliquer l'engagement politique dans les sociétés démocratiques ?",
+          "groupe": "Sociologie et science politique",
+          "fichier": "data/ses/chapitres/engagement-politique.json",
+          "exercices": "data/ses/exercices/engagement-politique.json",
+          "evaluableEcrit": true
+        },
+        {
+          "id": "justice-sociale",
+          "titre": "Quelles inégalités sont compatibles avec les différentes conceptions de la justice sociale ?",
+          "groupe": "Regards croisés",
+          "fichier": "data/ses/chapitres/justice-sociale.json",
+          "exercices": "data/ses/exercices/justice-sociale.json",
+          "evaluableEcrit": false
+        },
+        {
+          "id": "environnement",
+          "titre": "Quelle action publique pour l'environnement ?",
+          "groupe": "Regards croisés",
+          "fichier": "data/ses/chapitres/environnement.json",
+          "exercices": "data/ses/exercices/environnement.json",
+          "evaluableEcrit": true
+        },
+        {
+          "id": "epreuve-ecrite",
+          "titre": "L'épreuve écrite de SES en 2027",
+          "groupe": "Méthode",
+          "fichier": "data/ses/chapitres/epreuve-ecrite.json",
+          "exercices": "data/ses/exercices/epreuve-ecrite.json"
+        }
+      ],
+      "glossaire": "data/ses/glossaire.json"
+    },
+    {
+      "id": "llcer",
+      "nom": "LLCER anglais",
+      "page": "cours",
+      "couleur": {
+        "clair": "#9B2C4A",
+        "sombre": "#F09AB2"
+      },
+      "icone": "livre",
+      "bac": {
+        "evaluation": "epreuve-ecrite-et-orale",
+        "coefficient": 16,
+        "epreuve": "llcer-ecrit"
+      },
+      "programme": {
+        "intitule": "Programme de LLCER anglais de terminale et programme limitatif 2026-2027 et 2027-2028",
+        "source": {
+          "titre": "Arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019 ; note de service du 28 avril 2026, BO n° 21 du 21 mai 2026"
+        }
+      },
+      "chapitres": [
+        {
+          "id": "art-contestation",
+          "titre": "Art et contestation",
+          "groupe": "Thématique « Arts et débats d'idées »",
+          "fichier": "data/llcer/chapitres/art-contestation.json",
+          "exercices": "data/llcer/exercices/art-contestation.json"
+        },
+        {
+          "id": "art-debat",
+          "titre": "L'art qui fait débat",
+          "groupe": "Thématique « Arts et débats d'idées »",
+          "fichier": "data/llcer/chapitres/art-debat.json",
+          "exercices": "data/llcer/exercices/art-debat.json"
+        },
+        {
+          "id": "art-du-debat",
+          "titre": "L'art du débat",
+          "groupe": "Thématique « Arts et débats d'idées »",
+          "fichier": "data/llcer/chapitres/art-du-debat.json",
+          "exercices": "data/llcer/exercices/art-du-debat.json"
+        },
+        {
+          "id": "emotions",
+          "titre": "L'expression des émotions",
+          "groupe": "Thématique « Expression et construction de soi »",
+          "fichier": "data/llcer/chapitres/emotions.json",
+          "exercices": "data/llcer/exercices/emotions.json"
+        },
+        {
+          "id": "mise-en-scene-soi",
+          "titre": "Mise en scène de soi",
+          "groupe": "Thématique « Expression et construction de soi »",
+          "fichier": "data/llcer/chapitres/mise-en-scene-soi.json",
+          "exercices": "data/llcer/exercices/mise-en-scene-soi.json"
+        },
+        {
+          "id": "initiation",
+          "titre": "Initiation, apprentissage",
+          "groupe": "Thématique « Expression et construction de soi »",
+          "fichier": "data/llcer/chapitres/initiation.json",
+          "exercices": "data/llcer/exercices/initiation.json"
+        },
+        {
+          "id": "exploration",
+          "titre": "Exploration et aventure",
+          "groupe": "Thématique « Voyages, territoires, frontières »",
+          "fichier": "data/llcer/chapitres/exploration.json",
+          "exercices": "data/llcer/exercices/exploration.json"
+        },
+        {
+          "id": "ancrage-heritage",
+          "titre": "Ancrage et héritage",
+          "groupe": "Thématique « Voyages, territoires, frontières »",
+          "fichier": "data/llcer/chapitres/ancrage-heritage.json",
+          "exercices": "data/llcer/exercices/ancrage-heritage.json"
+        },
+        {
+          "id": "migration-exil",
+          "titre": "Migration et exil",
+          "groupe": "Thématique « Voyages, territoires, frontières »",
+          "fichier": "data/llcer/chapitres/migration-exil.json",
+          "exercices": "data/llcer/exercices/migration-exil.json"
+        },
+        {
+          "id": "oeuvres",
+          "titre": "Œuvres étudiées en classe (programme limitatif 2026-2028)",
+          "groupe": "Œuvres",
+          "fichier": "data/llcer/chapitres/oeuvres.json",
+          "exercices": "data/llcer/exercices/oeuvres.json"
+        },
+        {
+          "id": "methode-synthese",
+          "titre": "Méthode : la synthèse et la traduction",
+          "groupe": "Méthode",
+          "fichier": "data/llcer/chapitres/methode-synthese.json",
+          "exercices": "data/llcer/exercices/methode-synthese.json"
+        },
+        {
+          "id": "methode-oral",
+          "titre": "Méthode : le dossier et l'oral de 20 minutes",
+          "groupe": "Méthode",
+          "fichier": "data/llcer/chapitres/methode-oral.json",
+          "exercices": "data/llcer/exercices/methode-oral.json"
+        }
+      ],
+      "glossaire": "data/llcer/glossaire.json"
+    },
+    {
+      "id": "philosophie",
+      "nom": "Philosophie",
+      "page": "cours",
+      "couleur": {
+        "clair": "#5B3F8F",
+        "sombre": "#B9A3E3"
+      },
+      "icone": "pensee",
+      "bac": {
+        "evaluation": "epreuve-ecrite",
+        "coefficient": 8,
+        "epreuve": "philosophie"
+      },
+      "programme": {
+        "intitule": "17 notions, repères et auteurs",
+        "source": {
+          "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+          "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf"
+        }
+      },
+      "chapitres": [
+        {
+          "id": "l-art",
+          "titre": "L'art",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/l-art.json",
+          "exercices": "data/philosophie/exercices/l-art.json"
+        },
+        {
+          "id": "le-bonheur",
+          "titre": "Le bonheur",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/le-bonheur.json",
+          "exercices": "data/philosophie/exercices/le-bonheur.json"
+        },
+        {
+          "id": "la-conscience",
+          "titre": "La conscience",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/la-conscience.json",
+          "exercices": "data/philosophie/exercices/la-conscience.json"
+        },
+        {
+          "id": "le-devoir",
+          "titre": "Le devoir",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/le-devoir.json",
+          "exercices": "data/philosophie/exercices/le-devoir.json"
+        },
+        {
+          "id": "l-etat",
+          "titre": "L'État",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/l-etat.json",
+          "exercices": "data/philosophie/exercices/l-etat.json"
+        },
+        {
+          "id": "l-inconscient",
+          "titre": "L'inconscient",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/l-inconscient.json",
+          "exercices": "data/philosophie/exercices/l-inconscient.json"
+        },
+        {
+          "id": "la-justice",
+          "titre": "La justice",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/la-justice.json",
+          "exercices": "data/philosophie/exercices/la-justice.json"
+        },
+        {
+          "id": "le-langage",
+          "titre": "Le langage",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/le-langage.json",
+          "exercices": "data/philosophie/exercices/le-langage.json"
+        },
+        {
+          "id": "la-liberte",
+          "titre": "La liberté",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/la-liberte.json",
+          "exercices": "data/philosophie/exercices/la-liberte.json"
+        },
+        {
+          "id": "la-nature",
+          "titre": "La nature",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/la-nature.json",
+          "exercices": "data/philosophie/exercices/la-nature.json"
+        },
+        {
+          "id": "la-raison",
+          "titre": "La raison",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/la-raison.json",
+          "exercices": "data/philosophie/exercices/la-raison.json"
+        },
+        {
+          "id": "la-religion",
+          "titre": "La religion",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/la-religion.json",
+          "exercices": "data/philosophie/exercices/la-religion.json"
+        },
+        {
+          "id": "la-science",
+          "titre": "La science",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/la-science.json",
+          "exercices": "data/philosophie/exercices/la-science.json"
+        },
+        {
+          "id": "la-technique",
+          "titre": "La technique",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/la-technique.json",
+          "exercices": "data/philosophie/exercices/la-technique.json"
+        },
+        {
+          "id": "le-temps",
+          "titre": "Le temps",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/le-temps.json",
+          "exercices": "data/philosophie/exercices/le-temps.json"
+        },
+        {
+          "id": "le-travail",
+          "titre": "Le travail",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/le-travail.json",
+          "exercices": "data/philosophie/exercices/le-travail.json"
+        },
+        {
+          "id": "la-verite",
+          "titre": "La vérité",
+          "groupe": "Notions (ordre du programme)",
+          "fichier": "data/philosophie/chapitres/la-verite.json",
+          "exercices": "data/philosophie/exercices/la-verite.json"
+        },
+        {
+          "id": "reperes",
+          "titre": "Les repères du programme",
+          "groupe": "Repères",
+          "fichier": "data/philosophie/chapitres/reperes.json",
+          "exercices": "data/philosophie/exercices/reperes.json"
+        },
+        {
+          "id": "dissertation",
+          "titre": "Méthode : la dissertation",
+          "groupe": "Méthode",
+          "fichier": "data/philosophie/chapitres/dissertation.json",
+          "exercices": "data/philosophie/exercices/dissertation.json"
+        },
+        {
+          "id": "explication-texte",
+          "titre": "Méthode : l'explication de texte",
+          "groupe": "Méthode",
+          "fichier": "data/philosophie/chapitres/explication-texte.json",
+          "exercices": "data/philosophie/exercices/explication-texte.json"
+        }
+      ],
+      "glossaire": "data/philosophie/glossaire.json"
+    },
+    {
+      "id": "grand-oral",
+      "nom": "Grand oral",
+      "page": "methode",
+      "couleur": {
+        "clair": "#7A4325",
+        "sombre": "#E0A988"
+      },
+      "icone": "micro",
+      "bac": {
+        "evaluation": "epreuve-orale",
+        "coefficient": 8,
+        "epreuve": "grand-oral"
+      },
+      "programme": {
+        "intitule": "Épreuve orale terminale dite « Grand oral »",
+        "source": {
+          "titre": "Note de service du 10 septembre 2026, BO spécial n° 4 du 17 septembre 2026"
+        }
+      },
+      "chapitres": [],
+      "contenuPage": "data/grand-oral/page.json"
+    },
+    {
+      "id": "histoire-geo",
+      "nom": "Histoire-géographie",
+      "page": "cours",
+      "couleur": {
+        "clair": "#A2441F",
+        "sombre": "#F0A07E"
+      },
+      "icone": "globe",
+      "bac": {
+        "evaluation": "controle-continu",
+        "coefficient": 6
+      },
+      "programme": {
+        "intitule": "Programme d'histoire-géographie de terminale générale",
+        "source": {
+          "titre": "Arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+          "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+        }
+      },
+      "chapitres": [
+        {
+          "id": "h1-c1",
+          "titre": "L'impact de la crise de 1929 : déséquilibres économiques et sociaux",
+          "groupe": "Histoire · Thème 1 – Fragilités des démocraties, totalitarismes et Seconde Guerre mondiale (1929-1945)",
+          "fichier": "data/histoire-geo/chapitres/h1-c1.json",
+          "exercices": "data/histoire-geo/exercices/h1-c1.json"
+        },
+        {
+          "id": "h1-c2",
+          "titre": "Les régimes totalitaires",
+          "groupe": "Histoire · Thème 1 – Fragilités des démocraties, totalitarismes et Seconde Guerre mondiale (1929-1945)",
+          "fichier": "data/histoire-geo/chapitres/h1-c2.json",
+          "exercices": "data/histoire-geo/exercices/h1-c2.json"
+        },
+        {
+          "id": "h1-c3",
+          "titre": "La Seconde Guerre mondiale",
+          "groupe": "Histoire · Thème 1 – Fragilités des démocraties, totalitarismes et Seconde Guerre mondiale (1929-1945)",
+          "fichier": "data/histoire-geo/chapitres/h1-c3.json",
+          "exercices": "data/histoire-geo/exercices/h1-c3.json"
+        },
+        {
+          "id": "h2-c1",
+          "titre": "La fin de la Seconde Guerre mondiale et les débuts d'un nouvel ordre mondial",
+          "groupe": "Histoire · Thème 2 – La multiplication des acteurs internationaux dans un monde bipolaire (de 1945 au début des années 1970)",
+          "fichier": "data/histoire-geo/chapitres/h2-c1.json",
+          "exercices": "data/histoire-geo/exercices/h2-c1.json"
+        },
+        {
+          "id": "h2-c2",
+          "titre": "Une nouvelle donne géopolitique : bipolarisation et émergence du tiers-monde",
+          "groupe": "Histoire · Thème 2 – La multiplication des acteurs internationaux dans un monde bipolaire (de 1945 au début des années 1970)",
+          "fichier": "data/histoire-geo/chapitres/h2-c2.json",
+          "exercices": "data/histoire-geo/exercices/h2-c2.json"
+        },
+        {
+          "id": "h2-c3",
+          "titre": "La France : une nouvelle place dans le monde",
+          "groupe": "Histoire · Thème 2 – La multiplication des acteurs internationaux dans un monde bipolaire (de 1945 au début des années 1970)",
+          "fichier": "data/histoire-geo/chapitres/h2-c3.json",
+          "exercices": "data/histoire-geo/exercices/h2-c3.json"
+        },
+        {
+          "id": "h3-c1",
+          "titre": "La modification des grands équilibres économiques et politiques mondiaux",
+          "groupe": "Histoire · Thème 3 – Les remises en cause économiques, politiques et sociales des années 1970 à 1991",
+          "fichier": "data/histoire-geo/chapitres/h3-c1.json",
+          "exercices": "data/histoire-geo/exercices/h3-c1.json"
+        },
+        {
+          "id": "h3-c2",
+          "titre": "Un tournant social, politique et culturel, la France de 1974 à 1988",
+          "groupe": "Histoire · Thème 3 – Les remises en cause économiques, politiques et sociales des années 1970 à 1991",
+          "fichier": "data/histoire-geo/chapitres/h3-c2.json",
+          "exercices": "data/histoire-geo/exercices/h3-c2.json"
+        },
+        {
+          "id": "h4-c1",
+          "titre": "Nouveaux rapports de puissance et enjeux mondiaux",
+          "groupe": "Histoire · Thème 4 – Le monde, l'Europe et la France depuis les années 1990, entre coopérations et conflits",
+          "fichier": "data/histoire-geo/chapitres/h4-c1.json",
+          "exercices": "data/histoire-geo/exercices/h4-c1.json"
+        },
+        {
+          "id": "h4-c2",
+          "titre": "La construction européenne entre élargissement, approfondissement et remises en question",
+          "groupe": "Histoire · Thème 4 – Le monde, l'Europe et la France depuis les années 1990, entre coopérations et conflits",
+          "fichier": "data/histoire-geo/chapitres/h4-c2.json",
+          "exercices": "data/histoire-geo/exercices/h4-c2.json"
+        },
+        {
+          "id": "h4-c3",
+          "titre": "La République française",
+          "groupe": "Histoire · Thème 4 – Le monde, l'Europe et la France depuis les années 1990, entre coopérations et conflits",
+          "fichier": "data/histoire-geo/chapitres/h4-c3.json",
+          "exercices": "data/histoire-geo/exercices/h4-c3.json"
+        },
+        {
+          "id": "g1",
+          "titre": "Mers et océans : au cœur de la mondialisation",
+          "groupe": "Géographie – Les territoires dans la mondialisation : entre intégrations et rivalités",
+          "fichier": "data/histoire-geo/chapitres/g1.json",
+          "exercices": "data/histoire-geo/exercices/g1.json"
+        },
+        {
+          "id": "g2",
+          "titre": "Dynamiques territoriales, coopérations et tensions dans la mondialisation",
+          "groupe": "Géographie – Les territoires dans la mondialisation : entre intégrations et rivalités",
+          "fichier": "data/histoire-geo/chapitres/g2.json",
+          "exercices": "data/histoire-geo/exercices/g2.json"
+        },
+        {
+          "id": "g3",
+          "titre": "L'Union européenne dans la mondialisation : des dynamiques complexes",
+          "groupe": "Géographie – Les territoires dans la mondialisation : entre intégrations et rivalités",
+          "fichier": "data/histoire-geo/chapitres/g3.json",
+          "exercices": "data/histoire-geo/exercices/g3.json"
+        },
+        {
+          "id": "g4",
+          "titre": "La France et ses régions dans l'Union européenne et dans la mondialisation : lignes de force et recompositions",
+          "groupe": "Géographie – Les territoires dans la mondialisation : entre intégrations et rivalités",
+          "fichier": "data/histoire-geo/chapitres/g4.json",
+          "exercices": "data/histoire-geo/exercices/g4.json"
+        },
+        {
+          "id": "methode-composition",
+          "titre": "Méthode : la composition",
+          "groupe": "Méthode",
+          "fichier": "data/histoire-geo/chapitres/methode-composition.json",
+          "exercices": "data/histoire-geo/exercices/methode-composition.json"
+        },
+        {
+          "id": "methode-documents",
+          "titre": "Méthode : l'analyse de document(s)",
+          "groupe": "Méthode",
+          "fichier": "data/histoire-geo/chapitres/methode-documents.json",
+          "exercices": "data/histoire-geo/exercices/methode-documents.json"
+        },
+        {
+          "id": "methode-croquis",
+          "titre": "Méthode : le croquis",
+          "groupe": "Méthode",
+          "fichier": "data/histoire-geo/chapitres/methode-croquis.json",
+          "exercices": "data/histoire-geo/exercices/methode-croquis.json"
+        }
+      ],
+      "glossaire": "data/histoire-geo/glossaire.json"
+    },
+    {
+      "id": "enseignement-scientifique",
+      "nom": "Enseignement scientifique",
+      "page": "cours",
+      "couleur": {
+        "clair": "#22704F",
+        "sombre": "#7FD1A8"
+      },
+      "icone": "feuille",
+      "bac": {
+        "evaluation": "controle-continu",
+        "coefficient": 6
+      },
+      "programme": {
+        "intitule": "Programme d'enseignement scientifique de terminale générale",
+        "source": {
+          "titre": "BO n° 25 du 22 juin 2023"
+        }
+      },
+      "chapitres": [
+        {
+          "id": "climat",
+          "titre": "Science, climat et société",
+          "groupe": "Thèmes du programme",
+          "fichier": "data/enseignement-scientifique/chapitres/climat.json",
+          "exercices": "data/enseignement-scientifique/exercices/climat.json"
+        },
+        {
+          "id": "energies",
+          "titre": "Le futur des énergies",
+          "groupe": "Thèmes du programme",
+          "fichier": "data/enseignement-scientifique/chapitres/energies.json",
+          "exercices": "data/enseignement-scientifique/exercices/energies.json"
+        },
+        {
+          "id": "vivant",
+          "titre": "Une histoire du vivant",
+          "groupe": "Thèmes du programme",
+          "fichier": "data/enseignement-scientifique/chapitres/vivant.json",
+          "exercices": "data/enseignement-scientifique/exercices/vivant.json"
+        }
+      ],
+      "glossaire": "data/enseignement-scientifique/glossaire.json"
+    },
+    {
+      "id": "anglais",
+      "nom": "Anglais (LVA)",
+      "page": "cours",
+      "couleur": {
+        "clair": "#3F5F1E",
+        "sombre": "#A9CF7C"
+      },
+      "icone": "bulle-en",
+      "bac": {
+        "evaluation": "controle-continu",
+        "coefficient": 6
+      },
+      "programme": {
+        "intitule": "Programme d'anglais pour les classes de lycée, classe terminale (niveau visé B2)",
+        "source": {
+          "titre": "Arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 4"
+        }
+      },
+      "chapitres": [
+        {
+          "id": "axe1",
+          "titre": "Axe 1. Espace privé et espace public",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/anglais/chapitres/axe1.json",
+          "exercices": "data/anglais/exercices/axe1.json"
+        },
+        {
+          "id": "axe2",
+          "titre": "Axe 2. Territoire et mémoire",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/anglais/chapitres/axe2.json",
+          "exercices": "data/anglais/exercices/axe2.json"
+        },
+        {
+          "id": "axe3",
+          "titre": "Axe 3. Fictions et réalités",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/anglais/chapitres/axe3.json",
+          "exercices": "data/anglais/exercices/axe3.json"
+        },
+        {
+          "id": "axe4",
+          "titre": "Axe 4. Enjeux et formes de la communication",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/anglais/chapitres/axe4.json",
+          "exercices": "data/anglais/exercices/axe4.json"
+        },
+        {
+          "id": "axe5",
+          "titre": "Axe 5. Citoyenneté et mondes virtuels",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/anglais/chapitres/axe5.json",
+          "exercices": "data/anglais/exercices/axe5.json"
+        },
+        {
+          "id": "axe6",
+          "titre": "Axe 6. Le Royaume-Uni et ses nations",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/anglais/chapitres/axe6.json",
+          "exercices": "data/anglais/exercices/axe6.json"
+        },
+        {
+          "id": "methode",
+          "titre": "Méthode : compréhension et expression",
+          "groupe": "Méthode",
+          "fichier": "data/anglais/chapitres/methode.json",
+          "exercices": "data/anglais/exercices/methode.json"
+        }
+      ],
+      "glossaire": "data/anglais/glossaire.json"
+    },
+    {
+      "id": "espagnol",
+      "nom": "Espagnol (LVB)",
+      "page": "cours",
+      "couleur": {
+        "clair": "#8A5A00",
+        "sombre": "#E8B65A"
+      },
+      "icone": "bulle-es",
+      "bac": {
+        "evaluation": "controle-continu",
+        "coefficient": 6
+      },
+      "programme": {
+        "intitule": "Programme d'espagnol pour les classes de lycée, classe terminale (niveau visé B1)",
+        "source": {
+          "titre": "Arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 10",
+          "url": "https://www.education.gouv.fr/sites/default/files/annexe-10-programme-d-espagnol-pour-les-classes-de-lyc-e-g-n-ral-et-technologique-440376.pdf"
+        }
+      },
+      "chapitres": [
+        {
+          "id": "axe1",
+          "titre": "Axe 1. Espace privé et espace public",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/espagnol/chapitres/axe1.json",
+          "exercices": "data/espagnol/exercices/axe1.json"
+        },
+        {
+          "id": "axe2",
+          "titre": "Axe 2. Territoire et mémoire",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/espagnol/chapitres/axe2.json",
+          "exercices": "data/espagnol/exercices/axe2.json"
+        },
+        {
+          "id": "axe3",
+          "titre": "Axe 3. Fictions et réalités",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/espagnol/chapitres/axe3.json",
+          "exercices": "data/espagnol/exercices/axe3.json"
+        },
+        {
+          "id": "axe4",
+          "titre": "Axe 4. Enjeux et formes de la communication",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/espagnol/chapitres/axe4.json",
+          "exercices": "data/espagnol/exercices/axe4.json"
+        },
+        {
+          "id": "axe5",
+          "titre": "Axe 5. Citoyenneté et mondes virtuels",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/espagnol/chapitres/axe5.json",
+          "exercices": "data/espagnol/exercices/axe5.json"
+        },
+        {
+          "id": "axe6",
+          "titre": "Axe 6. La richesse des métissages dans le monde hispanique (obligatoire)",
+          "groupe": "Axes culturels de terminale",
+          "fichier": "data/espagnol/chapitres/axe6.json",
+          "exercices": "data/espagnol/exercices/axe6.json"
+        },
+        {
+          "id": "methode",
+          "titre": "Méthode : compréhension et expression",
+          "groupe": "Méthode",
+          "fichier": "data/espagnol/chapitres/methode.json",
+          "exercices": "data/espagnol/exercices/methode.json"
+        }
+      ],
+      "glossaire": "data/espagnol/glossaire.json"
+    },
+    {
+      "id": "emc",
+      "nom": "Enseignement moral et civique",
+      "page": "cours",
+      "couleur": {
+        "clair": "#24508A",
+        "sombre": "#8DB6EE"
+      },
+      "icone": "urne",
+      "bac": {
+        "evaluation": "controle-continu",
+        "coefficient": 2
+      },
+      "programme": {
+        "intitule": "Programme d'EMC de terminale : « La vie démocratique : débat, délibération et prise de décision »",
+        "source": {
+          "titre": "Arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024"
+        }
+      },
+      "chapitres": [
+        {
+          "id": "debat-democratique",
+          "titre": "Les principes et les espaces du débat démocratique",
+          "groupe": "La vie démocratique : débat, délibération et prise de décision",
+          "fichier": "data/emc/chapitres/debat-democratique.json",
+          "exercices": "data/emc/exercices/debat-democratique.json"
+        },
+        {
+          "id": "deliberation-institutions",
+          "titre": "La délibération dans les institutions (nationales, européennes, internationales)",
+          "groupe": "La vie démocratique : débat, délibération et prise de décision",
+          "fichier": "data/emc/chapitres/deliberation-institutions.json",
+          "exercices": "data/emc/exercices/deliberation-institutions.json"
+        }
+      ],
+      "glossaire": "data/emc/glossaire.json"
+    },
+    {
+      "id": "eps",
+      "nom": "EPS",
+      "page": "rappel",
+      "couleur": {
+        "clair": "#4D5560",
+        "sombre": "#B5BDC8"
+      },
+      "icone": "chaussure",
+      "bac": {
+        "evaluation": "controle-continu",
+        "coefficient": 6
+      },
+      "programme": {
+        "intitule": "Évaluation de l'EPS au baccalauréat",
+        "source": {
+          "titre": "Note de service du 28 juillet 2021, BO n° 30 du 29 juillet 2021"
+        }
+      },
+      "chapitres": [],
+      "contenuPage": "data/eps/page.json"
+    }
+  ]
+}

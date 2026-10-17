@@ -1,0 +1,287 @@
+{
+  "id": "h2-c1",
+  "matiere": "histoire-geo",
+  "titre": "La fin de la Seconde Guerre mondiale et les débuts d'un nouvel ordre mondial",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Histoire · Thème 2 – La multiplication des acteurs internationaux dans un monde bipolaire (de 1945 au début des années 1970)",
+    "intitule": "La fin de la Seconde Guerre mondiale et les débuts d'un nouvel ordre mondial",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Montrer la volonté de construire un nouvel ordre international après 1945 (ONU, justice internationale, reconstruction).",
+    "Expliquer comment les tensions entre États-Unis et URSS mènent à la guerre froide.",
+    "Connaître les points de passage : programme du CNR, naissance d'Israël, coup de Prague."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les points de passage et d'ouverture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "15 mars 1944 : le programme du CNR ;",
+            "1948 : naissance de l'État d'Israël ;",
+            "25 février 1948 : le « coup de Prague »."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "ordre",
+      "titre": "Construire la paix",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**L'ONU** : sa charte est signée à San Francisco le **26 juin 1945** ; elle vise à maintenir la paix et la sécurité internationales. Son Conseil de sécurité compte cinq membres permanents disposant d'un droit de veto (États-Unis, URSS, Royaume-Uni, France, Chine)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Juger les crimes** : le procès de **Nuremberg** (1945-1946) juge les dirigeants nazis ; il définit le **crime contre l'humanité**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Réorganiser l'économie** : les accords de **Bretton Woods** (juillet 1944) créent le FMI et la Banque mondiale, autour du dollar."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**En France**, le **programme du CNR** (15 mars 1944) prévoit une démocratie sociale : Sécurité sociale (ordonnances d'octobre 1945), nationalisations, droit de vote des femmes (ordonnance du 21 avril 1944, premier vote en 1945)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "crime-contre-humanite"
+        }
+      ]
+    },
+    {
+      "id": "guerre-froide",
+      "titre": "Vers la guerre froide",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "guerre-froide"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les alliés d'hier s'opposent : les États-Unis défendent la démocratie libérale et le capitalisme ; l'URSS le communisme. En 1947, la **doctrine Truman** propose d'aider les pays menacés par le communisme (politique d'**endiguement**) et le **plan Marshall** finance la reconstruction de l'Europe ; l'URSS le refuse pour elle et ses satellites."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le **coup de Prague (25 février 1948)** : les communistes prennent seuls le pouvoir en Tchécoslovaquie, avec l'appui de Moscou. Pour l'Ouest, c'est la preuve que l'URSS impose le communisme en Europe de l'Est. Suivent le **blocus de Berlin** (1948-1949) et la création de l'**OTAN** (avril 1949)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Israël** : l'ONU vote un plan de partage de la Palestine en novembre 1947. Ben Gourion proclame l'État d'Israël le **14 mai 1948** ; les États arabes voisins attaquent ; des centaines de milliers de Palestiniens fuient ou sont expulsés (la « Nakba »). Le conflit israélo-arabe s'inscrit ensuite dans la guerre froide."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Programme du CNR",
+      "valeur": "15 mars 1944",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Charte de l'ONU",
+      "valeur": "26 juin 1945",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Plan Marshall",
+      "valeur": "1947",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Coup de Prague",
+      "valeur": "25 février 1948",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Naissance de l'État d'Israël",
+      "valeur": "14 mai 1948",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Création de l'OTAN",
+      "valeur": "avril 1949",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "1944-1949 : paix et tensions",
+    "colonnes": [
+      "Volonté de coopération",
+      "Montée des tensions"
+    ],
+    "lignes": [
+      [
+        "ONU (1945), Nuremberg (1945-1946), Bretton Woods (1944)",
+        "Doctrine Truman et plan Marshall (1947)"
+      ],
+      [
+        "Programme du CNR (1944) en France",
+        "Coup de Prague (1948), blocus de Berlin (1948-1949), OTAN (1949)"
+      ]
+    ]
+  },
+  "fiche": [
+    "**ONU** : charte du 26 juin 1945 ; Conseil de sécurité, 5 membres permanents avec veto.",
+    "**Nuremberg** : crime contre l'humanité.",
+    "**CNR** (15 mars 1944) : Sécurité sociale, nationalisations, vote des femmes.",
+    "**Guerre froide** : doctrine Truman, plan Marshall (1947).",
+    "**Coup de Prague** : 25 février 1948.",
+    "**Israël** : 14 mai 1948 ; première guerre israélo-arabe."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le coup de Prague a lieu le…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "25 février 1948",
+          "correct": true,
+          "explication": "Prise du pouvoir communiste en Tchécoslovaquie."
+        },
+        {
+          "id": "b",
+          "texte": "13 août 1961",
+          "correct": false,
+          "explication": "Mur de Berlin."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "L'État d'Israël est proclamé le…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "14 mai 1948",
+          "correct": true,
+          "explication": "Par Ben Gourion."
+        },
+        {
+          "id": "b",
+          "texte": "26 juin 1945",
+          "correct": false,
+          "explication": "Charte de l'ONU."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Le programme du CNR date du…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "15 mars 1944",
+          "correct": true,
+          "explication": "Pendant la guerre."
+        },
+        {
+          "id": "b",
+          "texte": "4 octobre 1958",
+          "correct": false,
+          "explication": "Constitution de la Ve République."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le plan Marshall est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une aide américaine à la reconstruction de l'Europe",
+          "correct": true,
+          "explication": "1947."
+        },
+        {
+          "id": "b",
+          "texte": "un plan soviétique",
+          "correct": false,
+          "explication": "L'URSS le refuse."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Combien de membres permanents au Conseil de sécurité ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "5",
+          "correct": true,
+          "explication": "Avec droit de veto."
+        },
+        {
+          "id": "b",
+          "texte": "15",
+          "correct": false,
+          "explication": "15 membres au total, dont 5 permanents."
+        }
+      ]
+    }
+  ]
+}

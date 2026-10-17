@@ -1,0 +1,186 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "la-science",
+  "exercices": [
+    {
+      "id": "la-science-qcm",
+      "titre": "La science : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relie chaque auteur à sa thèse."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Une expérimentation est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "provoquée et contrôlée",
+              "correct": true,
+              "explication": "Pour tester une hypothèse."
+            },
+            {
+              "id": "b",
+              "texte": "une simple observation",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Le langage de la nature, pour Galilée, est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "mathématique",
+              "correct": true,
+              "explication": "*L'Essayeur*, 1623."
+            },
+            {
+              "id": "b",
+              "texte": "poétique",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Claude Bernard est associé à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la méthode expérimentale",
+              "correct": true,
+              "explication": "1865."
+            },
+            {
+              "id": "b",
+              "texte": "la religion",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Une théorie corroborée est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "confirmée jusqu'à présent, mais pas prouvée pour toujours",
+              "correct": true,
+              "explication": "Popper."
+            },
+            {
+              "id": "b",
+              "texte": "fausse",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Un obstacle épistémologique peut être…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'opinion",
+              "correct": true,
+              "explication": "Bachelard."
+            },
+            {
+              "id": "b",
+              "texte": "un microscope",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "la-science-probl",
+      "titre": "Problématiser : « Les vérités scientifiques sont-elles définitives ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Les vérités scientifiques sont-elles définitives ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Pense à l'histoire des sciences (Terre plate, Newton puis Einstein).",
+        "Distingue progrès et relativisme."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Une vérité définitive ne serait plus jamais remise en cause. Les vérités scientifiques sont établies par des méthodes rigoureuses."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** La science se distingue de l'opinion par sa rigueur, et certaines connaissances semblent acquises (la Terre tourne autour du Soleil). Mais l'histoire montre que des théories admises ont été dépassées, et une loi générale ne peut jamais être prouvée par un nombre fini d'expériences (Popper)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** Le caractère provisoire des théories scientifiques est-il une faiblesse qui les rapproche de l'opinion, ou au contraire la marque de leur rationalité ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

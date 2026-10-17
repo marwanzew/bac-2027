@@ -1,0 +1,866 @@
+{
+  "id": "oeuvres",
+  "matiere": "llcer",
+  "titre": "Œuvres du programme limitatif 2026-2028",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Programme limitatif",
+    "intitule": "Programme limitatif de LLCER anglais pour les années 2026-2027 et 2027-2028",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+      "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Connaître la liste officielle des 12 œuvres et la règle de choix (3 œuvres, dont 1 film).",
+    "Pour chaque œuvre : auteur, date, genre, sujet, thèmes.",
+    "Savoir relier une œuvre à plusieurs axes du programme."
+  ],
+  "parties": [
+    {
+      "id": "regles",
+      "titre": "La liste officielle et les règles",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "En terminale, tu étudies **trois œuvres intégrales**, **une par thématique** : **deux œuvres littéraires** et **une œuvre filmique**, obligatoire. Ton professeur les choisit dans la liste officielle ci-dessous, valable pour 2026-2027 et 2027-2028."
+        },
+        {
+          "type": "tableau",
+          "titre": "Liste officielle (anglais)",
+          "colonnes": [
+            "Type",
+            "Œuvre",
+            "Auteur / réalisateur",
+            "Date"
+          ],
+          "lignes": [
+            [
+              "Littéraire",
+              "*Americanah*",
+              "C. N. Adichie",
+              "2013"
+            ],
+            [
+              "Littéraire",
+              "*The Handmaid's Tale*",
+              "Margaret Atwood",
+              "1985"
+            ],
+            [
+              "Littéraire",
+              "*Pride and Prejudice*",
+              "Jane Austen",
+              "1813"
+            ],
+            [
+              "Littéraire",
+              "*Moon Palace*",
+              "Paul Auster",
+              "1989"
+            ],
+            [
+              "Littéraire",
+              "*Boyhood: Scenes from Provincial Life*",
+              "J. M. Coetzee",
+              "1997"
+            ],
+            [
+              "Littéraire",
+              "*The Caretaker*",
+              "Harold Pinter",
+              "1960"
+            ],
+            [
+              "Littéraire",
+              "*The God of Small Things*",
+              "Arundhati Roy",
+              "1997"
+            ],
+            [
+              "Littéraire",
+              "*Brooklyn*",
+              "Colm Tóibín",
+              "2009"
+            ],
+            [
+              "Filmique",
+              "*Much Ado About Nothing*",
+              "Kenneth Branagh",
+              "1993"
+            ],
+            [
+              "Filmique",
+              "*The Piano*",
+              "Jane Campion",
+              "1993"
+            ],
+            [
+              "Filmique",
+              "*12 Angry Men*",
+              "Sidney Lumet",
+              "1957"
+            ],
+            [
+              "Filmique",
+              "*Killers of the Flower Moon*",
+              "Martin Scorsese",
+              "2023"
+            ]
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "tes trois œuvres",
+          "texte": "Quand tu connaîtras les trois œuvres choisies par ton professeur, concentre-toi sur elles : relis tes notes, apprends 5 ou 6 passages ou scènes clés et relie chacune aux axes. Une œuvre étudiée doit figurer dans ton dossier pour l'oral."
+        },
+        {
+          "type": "piege",
+          "titre": "pas d'extraits ici",
+          "texte": "Les œuvres récentes sont protégées par le droit d'auteur : ce site n'en reproduit pas d'extraits. Seule la première phrase de *Pride and Prejudice* (1813, domaine public) est citée."
+        }
+      ]
+    },
+    {
+      "id": "americanah",
+      "titre": "Americanah (Chimamanda Ngozi Adichie)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "Chimamanda Ngozi Adichie (Nigeria, née en 1977)"
+            ],
+            [
+              "Date",
+              "2013"
+            ],
+            [
+              "Genre",
+              "Roman"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Ifemelu et Obinze s'aiment adolescents au Nigeria. Ifemelu part étudier aux États-Unis, où elle découvre ce que signifie être noire en Amérique ; elle tient un blog sur la question raciale. Obinze, lui, vit sans papiers à Londres. Des années plus tard, Ifemelu rentre à Lagos."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : race et racisme, migration, identité, retour au pays, apparence (les cheveux), amour."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : Migration et exil ; Art et contestation ; Mise en scène de soi ; Ancrage et héritage."
+        }
+      ]
+    },
+    {
+      "id": "handmaid",
+      "titre": "The Handmaid's Tale (Margaret Atwood)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "Margaret Atwood (Canada, née en 1939)"
+            ],
+            [
+              "Date",
+              "1985"
+            ],
+            [
+              "Genre",
+              "Roman (dystopie)"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Aux États-Unis, un régime théocratique, la République de Gilead, a pris le pouvoir. Les femmes fertiles, les « servantes », sont forcées d'avoir des enfants pour les familles des dirigeants. La narratrice, Offred, raconte à la première personne sa vie sous surveillance et ses souvenirs d'avant."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : pouvoir et oppression, corps des femmes, religion et politique, mémoire, résistance, langage."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : Art et contestation ; L'art qui fait débat ; Mise en scène de soi."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Une suite, *The Testaments*, paraît en 2019 ; une série télévisée est adaptée à partir de 2017."
+        }
+      ]
+    },
+    {
+      "id": "pride",
+      "titre": "Pride and Prejudice (Jane Austen)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "Jane Austen (Angleterre, 1775-1817)"
+            ],
+            [
+              "Date",
+              "1813"
+            ],
+            [
+              "Genre",
+              "Roman"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Dans l'Angleterre rurale, Mrs Bennet veut marier ses cinq filles. Elizabeth, vive et indépendante, juge mal le riche et orgueilleux Mr Darcy, qui la méprise d'abord. Chacun doit surmonter son orgueil et ses préjugés."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : mariage et argent, place des femmes, classes sociales, ironie, jugement et apparences."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : L'art du débat (dialogues) ; Initiation, apprentissage ; L'expression des émotions."
+        },
+        {
+          "type": "citation",
+          "texte": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+          "auteur": "Jane Austen",
+          "oeuvre": "Pride and Prejudice, 1813, première phrase",
+          "certitude": "certain",
+          "source": {
+            "titre": "J. Austen, Pride and Prejudice, 1813 (domaine public)"
+          }
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Traduction** : « C'est une vérité universellement reconnue qu'un célibataire pourvu d'une belle fortune doit être en quête d'une épouse. » La phrase est **ironique** : ce sont surtout les familles qui cherchent un riche mari pour leurs filles."
+        }
+      ]
+    },
+    {
+      "id": "moon-palace",
+      "titre": "Moon Palace (Paul Auster)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "Paul Auster (États-Unis, 1947-2024)"
+            ],
+            [
+              "Date",
+              "1989"
+            ],
+            [
+              "Genre",
+              "Roman"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Marco Stanley Fogg, étudiant à New York à la fin des années 1960, sombre dans la misère après la mort de son oncle et finit par vivre dans Central Park. Sauvé par ses amis, il travaille pour un vieil homme aveugle, Thomas Effing, dont il découvre l'histoire, et part à la recherche de ses propres origines jusque dans l'Ouest américain. L'histoire se déroule à l'époque des premiers pas sur la Lune."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : quête des origines, hasard, pauvreté, filiation, Ouest américain, la Lune."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : Exploration et aventure ; Migration et exil (cité par le programme) ; Initiation, apprentissage."
+        }
+      ]
+    },
+    {
+      "id": "boyhood",
+      "titre": "Boyhood: Scenes from Provincial Life (J. M. Coetzee)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "J. M. Coetzee (Afrique du Sud, né en 1940 ; prix Nobel de littérature 2003)"
+            ],
+            [
+              "Date",
+              "1997"
+            ],
+            [
+              "Genre",
+              "Récit autobiographique"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Coetzee raconte son enfance dans l'Afrique du Sud des années 1950, à Worcester puis au Cap. Il parle de lui à la troisième personne et au présent : un garçon secret, entre une mère très présente, l'école, et deux cultures, afrikaner et anglaise, dans le contexte de l'apartheid."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : enfance, famille, école, identité, langues, ségrégation raciale, honte et secret."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : Mise en scène de soi ; Initiation, apprentissage ; Ancrage et héritage."
+        }
+      ]
+    },
+    {
+      "id": "caretaker",
+      "titre": "The Caretaker (Harold Pinter)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "Harold Pinter (Angleterre, 1930-2008 ; prix Nobel de littérature 2005)"
+            ],
+            [
+              "Date",
+              "1960"
+            ],
+            [
+              "Genre",
+              "Pièce de théâtre"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Aston recueille un vagabond, Davies, dans une pièce encombrée d'une maison de Londres. Mick, le frère d'Aston, arrive. Entre les trois hommes s'installe un jeu de pouvoir fait de menaces, de silences et de mensonges ; Davies répète qu'il doit aller à Sidcup récupérer ses papiers."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : pouvoir et domination, langage et silence (la « pause » de Pinter), identité, solitude, territoire."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : L'art du débat ; Mise en scène de soi ; L'art qui fait débat."
+        }
+      ]
+    },
+    {
+      "id": "god-small-things",
+      "titre": "The God of Small Things (Arundhati Roy)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "Arundhati Roy (Inde, née en 1961)"
+            ],
+            [
+              "Date",
+              "1997"
+            ],
+            [
+              "Genre",
+              "Roman (prix Booker 1997)"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Au Kerala, en Inde, les jumeaux Estha et Rahel vivent un drame familial en 1969. Leur mère, Ammu, aime Velutha, un homme considéré comme intouchable, en transgressant les « lois de l'amour » qui fixent qui l'on a le droit d'aimer. Le récit alterne entre 1969 et le retour des jumeaux adultes, des années plus tard."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : castes, famille, enfance et traumatisme, héritage colonial, interdits, mémoire."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : Ancrage et héritage ; L'art qui fait débat ; L'expression des émotions ; Initiation."
+        }
+      ]
+    },
+    {
+      "id": "brooklyn",
+      "titre": "Brooklyn (Colm Tóibín)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "Colm Tóibín (Irlande, né en 1955)"
+            ],
+            [
+              "Date",
+              "2009"
+            ],
+            [
+              "Genre",
+              "Roman"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Au début des années 1950, Eilis Lacey quitte sa petite ville d'Irlande pour Brooklyn, à New York, faute de travail. Elle souffre du mal du pays, travaille, étudie et tombe amoureuse. Un drame familial la ramène en Irlande, où elle doit choisir entre deux vies."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : émigration, mal du pays, devenir adulte, choix, appartenance."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : Migration et exil ; Initiation, apprentissage ; Ancrage et héritage."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le roman a été adapté au cinéma en 2015 (réalisation John Crowley)."
+        }
+      ]
+    },
+    {
+      "id": "much-ado",
+      "titre": "Much Ado About Nothing (Kenneth Branagh)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "Kenneth Branagh (Irlande du Nord, né en 1960), d'après la comédie de William Shakespeare"
+            ],
+            [
+              "Date",
+              "1993"
+            ],
+            [
+              "Genre",
+              "Film (adaptation de théâtre)"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Tourné en Toscane, le film adapte la comédie de Shakespeare. Beatrice et Benedick se livrent une « joyeuse guerre » de mots, puis leurs amis les piègent pour qu'ils tombent amoureux. Pendant ce temps, Don John fait accuser à tort la jeune Hero d'infidélité. Branagh joue Benedick, Emma Thompson Beatrice."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : joutes verbales, amour, rumeur et tromperie, apparences, honneur."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : L'art du débat ; Mise en scène de soi."
+        },
+        {
+          "type": "definition",
+          "glossaire": "close-up"
+        }
+      ]
+    },
+    {
+      "id": "piano",
+      "titre": "The Piano (Jane Campion)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "Jane Campion (Nouvelle-Zélande, née en 1954)"
+            ],
+            [
+              "Date",
+              "1993"
+            ],
+            [
+              "Genre",
+              "Film"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Au milieu du XIX^e^ siècle, Ada, une Écossaise muette, part en Nouvelle-Zélande avec sa fille Flora pour un mariage arrangé avec un colon, Stewart. Son piano, sa seule voix, est abandonné sur la plage puis récupéré par un voisin, Baines. Le film a reçu la Palme d'or à Cannes en 1993 ; Jane Campion est la première réalisatrice à l'obtenir."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : expression des émotions, silence et musique, désir, colonisation, condition des femmes."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : L'expression des émotions ; Migration et exil ; Exploration et aventure."
+        },
+        {
+          "type": "definition",
+          "glossaire": "high-angle-shot"
+        }
+      ]
+    },
+    {
+      "id": "twelve-angry-men",
+      "titre": "12 Angry Men (Sidney Lumet)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "Sidney Lumet (États-Unis, 1924-2011), d'après une pièce télévisée de Reginald Rose"
+            ],
+            [
+              "Date",
+              "1957"
+            ],
+            [
+              "Genre",
+              "Film (noir et blanc)"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Douze jurés doivent décider si un jeune homme accusé du meurtre de son père est coupable. Onze votent « coupable ». Le juré n° 8, joué par Henry Fonda, a un doute raisonnable et, par ses questions, fait changer d'avis les autres. Presque tout le film se passe dans une seule pièce."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : justice, doute raisonnable, préjugés, argumentation, responsabilité individuelle."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : L'art du débat (cité par le programme)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "low-angle-shot"
+        }
+      ]
+    },
+    {
+      "id": "killers",
+      "titre": "Killers of the Flower Moon (Martin Scorsese)",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Carte d'identité",
+          "colonnes": [
+            "",
+            ""
+          ],
+          "lignes": [
+            [
+              "Auteur / réalisateur",
+              "Martin Scorsese (États-Unis, né en 1942), d'après le livre-enquête de David Grann (2017)"
+            ],
+            [
+              "Date",
+              "2023"
+            ],
+            [
+              "Genre",
+              "Film"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**De quoi ça parle ?** Dans l'Oklahoma des années 1920, les Osages se sont enrichis grâce au pétrole découvert sur leurs terres. Une série de meurtres frappe leur communauté. Le film suit Mollie, une femme osage, son mari Ernest Burkhart et l'oncle de celui-ci, William Hale, qui convoitent la fortune des Osages."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèmes** : violence coloniale, cupidité, héritage autochtone, justice, mémoire."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Axes possibles** (pistes, selon le choix de ton professeur) : Ancrage et héritage ; Art et contestation (témoigner) ; Exploration et aventure (la conquête de l'Ouest et ses victimes)."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Note de service fixant la liste",
+      "valeur": "28 avril 2026",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "notion",
+      "libelle": "Règle de choix",
+      "valeur": "3 œuvres : 2 littéraires + 1 filmique, une par thématique",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+        "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Œuvre la plus ancienne : *Pride and Prejudice*",
+      "valeur": "1813",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Œuvre la plus récente : *Killers of the Flower Moon*",
+      "valeur": "2023",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Œuvres et axes (pistes)",
+    "colonnes": [
+      "Œuvre",
+      "Axes possibles"
+    ],
+    "lignes": [
+      [
+        "*Americanah* (Chimamanda Ngozi Adichie)",
+        "Migration et exil ; Art et contestation ; Mise en scène de soi ; Ancrage et héritage."
+      ],
+      [
+        "*The Handmaid's Tale* (Margaret Atwood)",
+        "Art et contestation ; L'art qui fait débat ; Mise en scène de soi."
+      ],
+      [
+        "*Pride and Prejudice* (Jane Austen)",
+        "L'art du débat (dialogues) ; Initiation, apprentissage ; L'expression des émotions."
+      ],
+      [
+        "*Moon Palace* (Paul Auster)",
+        "Exploration et aventure ; Migration et exil (cité par le programme) ; Initiation, apprentissage."
+      ],
+      [
+        "*Boyhood: Scenes from Provincial Life* (J. M. Coetzee)",
+        "Mise en scène de soi ; Initiation, apprentissage ; Ancrage et héritage."
+      ],
+      [
+        "*The Caretaker* (Harold Pinter)",
+        "L'art du débat ; Mise en scène de soi ; L'art qui fait débat."
+      ],
+      [
+        "*The God of Small Things* (Arundhati Roy)",
+        "Ancrage et héritage ; L'art qui fait débat ; L'expression des émotions ; Initiation."
+      ],
+      [
+        "*Brooklyn* (Colm Tóibín)",
+        "Migration et exil ; Initiation, apprentissage ; Ancrage et héritage."
+      ],
+      [
+        "*Much Ado About Nothing* (Kenneth Branagh)",
+        "L'art du débat ; Mise en scène de soi."
+      ],
+      [
+        "*The Piano* (Jane Campion)",
+        "L'expression des émotions ; Migration et exil ; Exploration et aventure."
+      ],
+      [
+        "*12 Angry Men* (Sidney Lumet)",
+        "L'art du débat (cité par le programme)."
+      ],
+      [
+        "*Killers of the Flower Moon* (Martin Scorsese)",
+        "Ancrage et héritage ; Art et contestation (témoigner) ; Exploration et aventure (la conquête de l'Ouest et ses victimes)."
+      ]
+    ]
+  },
+  "fiche": [
+    "**3 œuvres** : 2 littéraires + 1 film, une par thématique, choisies par ton professeur.",
+    "**Romans** : *Americanah* (2013), *The Handmaid's Tale* (1985), *Pride and Prejudice* (1813), *Moon Palace* (1989), *The God of Small Things* (1997), *Brooklyn* (2009).",
+    "**Récit autobiographique** : *Boyhood* (1997). **Théâtre** : *The Caretaker* (1960).",
+    "**Films** : *Much Ado About Nothing* (1993), *The Piano* (1993), *12 Angry Men* (1957), *Killers of the Flower Moon* (2023).",
+    "**Oral** : au moins une œuvre étudiée doit figurer dans ton dossier."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Combien d'œuvres étudies-tu en terminale ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+        "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "3, dont 1 film",
+          "correct": true,
+          "explication": "Une par thématique."
+        },
+        {
+          "id": "b",
+          "texte": "12",
+          "correct": false,
+          "explication": "12, c'est la liste dans laquelle ton professeur choisit."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*The Handmaid's Tale* takes place in…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Fiche de l'œuvre : informations de publication ou de sortie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "the Republic of Gilead",
+          "correct": true,
+          "explication": "Un régime théocratique."
+        },
+        {
+          "id": "b",
+          "texte": "Kerala",
+          "correct": false,
+          "explication": "Kerala : *The God of Small Things*."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Who directed *The Piano*?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Fiche de l'œuvre : informations de publication ou de sortie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Jane Campion",
+          "correct": true,
+          "explication": "Palme d'or 1993."
+        },
+        {
+          "id": "b",
+          "texte": "Kenneth Branagh",
+          "correct": false,
+          "explication": "Branagh : *Much Ado About Nothing*."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "In *Brooklyn*, Eilis emigrates from…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Fiche de l'œuvre : informations de publication ou de sortie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Ireland",
+          "correct": true,
+          "explication": "Au début des années 1950."
+        },
+        {
+          "id": "b",
+          "texte": "Nigeria",
+          "correct": false,
+          "explication": "C'est le pays d'Ifemelu dans *Americanah*."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*12 Angry Men* is mainly about…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Fiche de l'œuvre : informations de publication ou de sortie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "a jury deliberating",
+          "correct": true,
+          "explication": "Douze jurés dans une seule pièce."
+        },
+        {
+          "id": "b",
+          "texte": "an expedition",
+          "correct": false,
+          "explication": "Rien à voir."
+        }
+      ]
+    }
+  ]
+}

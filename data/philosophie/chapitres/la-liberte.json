@@ -1,0 +1,371 @@
+{
+  "id": "la-liberte",
+  "matiere": "philosophie",
+  "titre": "La liberté",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "La liberté",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer liberté d'indépendance, libre arbitre, autonomie et liberté politique.",
+    "Comprendre l'objection du déterminisme.",
+    "Connaître les positions de Descartes, Spinoza, Rousseau, Kant et Sartre.",
+    "Traiter un sujet sur la liberté avec des exemples."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Au sens courant, être libre, c'est **faire ce que l'on veut** sans en être empêché. Mais cette définition pose problème : ce que je veux, l'ai-je choisi ?"
+        },
+        {
+          "type": "definition",
+          "glossaire": "libre-arbitre"
+        },
+        {
+          "type": "definition",
+          "glossaire": "determinisme"
+        },
+        {
+          "type": "definition",
+          "glossaire": "autonomie"
+        },
+        {
+          "type": "definition",
+          "glossaire": "heteronomie"
+        },
+        {
+          "type": "tableau",
+          "titre": "Plusieurs sens de la liberté",
+          "colonnes": [
+            "Sens",
+            "Définition"
+          ],
+          "lignes": [
+            [
+              "Liberté d'indépendance",
+              "Absence de contrainte extérieure"
+            ],
+            [
+              "Libre arbitre",
+              "Pouvoir de choisir sans être déterminé"
+            ],
+            [
+              "Autonomie (morale)",
+              "Se donner à soi-même sa loi"
+            ],
+            [
+              "Liberté politique",
+              "Droits garantis par la loi dans un État"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : nous nous sentons libres quand nous choisissons. Mais si tout ce qui arrive a une cause (notre corps, notre éducation, notre inconscient, la société), nos choix ne sont-ils pas eux aussi déterminés ? Le sentiment de liberté est-il une preuve de liberté, ou une illusion ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tension centrale : **sentiment de liberté** vs **déterminisme**. Et : être libre, est-ce faire ce qu'on veut, ou vouloir ce qui est raisonnable ?"
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Descartes (*Méditations métaphysiques*, 1641)",
+              "La volonté est infinie : le libre arbitre est ce qui rend l'homme semblable à Dieu",
+              "L'expérience intérieure de la liberté est indubitable"
+            ],
+            [
+              "Spinoza (*Éthique*, 1677)",
+              "Les hommes se croient libres parce qu'ils ont conscience de leurs désirs mais ignorent les causes qui les déterminent",
+              "Le sentiment de liberté est une illusion ; la vraie liberté consiste à comprendre la nécessité"
+            ],
+            [
+              "Rousseau (*Du contrat social*, 1762)",
+              "« L'obéissance à la loi qu'on s'est prescrite est liberté »",
+              "La liberté n'est pas l'absence de loi ; la loi commune garantit la liberté"
+            ],
+            [
+              "Kant (*Fondements de la métaphysique des mœurs*, 1785)",
+              "La liberté est autonomie : obéir à la loi morale que ma raison se donne",
+              "Suivre ses désirs, c'est être hétéronome"
+            ],
+            [
+              "Sartre (*L'existentialisme est un humanisme*, 1946)",
+              "L'homme n'a pas de nature fixée d'avance : il est ce qu'il se fait, il est entièrement responsable de ses choix",
+              "La liberté est la condition humaine, même quand elle pèse"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Le fumeur qui « choisit » de fumer mais n'arrive pas à arrêter : liberté ou dépendance ?",
+            "La publicité qui crée des désirs que l'on croit spontanés.",
+            "L'élève qui renonce à une sortie pour réviser parce qu'il l'a décidé : liberté comme maîtrise de soi.",
+            "Le code de la route : une contrainte qui rend possible la liberté de circuler de tous."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Être libre, est-ce faire ce que l'on veut ?",
+            "La liberté est-elle une illusion ?",
+            "Les lois limitent-elles notre liberté ?",
+            "Peut-on être libre sans les autres ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Libre arbitre",
+      "valeur": "Descartes, *Méditations métaphysiques*, 1641",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Liberté comme compréhension de la nécessité",
+      "valeur": "Spinoza, *Éthique*, 1677",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Obéir à la loi qu'on s'est prescrite",
+      "valeur": "Rousseau, *Du contrat social*, 1762",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Autonomie",
+      "valeur": "Kant, *Fondements de la métaphysique des mœurs*, 1785",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Responsabilité totale",
+      "valeur": "Sartre, *L'existentialisme est un humanisme*, 1946",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La liberté : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Descartes",
+        "La volonté est infinie : le libre arbitre est ce qui rend l'homme semblable à Dieu"
+      ],
+      [
+        "Spinoza",
+        "Les hommes se croient libres parce qu'ils ont conscience de leurs désirs mais ignorent les causes qui les déterminent"
+      ],
+      [
+        "Rousseau",
+        "« L'obéissance à la loi qu'on s'est prescrite est liberté »"
+      ],
+      [
+        "Kant",
+        "La liberté est autonomie : obéir à la loi morale que ma raison se donne"
+      ],
+      [
+        "Sartre",
+        "L'homme n'a pas de nature fixée d'avance : il est ce qu'il se fait, il est entièrement responsable de ses choix"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Sens** : indépendance, libre arbitre, autonomie, liberté politique.",
+    "**Problème** : sentiment de liberté vs déterminisme.",
+    "**Descartes** : la volonté est infinie, libre arbitre.",
+    "**Spinoza** : illusion de liberté ; comprendre la nécessité.",
+    "**Rousseau** : obéir à la loi qu'on s'est prescrite.",
+    "**Kant** : autonomie vs hétéronomie.",
+    "**Sartre** : l'homme est ce qu'il se fait, responsable.",
+    "**Repères** : obligation / contrainte ; contingent / nécessaire."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Pour Spinoza, les hommes se croient libres parce que…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "ils ignorent les causes de leurs désirs",
+          "correct": true,
+          "explication": "Ils ont conscience de leurs désirs, pas de leurs causes."
+        },
+        {
+          "id": "b",
+          "texte": "Dieu les a créés libres",
+          "correct": false,
+          "explication": "Ce n'est pas sa thèse."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "L'autonomie, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "se donner à soi-même sa loi",
+          "correct": true,
+          "explication": "autos + nomos."
+        },
+        {
+          "id": "b",
+          "texte": "vivre seul",
+          "correct": false,
+          "explication": "C'est le sens courant, pas le sens philosophique."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "« L'obéissance à la loi qu'on s'est prescrite est liberté » est de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Rousseau",
+          "correct": true,
+          "explication": "*Du contrat social*, 1762."
+        },
+        {
+          "id": "b",
+          "texte": "Descartes",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le déterminisme affirme que…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "tout événement a des causes",
+          "correct": true,
+          "explication": "Ce qui conteste le libre arbitre."
+        },
+        {
+          "id": "b",
+          "texte": "l'homme choisit tout",
+          "correct": false,
+          "explication": "C'est l'inverse."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Pour Sartre, l'homme…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "est ce qu'il se fait",
+          "correct": true,
+          "explication": "Pas de nature fixée d'avance."
+        },
+        {
+          "id": "b",
+          "texte": "est déterminé par sa nature",
+          "correct": false,
+          "explication": "C'est ce qu'il refuse."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "la-religion",
+  "exercices": [
+    {
+      "id": "la-religion-qcm",
+      "titre": "La religion : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relie chaque auteur à sa thèse."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Pour Feuerbach, Dieu est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une projection de l'homme",
+              "correct": true,
+              "explication": "1841."
+            },
+            {
+              "id": "b",
+              "texte": "une preuve scientifique",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "La foi porte sur…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "ce qui ne peut pas être démontré",
+              "correct": true,
+              "explication": "Repère croire / savoir."
+            },
+            {
+              "id": "b",
+              "texte": "ce qui est démontré",
+              "correct": false,
+              "explication": "Ce serait un savoir."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "La laïcité garantit…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la liberté de conscience",
+              "correct": true,
+              "explication": "Et la neutralité de l'État."
+            },
+            {
+              "id": "b",
+              "texte": "l'interdiction des religions",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Spinoza demande de lire les Écritures…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "de façon historique",
+              "correct": true,
+              "explication": "*Traité théologico-politique*."
+            },
+            {
+              "id": "b",
+              "texte": "sans les lire",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Pour Kant, la vraie religion repose sur…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la morale",
+              "correct": true,
+              "explication": "1793."
+            },
+            {
+              "id": "b",
+              "texte": "les miracles",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "la-religion-probl",
+      "titre": "Problématiser : « La religion est-elle une illusion ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « La religion est-elle une illusion ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Définis illusion (≠ erreur : une croyance née d'un désir).",
+        "Pense à Freud, Marx, mais aussi à Pascal, Durkheim."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Une illusion n'est pas une simple erreur : c'est une croyance que l'on entretient parce qu'on désire qu'elle soit vraie (Freud)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** La religion répond à des désirs profonds (protection, sens, consolation), ce qui la rend suspecte d'illusion. Mais une croyance peut être désirée et vraie à la fois, et la religion a une réalité sociale incontestable (Durkheim)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** La religion n'est-elle que le produit de nos désirs et de nos peurs, ou répond-elle à une exigence de sens que la raison et la science ne satisfont pas ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

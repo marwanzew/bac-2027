@@ -1,0 +1,226 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "h4-c2",
+  "exercices": [
+    {
+      "id": "h4-c2-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "L'approfondissement, c'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "renforcer les compétences communes",
+              "correct": true,
+              "explication": "Ex. : l'euro."
+            },
+            {
+              "id": "b",
+              "texte": "ajouter des pays",
+              "correct": false,
+              "explication": "C'est l'élargissement."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "En 2005, les Français rejettent…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le traité constitutionnel européen",
+              "correct": true,
+              "explication": "Référendum du 29 mai."
+            },
+            {
+              "id": "b",
+              "texte": "l'euro",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "L'Acte unique prévoit…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le marché unique",
+              "correct": true,
+              "explication": "En place en 1993."
+            },
+            {
+              "id": "b",
+              "texte": "le Brexit",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Le traité de Lisbonne entre en vigueur en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "2009",
+              "correct": true,
+              "explication": "Signé en 2007."
+            },
+            {
+              "id": "b",
+              "texte": "1995",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "La crise des dettes de la zone euro commence vers…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "2010",
+              "correct": true,
+              "explication": "Grèce."
+            },
+            {
+              "id": "b",
+              "texte": "1973",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "h4-c2-composition",
+      "titre": "Plan de composition : « La construction européenne depuis les années 1990 : élargissement, approfondissement et crises »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « La construction européenne depuis les années 1990 : élargissement, approfondissement et crises »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : définitions (élargissement, approfondissement) ; bornes 1992-2020 ; problématique : la construction européenne progresse-t-elle malgré les crises ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Une Union qui s'approfondit**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Maastricht (1992) et le marché unique",
+            "B. L'euro (1999-2002)",
+            "C. Lisbonne (2007)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Une Union qui s'élargit**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. 2004 : l'Europe réunifiée",
+            "B. Des défis de cohésion"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III. Une Union remise en question**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Le rejet de 2005",
+            "B. La crise de l'euro",
+            "C. Le Brexit"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : une construction toujours en débat."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

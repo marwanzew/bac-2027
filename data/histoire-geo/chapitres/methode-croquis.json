@@ -1,0 +1,226 @@
+{
+  "id": "methode-croquis",
+  "matiere": "histoire-geo",
+  "titre": "Méthode : le croquis",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthode",
+    "intitule": "Méthode : le croquis",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Construire une légende organisée qui répond au sujet.",
+    "Choisir des figurés adaptés (surfaces, points, flux, limites).",
+    "Réaliser un croquis lisible, avec un titre."
+  ],
+  "parties": [
+    {
+      "id": "evaluation",
+      "titre": "À quoi ça sert",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En histoire-géographie, la note du bac vient du **contrôle continu** (coefficient 6) : ce sont tes moyennes de première et de terminale. Il n'y a pas d'épreuve finale. Ces méthodes servent pour tes devoirs en classe, qui font ta moyenne."
+        }
+      ]
+    },
+    {
+      "id": "etapes",
+      "titre": "Les étapes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Analyser le sujet** : il donne le titre et l'idée générale du croquis.",
+            "**Construire la légende** en 2 ou 3 parties titrées (par exemple : espaces moteurs / flux / espaces en difficulté).",
+            "**Choisir les figurés** :",
+            "— **surfaces** : aplats de couleur ou hachures (une couleur chaude pour ce qui est dynamique, froide pour ce qui l'est moins) ;",
+            "— **lieux** : points ou symboles, de taille proportionnelle à leur importance ;",
+            "— **flux** : flèches, d'épaisseur proportionnelle ;",
+            "— **limites** : traits.",
+            "**Réaliser** le croquis : d'abord les surfaces, puis les points, puis les flèches, enfin les noms (en noir, à l'horizontale)."
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Un croquis = un **titre**, une **légende organisée**, des **figurés hiérarchisés**, une **nomenclature** (les noms de lieux)."
+        },
+        {
+          "type": "piege",
+          "titre": "trop d'informations",
+          "texte": "Un croquis surchargé est illisible : 10 à 15 éléments de légende suffisent."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Coefficient de l'histoire-géographie (contrôle continu)",
+      "valeur": "6",
+      "certitude": "certain",
+      "source": {
+        "titre": "Arrêté relatif aux modalités d'organisation du baccalauréat général"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Méthode : le croquis : les étapes",
+    "colonnes": [
+      "Étape",
+      "À faire"
+    ],
+    "lignes": [
+      [
+        "1",
+        "Lire le sujet (titre du croquis)"
+      ],
+      [
+        "2",
+        "Organiser la légende en 2 ou 3 parties"
+      ],
+      [
+        "3",
+        "Choisir les figurés"
+      ],
+      [
+        "4",
+        "Colorier les surfaces"
+      ],
+      [
+        "5",
+        "Placer points et flèches"
+      ],
+      [
+        "6",
+        "Écrire la nomenclature et le titre"
+      ]
+    ]
+  },
+  "fiche": [
+    "Lire le sujet (titre du croquis)",
+    "Organiser la légende en 2 ou 3 parties",
+    "Choisir les figurés",
+    "Colorier les surfaces",
+    "Placer points et flèches",
+    "Écrire la nomenclature et le titre"
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Un flux se représente par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une flèche",
+          "correct": true,
+          "explication": "Épaisseur proportionnelle."
+        },
+        {
+          "id": "b",
+          "texte": "un aplat",
+          "correct": false,
+          "explication": "Les surfaces."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Une ville se représente par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un point",
+          "correct": true,
+          "explication": "Taille selon l'importance."
+        },
+        {
+          "id": "b",
+          "texte": "une flèche",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La légende doit être…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "organisée en parties titrées",
+          "correct": true,
+          "explication": "Elle répond au sujet."
+        },
+        {
+          "id": "b",
+          "texte": "une liste en vrac",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "On commence le croquis par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "les surfaces",
+          "correct": true,
+          "explication": "Puis points, flèches, noms."
+        },
+        {
+          "id": "b",
+          "texte": "les noms",
+          "correct": false,
+          "explication": "À la fin."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Combien d'éléments de légende environ ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "10 à 15",
+          "correct": true,
+          "explication": "Pour rester lisible."
+        },
+        {
+          "id": "b",
+          "texte": "50",
+          "correct": false,
+          "explication": "Trop."
+        }
+      ]
+    }
+  ]
+}

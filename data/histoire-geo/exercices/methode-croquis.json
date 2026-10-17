@@ -1,0 +1,39 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "methode-croquis",
+  "exercices": [
+    {
+      "id": "croquis-figures",
+      "titre": "Associer figurés et informations",
+      "type": "croquis",
+      "difficulte": "facile",
+      "dureeMinutes": 10,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Pour chaque information, indique le figuré adapté : 1) la métropole de Toulouse ; 2) les échanges entre l'Asie et l'Europe ; 3) la diagonale des faibles densités ; 4) la frontière avec l'Espagne."
+      ],
+      "methode": [
+        "Surface, point, flux ou limite ?"
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1) Un **point** (de taille moyenne).",
+            "2) Une **flèche** épaisse.",
+            "3) Un **aplat** de couleur claire (ou des hachures).",
+            "4) Un **trait** (limite)."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 2.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "id": "initiation",
+  "matiere": "llcer",
+  "titre": "Initiation, apprentissage",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thématique « Expression et construction de soi »",
+    "intitule": "Initiation, apprentissage",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Définir le roman d'apprentissage (Bildungsroman) et ses étapes.",
+    "Expliquer comment un personnage évolue moralement, intellectuellement ou psychologiquement.",
+    "Connaître des œuvres d'initiation majeures du monde anglophone.",
+    "Utiliser le vocabulaire : coming of age, loss of innocence, rite of passage, mentor."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment lire cet axe",
+          "texte": "Le programme officiel présente chaque axe par une problématique, des mots-clés et des pistes d'œuvres. Les objectifs « À la fin, je dois savoir… » sont une reformulation pédagogique ; les mots-clés et les pistes, eux, viennent du programme."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique de la thématique (programme)** : comment l'expression révèle-t-elle et construit-elle une identité, individuelle ou collective ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'axe** : de l'enfance à l'âge adulte, un personnage **se forme** à travers des épreuves. Le programme invite à étudier son évolution **morale, intellectuelle ou psychologique**, la **dimension didactique** de l'œuvre (que veut-elle apprendre au lecteur ?) et les **contextes scolaires et culturels** de l'apprentissage (pensionnat, rites de passage)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "bildungsroman"
+        },
+        {
+          "type": "schema",
+          "titre": "Les étapes d'un récit d'initiation",
+          "sens": "horizontal",
+          "noeuds": [
+            {
+              "id": "dep",
+              "texte": "Départ, rupture"
+            },
+            {
+              "id": "epr",
+              "texte": "Épreuves, rencontres, mentor"
+            },
+            {
+              "id": "cri",
+              "texte": "Crise, perte d'innocence"
+            },
+            {
+              "id": "tra",
+              "texte": "Transformation : nouvelle identité"
+            }
+          ],
+          "liens": [
+            {
+              "de": "dep",
+              "vers": "epr"
+            },
+            {
+              "de": "epr",
+              "vers": "cri"
+            },
+            {
+              "de": "cri",
+              "vers": "tra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulaire",
+      "titre": "Key words",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Mots-clés et vocabulaire utile",
+          "colonnes": [
+            "English",
+            "Français",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "coming of age",
+              "passage à l'âge adulte",
+              "a coming-of-age film"
+            ],
+            [
+              "childhood / adolescence",
+              "enfance / adolescence",
+              "memories of childhood"
+            ],
+            [
+              "an ordeal / a trial",
+              "une épreuve",
+              "to go through an ordeal"
+            ],
+            [
+              "loss of innocence",
+              "perte de l'innocence",
+              "the novel explores the loss of innocence"
+            ],
+            [
+              "a mentor",
+              "un mentor, un guide",
+              "the hero meets a mentor"
+            ],
+            [
+              "a rite of passage",
+              "un rite de passage",
+              "the walkabout as a rite of passage"
+            ],
+            [
+              "to grow up",
+              "grandir",
+              "growing up in the 1950s"
+            ],
+            [
+              "maturity",
+              "maturité",
+              "to reach maturity"
+            ],
+            [
+              "boarding school",
+              "pensionnat",
+              "a strict boarding school"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "protagonist"
+        }
+      ]
+    },
+    {
+      "id": "reperes-culturels",
+      "titre": "Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Œuvres d'initiation",
+          "colonnes": [
+            "Œuvre",
+            "Date",
+            "Initiation"
+          ],
+          "lignes": [
+            [
+              "Henry Fielding, *Tom Jones*",
+              "1749",
+              "Un jeune homme apprend la vie à travers de nombreuses aventures"
+            ],
+            [
+              "Charles Dickens, *Oliver Twist*",
+              "1837-1839",
+              "Un orphelin face à la misère et à la criminalité de Londres"
+            ],
+            [
+              "Charlotte Brontë, *Jane Eyre*",
+              "1847",
+              "Une orpheline conquiert son indépendance"
+            ],
+            [
+              "Charles Dickens, *Great Expectations*",
+              "1861",
+              "Pip apprend que la valeur d'un homme ne tient pas à sa fortune"
+            ],
+            [
+              "J. D. Salinger, *The Catcher in the Rye*",
+              "1951",
+              "Holden Caulfield refuse le monde adulte"
+            ],
+            [
+              "William Golding, *Lord of the Flies*",
+              "1954",
+              "Des enfants naufragés : la perte d'innocence et la violence"
+            ],
+            [
+              "Jack Kerouac, *On the Road*",
+              "1957",
+              "Le voyage comme quête de soi"
+            ],
+            [
+              "Ridley Scott, *Thelma & Louise*",
+              "1991",
+              "Deux femmes s'émancipent au cours d'une fuite"
+            ],
+            [
+              "Pixar, *Inside Out*",
+              "2015",
+              "Les émotions d'une enfant qui grandit"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le **walkabout** est un rite de passage aborigène en Australie, cité par le programme ; Rosie the Riveter, figure de l'ouvrière américaine de la Seconde Guerre mondiale (souvent associée à l'affiche *We Can Do It!* de 1943), symbolise l'entrée des femmes dans le travail industriel pendant la guerre."
+        }
+      ]
+    },
+    {
+      "id": "programme-limitatif",
+      "titre": "Liens possibles avec le programme limitatif",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "des pistes, pas des règles",
+          "texte": "Ton professeur choisit les œuvres et l'axe auquel il les relie."
+        },
+        {
+          "type": "tableau",
+          "titre": "Pistes",
+          "colonnes": [
+            "Œuvre",
+            "Pourquoi elle peut illustrer l'axe"
+          ],
+          "lignes": [
+            [
+              "J. M. Coetzee, *Boyhood* (1997)",
+              "L'enfance d'un garçon en Afrique du Sud : école, famille, découverte des injustices"
+            ],
+            [
+              "Colm Tóibín, *Brooklyn* (2009)",
+              "Eilis, jeune Irlandaise, devient adulte en émigrant à New York"
+            ],
+            [
+              "Paul Auster, *Moon Palace* (1989)",
+              "Un jeune homme traverse épreuves et rencontres avant de se trouver"
+            ],
+            [
+              "Jane Austen, *Pride and Prejudice* (1813)",
+              "Elizabeth apprend à reconnaître ses propres préjugés"
+            ],
+            [
+              "Arundhati Roy, *The God of Small Things* (1997)",
+              "Une enfance brisée : la perte d'innocence"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "titre": "Useful phrases",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "*The character goes through a series of ordeals.*",
+            "*This experience marks the end of his innocence.*",
+            "*She gradually becomes aware of…*",
+            "*The novel can be read as a Bildungsroman.*"
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Pour analyser une initiation : **état initial → épreuves → transformation**. Montre ce que le personnage **perd** et ce qu'il **gagne**."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Charlotte Brontë, *Jane Eyre*",
+      "valeur": "1847",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Charles Dickens, *Great Expectations*",
+      "valeur": "1861",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "J. D. Salinger, *The Catcher in the Rye*",
+      "valeur": "1951",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "William Golding, *Lord of the Flies*",
+      "valeur": "1954",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Colm Tóibín, *Brooklyn*",
+      "valeur": "2009",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Initiation : ce qui change",
+    "colonnes": [
+      "Dimension",
+      "Exemple de question"
+    ],
+    "lignes": [
+      [
+        "Morale",
+        "Que découvre-t-il du bien et du mal ?"
+      ],
+      [
+        "Intellectuelle",
+        "Qu'apprend-il, à l'école ou hors de l'école ?"
+      ],
+      [
+        "Psychologique",
+        "Comment change son rapport aux autres et à lui-même ?"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Bildungsroman** : roman de formation, de l'enfance à l'âge adulte.",
+    "**Étapes** : départ, épreuves, mentor, crise, transformation.",
+    "**Dimensions** : morale, intellectuelle, psychologique ; contexte scolaire et culturel.",
+    "**Vocabulaire** : coming of age, ordeal, loss of innocence, mentor, rite of passage.",
+    "**Repères** : *Tom Jones* (1749), *Oliver Twist* (1837-1839), *Jane Eyre* (1847), *Catcher* (1951), *Lord of the Flies* (1954).",
+    "**Programme limitatif** : *Boyhood*, *Brooklyn*, *Moon Palace*, *Pride and Prejudice*, *The God of Small Things* (pistes)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "A *Bildungsroman* is…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "a coming-of-age novel",
+          "correct": true,
+          "explication": "Roman de formation."
+        },
+        {
+          "id": "b",
+          "texte": "a detective novel",
+          "correct": false,
+          "explication": "Roman policier = detective novel."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*Lord of the Flies* (1954) was written by…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "William Golding",
+          "correct": true,
+          "explication": "Des enfants naufragés sur une île."
+        },
+        {
+          "id": "b",
+          "texte": "J. D. Salinger",
+          "correct": false,
+          "explication": "Salinger : *The Catcher in the Rye*."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*an ordeal*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une épreuve",
+          "correct": true,
+          "explication": "to go through an ordeal."
+        },
+        {
+          "id": "b",
+          "texte": "un ordre",
+          "correct": false,
+          "explication": "Ordre = order."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "The *walkabout* is…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+        "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "an Aboriginal rite of passage",
+          "correct": true,
+          "explication": "Cité par le programme."
+        },
+        {
+          "id": "b",
+          "texte": "a London street",
+          "correct": false,
+          "explication": "Rien à voir."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*to grow up*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "grandir",
+          "correct": true,
+          "explication": "growing up = l'enfance, le fait de grandir."
+        },
+        {
+          "id": "b",
+          "texte": "monter",
+          "correct": false,
+          "explication": "Monter = to go up."
+        }
+      ]
+    }
+  ]
+}

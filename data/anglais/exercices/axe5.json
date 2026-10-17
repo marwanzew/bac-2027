@@ -1,0 +1,251 @@
+{
+  "matiere": "anglais",
+  "chapitre": "axe5",
+  "exercices": [
+    {
+      "id": "axe5-qcm",
+      "titre": "Vocabulary: 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*a petition*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une pétition",
+              "correct": true,
+              "explication": "Sign an online petition."
+            },
+            {
+              "id": "b",
+              "texte": "une partition",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*screen time*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le temps d'écran",
+              "correct": true,
+              "explication": "To limit screen time."
+            },
+            {
+              "id": "b",
+              "texte": "le temps de projection",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*The content … by algorithms.*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "is chosen",
+              "correct": true,
+              "explication": "Passif présent."
+            },
+            {
+              "id": "b",
+              "texte": "chooses",
+              "correct": false,
+              "explication": "Actif."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*to regulate*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "réguler, encadrer",
+              "correct": true,
+              "explication": "Regulate social media."
+            },
+            {
+              "id": "b",
+              "texte": "régulariser un paiement",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*misinformation*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les fausses informations",
+              "correct": true,
+              "explication": "To spread misinformation."
+            },
+            {
+              "id": "b",
+              "texte": "le manque d'information",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe5-comprension",
+      "titre": "Reading comprehension",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Read the text and answer the questions. (Lis le texte et réponds aux questions.)",
+        "1. What appeared online, and how did people react?",
+        "2. What did Tom do?",
+        "3. What did he discover?",
+        "4. What is Tom's message?"
+      ],
+      "documents": [
+        {
+          "titre": "Text (written for practice)",
+          "contenu": "When a fake photo of a flooded school appeared online, it was shared thousands of times in a few hours. Tom, a 17-year-old student, decided to check it. Using a reverse image search, he discovered that the picture had been taken in another country five years earlier. He posted his findings, and the post was soon shared by a local newspaper. \"Everyone can help stop fake news,\" he says. \"You just have to ask where an image comes from.\"",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. A fake photo of a flooded school appeared and was shared thousands of times in a few hours.",
+            "2. He checked it with a reverse image search.",
+            "3. That the picture had been taken in another country five years earlier.",
+            "4. Everyone can help stop fake news by asking where an image comes from."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe5-expresion",
+      "titre": "Written expression",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Should social media be banned for teenagers under 16? Write about 180 words."
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *first, moreover, however, therefore, to conclude*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (niveau B2, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Some countries, such as Australia, have decided to ban social media for teenagers under 16. Is it a good idea?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the one hand, social media can be harmful for young people: cyberbullying, addiction, fake news and pressure to look perfect. A ban could protect them during an important period of their lives."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the other hand, a ban is difficult to enforce, and teenagers often find ways to get around rules. Besides, social media also have positive sides: they help young people stay in touch, learn and get involved in causes they care about."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "All things considered, I think that education is more effective than a total ban. Schools should teach young people how to use social media responsibly."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

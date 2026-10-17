@@ -1,0 +1,334 @@
+{
+  "id": "candidat-libre",
+  "matiere": "francais",
+  "titre": "Ta situation : candidat libre et épreuves de français",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Avant de commencer",
+    "intitule": "Ta situation : candidat libre et épreuves de français",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+    }
+  },
+  "objectifs": [
+    "Savoir comment se déroulent les épreuves anticipées de français.",
+    "Comprendre ce que tu dois préparer seul en tant que candidat individuel.",
+    "Vérifier dès maintenant les règles d'inscription qui s'appliquent à ton cas."
+  ],
+  "parties": [
+    {
+      "id": "verifier",
+      "titre": "À vérifier en priorité",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "est-ce que tu peux repasser le français ?",
+          "texte": "D'après l'arrêté du 16 juillet 2018 (version initiale), un élève qui a passé les épreuves anticipées l'année précédente **conserve** ses notes de français ; seuls les élèves qui **redoublent la première** les repassent obligatoirement, et un candidat **ajourné** (qui a échoué au bac) peut choisir de conserver ou non ses notes pour la session suivante. **[À VÉRIFIER]** Ta possibilité de repasser le français en juin 2027 dépend de ta situation exacte : demande-le par écrit à la **division des examens et concours (DEC) de ton rectorat** (Occitanie : rectorat de Toulouse ou de Montpellier selon ton domicile) avant ou pendant l'inscription."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Cette matière te prépare dans tous les cas : si l'inscription est possible, tu auras tout ce qu'il faut ; sinon, elle t'aidera pour la philosophie et le Grand oral (argumentation, analyse de texte)."
+        }
+      ]
+    },
+    {
+      "id": "epreuves",
+      "titre": "Les deux épreuves",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Épreuves anticipées de français (voie générale)",
+          "colonnes": [
+            "Épreuve",
+            "Durée",
+            "Coefficient",
+            "Contenu"
+          ],
+          "lignes": [
+            [
+              "Écrit",
+              "4 heures",
+              "5",
+              "Au choix : commentaire d'un texte littéraire (hors œuvres du programme) ou dissertation sur l'un des trois sujets, chacun lié à une œuvre du programme et à son parcours"
+            ],
+            [
+              "Oral",
+              "30 min de préparation + 20 min",
+              "5",
+              "Partie 1 (12 min, sur 12) : lecture 2 pts, explication linéaire 8 pts, question de grammaire 2 pts. Partie 2 (8 min, sur 8) : présentation de l'œuvre choisie et entretien"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "L'écrit a lieu le **mardi 15 juin 2027**. La date de l'oral figure sur ta convocation."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Le format est le même dans la note de service de 2020 (modifiée) et dans la nouvelle note du 11 septembre 2026 (applicable à partir de la session 2028) : tu peux t'entraîner sans crainte."
+        }
+      ]
+    },
+    {
+      "id": "recap",
+      "titre": "Ton récapitulatif : c'est toi qui le construis",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "recapitulatif"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Pour un candidat individuel, « le récapitulatif des activités est alors constitué par le candidat lui-même, en conformité avec les programmes ». En voie générale, il doit comporter **au moins quatre textes par objet d'étude** : au moins **deux extraits de l'œuvre** choisie et **un extrait pour le parcours** associé, soit au moins 16 textes."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Choisis **une œuvre par objet d'étude** dans la liste officielle 2026-2027 (voir les quatre chapitres suivants).",
+            "Pour chaque œuvre, sélectionne des extraits d'environ **vingt lignes** (ou un poème) et prépare l'explication linéaire de chacun.",
+            "Ajoute un ou deux textes du **parcours** (autres auteurs liés à l'intitulé du parcours).",
+            "Imprime le récapitulatif et apporte **l'œuvre** et les textes le jour de l'oral."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "sans récapitulatif",
+          "texte": "Si aucun récapitulatif n'est présenté, l'examinateur le note au procès-verbal et interroge quand même le candidat sur un texte de son choix : tu perds alors l'avantage de la préparation."
+        }
+      ]
+    },
+    {
+      "id": "planning",
+      "titre": "Un planning réaliste jusqu'en juin",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Planning conseillé",
+          "colonnes": [
+            "Période",
+            "Objectif"
+          ],
+          "lignes": [
+            [
+              "Octobre – novembre",
+              "Choisir les 4 œuvres, les lire en entier, noter les passages marquants"
+            ],
+            [
+              "Décembre – février",
+              "Méthodes : commentaire, dissertation ; 1 devoir toutes les deux semaines"
+            ],
+            [
+              "Mars – avril",
+              "Préparer les 16 explications linéaires et la grammaire"
+            ],
+            [
+              "Mai – juin",
+              "Entraînement à l'oral chronométré ; un écrit de 4 h par semaine"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Épreuve écrite anticipée de français",
+      "valeur": "mardi 15 juin 2027",
+      "certitude": "certain",
+      "source": {
+        "titre": "Éduscol, dates des examens 2027 : épreuve écrite anticipée de français le mardi 15 juin 2027"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Durée de l'écrit",
+      "valeur": "4 heures",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Coefficients",
+      "valeur": "écrit 5, oral 5",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Oral",
+      "valeur": "30 min de préparation, 20 min d'épreuve",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Textes minimum par objet d'étude (voie générale)",
+      "valeur": "4 (dont 2 extraits de l'œuvre et 1 du parcours)",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Ton plan d'action",
+    "colonnes": [
+      "Étape",
+      "À faire"
+    ],
+    "lignes": [
+      [
+        "1",
+        "Écrire à la DEC du rectorat pour confirmer ta situation"
+      ],
+      [
+        "2",
+        "Choisir une œuvre par objet d'étude"
+      ],
+      [
+        "3",
+        "Construire ton récapitulatif (≥ 4 textes par objet d'étude)"
+      ],
+      [
+        "4",
+        "S'entraîner à l'écrit (4 h) et à l'oral (30 + 20 min)"
+      ]
+    ]
+  },
+  "fiche": [
+    "**À vérifier d'abord** : possibilité de repasser le français → DEC du rectorat.",
+    "**Écrit** : 15 juin 2027, 4 h, coef 5, commentaire ou dissertation.",
+    "**Oral** : 30 min + 20 min, coef 5 ; lecture 2 + explication 8 + grammaire 2 + œuvre et entretien 8.",
+    "**Récapitulatif** fait par toi : ≥ 4 textes par objet d'étude (2 de l'œuvre, 1 du parcours)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Durée de l'écrit anticipé de français :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "4 heures",
+          "correct": true,
+          "explication": "Coefficient 5."
+        },
+        {
+          "id": "b",
+          "texte": "2 heures",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Qui constitue le récapitulatif d'un candidat individuel ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Le candidat lui-même",
+          "correct": true,
+          "explication": "Conformément aux programmes."
+        },
+        {
+          "id": "b",
+          "texte": "Le rectorat",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Combien de textes au minimum par objet d'étude en voie générale ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "4",
+          "correct": true,
+          "explication": "2 extraits de l'œuvre, 1 du parcours, au minimum."
+        },
+        {
+          "id": "b",
+          "texte": "10",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Combien de points pour l'explication linéaire ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "8",
+          "correct": true,
+          "explication": "Plus 2 pour la lecture et 2 pour la grammaire."
+        },
+        {
+          "id": "b",
+          "texte": "12",
+          "correct": false,
+          "explication": "12, c'est toute la première partie."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Date de l'écrit anticipé de français en 2027 :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Éduscol, dates des examens 2027 : épreuve écrite anticipée de français le mardi 15 juin 2027"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "mardi 15 juin 2027",
+          "correct": true,
+          "explication": "Le matin."
+        },
+        {
+          "id": "b",
+          "texte": "lundi 14 juin 2027",
+          "correct": false,
+          "explication": "C'est la philosophie."
+        }
+      ]
+    }
+  ]
+}

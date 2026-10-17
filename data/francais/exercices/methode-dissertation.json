@@ -1,0 +1,200 @@
+{
+  "matiere": "francais",
+  "chapitre": "methode-dissertation",
+  "exercices": [
+    {
+      "id": "methode-dissertation-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "« Dans quelle mesure… » appelle…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une réponse nuancée",
+              "correct": true,
+              "explication": "Souvent un plan dialectique."
+            },
+            {
+              "id": "b",
+              "texte": "une réponse par oui ou non",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "L'accroche sert à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "introduire le sujet de façon intéressante",
+              "correct": true,
+              "explication": "Au début de l'introduction."
+            },
+            {
+              "id": "b",
+              "texte": "conclure",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Un exemple du parcours est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+            "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un texte lié à l'intitulé du parcours",
+              "correct": true,
+              "explication": "Il enrichit l'argument."
+            },
+            {
+              "id": "b",
+              "texte": "interdit",
+              "correct": false,
+              "explication": "Il est valorisé."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Les transitions servent à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "relier les parties",
+              "correct": true,
+              "explication": "Logique du devoir."
+            },
+            {
+              "id": "b",
+              "texte": "remplir la copie",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Tu ne pourras traiter qu'un sujet portant…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+            "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "sur une œuvre que tu connais",
+              "correct": true,
+              "explication": "Lis tes quatre œuvres en entier."
+            },
+            {
+              "id": "b",
+              "texte": "sur n'importe quelle œuvre",
+              "correct": false,
+              "explication": "Le sujet est lié à une œuvre précise."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "methode-dissertation-menteur",
+      "titre": "Plan de dissertation : Le Menteur",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 60,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner, au format bac) : « Le mensonge, dans Le Menteur de Corneille, est-il seulement source de comique ? »",
+        "Rédige l'introduction et un plan détaillé en deux ou trois parties, avec des exemples précis tirés de l'œuvre et du parcours."
+      ],
+      "methode": [
+        "Analyse chaque mot du sujet, reformule-le, puis pose une problématique.",
+        "Chaque sous-partie = un argument + un exemple précis (épisode, personnage, citation courte que tu as vérifiée dans ton édition)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique** : le mensonge n'est-il qu'un ressort comique, ou révèle-t-il aussi la puissance de la parole et du théâtre ?"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**I. Un ressort comique** : quiproquos, inventions de plus en plus folles de Dorante, commentaires de Cliton.",
+            "**II. Un mensonge qui révèle les personnages et la société** : désir de briller à Paris, rapport au père Géronte et à l'honneur.",
+            "**III. Une image du théâtre** : Dorante, comme le dramaturge, crée des illusions qui fascinent ; le spectateur accepte d'être trompé avec plaisir."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : le mensonge fait rire, mais il interroge aussi le pouvoir de la fiction, en lien avec le parcours « mensonge et comédie »."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (accroche, sujet, problématique, annonce)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la question",
+          "points": 6
+        },
+        {
+          "critere": "Connaissance précise de l'œuvre et du parcours",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

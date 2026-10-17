@@ -1,0 +1,200 @@
+{
+  "matiere": "emc",
+  "chapitre": "debat-democratique",
+  "exercices": [
+    {
+      "id": "debat-democratique-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le pluralisme désigne…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la diversité reconnue des opinions",
+              "correct": true,
+              "explication": "Condition de la démocratie."
+            },
+            {
+              "id": "b",
+              "texte": "le vote à la majorité",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "La Convention pour le climat réunissait…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Fait institutionnel établi (vie-publique.fr)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "150 citoyens",
+              "correct": true,
+              "explication": "2019-2020."
+            },
+            {
+              "id": "b",
+              "texte": "184 citoyens",
+              "correct": false,
+              "explication": "C'est la Convention sur la fin de vie."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Dans une convention citoyenne, la décision finale appartient en général…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Fait institutionnel établi (vie-publique.fr)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "aux élus",
+              "correct": true,
+              "explication": "L'avis est consultatif."
+            },
+            {
+              "id": "b",
+              "texte": "aux citoyens tirés au sort",
+              "correct": false,
+              "explication": "Ils rendent un avis."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Démocratie représentative : la légitimité vient…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "de l'élection",
+              "correct": true,
+              "explication": "Les élus représentent."
+            },
+            {
+              "id": "b",
+              "texte": "du tirage au sort",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Pourcentage des votants favorables à une aide active à mourir (Convention, 2023) :",
+          "certitude": "certain",
+          "source": {
+            "titre": "CESE, communiqué de la Convention citoyenne sur la fin de vie, 2 avril 2023",
+            "url": "https://conventioncitoyennesurlafindevie.lecese.fr/"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "75,6 %",
+              "correct": true,
+              "explication": "CESE."
+            },
+            {
+              "id": "b",
+              "texte": "25 %",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "debat-democratique-argu",
+      "titre": "Argumenter : faut-il tirer au sort des citoyens pour décider ?",
+      "type": "argumentation",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « Les conventions citoyennes tirées au sort renforcent-elles la démocratie ? »",
+        "Rédige une argumentation organisée (introduction, deux parties, conclusion) en t'appuyant sur au moins deux exemples précis."
+      ],
+      "methode": [
+        "Définis : convention citoyenne, tirage au sort, démocratie représentative.",
+        "Partie 1 : ce que ça apporte. Partie 2 : les limites.",
+        "Conclusion nuancée : complément ou remplacement ?"
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : depuis 2019, la France a expérimenté des conventions de citoyens tirés au sort (climat, fin de vie). Problématique : ces dispositifs renforcent-ils la démocratie ou fragilisent-ils la représentation ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Elles renforcent la démocratie** : diversité sociale des participants (un échantillon de la population) ; délibération longue et informée (experts, auditions) ; avis argumentés qui éclairent le Parlement (fin de vie, 75,6 % pour une aide active à mourir) ; rapprochement entre citoyens et décision."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Mais elles ont des limites** : les tirés au sort ne sont pas élus et ne rendent pas de comptes ; leurs avis peuvent ne pas être suivis, ce qui crée de la déception (Convention pour le climat) ; risque d'influence des experts ou des organisateurs."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : elles ne remplacent pas la démocratie représentative, mais peuvent la compléter si le rôle de chacun est clair dès le départ."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction et problématique",
+          "points": 4
+        },
+        {
+          "critere": "Arguments pertinents",
+          "points": 6
+        },
+        {
+          "critere": "Exemples précis",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion nuancée",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

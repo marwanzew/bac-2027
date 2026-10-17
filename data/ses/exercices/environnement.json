@@ -1,0 +1,292 @@
+{
+  "matiere": "ses",
+  "chapitre": "environnement",
+  "exercices": [
+    {
+      "id": "environnement-qcm",
+      "titre": "Environnement : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Pour chaque instrument : fixe-t-il une norme, un prix, une quantité ou une aide ?"
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le GIEC est un acteur de type…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "experts",
+              "correct": true,
+              "explication": "Il synthétise les connaissances scientifiques."
+            },
+            {
+              "id": "b",
+              "texte": "parti politique",
+              "correct": false,
+              "explication": "Il ne cherche pas le pouvoir."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Une zone à faibles émissions dans une ville relève de l'échelle…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "locale",
+              "correct": true,
+              "explication": "Décidée par les collectivités."
+            },
+            {
+              "id": "b",
+              "texte": "mondiale",
+              "correct": false,
+              "explication": "Elle concerne une ville."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "La taxe carbone applique le principe…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "pollueur-payeur",
+              "correct": true,
+              "explication": "Elle internalise l'externalité."
+            },
+            {
+              "id": "b",
+              "texte": "de précaution",
+              "correct": false,
+              "explication": "Ce n'est pas l'idée ici."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Limite d'une taxe carbone :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "elle pèse plus sur les ménages modestes",
+              "correct": true,
+              "explication": "La part de l'énergie dans leur budget est plus grande."
+            },
+            {
+              "id": "b",
+              "texte": "elle plafonne exactement les émissions",
+              "correct": false,
+              "explication": "C'est l'avantage du marché de quotas."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Les pays en développement refusent parfois des engagements forts car…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les pays riches ont émis la plus grande partie des gaz accumulés",
+              "correct": true,
+              "explication": "Inégalités de développement."
+            },
+            {
+              "id": "b",
+              "texte": "ils ne sont pas touchés par le réchauffement",
+              "correct": false,
+              "explication": "Ils sont souvent très exposés."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "environnement-instruments",
+      "titre": "Comparer deux instruments",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que la taxation et le marché de quotas d'émission présentent chacun des avantages et des limites."
+      ],
+      "methode": [
+        "Définis les deux instruments.",
+        "Pour chacun : un avantage, une limite."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Taxation.** Elle fait payer la pollution (taxe carbone) : les agents sont incités à moins polluer. Avantage : recettes publiques. Limite : la quantité de pollution évitée est incertaine et la taxe pèse plus sur les ménages modestes."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Marché de quotas.** Un plafond d'émissions est fixé et les entreprises échangent des quotas (SEQE-UE). Avantage : la quantité totale est maîtrisée. Limite : le prix du quota peut être instable ou trop bas si trop de quotas sont distribués."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "environnement-negociations",
+      "titre": "Les difficultés des accords internationaux",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que les négociations internationales sur le climat se heurtent à des obstacles."
+      ],
+      "methode": [
+        "Définis bien commun.",
+        "Développe le passager clandestin et les inégalités de développement."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Un bien commun.** Le climat est non excluable et rival : il est menacé de surexploitation."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Passager clandestin.** Chaque pays profite des réductions d'émissions des autres ; il a intérêt à ne pas supporter le coût de ses propres efforts. L'accord de Paris (2015) repose sur des engagements nationaux non sanctionnés."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Inégalités de développement.** Les pays en développement estiment que les pays riches, principaux émetteurs historiques, doivent faire plus d'efforts et les aider financièrement."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "environnement-plan-dissertation",
+      "titre": "Plan de dissertation : quels instruments ?",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet : « Les pouvoirs publics disposent-ils d'instruments efficaces pour lutter contre le changement climatique ? »",
+        "Construis la problématique et un plan détaillé."
+      ],
+      "methode": [
+        "I. Les instruments et leurs avantages ; II. leurs limites et les obstacles (dysfonctionnements, international).",
+        "Barème sur 18 : à l'épreuve, les 2 derniers points portent sur la maîtrise de la langue."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique possible.** Les instruments de la politique climatique suffisent-ils à réduire les émissions malgré les obstacles politiques et internationaux ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Des instruments variés qui peuvent être efficaces.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. La réglementation impose des normes rapidement.",
+            "B. Taxation et marché de quotas donnent un prix à la pollution.",
+            "C. Les subventions encouragent l'innovation verte."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Mais une efficacité limitée.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Chaque instrument a ses limites (coûts, inégalités, prix du quota instable).",
+            "B. Des dysfonctionnements de l'action publique : lobbying, contestation (gel de la taxe carbone fin 2018).",
+            "C. À l'échelle mondiale : passager clandestin et inégalités de développement."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes et problématique",
+          "points": 4
+        },
+        {
+          "critere": "Partie I : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Partie II : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Pertinence des mécanismes et des exemples",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

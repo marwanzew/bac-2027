@@ -1,0 +1,187 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "reperes",
+  "exercices": [
+    {
+      "id": "reperes-qcm",
+      "titre": "Repères : 5 situations",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Pour chaque question, cherche le couple de repères concerné."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Un gland est un chêne…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "en puissance",
+              "correct": true,
+              "explication": "Il peut le devenir."
+            },
+            {
+              "id": "b",
+              "texte": "en acte",
+              "correct": false,
+              "explication": "Il ne l'est pas encore."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "« La blancheur » est une notion…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "abstraite",
+              "correct": true,
+              "explication": "L'esprit isole une qualité."
+            },
+            {
+              "id": "b",
+              "texte": "concrète",
+              "correct": false,
+              "explication": "Cette feuille blanche serait concrète."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "D'où vient l'État historiquement, c'est la question de son…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "origine",
+              "correct": true,
+              "explication": "Le fondement, c'est ce qui le justifie."
+            },
+            {
+              "id": "b",
+              "texte": "fondement",
+              "correct": false,
+              "explication": "Le fondement est une question de droit."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "« A est à B ce que C est à D » définit…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une analogie",
+              "correct": true,
+              "explication": "Ressemblance de rapports."
+            },
+            {
+              "id": "b",
+              "texte": "une identité",
+              "correct": false,
+              "explication": "L'identité est le fait d'être le même."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "On peut être certain et se tromper. Pourquoi ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "La certitude est un état du sujet, la vérité concerne l'énoncé",
+              "correct": true,
+              "explication": "Repère vrai / probable / certain."
+            },
+            {
+              "id": "b",
+              "texte": "Parce que rien n'est vrai",
+              "correct": false,
+              "explication": "Ce n'est pas ce que dit la distinction."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "reperes-probl",
+      "titre": "Problématiser : « Doit-on toujours obéir aux lois ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Doit-on toujours obéir aux lois ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Définis « obéir », « loi », et pèse le mot « toujours ».",
+        "Utilise le repère légal / légitime.",
+        "Formule la problématique sous forme de question qui montre une tension."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Obéir, c'est se conformer à un ordre. La loi est une règle générale établie par une autorité. « Toujours » demande s'il existe des exceptions."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** D'un côté, la loi garantit l'ordre et la liberté de tous : désobéir dès qu'une loi déplaît détruirait la vie commune. De l'autre, une loi peut être **légale sans être légitime** : obéir toujours, ce serait parfois participer à l'injustice."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique possible.** Le respect de la loi est-il un devoir absolu, ou la conscience morale peut-elle autoriser, voire exiger, la désobéissance à une loi injuste ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

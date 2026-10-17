@@ -1,0 +1,207 @@
+{
+  "matiere": "emc",
+  "chapitre": "deliberation-institutions",
+  "exercices": [
+    {
+      "id": "deliberation-institutions-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Majorité qualifiée au Conseil de l'UE :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Traité sur le fonctionnement de l'Union européenne ; Directive 2004/38/CE du 29 avril 2004",
+            "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0038"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "55 % des États et 65 % de la population",
+              "correct": true,
+              "explication": "Double majorité."
+            },
+            {
+              "id": "b",
+              "texte": "unanimité",
+              "correct": false,
+              "explication": "Réservée à certains domaines."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "À l'Assemblée générale de l'ONU…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Charte des Nations unies, 26 juin 1945",
+            "url": "https://www.un.org/fr/about-us/un-charter"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "chaque État a une voix",
+              "correct": true,
+              "explication": "Égalité souveraine."
+            },
+            {
+              "id": "b",
+              "texte": "les grands États ont un veto",
+              "correct": false,
+              "explication": "Le veto existe au Conseil de sécurité."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "La directive 2004/38/CE concerne…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Traité sur le fonctionnement de l'Union européenne ; Directive 2004/38/CE du 29 avril 2004",
+            "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0038"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la libre circulation des citoyens européens",
+              "correct": true,
+              "explication": "Droit de séjour."
+            },
+            {
+              "id": "b",
+              "texte": "le budget français",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Le consensus, c'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un accord sans opposition formelle",
+              "correct": true,
+              "explication": "Pas de vote contre."
+            },
+            {
+              "id": "b",
+              "texte": "la majorité absolue",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Délai d'examen du budget par le Parlement :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Constitution du 4 octobre 1958",
+            "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "70 jours",
+              "correct": true,
+              "explication": "Article 47."
+            },
+            {
+              "id": "b",
+              "texte": "7 jours",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "deliberation-institutions-doc",
+      "titre": "Étude d'un document : le Conseil de sécurité",
+      "type": "etude-document",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Lis le document, puis réponds.",
+        "1. Présente la composition du Conseil de sécurité.",
+        "2. Explique comment il adopte une décision.",
+        "3. Le droit de veto rend-il les décisions de l'ONU moins légitimes ? Argumente."
+      ],
+      "methode": [
+        "Cite le document, puis ajoute tes connaissances.",
+        "Pour la question 3 : un argument pour, un argument contre, une conclusion nuancée."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "1. 15 membres : 5 permanents (Chine, États-Unis, France, Royaume-Uni, Russie) et 10 élus pour deux ans par l'Assemblée générale."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "2. Une décision sur une question de fond nécessite **9 voix sur 15**, sans vote négatif d'un membre permanent (veto). Ses décisions s'imposent aux États."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "3. **Pour** : le veto reflète l'équilibre des puissances de 1945, pas celui d'aujourd'hui (aucun membre permanent africain ou latino-américain) ; il peut bloquer l'action face à une guerre. **Contre** : il oblige les grandes puissances à s'entendre, ce qui évite des décisions qu'elles refuseraient d'appliquer. **Conclusion** : sa légitimité est contestée, d'où les projets de réforme du Conseil."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Composition",
+          "points": 4
+        },
+        {
+          "critere": "Règle de décision",
+          "points": 4
+        },
+        {
+          "critere": "Argumentation nuancée",
+          "points": 8
+        },
+        {
+          "critere": "Expression",
+          "points": 4
+        }
+      ],
+      "documents": [
+        {
+          "titre": "Document : article 27 de la Charte des Nations unies (extrait)",
+          "contenu": "« 1. Chaque membre du Conseil de sécurité dispose d'une voix. 2. Les décisions du Conseil de sécurité sur des questions de procédure sont prises par un vote affirmatif de neuf membres. 3. Les décisions du Conseil de sécurité sur toutes autres questions sont prises par un vote affirmatif de neuf de ses membres dans lequel sont comprises les voix de tous les membres permanents […]. »",
+          "certitude": "certain",
+          "source": {
+            "titre": "Charte des Nations unies, 26 juin 1945",
+            "url": "https://www.un.org/fr/about-us/un-charter"
+          }
+        }
+      ]
+    }
+  ]
+}

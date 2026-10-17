@@ -1,0 +1,264 @@
+{
+  "id": "methode",
+  "matiere": "anglais",
+  "titre": "Méthode : compréhension et expression",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthode",
+    "intitule": "Compétences de compréhension et d'expression (niveau B2 en LVA)",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'anglais pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 4",
+      "url": "https://www.education.gouv.fr/sites/default/files/ensel621_annexe4.pdf"
+    }
+  },
+  "objectifs": [
+    "Comprendre un document écrit ou audio de niveau B2.",
+    "Rédiger un texte argumenté.",
+    "S'exprimer à l'oral en continu et en interaction."
+  ],
+  "parties": [
+    {
+      "id": "evaluation",
+      "titre": "Comment tu es évalué",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVA, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B2**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le niveau **B2** signifie : comprendre l'essentiel de textes complexes, argumenter clairement, nuancer, interagir avec aisance."
+        }
+      ]
+    },
+    {
+      "id": "comprehension",
+      "titre": "Comprendre",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Avant de lire ou d'écouter : titre, source, date, image → hypothèses.",
+            "Repère : who, what, where, when, why, how.",
+            "Attention aux faux amis : *actually* (en fait), *eventually* (finalement), *sensible* (raisonnable), *to realise* (se rendre compte).",
+            "Audio : première écoute globale, puis prise de notes (mots-clés, chiffres, noms)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "expression",
+      "titre": "Écrire et parler",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Introduction : présenter le sujet et annoncer l'idée générale.",
+            "Développement : 2 ou 3 arguments, chacun avec un exemple.",
+            "Conclusion : avis nuancé."
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Connecteurs",
+          "colonnes": [
+            "English",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "First of all / Moreover / Finally",
+              "Tout d'abord / De plus / Enfin"
+            ],
+            [
+              "However / Nevertheless",
+              "Cependant / Néanmoins"
+            ],
+            [
+              "Therefore / As a result",
+              "Donc / En conséquence"
+            ],
+            [
+              "For instance",
+              "Par exemple"
+            ],
+            [
+              "To conclude / All things considered",
+              "Pour conclure / Tout bien considéré"
+            ]
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "les erreurs fréquentes",
+          "texte": "Oublier le -s à la 3e personne du singulier (*she thinks*) ; *people is* au lieu de *people are* ; *informations* au lieu de *information* (indénombrable) ; *depend of* au lieu de *depend on*."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "notion",
+      "libelle": "Niveau visé en LVA en fin de terminale",
+      "valeur": "B2",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'anglais pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 4",
+        "url": "https://www.education.gouv.fr/sites/default/files/ensel621_annexe4.pdf"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Coefficient de la LVA (contrôle continu)",
+      "valeur": "6",
+      "certitude": "certain",
+      "source": {
+        "titre": "Arrêté relatif aux modalités d'organisation du baccalauréat général"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Les compétences",
+    "colonnes": [
+      "Compétence",
+      "Clé de réussite"
+    ],
+    "lignes": [
+      [
+        "Comprendre",
+        "Hypothèses, 5 W, faux amis"
+      ],
+      [
+        "Écrire",
+        "Plan, connecteurs, exemples, avis nuancé"
+      ],
+      [
+        "Parler",
+        "Annoncer son plan, réagir, reformuler"
+      ]
+    ]
+  },
+  "fiche": [
+    "**B2** en LVA ; contrôle continu, coefficient 6.",
+    "**Comprendre** : hypothèses, who/what/where/when/why/how.",
+    "**Écrire** : introduction, 2-3 arguments avec exemples, conclusion nuancée.",
+    "**Connecteurs** : moreover, however, therefore, for instance, to conclude.",
+    "**Pièges** : -s de la 3e personne, *information* indénombrable, *depend on*."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*actually* signifie…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "en fait",
+          "correct": true,
+          "explication": "Faux ami."
+        },
+        {
+          "id": "b",
+          "texte": "actuellement",
+          "correct": false,
+          "explication": "Currently."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*She … that it is important.*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "thinks",
+          "correct": true,
+          "explication": "-s à la 3e personne."
+        },
+        {
+          "id": "b",
+          "texte": "think",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*information* est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "indénombrable (pas de -s)",
+          "correct": true,
+          "explication": "Some information."
+        },
+        {
+          "id": "b",
+          "texte": "dénombrable",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*It depends … the context.*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "on",
+          "correct": true,
+          "explication": "Depend on."
+        },
+        {
+          "id": "b",
+          "texte": "of",
+          "correct": false,
+          "explication": "Calque du français."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Niveau visé en LVA :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'anglais pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 4",
+        "url": "https://www.education.gouv.fr/sites/default/files/ensel621_annexe4.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "B2",
+          "correct": true,
+          "explication": "Fin de terminale."
+        },
+        {
+          "id": "b",
+          "texte": "A2",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "id": "h2-c2",
+  "matiere": "histoire-geo",
+  "titre": "Une nouvelle donne géopolitique : bipolarisation et émergence du tiers-monde",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Histoire · Thème 2 – La multiplication des acteurs internationaux dans un monde bipolaire (de 1945 au début des années 1970)",
+    "intitule": "Une nouvelle donne géopolitique : bipolarisation et émergence du tiers-monde",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Expliquer comment la guerre froide divise le monde en deux blocs.",
+    "Comprendre la décolonisation et l'apparition du tiers-monde comme nouvel acteur.",
+    "Connaître les points de passage : Cuba 1962, guerres d'Indochine et du Vietnam, l'année 1968."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les points de passage et d'ouverture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "1962 : la crise des missiles de Cuba ;",
+            "les guerres d'Indochine et du Vietnam ;",
+            "l'année 1968 dans le monde."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "bipolaire",
+      "titre": "Un monde bipolaire",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "bipolarisation"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Deux blocs s'organisent : alliances militaires (**OTAN** en 1949 ; **pacte de Varsovie** en 1955), course aux armements nucléaires, affrontements indirects. Berlin en est le symbole : le **mur** y est construit le 13 août 1961."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**La crise des missiles de Cuba (octobre 1962)** : après la révolution cubaine (1959), l'URSS installe des missiles nucléaires à Cuba. Kennedy impose un blocus naval ; après treize jours de tension, Khrouchtchev retire les missiles, en échange de la promesse américaine de ne pas envahir Cuba (et, secrètement, du retrait de missiles américains en Turquie). Le monde est passé près de la guerre nucléaire ; un « téléphone rouge » est ensuite installé entre Washington et Moscou (1963) : c'est le début de la **détente**."
+        }
+      ]
+    },
+    {
+      "id": "tiers",
+      "titre": "Décolonisation et tiers-monde",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "decolonisation"
+        },
+        {
+          "type": "definition",
+          "glossaire": "tiers-monde"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Les guerres d'Indochine et du Vietnam** : en 1945, Hô Chi Minh proclame l'indépendance du Vietnam. La France mène une guerre (1946-1954) qui s'achève par la défaite de **Diên Biên Phu** (mai 1954) et les accords de Genève (juillet 1954), qui partagent le Vietnam en deux. Les États-Unis s'engagent ensuite au Sud contre le Nord communiste : la **guerre du Vietnam** mobilise jusqu'à plus de 500 000 soldats américains ; l'offensive du Têt (1968) montre que la victoire est impossible ; les Américains se retirent en 1973 et Saïgon tombe en 1975."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Le tiers-monde** s'affirme à la conférence de **Bandung** (avril 1955) puis avec le mouvement des **non-alignés** (Belgrade, 1961), qui refusent de choisir entre les deux blocs."
+        }
+      ]
+    },
+    {
+      "id": "1968",
+      "titre": "L'année 1968 dans le monde",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**États-Unis** : contestation de la guerre du Vietnam ; assassinat de Martin Luther King (4 avril).",
+            "**France** : Mai 68, révolte étudiante puis grève générale ; accords de Grenelle.",
+            "**Tchécoslovaquie** : le Printemps de Prague est écrasé par les chars du pacte de Varsovie (août).",
+            "**Mexique** : massacre d'étudiants à Tlatelolco (2 octobre), avant les Jeux olympiques.",
+            "**Vietnam** : offensive du Têt."
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "1968 : une contestation mondiale de la jeunesse, à l'Ouest comme à l'Est, et une remise en cause des deux blocs."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Conférence de Bandung",
+      "valeur": "avril 1955",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Mur de Berlin",
+      "valeur": "13 août 1961",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Crise des missiles de Cuba",
+      "valeur": "octobre 1962",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Diên Biên Phu",
+      "valeur": "mai 1954",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Printemps de Prague écrasé",
+      "valeur": "août 1968",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Chute de Saïgon",
+      "valeur": "1975",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Deux dynamiques qui se croisent",
+    "colonnes": [
+      "Bipolarisation",
+      "Émergence du tiers-monde"
+    ],
+    "lignes": [
+      [
+        "Deux blocs, deux alliances (OTAN, pacte de Varsovie)",
+        "Décolonisation (Asie puis Afrique)"
+      ],
+      [
+        "Crises : Berlin, Cuba (1962)",
+        "Bandung (1955), non-alignés (1961)"
+      ],
+      [
+        "Guerres indirectes : Vietnam",
+        "Les nouveaux États deviennent aussi des terrains d'affrontement"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Bipolarisation** : OTAN (1949) / pacte de Varsovie (1955) ; mur de Berlin (1961).",
+    "**Cuba** : octobre 1962, retrait des missiles soviétiques ; début de la détente.",
+    "**Indochine** : Diên Biên Phu (1954) ; **Vietnam** : engagement américain, Têt (1968), retrait (1973), chute de Saïgon (1975).",
+    "**Tiers-monde** : Bandung (1955), non-alignés (1961).",
+    "**1968** : Vietnam, Mai 68, Printemps de Prague, Tlatelolco, assassinat de Martin Luther King."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "La crise des missiles de Cuba a lieu en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1962",
+          "correct": true,
+          "explication": "Octobre 1962."
+        },
+        {
+          "id": "b",
+          "texte": "1959",
+          "correct": false,
+          "explication": "Révolution cubaine."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Diên Biên Phu est une défaite…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "française",
+          "correct": true,
+          "explication": "Mai 1954."
+        },
+        {
+          "id": "b",
+          "texte": "américaine",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La conférence de Bandung réunit…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "des pays d'Asie et d'Afrique",
+          "correct": true,
+          "explication": "Avril 1955."
+        },
+        {
+          "id": "b",
+          "texte": "les pays de l'OTAN",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le Printemps de Prague est écrasé en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "août 1968",
+          "correct": true,
+          "explication": "Par le pacte de Varsovie."
+        },
+        {
+          "id": "b",
+          "texte": "février 1948",
+          "correct": false,
+          "explication": "Coup de Prague."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Le mur de Berlin est construit en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1961",
+          "correct": true,
+          "explication": "13 août 1961."
+        },
+        {
+          "id": "b",
+          "texte": "1949",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

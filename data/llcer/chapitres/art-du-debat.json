@@ -1,0 +1,467 @@
+{
+  "id": "art-du-debat",
+  "matiere": "llcer",
+  "titre": "L'art du débat",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thématique « Arts et débats d'idées »",
+    "intitule": "L'art du débat",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Expliquer comment la parole peut convaincre, persuader ou manipuler.",
+    "Utiliser les notions d'éthos, de pathos et de logos pour analyser un discours.",
+    "Connaître de grands discours et des œuvres sur le débat dans le monde anglophone.",
+    "Réutiliser le vocabulaire : rhetoric, persuasion, propaganda, wit, public speaking."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment lire cet axe",
+          "texte": "Le programme officiel présente chaque axe par une problématique, des mots-clés et des pistes d'œuvres. Les objectifs « À la fin, je dois savoir… » sont une reformulation pédagogique ; les mots-clés et les pistes, eux, viennent du programme."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'axe** : la parole est un **outil** pour convaincre ou un **arme** pour manipuler. L'échange verbal peut aussi devenir un **art** : joutes oratoires, répliques brillantes (*wit*), sociétés de débat des universités britanniques."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**convaincre** : faire appel à la raison (arguments, preuves) ;",
+            "**persuader** : faire appel aux émotions ;",
+            "**manipuler** : tromper le public (propagande)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulaire",
+      "titre": "Key words",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Mots-clés et vocabulaire utile",
+          "colonnes": [
+            "English",
+            "Français",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "rhetoric",
+              "rhétorique",
+              "the rhetoric of a political speech"
+            ],
+            [
+              "persuasion / to persuade",
+              "persuasion / persuader",
+              "to persuade the jury"
+            ],
+            [
+              "manipulation",
+              "manipulation",
+              "the manipulation of public opinion"
+            ],
+            [
+              "propaganda",
+              "propagande",
+              "wartime propaganda"
+            ],
+            [
+              "a verbal sparring match",
+              "une joute verbale",
+              "Beatrice and Benedick's verbal sparring"
+            ],
+            [
+              "wit / witty",
+              "esprit, vivacité / spirituel",
+              "a witty reply"
+            ],
+            [
+              "repartee",
+              "répartie",
+              "quick repartee"
+            ],
+            [
+              "public speaking",
+              "prise de parole en public",
+              "the art of public speaking"
+            ],
+            [
+              "a filibuster",
+              "obstruction parlementaire par un discours fleuve",
+              "Mr. Smith's filibuster"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "ethos-pathos-logos"
+        },
+        {
+          "type": "definition",
+          "glossaire": "rhetorical-question"
+        },
+        {
+          "type": "definition",
+          "glossaire": "propaganda"
+        },
+        {
+          "type": "definition",
+          "glossaire": "soliloquy"
+        }
+      ]
+    },
+    {
+      "id": "reperes-culturels",
+      "titre": "Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Discours et œuvres",
+          "colonnes": [
+            "Œuvre / discours",
+            "Date",
+            "Intérêt"
+          ],
+          "lignes": [
+            [
+              "William Shakespeare, *Julius Caesar* : discours de Mark Antony",
+              "vers 1599",
+              "Un modèle de manipulation des foules par la rhétorique"
+            ],
+            [
+              "Frank Capra, *Mr. Smith Goes to Washington*",
+              "1939",
+              "Un sénateur idéaliste résiste par un discours-fleuve (filibuster)"
+            ],
+            [
+              "Winston Churchill, *We shall fight on the beaches*",
+              "4 juin 1940",
+              "Discours qui galvanise le Royaume-Uni pendant la guerre"
+            ],
+            [
+              "Charlie Chaplin, *The Great Dictator*",
+              "1940",
+              "Parodie des discours de Hitler ; discours final humaniste"
+            ],
+            [
+              "George Orwell, *Animal Farm*",
+              "1945",
+              "Satire de la propagande : le cochon Squealer manipule les autres animaux"
+            ],
+            [
+              "Sidney Lumet, *12 Angry Men*",
+              "1957",
+              "Un juré convainc les onze autres par l'argumentation"
+            ],
+            [
+              "John F. Kennedy, discours d'investiture",
+              "20 janvier 1961",
+              "« Ask not what your country can do for you… »"
+            ],
+            [
+              "Martin Luther King, *I Have a Dream*",
+              "28 août 1963",
+              "Discours de la marche sur Washington pour les droits civiques"
+            ],
+            [
+              "Tom Hooper, *The King's Speech*",
+              "2010",
+              "George VI surmonte son bégaiement pour parler à la nation"
+            ]
+          ]
+        },
+        {
+          "type": "citation",
+          "texte": "Friends, Romans, countrymen, lend me your ears; I come to bury Caesar, not to praise him.",
+          "auteur": "William Shakespeare",
+          "oeuvre": "*Julius Caesar*, acte III, scène 2",
+          "certitude": "certain",
+          "source": {
+            "titre": "W. Shakespeare, Julius Caesar (domaine public)"
+          }
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Mark Antony prétend ne pas vouloir faire l'éloge de César… puis retourne la foule contre ses assassins : un exemple célèbre de **manipulation**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les **sociétés de débat** (*debating societies*) sont une tradition des universités britanniques : l'Oxford Union a été fondée en 1823."
+        }
+      ]
+    },
+    {
+      "id": "programme-limitatif",
+      "titre": "Liens possibles avec le programme limitatif",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "des pistes, pas des règles",
+          "texte": "Ton professeur choisit les œuvres et l'axe auquel il les relie."
+        },
+        {
+          "type": "tableau",
+          "titre": "Pistes",
+          "colonnes": [
+            "Œuvre",
+            "Pourquoi elle peut illustrer l'axe"
+          ],
+          "lignes": [
+            [
+              "Sidney Lumet, *12 Angry Men* (1957)",
+              "Le film est cité par le programme pour cet axe : un débat de jurés sur la culpabilité d'un jeune homme"
+            ],
+            [
+              "Kenneth Branagh, *Much Ado About Nothing* (1993)",
+              "Les joutes verbales de Beatrice et Benedick ; une rumeur mensongère manipule les personnages"
+            ],
+            [
+              "Jane Austen, *Pride and Prejudice* (1813)",
+              "Dialogues pleins d'ironie et de répartie entre Elizabeth Bennet et Mr Darcy (Austen est citée par le programme)"
+            ],
+            [
+              "Harold Pinter, *The Caretaker* (1960)",
+              "Les personnages luttent pour le pouvoir par le langage"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "titre": "Useful phrases",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "*The speaker appeals to the audience's emotions (pathos).*",
+            "*He builds his credibility (ethos) by…*",
+            "*The argument relies on facts and logic (logos).*",
+            "*The repetition of… reinforces the message.*",
+            "*This speech is a masterpiece of rhetoric, but is it also manipulation?*"
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Pour analyser un discours : **qui parle, à qui, dans quel contexte, avec quels procédés** (répétition, question rhétorique, anecdote, chiffres) et **quel effet**."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Churchill, *We shall fight on the beaches*",
+      "valeur": "4 juin 1940",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "*12 Angry Men* (Sidney Lumet)",
+      "valeur": "1957",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Kennedy, discours d'investiture",
+      "valeur": "20 janvier 1961",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "King, *I Have a Dream*",
+      "valeur": "28 août 1963",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Fondation de l'Oxford Union",
+      "valeur": "1823",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "Les trois leviers de la parole",
+    "sens": "horizontal",
+    "noeuds": [
+      {
+        "id": "eth",
+        "texte": "Ethos : la crédibilité"
+      },
+      {
+        "id": "pat",
+        "texte": "Pathos : les émotions"
+      },
+      {
+        "id": "log",
+        "texte": "Logos : la raison"
+      },
+      {
+        "id": "eff",
+        "texte": "Convaincre, persuader… ou manipuler"
+      }
+    ],
+    "liens": [
+      {
+        "de": "eth",
+        "vers": "eff"
+      },
+      {
+        "de": "pat",
+        "vers": "eff"
+      },
+      {
+        "de": "log",
+        "vers": "eff"
+      }
+    ]
+  },
+  "fiche": [
+    "**Axe** : la parole comme outil de conviction, arme de manipulation, ou art (wit, joutes, débats).",
+    "**Convaincre** (raison) ≠ **persuader** (émotions) ≠ **manipuler** (tromper).",
+    "**Ethos, pathos, logos** (Aristote).",
+    "**Repères** : *Julius Caesar* (v. 1599), Churchill (1940), *The Great Dictator* (1940), *Animal Farm* (1945), *12 Angry Men* (1957), Kennedy (1961), King (1963).",
+    "**Programme limitatif** : *12 Angry Men*, *Much Ado About Nothing*, *Pride and Prejudice*, *The Caretaker* (pistes)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*Pathos* is an appeal to…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Aristote, Rhétorique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "emotions",
+          "correct": true,
+          "explication": "Les émotions du public."
+        },
+        {
+          "id": "b",
+          "texte": "logic",
+          "correct": false,
+          "explication": "La logique, c'est le logos."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "In *12 Angry Men*, the characters are…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "jurors",
+          "correct": true,
+          "explication": "Douze jurés délibèrent."
+        },
+        {
+          "id": "b",
+          "texte": "politicians",
+          "correct": false,
+          "explication": "Ce ne sont pas des hommes politiques."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*I Have a Dream* was delivered in…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1963",
+          "correct": true,
+          "explication": "Le 28 août 1963 à Washington."
+        },
+        {
+          "id": "b",
+          "texte": "1940",
+          "correct": false,
+          "explication": "1940 : Churchill."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*a witty reply*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une réplique spirituelle",
+          "correct": true,
+          "explication": "wit = esprit."
+        },
+        {
+          "id": "b",
+          "texte": "une réponse lente",
+          "correct": false,
+          "explication": "Lent = slow."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "In *Animal Farm*, Squealer is an example of…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "propaganda",
+          "correct": true,
+          "explication": "Il manipule les animaux par le discours."
+        },
+        {
+          "id": "b",
+          "texte": "self-portrait",
+          "correct": false,
+          "explication": "Rien à voir."
+        }
+      ]
+    }
+  ]
+}

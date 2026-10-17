@@ -1,0 +1,255 @@
+{
+  "matiere": "espagnol",
+  "chapitre": "axe5",
+  "exercices": [
+    {
+      "id": "axe5-qcm",
+      "titre": "Vocabulario : 5 preguntas",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Responde a las 5 preguntas. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*la ciudadanía*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la citoyenneté",
+              "correct": true,
+              "explication": "Ejercer la ciudadanía."
+            },
+            {
+              "id": "b",
+              "texte": "la cité",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*comprometerse*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "s'engager",
+              "correct": true,
+              "explication": "Por una causa."
+            },
+            {
+              "id": "b",
+              "texte": "se compromettre",
+              "correct": false,
+              "explication": "Faux ami partiel."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*la pantalla*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'écran",
+              "correct": true,
+              "explication": "Delante de la pantalla."
+            },
+            {
+              "id": "b",
+              "texte": "le pantalon",
+              "correct": false,
+              "explication": "Pantalon = pantalones."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*el acoso*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le harcèlement",
+              "correct": true,
+              "explication": "El ciberacoso."
+            },
+            {
+              "id": "b",
+              "texte": "l'accès",
+              "correct": false,
+              "explication": "Accès = acceso."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*Si yo fuera presidente, …*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "cambiaría muchas cosas",
+              "correct": true,
+              "explication": "Conditionnel."
+            },
+            {
+              "id": "b",
+              "texte": "cambio muchas cosas",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Una respuesta correcta",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe5-comprension",
+      "titre": "Comprensión escrita",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Lee el texto y contesta a las preguntas. (Lis le texte et réponds aux questions.)",
+        "1. ¿Dónde vive Diego?",
+        "2. ¿Qué cambió en su escuela?",
+        "3. ¿Qué hace Diego gracias a Internet?",
+        "4. ¿Qué consejo le da su profesora? ¿Por qué es importante?"
+      ],
+      "documents": [
+        {
+          "titre": "Texto (escrito para el entrenamiento)",
+          "contenu": "Diego vive en un pueblo de los Andes, en Perú. Hasta el año pasado, su escuela no tenía conexión a Internet. Gracias a un proyecto de una asociación, ahora tiene una pequeña antena y diez ordenadores. Diego aprende inglés en línea y habla con estudiantes de otros países. «Antes, el mundo estaba lejos», dice. «Ahora está en la pantalla.» Pero su profesora le recuerda que hay que verificar siempre lo que se lee en la red.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. Vive en un pueblo de los Andes, en Perú.",
+            "2. Ahora la escuela tiene una antena y diez ordenadores, gracias a una asociación.",
+            "3. Aprende inglés en línea y habla con estudiantes de otros países.",
+            "4. Le dice que hay que verificar lo que se lee en Internet, porque hay muchas informaciones falsas (bulos)."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe5-expresion",
+      "titre": "Expresión escrita",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Si fueras ministro de Educación, ¿qué harías para que los jóvenes usaran Internet de manera responsable? (120 palabras aproximadamente)"
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *primero, además, sin embargo, por eso, en conclusión*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Modelo** (niveau B1, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Si yo fuera ministro de Educación, haría varias cosas para que los jóvenes usaran Internet de manera responsable."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Primero, crearía clases para aprender a verificar las informaciones y a reconocer los bulos. Es necesario que los alumnos comprendan que no todo lo que se publica es verdad."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Además, hablaría del ciberacoso en todos los institutos, porque muchos jóvenes sufren en silencio."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Por último, intentaría reducir la brecha digital, con ordenadores y conexión para las escuelas de los pueblos aislados."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "En resumen, Internet puede ser una herramienta fantástica si aprendemos a usarla bien."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

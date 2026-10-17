@@ -1,0 +1,115 @@
+{
+  "matiere": "emc",
+  "entrees": [
+    {
+      "id": "pluralisme",
+      "terme": "pluralisme",
+      "definition": "Principe selon lequel la diversité des opinions, des partis et des médias est reconnue et protégée ; c'est une condition de la démocratie.",
+      "chapitres": [
+        "debat-democratique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+      }
+    },
+    {
+      "id": "ethique-discussion",
+      "terme": "éthique de la discussion",
+      "definition": "Idée, développée par le philosophe Jürgen Habermas, qu'une décision est légitime si elle résulte d'un débat où chacun peut s'exprimer et où seul compte la force du meilleur argument.",
+      "chapitres": [
+        "debat-democratique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+      }
+    },
+    {
+      "id": "democratie-participative",
+      "terme": "démocratie participative",
+      "definition": "Ensemble de dispositifs qui associent directement les citoyens à l'élaboration des décisions (consultations, budgets participatifs, conventions citoyennes), en complément de la démocratie représentative.",
+      "chapitres": [
+        "debat-democratique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+      }
+    },
+    {
+      "id": "opinion-publique",
+      "terme": "opinion publique",
+      "definition": "Ensemble des opinions partagées par une partie importante de la population sur une question ; elle s'exprime par le vote, les sondages, les médias, les mobilisations.",
+      "chapitres": [
+        "debat-democratique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+      }
+    },
+    {
+      "id": "societe-civile",
+      "terme": "société civile organisée",
+      "definition": "Ensemble des associations, syndicats, ONG et collectifs par lesquels les citoyens agissent dans l'espace public en dehors des partis et des institutions.",
+      "chapitres": [
+        "debat-democratique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+      }
+    },
+    {
+      "id": "legitimite",
+      "terme": "légitimité",
+      "definition": "Qualité d'un pouvoir ou d'une décision reconnus comme justes et acceptables par ceux qui y sont soumis (par exemple grâce à l'élection ou au respect de procédures).",
+      "chapitres": [
+        "deliberation-institutions"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+      }
+    },
+    {
+      "id": "majorite-consensus",
+      "terme": "majorité et consensus",
+      "definition": "Deux façons de décider : à la majorité, la décision est prise par le plus grand nombre ; par consensus, on cherche un accord sans opposition formelle.",
+      "chapitres": [
+        "deliberation-institutions"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'EMC de terminale, arrêté du 29 mai 2024, BO n° 24 du 13 juin 2024 ; document d'accompagnement Éduscol 2026"
+      }
+    },
+    {
+      "id": "droit-europeen",
+      "terme": "droit européen",
+      "definition": "Ensemble des règles adoptées par l'Union européenne (traités, règlements, directives) ; il s'impose aux États membres et prime sur le droit national.",
+      "chapitres": [
+        "deliberation-institutions"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Traité sur le fonctionnement de l'Union européenne ; Directive 2004/38/CE du 29 avril 2004",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0038"
+      }
+    },
+    {
+      "id": "directive",
+      "terme": "directive",
+      "definition": "Acte de l'Union européenne qui fixe un objectif aux États membres, chacun choisissant les moyens de l'atteindre en la transposant dans son droit national.",
+      "chapitres": [
+        "deliberation-institutions"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Traité sur le fonctionnement de l'Union européenne ; Directive 2004/38/CE du 29 avril 2004",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0038"
+      }
+    }
+  ]
+}

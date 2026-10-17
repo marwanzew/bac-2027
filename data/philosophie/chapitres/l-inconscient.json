@@ -1,0 +1,334 @@
+{
+  "id": "l-inconscient",
+  "matiere": "philosophie",
+  "titre": "L'inconscient",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "L'inconscient",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer l'inconscient au sens large (ce dont on n'a pas conscience) et l'inconscient psychique de Freud.",
+    "Comprendre les arguments de Freud (rêves, lapsus, actes manqués).",
+    "Connaître les critiques (Alain, Sartre) et l'enjeu moral : responsabilité.",
+    "Traiter un sujet sur l'inconscient."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "inconscient"
+        },
+        {
+          "type": "definition",
+          "glossaire": "refoulement"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Au sens large, est inconscient ce dont on n'a pas conscience (réflexes, habitudes, petites perceptions de Leibniz). Freud donne un sens plus fort : une partie de notre psychisme, faite de désirs **refoulés**, agit sur nous sans que nous le sachions."
+        },
+        {
+          "type": "definition",
+          "glossaire": "lapsus"
+        },
+        {
+          "type": "definition",
+          "glossaire": "psychanalyse"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : si une partie de moi agit à mon insu, suis-je encore maître de moi et responsable de mes actes ? L'inconscient est-il une découverte scientifique ou une hypothèse invérifiable ? Ne risque-t-il pas de servir d'excuse ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **conscience / inconscient** ; **liberté / déterminisme psychique** ; **explication / excuse**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Leibniz (*Nouveaux Essais*, écrits vers 1704)",
+              "Nous avons des perceptions dont nous ne nous apercevons pas",
+              "Il y a de l'inconscient au sens large"
+            ],
+            [
+              "Freud (*L'Interprétation du rêve*, 1900)",
+              "Le rêve est la réalisation déguisée d'un désir refoulé",
+              "Les rêves, lapsus et actes manqués révèlent l'inconscient"
+            ],
+            [
+              "Freud (*Introduction à la psychanalyse*, 1916-1917)",
+              "Après Copernic et Darwin, la psychanalyse inflige à l'homme une troisième blessure : le moi n'est pas maître dans sa propre maison",
+              "L'homme n'est pas transparent à lui-même"
+            ],
+            [
+              "Alain (*Éléments de philosophie*, 1941)",
+              "L'inconscient ne doit pas devenir un « autre moi » qui servirait d'excuse",
+              "Rester responsable de soi"
+            ],
+            [
+              "Sartre (*L'Être et le néant*, 1943)",
+              "Ce que Freud appelle inconscient relève souvent de la mauvaise foi : on choisit de ne pas savoir",
+              "La conscience reste responsable"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Le lapsus : dire un mot à la place d'un autre, en révélant ce qu'on pensait.",
+            "Oublier un rendez-vous qu'on ne voulait pas avoir (acte manqué).",
+            "Une peur irrationnelle dont on ne connaît pas l'origine.",
+            "Dire « c'est plus fort que moi » pour se justifier : explication ou excuse ?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "L'hypothèse de l'inconscient supprime-t-elle la responsabilité ?",
+            "Peut-on se connaître si l'on a un inconscient ?",
+            "Sommes-nous maîtres de nous-mêmes ?",
+            "L'inconscient est-il une excuse ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Le rêve comme réalisation d'un désir",
+      "valeur": "Freud, *L'Interprétation du rêve*, 1900",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Les trois blessures narcissiques",
+      "valeur": "Freud, *Introduction à la psychanalyse*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Petites perceptions",
+      "valeur": "Leibniz",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Mauvaise foi contre l'inconscient",
+      "valeur": "Sartre, 1943",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "L'inconscient : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Leibniz",
+        "Nous avons des perceptions dont nous ne nous apercevons pas"
+      ],
+      [
+        "Freud",
+        "Le rêve est la réalisation déguisée d'un désir refoulé"
+      ],
+      [
+        "Freud",
+        "Après Copernic et Darwin, la psychanalyse inflige à l'homme une troisième blessure : le moi n'est pas maître dans sa propre maison"
+      ],
+      [
+        "Alain",
+        "L'inconscient ne doit pas devenir un « autre moi » qui servirait d'excuse"
+      ],
+      [
+        "Sartre",
+        "Ce que Freud appelle inconscient relève souvent de la mauvaise foi : on choisit de ne pas savoir"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Inconscient** : au sens large (ce dont on n'a pas conscience) / au sens de Freud (désirs refoulés actifs).",
+    "**Freud** : rêves, lapsus, actes manqués ; le moi n'est pas maître dans sa propre maison.",
+    "**Trois blessures** : Copernic, Darwin, psychanalyse.",
+    "**Alain** : l'inconscient ne doit pas devenir une excuse.",
+    "**Sartre** : mauvaise foi.",
+    "**Enjeu** : responsabilité."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le refoulement repousse des désirs…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "hors de la conscience",
+          "correct": true,
+          "explication": "Ils restent actifs."
+        },
+        {
+          "id": "b",
+          "texte": "hors du corps",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*L'Interprétation du rêve* date de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1900",
+          "correct": true,
+          "explication": "Freud."
+        },
+        {
+          "id": "b",
+          "texte": "1943",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Les trois blessures narcissiques sont liées à…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Copernic, Darwin, la psychanalyse",
+          "correct": true,
+          "explication": "Freud."
+        },
+        {
+          "id": "b",
+          "texte": "Platon, Kant, Hegel",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Un lapsus, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une erreur de parole révélatrice",
+          "correct": true,
+          "explication": "Selon Freud."
+        },
+        {
+          "id": "b",
+          "texte": "un rêve",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Pour Sartre, l'inconscient freudien relève souvent de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la mauvaise foi",
+          "correct": true,
+          "explication": "On choisit de ne pas savoir."
+        },
+        {
+          "id": "b",
+          "texte": "la science exacte",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

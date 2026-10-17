@@ -1,0 +1,359 @@
+{
+  "id": "le-travail",
+  "matiere": "philosophie",
+  "titre": "Le travail",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "Le travail",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer travail, emploi, activité et œuvre.",
+    "Comprendre l'ambivalence du travail : peine et réalisation de soi.",
+    "Connaître Locke, Smith, Hegel, Marx, Nietzsche, Arendt, Simone Weil.",
+    "Traiter un sujet sur le travail."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "travail-philo"
+        },
+        {
+          "type": "definition",
+          "glossaire": "alienation"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le travail est une activité par laquelle l'homme **transforme la nature** pour satisfaire ses besoins. Il se distingue de l'**emploi** (le travail rémunéré dans un cadre juridique) et du **jeu** (activité libre, sans finalité utile)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "division-du-travail"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : le travail est vécu comme une peine et une contrainte, imposée par le besoin. Pourtant, c'est par le travail que l'homme transforme le monde et se transforme lui-même. Le travail asservit-il ou libère-t-il ? Et que se passe-t-il quand il perd son sens ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **peine / réalisation de soi** ; **contrainte / liberté** ; **besoin / œuvre**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Locke (*Second Traité du gouvernement civil*, 1690)",
+              "Le travail fonde la propriété : en mêlant mon travail à une chose, je la fais mienne",
+              "Le travail donne des droits"
+            ],
+            [
+              "Smith (*Recherches sur la nature et les causes de la richesse des nations*, 1776)",
+              "La division du travail accroît fortement la productivité (exemple de la manufacture d'épingles)",
+              "Efficacité économique"
+            ],
+            [
+              "Hegel (*Phénoménologie de l'esprit*, 1807)",
+              "Dans la dialectique du maître et de l'esclave, l'esclave, en travaillant, transforme la nature et se forme lui-même",
+              "Le travail forme"
+            ],
+            [
+              "Marx (*Manuscrits de 1844*)",
+              "Dans le travail salarié, l'ouvrier est aliéné : le produit et l'activité de son travail lui sont étrangers",
+              "Le travail peut déshumaniser"
+            ],
+            [
+              "Nietzsche (*Aurore*, 1881)",
+              "L'éloge du travail sert à occuper les individus et à les tenir en bride",
+              "Méfiance envers la « glorification du travail »"
+            ],
+            [
+              "Arendt (*Condition de l'homme moderne*, 1958)",
+              "Distinguer le travail (répondre aux besoins vitaux), l'œuvre (fabriquer des objets durables) et l'action (agir ensemble dans l'espace public)",
+              "Le travail n'est pas toute l'activité humaine"
+            ],
+            [
+              "Simone Weil (*La Condition ouvrière*, publiée en 1951)",
+              "Elle décrit, après avoir travaillé en usine, le travail à la chaîne qui écrase la pensée",
+              "Témoignage sur le travail aliéné"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Le travail à la chaîne (Ford, 1913) : efficacité et ennui.",
+            "L'artisan fier de son ouvrage.",
+            "Le chômage : perte de revenu, mais aussi de lien social et d'identité.",
+            "Le télétravail et l'IA qui transforment le travail."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Le travail rend-il libre ?",
+            "Travaille-t-on seulement pour vivre ?",
+            "Le travail est-il une contrainte ?",
+            "Une société sans travail est-elle souhaitable ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Le travail donne des droits",
+      "valeur": "Locke, *Second Traité du gouvernement civil*, 1690",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Efficacité économique",
+      "valeur": "Smith, *Recherches sur la nature et les causes de la richesse des nations*, 1776",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Le travail forme",
+      "valeur": "Hegel, *Phénoménologie de l'esprit*, 1807",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Le travail peut déshumaniser",
+      "valeur": "Marx, *Manuscrits de 1844*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Méfiance envers la « glorification du travail »",
+      "valeur": "Nietzsche, *Aurore*, 1881",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le travail : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Locke",
+        "Le travail fonde la propriété : en mêlant mon travail à une chose, je la fais mienne"
+      ],
+      [
+        "Smith",
+        "La division du travail accroît fortement la productivité (exemple de la manufacture d'épingles)"
+      ],
+      [
+        "Hegel",
+        "Dans la dialectique du maître et de l'esclave, l'esclave, en travaillant, transforme la nature et se forme lui-même"
+      ],
+      [
+        "Marx",
+        "Dans le travail salarié, l'ouvrier est aliéné : le produit et l'activité de son travail lui sont étrangers"
+      ],
+      [
+        "Nietzsche",
+        "L'éloge du travail sert à occuper les individus et à les tenir en bride"
+      ],
+      [
+        "Arendt",
+        "Distinguer le travail (répondre aux besoins vitaux), l'œuvre (fabriquer des objets durables) et l'action (agir ensemble dans l'espace public)"
+      ],
+      [
+        "Simone Weil",
+        "Elle décrit, après avoir travaillé en usine, le travail à la chaîne qui écrase la pensée"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Travail** ≠ emploi ≠ jeu.",
+    "**Locke** : le travail fonde la propriété.",
+    "**Smith** : division du travail et productivité.",
+    "**Hegel** : maître et esclave ; le travail forme.",
+    "**Marx** : aliénation.",
+    "**Nietzsche** : critique de l'éloge du travail.",
+    "**Arendt** : travail, œuvre, action.",
+    "**Simone Weil** : la condition ouvrière."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "L'aliénation du travailleur est une notion de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Marx",
+          "correct": true,
+          "explication": "*Manuscrits de 1844*."
+        },
+        {
+          "id": "b",
+          "texte": "Locke",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Pour Locke, le travail fonde…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la propriété",
+          "correct": true,
+          "explication": "1690."
+        },
+        {
+          "id": "b",
+          "texte": "la religion",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La manufacture d'épingles illustre…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la division du travail",
+          "correct": true,
+          "explication": "Smith, 1776."
+        },
+        {
+          "id": "b",
+          "texte": "l'aliénation religieuse",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Travail, œuvre, action : distinction de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Arendt",
+          "correct": true,
+          "explication": "1958."
+        },
+        {
+          "id": "b",
+          "texte": "Hegel",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Dans la dialectique du maître et de l'esclave, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "l'esclave qui se forme par le travail",
+          "correct": true,
+          "explication": "Hegel."
+        },
+        {
+          "id": "b",
+          "texte": "le maître qui travaille",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

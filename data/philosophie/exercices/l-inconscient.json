@@ -1,0 +1,186 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "l-inconscient",
+  "exercices": [
+    {
+      "id": "inconscient-qcm",
+      "titre": "L'inconscient : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Distingue sens large et sens freudien."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Oublier un rendez-vous désagréable, pour Freud, c'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un acte manqué",
+              "correct": true,
+              "explication": "Révélateur d'un désir."
+            },
+            {
+              "id": "b",
+              "texte": "un hasard pur",
+              "correct": false,
+              "explication": "Pas pour Freud."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "« Le moi n'est pas maître dans sa propre maison » :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Freud",
+              "correct": true,
+              "explication": "Formule souvent citée."
+            },
+            {
+              "id": "b",
+              "texte": "Descartes",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Alain craint que l'inconscient devienne…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une excuse",
+              "correct": true,
+              "explication": "Un « autre moi »."
+            },
+            {
+              "id": "b",
+              "texte": "une science",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Les petites perceptions sont un inconscient…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "au sens large",
+              "correct": true,
+              "explication": "Leibniz."
+            },
+            {
+              "id": "b",
+              "texte": "au sens freudien",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "La psychanalyse passe surtout par…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la parole",
+              "correct": true,
+              "explication": "La cure par la parole."
+            },
+            {
+              "id": "b",
+              "texte": "les médicaments",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "inconscient-probl",
+      "titre": "Problématiser : « L'hypothèse de l'inconscient supprime-t-elle la responsabilité ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « L'hypothèse de l'inconscient supprime-t-elle la responsabilité ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Définis hypothèse, inconscient, responsabilité.",
+        "Être responsable, c'est répondre de ses actes."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** L'inconscient est présenté par Freud comme une hypothèse nécessaire. Être responsable, c'est répondre de ses actes, ce qui suppose d'en être l'auteur."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** Si des désirs inconnus de moi me font agir, je ne suis plus l'auteur de mes actes. Mais la psychanalyse vise justement à prendre conscience de ces désirs pour mieux les maîtriser ; et refuser de savoir peut être de la mauvaise foi."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** L'inconscient nous décharge-t-il de nos actes, ou nous oblige-t-il au contraire à une responsabilité plus exigeante envers nous-mêmes ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

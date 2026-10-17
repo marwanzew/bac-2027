@@ -1,0 +1,186 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "la-raison",
+  "exercices": [
+    {
+      "id": "la-raison-qcm",
+      "titre": "La raison : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relie chaque auteur à sa thèse."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Un raisonnement est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un enchaînement de propositions vers une conclusion",
+              "correct": true,
+              "explication": "Déduction, induction."
+            },
+            {
+              "id": "b",
+              "texte": "un sentiment",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*Critique de la raison pure* date de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1781",
+              "correct": true,
+              "explication": "Kant."
+            },
+            {
+              "id": "b",
+              "texte": "1637",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Une passion, au sens ancien, est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "ce que l'on subit",
+              "correct": true,
+              "explication": "Opposée à l'action."
+            },
+            {
+              "id": "b",
+              "texte": "un loisir",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Raisonner à partir de prémisses fausses donne…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une conclusion qui peut être fausse",
+              "correct": true,
+              "explication": "Repère formel / matériel."
+            },
+            {
+              "id": "b",
+              "texte": "toujours la vérité",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "La raison pratique concerne…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'action",
+              "correct": true,
+              "explication": "Ce qu'il faut faire."
+            },
+            {
+              "id": "b",
+              "texte": "seulement les sciences",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "la-raison-probl",
+      "titre": "Problématiser : « La raison peut-elle tout expliquer ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « La raison peut-elle tout expliquer ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Définis raison et expliquer.",
+        "Pense à Leibniz (tout a une raison) et à Kant, Pascal (limites)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Expliquer, c'est rendre compte par des causes ou des raisons. « Tout » inclut la nature, mais aussi l'amour, la foi, le sens de la vie."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** La raison progresse sans cesse (sciences) et postule que rien n'arrive sans raison (Leibniz). Mais certaines questions semblent hors de sa portée (Dieu, Kant) et certaines vérités se sentent plutôt qu'elles ne se démontrent (Pascal)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** La raison a-t-elle un pouvoir illimité d'explication, ou doit-elle reconnaître des limites, voire d'autres voies d'accès au vrai ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

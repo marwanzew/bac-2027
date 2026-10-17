@@ -1,0 +1,362 @@
+{
+  "id": "la-religion",
+  "matiere": "philosophie",
+  "titre": "La religion",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "La religion",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Définir la religion (croyances, rites, communauté) et la distinguer de la superstition.",
+    "Comprendre les rapports entre foi et raison.",
+    "Connaître Pascal, Spinoza, Kant, Feuerbach, Marx, Durkheim, Freud.",
+    "Traiter un sujet sur la religion."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "religion"
+        },
+        {
+          "type": "definition",
+          "glossaire": "foi"
+        },
+        {
+          "type": "definition",
+          "glossaire": "sacre"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Une religion réunit des **croyances** (en un ou plusieurs dieux, en un sacré), des **rites** (prières, fêtes, interdits) et une **communauté** de fidèles. Le mot viendrait du latin *religare*, « relier »."
+        },
+        {
+          "type": "definition",
+          "glossaire": "laicite"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : la religion apporte un sens à la vie et unit les hommes, mais elle peut aussi diviser et s'opposer à la raison ou à la science. Croire est-il irrationnel ? La religion est-elle une illusion, un besoin humain, ou une vérité qui dépasse la raison ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **foi / raison** ; **religion / science** ; **lien social / conflits** ; **vérité / illusion**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Pascal (*Pensées*, 1670)",
+              "Le pari : si Dieu existe, on gagne tout à croire ; s'il n'existe pas, on ne perd presque rien",
+              "La foi n'est pas déraisonnable"
+            ],
+            [
+              "Spinoza (*Traité théologico-politique*, 1670)",
+              "Les textes sacrés doivent être lus de manière historique ; l'État doit garantir la liberté de penser",
+              "Séparer foi et raison"
+            ],
+            [
+              "Kant (*La Religion dans les limites de la simple raison*, 1793)",
+              "La vraie religion consiste à reconnaître nos devoirs comme des commandements divins",
+              "La religion fondée sur la morale"
+            ],
+            [
+              "Feuerbach (*L'Essence du christianisme*, 1841)",
+              "Dieu est la projection des qualités de l'homme",
+              "La religion est une aliénation"
+            ],
+            [
+              "Marx (*Critique de la philosophie du droit de Hegel*, introduction, 1844)",
+              "La religion est « l'opium du peuple » : elle console des misères sociales au lieu de les combattre",
+              "Critique sociale de la religion"
+            ],
+            [
+              "Durkheim (*Les Formes élémentaires de la vie religieuse*, 1912)",
+              "La religion sépare le sacré et le profane et unit les fidèles en une communauté",
+              "La religion est un fait social"
+            ],
+            [
+              "Freud (*L'Avenir d'une illusion*, 1927)",
+              "La religion répond au besoin infantile de protection par un père",
+              "La religion comme illusion"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "La laïcité en France (loi du 9 décembre 1905) : séparation des Églises et de l'État.",
+            "Les fêtes religieuses qui rassemblent une famille ou un pays.",
+            "Les guerres de religion : la religion qui divise.",
+            "Le débat sur l'évolution des espèces et le récit de la création."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "La religion est-elle une illusion ?",
+            "Peut-on croire sans raisons ?",
+            "La religion divise-t-elle ou unit-elle les hommes ?",
+            "La science peut-elle remplacer la religion ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "La foi n'est pas déraisonnable",
+      "valeur": "Pascal, *Pensées*, 1670",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Séparer foi et raison",
+      "valeur": "Spinoza, *Traité théologico-politique*, 1670",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La religion fondée sur la morale",
+      "valeur": "Kant, *La Religion dans les limites de la simple raison*, 1793",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La religion est une aliénation",
+      "valeur": "Feuerbach, *L'Essence du christianisme*, 1841",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Critique sociale de la religion",
+      "valeur": "Marx, *Critique de la philosophie du droit de Hegel*, introduction, 1844",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La religion : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Pascal",
+        "Le pari : si Dieu existe, on gagne tout à croire ; s'il n'existe pas, on ne perd presque rien"
+      ],
+      [
+        "Spinoza",
+        "Les textes sacrés doivent être lus de manière historique ; l'État doit garantir la liberté de penser"
+      ],
+      [
+        "Kant",
+        "La vraie religion consiste à reconnaître nos devoirs comme des commandements divins"
+      ],
+      [
+        "Feuerbach",
+        "Dieu est la projection des qualités de l'homme"
+      ],
+      [
+        "Marx",
+        "La religion est « l'opium du peuple » : elle console des misères sociales au lieu de les combattre"
+      ],
+      [
+        "Durkheim",
+        "La religion sépare le sacré et le profane et unit les fidèles en une communauté"
+      ],
+      [
+        "Freud",
+        "La religion répond au besoin infantile de protection par un père"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Religion** : croyances + rites + communauté ; *religare*, relier.",
+    "**Pascal** : le pari.",
+    "**Spinoza** : lecture historique des textes, liberté de penser.",
+    "**Kant** : religion fondée sur la morale.",
+    "**Feuerbach** : Dieu projection de l'homme ; **Marx** : opium du peuple ; **Freud** : illusion.",
+    "**Durkheim** : sacré / profane ; fait social.",
+    "**Laïcité** : loi de 1905."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le pari est un argument de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Pascal",
+          "correct": true,
+          "explication": "*Pensées*."
+        },
+        {
+          "id": "b",
+          "texte": "Marx",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "« L'opium du peuple » est de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Marx",
+          "correct": true,
+          "explication": "1844."
+        },
+        {
+          "id": "b",
+          "texte": "Freud",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Pour Durkheim, la religion distingue…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le sacré et le profane",
+          "correct": true,
+          "explication": "1912."
+        },
+        {
+          "id": "b",
+          "texte": "le vrai et le faux",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*L'Avenir d'une illusion* est de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Freud",
+          "correct": true,
+          "explication": "1927."
+        },
+        {
+          "id": "b",
+          "texte": "Kant",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "La loi de séparation des Églises et de l'État date de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Loi du 9 décembre 1905"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1905",
+          "correct": true,
+          "explication": "9 décembre 1905."
+        },
+        {
+          "id": "b",
+          "texte": "1789",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

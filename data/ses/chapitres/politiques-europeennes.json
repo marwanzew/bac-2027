@@ -1,0 +1,449 @@
+{
+  "id": "politiques-europeennes",
+  "matiere": "ses",
+  "titre": "Quelles politiques économiques dans le cadre européen ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Science économique",
+    "intitule": "Quelles politiques économiques dans le cadre européen ?",
+    "evaluableEcrit": true,
+    "certitude": "a_verifier",
+    "raison": "Objectifs relevés dans un support du séminaire national de formation (académie de Lyon) qui cite le programme ; le PDF officiel n'a pas pu être relu directement.",
+    "source": {
+      "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Connaître les grandes caractéristiques de l'intégration européenne (marché unique et zone euro).",
+    "Comprendre les effets du marché unique sur la croissance.",
+    "Comprendre les objectifs, les modalités et les limites de la politique européenne de la concurrence.",
+    "Comprendre comment la politique monétaire et budgétaire agissent sur la conjoncture.",
+    "Savoir que la politique monétaire dans la zone euro, conduite de façon indépendante par la Banque centrale européenne, est unique alors que la politique budgétaire est du ressort de chaque pays membre mais contrainte par les traités européens.",
+    "Comprendre les difficultés soulevées par cette situation (défaut de coordination, chocs asymétriques)."
+  ],
+  "parties": [
+    {
+      "id": "integration",
+      "titre": "Marché unique et zone euro",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "marche-unique"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le marché unique repose sur **quatre libertés de circulation** : marchandises, services, capitaux et personnes. Il a été prévu par l'Acte unique européen (1986) et il est en place depuis le **1^er^ janvier 1993**."
+        },
+        {
+          "type": "definition",
+          "glossaire": "zone-euro"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "L'euro existe depuis le **1^er^ janvier 1999** ; les pièces et billets circulent depuis le **1^er^ janvier 2002**. Tous les pays de l'UE ne l'ont pas adopté."
+        },
+        {
+          "type": "piege",
+          "titre": "UE et zone euro",
+          "texte": "L'**Union européenne** (27 pays) et la **zone euro** (21 pays) ne sont pas la même chose. Le marché unique concerne toute l'UE ; la monnaie unique, seulement la zone euro."
+        }
+      ]
+    },
+    {
+      "id": "marche-croissance",
+      "titre": "Les effets du marché unique sur la croissance",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "En agrandissant le marché, l'intégration stimule la croissance par plusieurs mécanismes :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**des économies d'échelle** : les entreprises produisent en plus grande quantité, à un coût unitaire plus faible ;",
+            "**plus de concurrence** : les prix baissent et les entreprises sont poussées à innover et à gagner en productivité ;",
+            "**la spécialisation** : chaque pays se concentre sur ses avantages comparatifs ;",
+            "**la libre circulation des capitaux et des travailleurs** : ils vont là où ils sont le plus productifs."
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Marché plus grand → économies d'échelle, concurrence, innovation → gains de productivité → **croissance**."
+        },
+        {
+          "type": "piege",
+          "titre": "des effets inégaux",
+          "texte": "Les gains ne sont pas répartis de façon égale : certains territoires ou secteurs exposés à la concurrence peuvent y perdre."
+        }
+      ]
+    },
+    {
+      "id": "concurrence",
+      "titre": "La politique européenne de la concurrence",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "politique-de-la-concurrence"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Objectif** : protéger les consommateurs (prix bas, qualité, choix) et l'innovation, en empêchant les entreprises de limiter la concurrence."
+        },
+        {
+          "type": "tableau",
+          "titre": "Les modalités",
+          "colonnes": [
+            "Ce qui est contrôlé",
+            "Exemple de pratique visée"
+          ],
+          "lignes": [
+            [
+              "Les ententes (cartels)",
+              "Des entreprises s'accordent pour fixer les prix ensemble"
+            ],
+            [
+              "Les abus de position dominante",
+              "Une entreprise dominante évince ses concurrents"
+            ],
+            [
+              "Les concentrations (fusions)",
+              "Une fusion qui créerait un acteur trop puissant peut être interdite"
+            ],
+            [
+              "Les aides d'État",
+              "Une subvention publique qui fausse la concurrence"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Exemples.** En 2017, la Commission a infligé une amende de 2,42 milliards d'euros à Google pour abus de position dominante. En 2019, elle a interdit la fusion entre Alstom et Siemens."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Limites.** Cette politique peut empêcher l'apparition de « champions européens » capables de rivaliser avec les géants américains ou chinois, qui ne sont pas soumis aux mêmes règles. Elle est parfois jugée peu compatible avec une politique industrielle."
+        }
+      ]
+    },
+    {
+      "id": "conjoncture",
+      "titre": "Politiques monétaire et budgétaire face à la conjoncture",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "politique-monetaire"
+        },
+        {
+          "type": "definition",
+          "glossaire": "taux-directeur"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Politique monétaire.** Quand la banque centrale baisse ses taux directeurs, les crédits deviennent moins chers : la consommation et l'investissement augmentent, ce qui soutient l'activité. À l'inverse, une hausse des taux freine la demande et l'inflation."
+        },
+        {
+          "type": "definition",
+          "glossaire": "politique-budgetaire"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Politique budgétaire.** En période de ralentissement, l'État peut augmenter ses dépenses ou baisser les impôts (politique de relance) : la demande augmente. Il creuse alors son déficit."
+        },
+        {
+          "type": "definition",
+          "glossaire": "stabilisateurs-automatiques"
+        },
+        {
+          "type": "schema",
+          "titre": "Une relance par les deux politiques",
+          "sens": "horizontal",
+          "noeuds": [
+            {
+              "id": "m",
+              "texte": "Baisse des taux directeurs"
+            },
+            {
+              "id": "b",
+              "texte": "Hausse des dépenses publiques / baisse des impôts"
+            },
+            {
+              "id": "d",
+              "texte": "Hausse de la demande (consommation, investissement)"
+            },
+            {
+              "id": "p",
+              "texte": "Hausse de la production et de l'emploi"
+            }
+          ],
+          "liens": [
+            {
+              "de": "m",
+              "vers": "d"
+            },
+            {
+              "de": "b",
+              "vers": "d"
+            },
+            {
+              "de": "d",
+              "vers": "p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zone-euro-difficultes",
+      "titre": "Une monnaie unique, des budgets nationaux",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "bce"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Dans la zone euro, la **politique monétaire est unique** : la BCE fixe les mêmes taux pour tous les pays. Elle est **indépendante** : les gouvernements ne peuvent pas lui donner d'instructions. Son objectif principal est la **stabilité des prix** (inflation de 2 % à moyen terme)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La **politique budgétaire reste nationale** : chaque pays décide de ses dépenses et de ses impôts, mais il est **contraint par les traités** : le déficit public ne doit pas dépasser **3 % du PIB** et la dette publique **60 % du PIB** (valeurs de référence fixées par le traité de Maastricht et reprises dans les règles réformées en 2024)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "choc-asymetrique"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Les chocs asymétriques.** Si un seul pays entre en récession, la BCE ne peut pas baisser les taux pour lui seul. Il ne peut pas non plus dévaluer sa monnaie. Il ne lui reste que la politique budgétaire, limitée par les règles européennes."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Le défaut de coordination.** Chaque pays décide de son budget sans tenir compte des effets sur ses voisins. Un pays peut profiter de la relance des autres sans faire d'effort lui-même (comportement de **passager clandestin**). La combinaison des politiques ([[policy mix]]) est alors difficile à organiser."
+        },
+        {
+          "type": "definition",
+          "glossaire": "policy-mix"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "**Monnaie : une politique commune (BCE). Budget : 21 politiques nationales encadrées.** D'où deux difficultés : les chocs asymétriques et le défaut de coordination."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Marché unique en place",
+      "valeur": "1^er^ janvier 1993",
+      "certitude": "certain",
+      "source": {
+        "titre": "Union européenne, « Le marché unique »"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Naissance de l'euro (pièces et billets en 2002)",
+      "valeur": "1^er^ janvier 1999",
+      "certitude": "certain",
+      "source": {
+        "titre": "Banque de France, histoire de l'euro"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Pays membres de la zone euro (depuis l'entrée de la Bulgarie le 1ᵉʳ janvier 2026)",
+      "valeur": "21",
+      "certitude": "certain",
+      "source": {
+        "titre": "Banque de France, « La Bulgarie rejoint la zone euro »",
+        "url": "https://www.banque-france.fr/fr/actualites/la-bulgarie-rejoint-la-zone-euro"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Objectif d'inflation de la BCE (confirmé le 30 juin 2025)",
+      "valeur": "2 % à moyen terme",
+      "certitude": "certain",
+      "source": {
+        "titre": "BCE, communiqué du 30 juin 2025 sur l'actualisation de sa stratégie de politique monétaire",
+        "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250630%7Eaabf988af8.fr.html"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Valeurs de référence des traités",
+      "valeur": "Déficit public ≤ 3 % du PIB · dette publique ≤ 60 % du PIB",
+      "certitude": "certain",
+      "source": {
+        "titre": "Conseil de l'UE, « Cadre de gouvernance économique »",
+        "url": "https://www.consilium.europa.eu/fr/policies/economic-governance-framework/"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Entrée en vigueur des règles budgétaires européennes réformées",
+      "valeur": "30 avril 2024",
+      "certitude": "certain",
+      "source": {
+        "titre": "Conseil de l'UE, « Cadre de gouvernance économique »",
+        "url": "https://www.consilium.europa.eu/fr/policies/economic-governance-framework/"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Les politiques économiques dans la zone euro",
+    "colonnes": [
+      "Politique",
+      "Qui décide ?",
+      "Instruments",
+      "Limites"
+    ],
+    "lignes": [
+      [
+        "Concurrence",
+        "Commission européenne",
+        "Contrôle des ententes, abus de position dominante, concentrations, aides d'État",
+        "Freine l'apparition de champions européens"
+      ],
+      [
+        "Monétaire",
+        "BCE, indépendante, pour toute la zone",
+        "Taux directeurs",
+        "Une seule politique : inadaptée aux chocs asymétriques"
+      ],
+      [
+        "Budgétaire",
+        "Chaque État",
+        "Dépenses publiques, impôts, stabilisateurs automatiques",
+        "Contrainte par les règles (3 % et 60 %), défaut de coordination"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Marché unique** (1993) : libre circulation des marchandises, services, capitaux et personnes, dans les 27 pays de l'UE.",
+    "**Zone euro** : 21 pays depuis le 1^er^ janvier 2026 ; euro créé en 1999, pièces et billets en 2002.",
+    "**Effets sur la croissance** : économies d'échelle, concurrence, innovation, spécialisation.",
+    "**Politique de la concurrence** (Commission) : ententes, abus de position dominante, concentrations, aides d'État. Limite : pas de champions européens.",
+    "**Politique monétaire** : baisse des taux directeurs → crédit moins cher → demande ↑.",
+    "**Politique budgétaire** : dépenses ↑ ou impôts ↓ → demande ↑ ; stabilisateurs automatiques.",
+    "**Zone euro** : politique monétaire **unique** (BCE indépendante, inflation 2 %) ; politiques budgétaires **nationales** contraintes (3 % et 60 %).",
+    "**Difficultés** : chocs asymétriques, défaut de coordination (passager clandestin)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Combien de pays compte la zone euro en 2026-2027 ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Banque de France, « La Bulgarie rejoint la zone euro »",
+        "url": "https://www.banque-france.fr/fr/actualites/la-bulgarie-rejoint-la-zone-euro"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "21",
+          "correct": true,
+          "explication": "La Bulgarie est devenue le 21e membre le 1er janvier 2026."
+        },
+        {
+          "id": "b",
+          "texte": "27",
+          "correct": false,
+          "explication": "27, c'est le nombre de pays de l'Union européenne."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Qui conduit la politique monétaire de la zone euro ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "La Banque centrale européenne",
+          "correct": true,
+          "explication": "De façon indépendante, pour toute la zone."
+        },
+        {
+          "id": "b",
+          "texte": "Chaque gouvernement national",
+          "correct": false,
+          "explication": "Les gouvernements gardent la politique budgétaire."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La Commission interdit une fusion entre deux grandes entreprises. C'est un outil de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la politique de la concurrence",
+          "correct": true,
+          "explication": "Contrôle des concentrations."
+        },
+        {
+          "id": "b",
+          "texte": "la politique monétaire",
+          "correct": false,
+          "explication": "Elle concerne les taux et la monnaie."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Un seul pays de la zone euro entre en récession. Pourquoi la BCE ne peut-elle pas l'aider spécifiquement ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Sa politique monétaire est unique pour tous les pays",
+          "correct": true,
+          "explication": "C'est le problème des chocs asymétriques."
+        },
+        {
+          "id": "b",
+          "texte": "Elle n'a pas le droit de modifier ses taux",
+          "correct": false,
+          "explication": "Elle les modifie, mais pour toute la zone."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Quelle est la valeur de référence du déficit public dans les règles européennes ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Conseil de l'UE, « Cadre de gouvernance économique »",
+        "url": "https://www.consilium.europa.eu/fr/policies/economic-governance-framework/"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "3 % du PIB",
+          "correct": true,
+          "explication": "La dette a pour référence 60 % du PIB."
+        },
+        {
+          "id": "b",
+          "texte": "60 % du PIB",
+          "correct": false,
+          "explication": "60 % est la référence pour la dette publique."
+        }
+      ]
+    }
+  ]
+}

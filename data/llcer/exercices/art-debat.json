@@ -1,0 +1,250 @@
+{
+  "matiere": "llcer",
+  "chapitre": "art-debat",
+  "exercices": [
+    {
+      "id": "debat-vocabulaire",
+      "titre": "Vocabulary check : controversial art",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Attention aux faux amis (decency ≠ décadence)."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*controversial*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "controversé, polémique",
+              "correct": true,
+              "explication": "a controversial artist."
+            },
+            {
+              "id": "b",
+              "texte": "contraire",
+              "correct": false,
+              "explication": "Contraire = opposite."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*decency*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la bienséance, la décence",
+              "correct": true,
+              "explication": "Mot-clé du programme."
+            },
+            {
+              "id": "b",
+              "texte": "la décadence",
+              "correct": false,
+              "explication": "Décadence = decadence."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*to spark a debate*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "déclencher un débat",
+              "correct": true,
+              "explication": "spark = étincelle."
+            },
+            {
+              "id": "b",
+              "texte": "éteindre un débat",
+              "correct": false,
+              "explication": "C'est l'inverse."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*the canon*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les œuvres classiques reconnues",
+              "correct": true,
+              "explication": "the literary canon."
+            },
+            {
+              "id": "b",
+              "texte": "le canon d'une arme",
+              "correct": false,
+              "explication": "Pas dans ce contexte."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*a taboo subject*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un sujet tabou",
+              "correct": true,
+              "explication": "Dont on ne parle pas."
+            },
+            {
+              "id": "b",
+              "texte": "un sujet ennuyeux",
+              "correct": false,
+              "explication": "Ennuyeux = boring."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "debat-traduction",
+      "titre": "Translation : a controversial exhibition",
+      "type": "traduction",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Translate the following passage into French. (Traduis le passage en français.)"
+      ],
+      "documents": [
+        {
+          "titre": "Passage à traduire (texte écrit pour l'entraînement)",
+          "contenu": "The exhibition had been open for only two days when the first complaints arrived. A group of parents wrote to the museum, asking for one of the paintings to be removed. The director refused. \"Our job is not to protect visitors from art,\" she told a journalist. \"It is to let them make up their own minds.\" The following weekend, the queue stretched all the way down the street.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        }
+      ],
+      "methode": [
+        "Lis tout le passage avant de traduire une seule phrase.",
+        "Repère les temps : le prétérit d'un récit se traduit souvent par le passé simple ou le passé composé, et par l'imparfait pour les descriptions.",
+        "Ne traduis pas mot à mot : la phrase française doit sonner naturelle.",
+        "Relis ta traduction comme un texte français, sans regarder l'anglais.",
+        "*had been open for only two days when…* : « n'était ouverte que depuis deux jours quand… ».",
+        "*to make up one's mind* : se faire une opinion, se décider.",
+        "Dialogue : en français, guillemets « » et incise « déclara-t-elle »."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Proposition de traduction** (d'autres versions sont possibles) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "L'exposition n'était ouverte que depuis deux jours quand les premières plaintes arrivèrent. Un groupe de parents écrivit au musée pour demander qu'un des tableaux soit retiré. La directrice refusa. « Notre travail n'est pas de protéger les visiteurs de l'art, déclara-t-elle à un journaliste. Il est de les laisser se faire leur propre opinion. » Le week-end suivant, la file d'attente s'étirait jusqu'au bout de la rue."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Sens exact (pas de contresens ni d'oubli)",
+          "points": 2
+        },
+        {
+          "critere": "Correction et naturel du français",
+          "points": 1.5
+        },
+        {
+          "critere": "Temps et registre respectés",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "debat-essai",
+      "titre": "Short essay : should art have limits?",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "In about 250 words, answer the question: *Should art have limits?*"
+      ],
+      "methode": [
+        "Pose la tension : liberté d'expression ou protection du public.",
+        "Un paragraphe pour, un contre, une conclusion nuancée.",
+        "Utilise au moins un exemple précis (procès de 1960, Banned Books Week…)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (un exemple de réponse possible, pas la seule) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Art often shocks, and some people believe that it should therefore be controlled. But should art really have limits?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the one hand, freedom of expression is essential in a democracy. Many works that were once considered scandalous are now classics: *Lady Chatterley's Lover* could only be published in full in Britain after a famous trial in 1960. Banning a book is also often counterproductive, as it attracts more readers."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the other hand, some limits already exist, for example against incitement to hatred. Museums and publishers may also need to protect young audiences, which explains age restrictions for films."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In conclusion, art should not be censored simply because it is shocking, but freedom of expression is not unlimited when a work directly harms others."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse à la consigne, idées pertinentes",
+          "points": 4
+        },
+        {
+          "critere": "Organisation (introduction, paragraphes, connecteurs)",
+          "points": 3
+        },
+        {
+          "critere": "Richesse et correction de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

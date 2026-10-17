@@ -1,0 +1,304 @@
+{
+  "matiere": "ses",
+  "chapitre": "politiques-europeennes",
+  "exercices": [
+    {
+      "id": "europe-qcm",
+      "titre": "Politiques européennes : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Pour chaque question, demande-toi : qui décide (UE, BCE, État) ?"
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le marché unique est en place depuis…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1993",
+              "correct": true,
+              "explication": "Le 1er janvier 1993."
+            },
+            {
+              "id": "b",
+              "texte": "2002",
+              "correct": false,
+              "explication": "2002, ce sont les pièces et billets en euros."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "L'objectif principal de la BCE est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "BCE, communiqué du 30 juin 2025 sur l'actualisation de sa stratégie de politique monétaire",
+            "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250630%7Eaabf988af8.fr.html"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la stabilité des prix",
+              "correct": true,
+              "explication": "Une inflation de 2 % à moyen terme."
+            },
+            {
+              "id": "b",
+              "texte": "le plein emploi",
+              "correct": false,
+              "explication": "Ce n'est pas son objectif principal."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "En récession, les recettes fiscales baissent et les allocations chômage augmentent sans décision nouvelle. Ce sont…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les stabilisateurs automatiques",
+              "correct": true,
+              "explication": "Ils soutiennent la demande automatiquement."
+            },
+            {
+              "id": "b",
+              "texte": "une politique de relance discrétionnaire",
+              "correct": false,
+              "explication": "Une relance discrétionnaire suppose une décision."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Deux entreprises s'entendent pour fixer leurs prix. La Commission sanctionne…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une entente",
+              "correct": true,
+              "explication": "C'est un cartel."
+            },
+            {
+              "id": "b",
+              "texte": "une aide d'État",
+              "correct": false,
+              "explication": "Une aide d'État vient des pouvoirs publics."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Un pays profite de la relance budgétaire de ses voisins sans relancer lui-même. C'est un comportement de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "passager clandestin",
+              "correct": true,
+              "explication": "C'est une source du défaut de coordination."
+            },
+            {
+              "id": "b",
+              "texte": "choc asymétrique",
+              "correct": false,
+              "explication": "Un choc asymétrique est un événement qui touche un pays et pas les autres."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "europe-marche-unique",
+      "titre": "Marché unique et croissance",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que le marché unique peut favoriser la croissance économique."
+      ],
+      "methode": [
+        "Définis le marché unique.",
+        "Développe deux mécanismes : économies d'échelle et concurrence/innovation.",
+        "Donne un exemple."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Définition.** Le marché unique est un espace sans frontières intérieures où circulent librement marchandises, services, capitaux et personnes (depuis 1993)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Économies d'échelle.** Les entreprises vendent à un marché de 27 pays : elles produisent plus, ce qui baisse leur coût unitaire et augmente leur productivité."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Concurrence et innovation.** Les entreprises européennes sont mises en concurrence : les prix baissent et elles doivent innover pour garder leurs clients. Ces gains de productivité alimentent la croissance."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Illustration.** Un constructeur aéronautique comme Airbus produit dans plusieurs pays et vend sur l'ensemble du marché européen."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "europe-choc-asymetrique",
+      "titre": "Chocs asymétriques dans la zone euro",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez qu'un choc asymétrique est difficile à gérer dans la zone euro."
+      ],
+      "methode": [
+        "Définis le choc asymétrique.",
+        "Explique pourquoi la politique monétaire ne peut pas répondre.",
+        "Explique les limites de la politique budgétaire nationale."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Définition.** Un choc asymétrique touche un pays ou quelques pays de la zone, et pas les autres."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Politique monétaire.** La BCE fixe les mêmes taux pour toute la zone euro. Elle ne peut pas les baisser pour un seul pays ; le pays touché ne peut pas non plus dévaluer, puisqu'il n'a plus de monnaie propre."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Politique budgétaire.** Seul instrument restant, elle est encadrée par les règles européennes (déficit de 3 % et dette de 60 % du PIB comme valeurs de référence) : un pays déjà endetté a peu de marges pour relancer."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définition",
+          "points": 1
+        },
+        {
+          "critere": "Limite de la politique monétaire unique",
+          "points": 1.25
+        },
+        {
+          "critere": "Limite de la politique budgétaire",
+          "points": 1.25
+        }
+      ]
+    },
+    {
+      "id": "europe-plan-dissertation",
+      "titre": "Plan de dissertation : coordonner les politiques",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet : « La politique monétaire unique et les politiques budgétaires nationales permettent-elles de stabiliser la conjoncture dans la zone euro ? »",
+        "Construis la problématique et un plan détaillé en deux parties."
+      ],
+      "methode": [
+        "Définis politique monétaire, politique budgétaire, conjoncture.",
+        "Plan « oui… mais… ».",
+        "Barème sur 18 : à l'épreuve, les 2 derniers points portent sur la maîtrise de la langue."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique possible.** L'organisation des politiques économiques de la zone euro permet-elle de soutenir l'activité en cas de ralentissement ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Les deux politiques peuvent stabiliser la conjoncture.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. La BCE baisse ses taux directeurs : le crédit est moins cher, la demande augmente.",
+            "B. Les États relancent par leurs dépenses ou des baisses d'impôts ; les stabilisateurs automatiques soutiennent la demande.",
+            "C. Face à un choc commun, une action conjointe (policy mix) est efficace."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Mais l'organisation de la zone euro limite leur efficacité.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Une politique monétaire unique ne peut pas répondre aux chocs asymétriques.",
+            "B. Les politiques budgétaires sont contraintes par les règles européennes (3 % et 60 %).",
+            "C. Le défaut de coordination entre États (passager clandestin) affaiblit l'effet des relances."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes et problématique",
+          "points": 4
+        },
+        {
+          "critere": "Partie I : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Partie II : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Pertinence des mécanismes et des exemples",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

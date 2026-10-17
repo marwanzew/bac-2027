@@ -1,0 +1,434 @@
+{
+  "id": "axe6",
+  "matiere": "espagnol",
+  "titre": "Axe 6. La richesse des métissages dans le monde hispanique (obligatoire)",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Axes culturels de terminale",
+    "intitule": "Axe 6. La richesse des métissages dans le monde hispanique (obligatoire)",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'espagnol pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 10",
+      "url": "https://www.education.gouv.fr/sites/default/files/annexe-10-programme-d-espagnol-pour-les-classes-de-lyc-e-g-n-ral-et-technologique-440376.pdf"
+    }
+  },
+  "objectifs": [
+    "Comprendre le métissage : rencontres, échanges et mélanges de cultures dans le monde hispanique.",
+    "Connaître des repères : Al-Ándalus, conquête de l'Amérique, traite des esclaves, migrations.",
+    "Comparer avec les comparatifs."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "El eje en breve · L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "ce qui est officiel",
+          "texte": "Le **titre de l'axe** vient du programme officiel. Les **pistes** proposées s'inspirent des ressources de La Clé espagnole (ENS de Lyon), qui ne sont pas des consignes officielles : ton professeur choisit ses propres documents."
+        },
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVB, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B1**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "C'est **l'axe obligatoire** en voie générale. Il étudie les **échanges et les mélanges de cultures** nés de la présence musulmane en Espagne (Al-Ándalus), de la conquête de l'Amérique, de la traite des esclaves africains et des migrations : architecture, religion, langue, cuisine, musique et danse."
+        }
+      ]
+    },
+    {
+      "id": "vocabulario",
+      "titre": "Vocabulario",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Vocabulaire de l'axe",
+          "colonnes": [
+            "Español",
+            "Français",
+            "Ejemplo"
+          ],
+          "lignes": [
+            [
+              "el mestizaje",
+              "le métissage",
+              "El mestizaje cultural."
+            ],
+            [
+              "el mestizo",
+              "le métis",
+              "Un pueblo mestizo."
+            ],
+            [
+              "la mezcla",
+              "le mélange",
+              "Una mezcla de culturas."
+            ],
+            [
+              "la convivencia",
+              "la coexistence",
+              "La convivencia en Toledo."
+            ],
+            [
+              "la conquista",
+              "la conquête",
+              "La conquista de América."
+            ],
+            [
+              "los indígenas",
+              "les peuples autochtones",
+              "Las culturas indígenas."
+            ],
+            [
+              "el sincretismo",
+              "le syncrétisme",
+              "El sincretismo religioso."
+            ],
+            [
+              "la herencia",
+              "l'héritage",
+              "La herencia árabe."
+            ],
+            [
+              "enriquecer",
+              "enrichir",
+              "Las culturas se enriquecen."
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "mestizaje"
+        },
+        {
+          "type": "definition",
+          "glossaire": "sincretismo"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "titre": "Referencias culturales · Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Pourquoi c'est important"
+          ],
+          "lignes": [
+            [
+              "Al-Ándalus : présence musulmane dans la péninsule Ibérique",
+              "711-1492",
+              "Héritage architectural, scientifique et linguistique"
+            ],
+            [
+              "Mosquée de Cordoue (début de la construction)",
+              "785",
+              "Chef-d'œuvre de l'art islamique, devenue cathédrale"
+            ],
+            [
+              "Alhambra de Grenade",
+              "XIIIe-XIVe siècles",
+              "Palais des souverains nasrides"
+            ],
+            [
+              "Prise de Grenade ; premier voyage de Colomb",
+              "1492",
+              "Fin d'Al-Ándalus ; début de la conquête de l'Amérique"
+            ],
+            [
+              "Inca Garcilaso de la Vega, *Comentarios reales*",
+              "1609",
+              "Un auteur métis qui raconte l'histoire des Incas"
+            ],
+            [
+              "Fête des morts mexicaine inscrite au patrimoine immatériel de l'UNESCO",
+              "2008",
+              "Mélange de traditions indigènes et catholiques"
+            ],
+            [
+              "Tango inscrit au patrimoine immatériel de l'UNESCO",
+              "2009",
+              "Musique née du mélange de cultures à Buenos Aires et Montevideo"
+            ],
+            [
+              "Flamenco inscrit au patrimoine immatériel de l'UNESCO",
+              "2010",
+              "Art andalou aux influences multiples"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pistes",
+      "titre": "Pistas de reflexión · Pistes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Al-Ándalus** : convivencia entre chrétiens, musulmans et juifs ; mots espagnols d'origine arabe (*aceite, azúcar, almohada*).",
+            "**La conquête de l'Amérique** : métissage, syncrétisme religieux (la Vierge de Guadalupe), langues indigènes.",
+            "**Les héritages africains** : musiques afro-caribéennes, cumbia.",
+            "**Les migrations** : spanglish, cuisine, musiques actuelles."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "titre": "Gramática · Le point de grammaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Los comparativos** : pour comparer deux éléments."
+        },
+        {
+          "type": "tableau",
+          "titre": "Formes",
+          "colonnes": [
+            "Sens",
+            "Forme",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "Supériorité",
+              "más … que",
+              "*Córdoba es más antigua que Madrid.*"
+            ],
+            [
+              "Infériorité",
+              "menos … que",
+              "*Este barrio es menos turístico que el centro.*"
+            ],
+            [
+              "Égalité",
+              "tan … como / tanto … como",
+              "*La música es tan importante como la lengua.*"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Irréguliers : *mejor* (meilleur), *peor* (pire), *mayor* (plus grand, plus âgé), *menor*."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frases",
+      "titre": "Frases útiles · Phrases utiles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Pour parler ou écrire sur l'axe",
+          "colonnes": [
+            "Español",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "Es el resultado de una mezcla de…",
+              "C'est le résultat d'un mélange de…"
+            ],
+            [
+              "Esta obra muestra la influencia de…",
+              "Cette œuvre montre l'influence de…"
+            ],
+            [
+              "Gracias al mestizaje…",
+              "Grâce au métissage…"
+            ],
+            [
+              "A diferencia de…",
+              "À la différence de…"
+            ],
+            [
+              "Ambas culturas…",
+              "Les deux cultures…"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Al-Ándalus",
+      "valeur": "711-1492",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Prise de Grenade et premier voyage de Colomb",
+      "valeur": "1492",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Fête des morts mexicaine au patrimoine de l'UNESCO",
+      "valeur": "2008",
+      "certitude": "certain",
+      "source": {
+        "titre": "UNESCO, liste représentative du patrimoine culturel immatériel"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Axe 6. La richesse des métissages dans le monde hispanique (obligatoire) : l'essentiel",
+    "colonnes": [
+      "Aspect",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "Vocabulaire clé",
+        "el mestizaje, el mestizo, la mezcla, la convivencia, la conquista, los indígenas"
+      ],
+      [
+        "Repères",
+        "Al-Ándalus : présence musulmane dans la péninsule Ibérique (711-1492), Mosquée de Cordoue (début de la construction) (785), Alhambra de Grenade (XIIIe-XIVe siècles), Prise de Grenade ; premier voyage de Colomb (1492)"
+      ],
+      [
+        "Grammaire",
+        "Los comparativos"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Axe obligatoire** en voie générale.",
+    "**Al-Ándalus** (711-1492) : Cordoue, Alhambra, mots d'origine arabe.",
+    "**1492** : prise de Grenade et premier voyage de Colomb.",
+    "**Amérique** : métissage, syncrétisme, Inca Garcilaso (1609), Fête des morts (UNESCO 2008).",
+    "**Musiques** : tango (UNESCO 2009), flamenco (UNESCO 2010).",
+    "**Grammaire** : comparatifs (*más/menos … que, tan … como*)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "L'axe 6 est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'espagnol pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 10",
+        "url": "https://www.education.gouv.fr/sites/default/files/annexe-10-programme-d-espagnol-pour-les-classes-de-lyc-e-g-n-ral-et-technologique-440376.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "obligatoire en voie générale",
+          "correct": true,
+          "explication": "Programme de 2025."
+        },
+        {
+          "id": "b",
+          "texte": "facultatif",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Al-Ándalus prend fin en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1492",
+          "correct": true,
+          "explication": "Prise de Grenade."
+        },
+        {
+          "id": "b",
+          "texte": "711",
+          "correct": false,
+          "explication": "Début."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*el mestizaje*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le métissage",
+          "correct": true,
+          "explication": "Mélange de cultures."
+        },
+        {
+          "id": "b",
+          "texte": "le mensonge",
+          "correct": false,
+          "explication": "Mensonge = mentira."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*Córdoba es … antigua … Madrid.*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "más / que",
+          "correct": true,
+          "explication": "Comparatif de supériorité."
+        },
+        {
+          "id": "b",
+          "texte": "tan / que",
+          "correct": false,
+          "explication": "Tan s'emploie avec como."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*azúcar* et *aceite* sont des mots d'origine…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "arabe",
+          "correct": true,
+          "explication": "Héritage d'Al-Ándalus."
+        },
+        {
+          "id": "b",
+          "texte": "aztèque",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

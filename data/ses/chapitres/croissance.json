@@ -1,0 +1,206 @@
+{
+  "id": "croissance",
+  "matiere": "ses",
+  "titre": "Quels sont les sources et les défis de la croissance économique ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Science économique",
+    "intitule": "Quels sont les sources et les défis de la croissance économique ?",
+    "evaluableEcrit": true,
+    "source": {
+      "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019 ; questions évaluables : note de service du 11 septembre 2026",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/82/1/spe253_annexe_1158821.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Comprendre le processus de croissance économique et les sources de la croissance : accumulation des facteurs et accroissement de la productivité globale des facteurs ; comprendre le lien entre le progrès technique et l'accroissement de la productivité globale des facteurs.",
+    "Comprendre que le progrès technique est endogène et qu'il résulte en particulier de l'innovation.",
+    "Comprendre comment les institutions (notamment les droits de propriété) influent sur la croissance en affectant l'incitation à investir et innover ; savoir que l'innovation s'accompagne d'un processus de destruction créatrice.",
+    "Comprendre comment le progrès technique peut engendrer des inégalités de revenus.",
+    "Comprendre qu'une croissance économique soutenable se heurte à des limites écologiques (notamment l'épuisement des ressources, la pollution et le réchauffement climatique) et que l'innovation peut aider à reculer ces limites."
+  ],
+  "parties": [
+    {
+      "id": "sources",
+      "titre": "Le processus de croissance et ses deux sources",
+      "blocs": [
+        { "type": "paragraphe", "texte": "La [[croissance économique]] est l'augmentation durable de la production d'un pays. On la mesure par le taux de variation du [[PIB]] **en volume** : on retire l'effet de la hausse des prix pour ne garder que l'augmentation des quantités produites." },
+        { "type": "definition", "glossaire": "croissance-economique" },
+        { "type": "definition", "glossaire": "pib" },
+        { "type": "paragraphe", "texte": "Pour produire, une économie combine des [[facteurs de production]] : du travail et du capital. La production peut donc augmenter de deux façons." },
+        { "type": "liste", "ordonnee": true, "items": [
+          "**Par l'accumulation des facteurs** : on utilise davantage de travail (plus de travailleurs, plus d'heures) et davantage de capital (grâce à l'investissement). C'est une croissance « extensive ».",
+          "**Par la hausse de la productivité globale des facteurs (PGF)** : on obtient plus de production avec les mêmes quantités de travail et de capital, parce qu'on les combine plus efficacement. C'est une croissance « intensive »."
+        ] },
+        { "type": "definition", "glossaire": "productivite" },
+        { "type": "definition", "glossaire": "pgf" },
+        { "type": "paragraphe", "texte": "Le [[progrès technique]] est le principal moteur de la PGF : de meilleures machines, de meilleures méthodes de production ou une meilleure organisation du travail permettent de produire davantage sans utiliser plus de facteurs." },
+        { "type": "a-retenir", "texte": "Croissance = accumulation des facteurs (travail, capital) + hausse de la PGF. Le progrès technique fait augmenter la PGF." },
+        { "type": "piege", "titre": "productivité du travail et PGF", "texte": "La productivité du travail rapporte la production au seul travail. La PGF tient compte de **tous** les facteurs : c'est la partie de la croissance que l'accumulation de travail et de capital n'explique pas. Elle ne se mesure pas directement, elle se calcule par différence." }
+      ]
+    },
+    {
+      "id": "progres-endogene",
+      "titre": "Un progrès technique endogène, issu de l'innovation",
+      "blocs": [
+        { "type": "paragraphe", "texte": "Dans le modèle de croissance de Robert Solow (1956), le progrès technique est **exogène** : il est considéré comme donné, sans que l'économie explique d'où il vient." },
+        { "type": "paragraphe", "texte": "À partir de la fin des années 1980, les théories de la [[croissance endogène]] (Paul Romer, Robert Lucas, Robert Barro) montrent au contraire que le progrès technique est **endogène** : il résulte de décisions économiques, et d'abord de l'[[innovation]]." },
+        { "type": "definition", "glossaire": "progres-technique" },
+        { "type": "definition", "glossaire": "innovation" },
+        { "type": "definition", "glossaire": "croissance-endogene" },
+        { "type": "paragraphe", "texte": "Plusieurs investissements nourrissent ce progrès technique :" },
+        { "type": "liste", "items": [
+          "**la recherche et développement (R&D)**, qui produit des connaissances et des innovations (travaux de Paul Romer) ;",
+          "**le [[capital humain]]**, accru par la formation et la santé (travaux de Robert Lucas) ;",
+          "**les infrastructures publiques** (réseaux de transport, de communication), qui rendent le capital privé plus productif (travaux de Robert Barro)."
+        ] },
+        { "type": "definition", "glossaire": "capital-humain" },
+        { "type": "paragraphe", "texte": "Ces investissements produisent des [[externalité]]s positives : une connaissance nouvelle profite aussi à d'autres que celui qui l'a produite. La croissance s'auto-entretient : elle dégage des ressources qui financent de nouvelles innovations." },
+        { "type": "exemple", "titre": "deux types d'innovation", "texte": "Le smartphone est une innovation de **produit**. Le travail à la chaîne, introduit dans l'industrie automobile au début du XX^e^ siècle, est une innovation de **procédé** : il a fortement accru la productivité." }
+      ]
+    },
+    {
+      "id": "institutions",
+      "titre": "Le rôle des institutions et la destruction créatrice",
+      "blocs": [
+        { "type": "paragraphe", "texte": "Les [[institutions]] influencent la croissance parce qu'elles modifient l'**incitation à investir et à innover**." },
+        { "type": "definition", "glossaire": "institutions" },
+        { "type": "definition", "glossaire": "droits-de-propriete" },
+        { "type": "paragraphe", "texte": "Quand les [[droits de propriété]] sont bien définis et protégés, un entrepreneur sait qu'il pourra profiter des gains de son investissement : il est incité à investir. À l'inverse, l'insécurité juridique, la corruption ou le risque d'expropriation découragent l'investissement." },
+        { "type": "paragraphe", "texte": "Le [[brevet]] protège l'innovateur : pendant une durée limitée, il est seul à pouvoir exploiter son invention et touche une **rente de monopole temporaire**. Cette perspective de gain incite à innover. Mais une protection trop longue ou trop large freinerait la diffusion des innovations : la durée limitée du brevet est un compromis entre incitation à innover et diffusion." },
+        { "type": "definition", "glossaire": "brevet" },
+        { "type": "paragraphe", "texte": "L'innovation ne fait pas que créer : elle détruit aussi. Joseph Schumpeter appelle **destruction créatrice** ce processus par lequel les innovations remplacent les produits, les entreprises et les emplois anciens par de nouveaux, plus productifs." },
+        { "type": "definition", "glossaire": "destruction-creatrice" },
+        { "type": "exemple", "texte": "Le développement de la photographie numérique a fait reculer la photographie argentique et les entreprises qui en vivaient, tout en créant de nouvelles activités (appareils numériques, logiciels, services en ligne)." },
+        { "type": "a-retenir", "texte": "Institutions protectrices (droits de propriété, brevets) → incitation à investir et à innover → progrès technique → croissance. L'innovation s'accompagne d'une destruction créatrice." }
+      ]
+    },
+    {
+      "id": "inegalites",
+      "titre": "Progrès technique et inégalités de revenus",
+      "blocs": [
+        { "type": "paragraphe", "texte": "Le progrès technique élève le niveau de vie moyen, mais il ne profite pas à tous de la même manière." },
+        { "type": "liste", "items": [
+          "**Un progrès technique biaisé en faveur du travail qualifié** : les technologies numériques augmentent surtout la productivité des travailleurs qualifiés. La demande de travail qualifié progresse plus vite que celle de travail peu qualifié, ce qui creuse les écarts de salaires.",
+          "**L'automatisation des tâches routinières** : les emplois intermédiaires faits de tâches répétitives sont les plus faciles à automatiser. C'est la [[polarisation des emplois]].",
+          "**Les rentes des innovateurs** : les entreprises et les personnes à l'origine d'innovations à succès peuvent capter des revenus très élevés, ce qui accroît les inégalités au sommet de la distribution."
+        ] },
+        { "type": "definition", "glossaire": "polarisation-emplois" },
+        { "type": "piege", "titre": "le progrès technique n'est pas « mauvais » en soi", "texte": "Les inégalités qu'il peut engendrer dépendent aussi des choix collectifs : formation, redistribution, règles de concurrence. Une copie de bac doit montrer le mécanisme, pas porter un jugement." }
+      ]
+    },
+    {
+      "id": "limites-ecologiques",
+      "titre": "Une croissance soutenable face aux limites écologiques",
+      "blocs": [
+        { "type": "paragraphe", "texte": "Une [[croissance soutenable]] doit pouvoir durer sans priver les générations futures des ressources dont elles auront besoin. Or la croissance se heurte à des **limites écologiques** :" },
+        { "type": "liste", "items": [
+          "**l'épuisement des ressources** : ressources non renouvelables (pétrole, gaz, minerais) et ressources renouvelables surexploitées (forêts, ressources halieutiques) ;",
+          "**la pollution** de l'air, de l'eau et des sols, qui est une externalité négative ;",
+          "**le réchauffement climatique**, provoqué par les émissions de gaz à effet de serre liées notamment à l'usage des énergies fossiles."
+        ] },
+        { "type": "definition", "glossaire": "croissance-soutenable" },
+        { "type": "paragraphe", "texte": "L'innovation peut aider à **reculer ces limites** : énergies renouvelables, meilleure efficacité énergétique des machines et des bâtiments, recyclage des matériaux, procédés moins polluants. L'objectif est de produire autant, ou plus, en consommant moins de ressources et en émettant moins de gaz à effet de serre." },
+        { "type": "a-retenir", "texte": "Trois limites écologiques à citer : épuisement des ressources, pollution, réchauffement climatique. L'innovation peut aider à les reculer." },
+        { "type": "plus-loin", "titre": "l'effet rebond", "texte": "Une innovation qui rend un bien moins gourmand en énergie peut faire baisser son coût d'usage, donc augmenter sa consommation : une partie des économies d'énergie est alors perdue. C'est l'« effet rebond »." }
+      ]
+    }
+  ],
+  "reperes": [
+    { "type": "auteur", "libelle": "Modèle de croissance avec progrès technique exogène", "valeur": "Robert Solow, 1956", "certitude": "certain",
+      "source": { "titre": "R. M. Solow, « A Contribution to the Theory of Economic Growth », Quarterly Journal of Economics, 1956" } },
+    { "type": "auteur", "libelle": "Innovation et destruction créatrice", "valeur": "Joseph Schumpeter, 1942", "certitude": "certain",
+      "source": { "titre": "J. A. Schumpeter, Capitalisme, socialisme et démocratie, 1942" } },
+    { "type": "auteur", "libelle": "Théories de la croissance endogène", "valeur": "Romer, Lucas, Barro (fin des années 1980 – 1990)", "certitude": "certain",
+      "source": { "titre": "P. Romer (1986, 1990), R. Lucas (1988), R. Barro (1990)" } },
+    { "type": "auteur", "libelle": "Rôle des institutions dans la croissance", "valeur": "Douglass North (prix Nobel d'économie 1993)", "certitude": "certain",
+      "source": { "titre": "Prix en sciences économiques en mémoire d'Alfred Nobel 1993 (R. Fogel et D. North)" } },
+    { "type": "date", "libelle": "Rapport « Les limites à la croissance » (Club de Rome)", "valeur": "1972", "certitude": "certain",
+      "source": { "titre": "D. Meadows et al., The Limits to Growth, 1972" } },
+    { "type": "date", "libelle": "Rapport Brundtland, définition du développement durable", "valeur": "1987", "certitude": "certain",
+      "source": { "titre": "Commission mondiale sur l'environnement et le développement, « Notre avenir à tous », 1987" } },
+    { "type": "chiffre", "libelle": "Durée maximale d'un brevet en France", "valeur": "20 ans", "certitude": "certain",
+      "source": { "titre": "Code de la propriété intellectuelle, article L611-2" } },
+    { "type": "mecanisme", "libelle": "Sources de la croissance", "valeur": "Accumulation des facteurs + hausse de la PGF", "certitude": "certain",
+      "source": { "titre": "Programme de SES de terminale, BO spécial n° 8 du 25 juillet 2019" } }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "Les sources et les défis de la croissance",
+    "sens": "vertical",
+    "noeuds": [
+      { "id": "facteurs", "texte": "Accumulation de travail et de capital" },
+      { "id": "innovation", "texte": "Innovation : R&D, capital humain, infrastructures, institutions" },
+      { "id": "progres", "texte": "Progrès technique" },
+      { "id": "pgf", "texte": "Hausse de la PGF" },
+      { "id": "croissance", "texte": "Croissance du PIB en volume" },
+      { "id": "defis", "texte": "Défis : inégalités de revenus, limites écologiques" }
+    ],
+    "liens": [
+      { "de": "facteurs", "vers": "croissance", "texte": "extensive" },
+      { "de": "innovation", "vers": "progres" },
+      { "de": "progres", "vers": "pgf" },
+      { "de": "pgf", "vers": "croissance", "texte": "intensive" },
+      { "de": "croissance", "vers": "defis" }
+    ]
+  },
+  "fiche": [
+    "Croissance économique : hausse durable de la production, mesurée par le taux de variation du **PIB en volume**.",
+    "Deux sources : **accumulation des facteurs** (travail, capital) et **hausse de la PGF**.",
+    "**PGF** : part de la croissance non expliquée par l'accumulation des facteurs ; calculée par différence (« résidu »).",
+    "Le **progrès technique** est le principal moteur de la PGF.",
+    "Solow (1956) : progrès technique **exogène**. Romer, Lucas, Barro : progrès technique **endogène**, issu de l'innovation, de la R&D, du capital humain et des infrastructures.",
+    "**Institutions** et **droits de propriété** (brevets) : ils incitent à investir et à innover ; le brevet donne une rente de monopole temporaire.",
+    "**Destruction créatrice** (Schumpeter, 1942) : l'innovation remplace l'ancien par du nouveau, plus productif.",
+    "Progrès technique et **inégalités** : biais en faveur du travail qualifié, automatisation des tâches routinières (polarisation), rentes des innovateurs.",
+    "**Limites écologiques** : épuisement des ressources, pollution, réchauffement climatique. L'innovation peut aider à les reculer."
+  ],
+  "quiz": [
+    {
+      "id": "q1", "enonce": "Comment mesure-t-on la croissance économique ?", "certitude": "certain",
+      "source": { "titre": "Définition usuelle en science économique ; Insee" },
+      "choix": [
+        { "id": "a", "texte": "Par le taux de variation du PIB en volume", "correct": true, "explication": "En volume, c'est-à-dire en retirant l'effet de la hausse des prix." },
+        { "id": "b", "texte": "Par le taux de variation du PIB en valeur", "correct": false, "explication": "En valeur, le PIB augmente aussi quand seuls les prix montent : ce n'est pas une hausse de la production." },
+        { "id": "c", "texte": "Par le taux de chômage", "correct": false, "explication": "Le chômage est lié à la croissance, mais il ne la mesure pas." }
+      ]
+    },
+    {
+      "id": "q2", "enonce": "La productivité globale des facteurs (PGF), c'est…", "certitude": "certain",
+      "source": { "titre": "Définition usuelle en science économique" },
+      "choix": [
+        { "id": "a", "texte": "la production divisée par le nombre de travailleurs", "correct": false, "explication": "Ça, c'est la productivité du travail (par travailleur)." },
+        { "id": "b", "texte": "la part de la croissance non expliquée par l'accumulation de travail et de capital", "correct": true, "explication": "La PGF est un « résidu » : elle mesure l'efficacité de la combinaison des facteurs." },
+        { "id": "c", "texte": "la quantité de capital investie dans l'année", "correct": false, "explication": "L'investissement fait partie de l'accumulation des facteurs, pas de la PGF." }
+      ]
+    },
+    {
+      "id": "q3", "enonce": "Dire que le progrès technique est « endogène », c'est dire que…", "certitude": "certain",
+      "source": { "titre": "Programme de SES de terminale, BO spécial n° 8 du 25 juillet 2019" },
+      "choix": [
+        { "id": "a", "texte": "il tombe du ciel, sans explication économique", "correct": false, "explication": "C'est la définition d'un progrès technique exogène, comme dans le modèle de Solow." },
+        { "id": "b", "texte": "il résulte de décisions économiques, en particulier de l'innovation", "correct": true, "explication": "R&D, capital humain et infrastructures produisent le progrès technique." }
+      ]
+    },
+    {
+      "id": "q4", "enonce": "Pourquoi les brevets peuvent-ils favoriser la croissance ?", "certitude": "certain",
+      "source": { "titre": "Programme de SES de terminale : rôle des droits de propriété" },
+      "choix": [
+        { "id": "a", "texte": "Ils garantissent à l'innovateur une rente de monopole temporaire, ce qui l'incite à innover", "correct": true, "explication": "La perspective de profiter seul de son invention pendant un temps limité incite à investir en recherche." },
+        { "id": "b", "texte": "Ils interdisent définitivement toute imitation", "correct": false, "explication": "Non : la protection est limitée dans le temps (20 ans au maximum en France)." },
+        { "id": "c", "texte": "Ils obligent l'État à financer la recherche", "correct": false, "explication": "Le brevet est un droit de propriété, pas un financement public." }
+      ]
+    },
+    {
+      "id": "q5", "enonce": "Quelles sont les limites écologiques citées par le programme ?", "multiple": true, "certitude": "certain",
+      "source": { "titre": "Programme de SES de terminale, BO spécial n° 8 du 25 juillet 2019" },
+      "choix": [
+        { "id": "a", "texte": "L'épuisement des ressources", "correct": true, "explication": "Cité par le programme." },
+        { "id": "b", "texte": "La pollution", "correct": true, "explication": "Cité par le programme." },
+        { "id": "c", "texte": "Le réchauffement climatique", "correct": true, "explication": "Cité par le programme." },
+        { "id": "d", "texte": "La hausse du taux d'intérêt", "correct": false, "explication": "Ce n'est pas une limite écologique." }
+      ]
+    }
+  ]
+}

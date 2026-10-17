@@ -1,0 +1,305 @@
+{
+  "id": "h4-c3",
+  "matiere": "histoire-geo",
+  "titre": "La République française",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Histoire · Thème 4 – Le monde, l'Europe et la France depuis les années 1990, entre coopérations et conflits",
+    "intitule": "La République française",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Connaître les principales évolutions constitutionnelles et juridiques depuis les années 1990.",
+    "Comprendre la parité et la décentralisation.",
+    "Montrer que la République adapte ses principes à l'évolution de la société."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les points de passage et d'ouverture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "la parité : du principe aux applications ;",
+            "l'approfondissement de la décentralisation."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "constitution",
+      "titre": "Une Constitution qui évolue",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**2000** : le mandat du président passe de sept à cinq ans (**quinquennat**), approuvé par référendum (24 septembre 2000).",
+            "**2008** : grande révision constitutionnelle ; création de la **question prioritaire de constitutionnalité** (QPC) : tout justiciable peut contester une loi devant le Conseil constitutionnel."
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "ve-republique"
+        }
+      ]
+    },
+    {
+      "id": "parite",
+      "titre": "La parité : du principe aux applications",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "parite"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La révision constitutionnelle du **8 juillet 1999** affirme que la loi favorise l'égal accès des femmes et des hommes aux mandats électoraux ; la **loi du 6 juin 2000** impose des listes paritaires pour certaines élections et pénalise financièrement les partis qui ne présentent pas assez de candidates aux législatives. Depuis 2013, les élections départementales se font par binômes femme-homme. La parité progresse, mais les femmes restent moins nombreuses à l'Assemblée nationale et à la tête des exécutifs locaux."
+        }
+      ]
+    },
+    {
+      "id": "decentralisation",
+      "titre": "L'approfondissement de la décentralisation",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "decentralisation"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Après les lois Defferre (1982), la révision de **2003** inscrit dans la Constitution que l'organisation de la République est **décentralisée**. En **2016**, les régions métropolitaines passent de 22 à **13** (par exemple, l'**Occitanie** réunit Languedoc-Roussillon et Midi-Pyrénées) et la loi NOTRe (2015) précise les compétences des collectivités."
+        }
+      ]
+    },
+    {
+      "id": "societe",
+      "titre": "Des droits qui s'adaptent à la société",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**1999** : PACS (pacte civil de solidarité).",
+            "**2004** : loi encadrant le port de signes religieux à l'école, au nom de la laïcité.",
+            "**2013** : mariage ouvert aux couples de même sexe (loi du 17 mai 2013).",
+            "**2024** : la liberté de recourir à l'IVG est inscrite dans la Constitution."
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Révision constitutionnelle sur la parité",
+      "valeur": "8 juillet 1999",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Loi sur la parité",
+      "valeur": "6 juin 2000",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Quinquennat (référendum)",
+      "valeur": "24 septembre 2000",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Organisation décentralisée inscrite dans la Constitution",
+      "valeur": "2003",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "QPC (révision constitutionnelle)",
+      "valeur": "2008",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "13 régions métropolitaines",
+      "valeur": "1er janvier 2016",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Une République qui s'adapte",
+    "colonnes": [
+      "Domaine",
+      "Évolutions"
+    ],
+    "lignes": [
+      [
+        "Institutions",
+        "Quinquennat (2000), QPC (2008)"
+      ],
+      [
+        "Parité",
+        "Révision de 1999, loi de 2000, binômes (2013)"
+      ],
+      [
+        "Décentralisation",
+        "Révision de 2003, 13 régions (2016)"
+      ],
+      [
+        "Droits",
+        "PACS (1999), mariage pour tous (2013), IVG dans la Constitution (2024)"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Quinquennat** : référendum du 24 septembre 2000.",
+    "**QPC** : 2008.",
+    "**Parité** : révision du 8 juillet 1999, loi du 6 juin 2000.",
+    "**Décentralisation** : lois Defferre (1982), révision de 2003, 13 régions (2016) dont l'Occitanie.",
+    "**Droits** : PACS (1999), mariage pour tous (2013), IVG dans la Constitution (2024)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le quinquennat est adopté en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2000",
+          "correct": true,
+          "explication": "Référendum du 24 septembre 2000."
+        },
+        {
+          "id": "b",
+          "texte": "1958",
+          "correct": false,
+          "explication": "En 1958, le mandat est de sept ans."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La loi sur la parité date du…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "6 juin 2000",
+          "correct": true,
+          "explication": "Après la révision de 1999."
+        },
+        {
+          "id": "b",
+          "texte": "17 janvier 1975",
+          "correct": false,
+          "explication": "Loi Veil."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La QPC permet de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "contester une loi devant le Conseil constitutionnel",
+          "correct": true,
+          "explication": "Depuis 2008 (en vigueur en 2010)."
+        },
+        {
+          "id": "b",
+          "texte": "élire le président",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Combien de régions en France métropolitaine depuis 2016 ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "13",
+          "correct": true,
+          "explication": "Au lieu de 22."
+        },
+        {
+          "id": "b",
+          "texte": "22",
+          "correct": false,
+          "explication": "Avant 2016."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Le mariage pour tous est voté en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2013",
+          "correct": true,
+          "explication": "Loi du 17 mai 2013."
+        },
+        {
+          "id": "b",
+          "texte": "1999",
+          "correct": false,
+          "explication": "1999 : PACS."
+        }
+      ]
+    }
+  ]
+}

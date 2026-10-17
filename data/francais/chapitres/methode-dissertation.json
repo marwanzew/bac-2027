@@ -1,0 +1,262 @@
+{
+  "id": "methode-dissertation",
+  "matiere": "francais",
+  "titre": "Méthode : la dissertation",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthodes des épreuves",
+    "intitule": "Méthode : la dissertation",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+    }
+  },
+  "objectifs": [
+    "Analyser un sujet de dissertation.",
+    "Construire un plan dialectique ou thématique.",
+    "Utiliser l'œuvre et le parcours comme exemples."
+  ],
+  "parties": [
+    {
+      "id": "principe",
+      "titre": "Le principe",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "dissertation"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Tu choisis l'un des **trois sujets**, chacun lié à **une œuvre du programme et à son parcours**. Tu ne peux donc traiter que le sujet portant sur l'œuvre que tu as étudiée dans l'objet d'étude concerné : **connais bien tes quatre œuvres**."
+        }
+      ]
+    },
+    {
+      "id": "analyser",
+      "titre": "Analyser le sujet",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Souligne les **mots-clés** et définis-les.",
+            "Repère la **forme** du sujet : question fermée (oui / non), citation à discuter, « dans quelle mesure… ».",
+            "Reformule le sujet et pose la **problématique** (la tension cachée dans le sujet)."
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "problematique"
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "titre": "Construire le plan",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Deux types de plans",
+          "colonnes": [
+            "Plan",
+            "Quand ?",
+            "Structure"
+          ],
+          "lignes": [
+            [
+              "Dialectique",
+              "Question fermée ou citation à discuter",
+              "I. Oui… II. Mais… III. Dépassement"
+            ],
+            [
+              "Thématique",
+              "Question ouverte (« comment… », « quels… »)",
+              "I, II, III = trois aspects de la réponse"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Chaque sous-partie = **un argument + un exemple précis** de l'œuvre (épisode, personnage, citation courte), et si possible un exemple du **parcours**."
+        }
+      ]
+    },
+    {
+      "id": "rediger",
+      "titre": "Rédiger",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Introduction** : accroche, présentation du sujet, problématique, annonce du plan.",
+            "**Développement** : phrases de transition entre les parties.",
+            "**Conclusion** : réponse claire à la problématique, ouverture."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "réciter son cours",
+          "texte": "Le correcteur attend une **réponse au sujet posé**, pas un résumé de l'œuvre."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Dissertation : nombre de sujets au choix",
+      "valeur": "3, chacun lié à une œuvre du programme et à son parcours associé",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La dissertation en bref",
+    "colonnes": [
+      "Étape",
+      "Clé"
+    ],
+    "lignes": [
+      [
+        "Analyse",
+        "Mots-clés, forme du sujet, problématique"
+      ],
+      [
+        "Plan",
+        "Dialectique ou thématique"
+      ],
+      [
+        "Sous-partie",
+        "Argument + exemple précis"
+      ],
+      [
+        "Conclusion",
+        "Répondre, ouvrir"
+      ]
+    ]
+  },
+  "fiche": [
+    "**3 sujets**, chacun lié à une œuvre et à son parcours.",
+    "Analyse : mots-clés → reformulation → problématique.",
+    "Plan **dialectique** (question fermée) ou **thématique** (question ouverte).",
+    "Chaque argument = un **exemple précis**."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Chaque sujet de dissertation est lié à…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une œuvre du programme et son parcours",
+          "correct": true,
+          "explication": "Trois sujets au choix."
+        },
+        {
+          "id": "b",
+          "texte": "un texte inconnu",
+          "correct": false,
+          "explication": "C'est le commentaire."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Pour une question fermée, on choisit souvent…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un plan dialectique",
+          "correct": true,
+          "explication": "Oui / mais / dépassement."
+        },
+        {
+          "id": "b",
+          "texte": "un plan chronologique",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Une sous-partie contient…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un argument et un exemple précis",
+          "correct": true,
+          "explication": "Tiré de l'œuvre."
+        },
+        {
+          "id": "b",
+          "texte": "un résumé de l'œuvre",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "La problématique…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "fait apparaître la tension du sujet",
+          "correct": true,
+          "explication": "Elle guide le devoir."
+        },
+        {
+          "id": "b",
+          "texte": "répète le sujet mot pour mot",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Durée de l'épreuve écrite :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "4 heures",
+          "correct": true,
+          "explication": "Commentaire ou dissertation."
+        },
+        {
+          "id": "b",
+          "texte": "3 heures",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

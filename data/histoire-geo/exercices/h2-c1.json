@@ -1,0 +1,215 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "h2-c1",
+  "exercices": [
+    {
+      "id": "h2-c1-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le procès de Nuremberg juge…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les dirigeants nazis",
+              "correct": true,
+              "explication": "1945-1946."
+            },
+            {
+              "id": "b",
+              "texte": "Staline",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "L'OTAN est créée en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1949",
+              "correct": true,
+              "explication": "Avril 1949."
+            },
+            {
+              "id": "b",
+              "texte": "1955",
+              "correct": false,
+              "explication": "1955 : pacte de Varsovie."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "La politique d'endiguement vise à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "contenir l'expansion du communisme",
+              "correct": true,
+              "explication": "Doctrine Truman."
+            },
+            {
+              "id": "b",
+              "texte": "détruire l'URSS",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Les Françaises votent pour la première fois en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1945",
+              "correct": true,
+              "explication": "Ordonnance du 21 avril 1944."
+            },
+            {
+              "id": "b",
+              "texte": "1936",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Bretton Woods organise…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le système monétaire autour du dollar",
+              "correct": true,
+              "explication": "FMI, Banque mondiale."
+            },
+            {
+              "id": "b",
+              "texte": "le partage de l'Allemagne",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "h2-c1-composition",
+      "titre": "Plan de composition : « Le monde de 1945 à 1949 : entre volonté de paix et début de la guerre froide »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « Le monde de 1945 à 1949 : entre volonté de paix et début de la guerre froide »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : 1945, un monde en ruines ; bornes 1945-1949 ; problématique : comment la volonté de construire la paix laisse-t-elle place à l'affrontement entre deux blocs ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. La volonté d'un nouvel ordre mondial**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. L'ONU (1945)",
+            "B. Juger et reconstruire : Nuremberg, Bretton Woods",
+            "C. En France, le programme du CNR (1944)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. La naissance de la guerre froide**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Deux modèles opposés",
+            "B. Doctrine Truman et plan Marshall (1947)",
+            "C. Coup de Prague (1948), blocus de Berlin, OTAN (1949) ; naissance d'Israël (1948)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : un monde bipolaire, où l'ONU est souvent paralysée par le veto."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

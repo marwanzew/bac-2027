@@ -1,0 +1,397 @@
+{
+  "matiere": "ses",
+  "chapitre": "croissance",
+  "exercices": [
+    {
+      "id": "croissance-qcm",
+      "titre": "Les sources de la croissance : 6 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 8,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 6 questions. Une explication s'affiche après chaque réponse."
+      ],
+      "methode": [
+        "Lis toutes les propositions avant de choisir.",
+        "Méfie-toi des définitions presque justes : PIB en valeur ou en volume, productivité du travail ou PGF."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Une hausse du PIB en volume signifie que…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle ; Insee"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les quantités produites ont augmenté",
+              "correct": true,
+              "explication": "En volume, l'effet des prix est retiré."
+            },
+            {
+              "id": "b",
+              "texte": "les prix ont augmenté",
+              "correct": false,
+              "explication": "C'est le PIB en valeur qui intègre la hausse des prix."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Embaucher davantage de travailleurs relève…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "de l'accumulation des facteurs",
+              "correct": true,
+              "explication": "On utilise plus de travail : c'est une croissance extensive."
+            },
+            {
+              "id": "b",
+              "texte": "de la hausse de la PGF",
+              "correct": false,
+              "explication": "La PGF augmente quand on produit plus avec les mêmes facteurs."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Quel auteur a donné son nom à la « destruction créatrice » ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "J. A. Schumpeter, Capitalisme, socialisme et démocratie, 1942"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Robert Solow",
+              "correct": false,
+              "explication": "Solow est l'auteur d'un modèle de croissance où le progrès technique est exogène (1956)."
+            },
+            {
+              "id": "b",
+              "texte": "Joseph Schumpeter",
+              "correct": true,
+              "explication": "Il décrit l'innovation comme moteur du capitalisme et de la destruction créatrice."
+            },
+            {
+              "id": "c",
+              "texte": "Douglass North",
+              "correct": false,
+              "explication": "North a étudié le rôle des institutions."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Lequel de ces investissements accroît le capital humain ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "La formation des salariés",
+              "correct": true,
+              "explication": "La formation augmente les compétences, donc le capital humain."
+            },
+            {
+              "id": "b",
+              "texte": "L'achat d'un robot",
+              "correct": false,
+              "explication": "C'est un investissement en capital physique."
+            },
+            {
+              "id": "c",
+              "texte": "La construction d'un entrepôt",
+              "correct": false,
+              "explication": "C'est aussi du capital physique."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Pourquoi le progrès technique peut-il accroître les inégalités de salaires ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme de SES de terminale, BO spécial n° 8 du 25 juillet 2019"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Parce qu'il augmente surtout la demande de travail qualifié",
+              "correct": true,
+              "explication": "Le progrès technique biaisé en faveur du travail qualifié creuse les écarts de salaires."
+            },
+            {
+              "id": "b",
+              "texte": "Parce qu'il fait baisser tous les salaires",
+              "correct": false,
+              "explication": "Non : à long terme, il élève le niveau de vie moyen ; c'est la répartition des gains qui pose question."
+            }
+          ]
+        },
+        {
+          "id": "q6",
+          "enonce": "Quelle innovation peut aider à reculer les limites écologiques ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme de SES de terminale, BO spécial n° 8 du 25 juillet 2019"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Un procédé qui réduit la consommation d'énergie d'une usine",
+              "correct": true,
+              "explication": "Il permet de produire autant avec moins de ressources et moins d'émissions."
+            },
+            {
+              "id": "b",
+              "texte": "Une hausse de la production de charbon",
+              "correct": false,
+              "explication": "Elle augmente au contraire les émissions de gaz à effet de serre."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "croissance-destruction-creatrice",
+      "titre": "Innovation et destruction créatrice",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "À l'aide d'un exemple, montrez que l'innovation s'accompagne d'un processus de destruction créatrice."
+      ],
+      "methode": [
+        "Définis les notions clés : innovation, destruction créatrice.",
+        "Explique le mécanisme en deux temps : ce qui est détruit, puis ce qui est créé.",
+        "Illustre avec un exemple précis et explique-le : ne te contente pas de le citer.",
+        "Rédige en un paragraphe argumenté (affirmation, explication, illustration)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Affirmation.** L'innovation, c'est-à-dire la mise en application économique d'une invention, s'accompagne d'un processus de destruction créatrice décrit par Joseph Schumpeter."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Explication.** Un nouveau produit ou un nouveau procédé plus performant attire les consommateurs ou réduit les coûts. Les produits, les entreprises et les emplois anciens qui ne s'adaptent pas disparaissent (destruction). Dans le même temps, de nouvelles activités, de nouvelles entreprises et de nouveaux emplois, plus productifs, apparaissent (création)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Illustration.** Le développement de la photographie numérique a fait reculer la photographie argentique : la fabrication de pellicules et les laboratoires de développement ont décliné. Mais de nouvelles activités sont nées : fabrication d'appareils numériques, logiciels de retouche, services de stockage et de partage en ligne."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Le correcteur attend les deux faces du mécanisme (destruction ET création) et un exemple expliqué."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes (innovation, destruction créatrice)",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué dans ses deux temps",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple pertinent et expliqué",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "croissance-institutions",
+      "titre": "Institutions et croissance",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que les institutions peuvent favoriser la croissance économique."
+      ],
+      "methode": [
+        "Définis « institutions » et « droits de propriété ».",
+        "Montre le lien : institutions → incitation à investir et à innover → croissance.",
+        "Développe un exemple d'institution : les droits de propriété ou le brevet."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Affirmation.** Les institutions, c'est-à-dire les règles formelles et informelles qui encadrent les comportements, peuvent favoriser la croissance en incitant à investir et à innover."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Explication.** Des droits de propriété bien définis et protégés garantissent à l'investisseur qu'il pourra profiter des gains de son investissement. Le brevet accorde à l'innovateur le droit exclusif d'exploiter son invention pendant une durée limitée (20 ans au maximum en France) : la rente de monopole temporaire qu'il en tire l'incite à investir en recherche. Plus d'investissement et plus d'innovation, c'est plus de progrès technique, donc une hausse de la productivité globale des facteurs et de la croissance."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Nuance possible.** Une protection trop forte freinerait la diffusion des innovations : la durée limitée du brevet est un compromis entre incitation à innover et diffusion."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme institutions → incitations → croissance",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple développé (droits de propriété, brevet)",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "croissance-inegalites",
+      "titre": "Progrès technique et inégalités de revenus",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que le progrès technique peut engendrer des inégalités de revenus."
+      ],
+      "methode": [
+        "Annonce l'idée : le progrès technique ne profite pas à tous de la même façon.",
+        "Développe au moins deux mécanismes, chacun expliqué.",
+        "Termine par une phrase de conclusion qui répond à la question."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "Le progrès technique élève le niveau de vie moyen, mais il peut creuser les inégalités de revenus."
+        },
+        {
+          "type": "liste",
+          "ordonnee": true,
+          "items": [
+            "**Un progrès technique biaisé en faveur du travail qualifié.** Les technologies numériques augmentent surtout la productivité des travailleurs qualifiés. Leur demande progresse plus vite que celle des travailleurs peu qualifiés, ce qui fait augmenter plus vite leurs salaires.",
+            "**La polarisation des emplois.** Les emplois intermédiaires faits de tâches routinières sont automatisés. Une partie des salariés concernés se reporte vers des emplois peu qualifiés moins bien rémunérés.",
+            "**Les rentes des innovateurs.** Les entreprises et les personnes à l'origine d'innovations à succès captent des revenus très élevés, ce qui accroît les inégalités au sommet."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion.** Le progrès technique peut donc accroître les inégalités de revenus, même si leur ampleur dépend aussi des politiques de formation et de redistribution."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Premier mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Second mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Vocabulaire précis et conclusion",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "croissance-plan-dissertation",
+      "titre": "Plan de dissertation : le progrès technique, seule source de croissance ?",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet : « Le progrès technique est-il la seule source de la croissance économique ? »",
+        "Construis la problématique et un plan détaillé en deux parties (idées directrices et arguments). Tu n'as pas à rédiger la dissertation entière."
+      ],
+      "methode": [
+        "Analyse les termes du sujet : « progrès technique », « seule », « croissance économique ».",
+        "Repère le type de sujet : une question fermée (« est-il… ? ») appelle souvent un plan « oui… mais… ».",
+        "Formule une problématique sous forme de question qui reprend la tension du sujet.",
+        "Pour chaque partie, prévois deux ou trois arguments, chacun avec un mécanisme et un exemple.",
+        "Barème sur 18 : à l'épreuve, les 2 derniers points portent sur la maîtrise de la langue."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique possible.** La croissance repose-t-elle uniquement sur le progrès technique, ou aussi sur l'accumulation des facteurs de production ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Le progrès technique est une source essentielle de la croissance.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Il augmente la productivité globale des facteurs : on produit plus avec les mêmes quantités de travail et de capital (croissance intensive).",
+            "B. Il est endogène : l'innovation, la R&D, le capital humain et les infrastructures l'entretiennent, ce qui rend la croissance durable (théories de la croissance endogène).",
+            "C. Il s'accompagne d'une destruction créatrice qui renouvelle l'appareil productif (Schumpeter)."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Mais il n'est pas la seule source de la croissance.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. L'accumulation du facteur travail (hausse de la population active, du nombre d'heures) accroît la production (croissance extensive).",
+            "B. L'accumulation du capital par l'investissement accroît aussi la production ; elle est d'ailleurs souvent nécessaire pour que le progrès technique se diffuse (il faut acheter les nouvelles machines).",
+            "C. Les institutions, notamment les droits de propriété, conditionnent l'incitation à investir et à innover."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "hors sujet fréquent",
+          "texte": "Les défis de la croissance (inégalités, limites écologiques) ne répondent pas à la question des **sources**. Ne leur consacre pas une partie."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes et problématique",
+          "points": 4
+        },
+        {
+          "critere": "Partie I : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Partie II : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Pertinence des mécanismes et des exemples",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

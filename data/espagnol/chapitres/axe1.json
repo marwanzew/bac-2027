@@ -1,0 +1,426 @@
+{
+  "id": "axe1",
+  "matiere": "espagnol",
+  "titre": "Axe 1. Espace privé et espace public",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Axes culturels de terminale",
+    "intitule": "Axe 1. Espace privé et espace public",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'espagnol pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 10",
+      "url": "https://www.education.gouv.fr/sites/default/files/annexe-10-programme-d-espagnol-pour-les-classes-de-lyc-e-g-n-ral-et-technologique-440376.pdf"
+    }
+  },
+  "objectifs": [
+    "Parler de la frontière entre vie privée et vie publique dans le monde hispanique.",
+    "Connaître des repères sur la place des femmes et les luttes pour l'égalité.",
+    "Utiliser le subjonctif présent pour exprimer un souhait ou une nécessité."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "El eje en breve · L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "ce qui est officiel",
+          "texte": "Le **titre de l'axe** vient du programme officiel. Les **pistes** proposées s'inspirent des ressources de La Clé espagnole (ENS de Lyon), qui ne sont pas des consignes officielles : ton professeur choisit ses propres documents."
+        },
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVB, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B1**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Cet axe interroge la **frontière entre l'espace privé** (la maison, la famille, l'intimité) **et l'espace public** (la rue, la politique, les réseaux sociaux). Dans le monde hispanique, on peut l'étudier à travers la place des femmes, la ville comme espace social, ou ce que l'on montre de soi sur Internet."
+        }
+      ]
+    },
+    {
+      "id": "vocabulario",
+      "titre": "Vocabulario",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Vocabulaire de l'axe",
+          "colonnes": [
+            "Español",
+            "Français",
+            "Ejemplo"
+          ],
+          "lignes": [
+            [
+              "la intimidad",
+              "l'intimité",
+              "Las redes sociales amenazan la intimidad."
+            ],
+            [
+              "la vida privada",
+              "la vie privée",
+              "Respetar la vida privada."
+            ],
+            [
+              "el espacio público",
+              "l'espace public",
+              "Las mujeres reclaman el espacio público."
+            ],
+            [
+              "la igualdad",
+              "l'égalité",
+              "Luchar por la igualdad."
+            ],
+            [
+              "la violencia de género",
+              "les violences faites aux femmes",
+              "Una ley contra la violencia de género."
+            ],
+            [
+              "manifestarse",
+              "manifester",
+              "Miles de personas se manifiestan."
+            ],
+            [
+              "el barrio",
+              "le quartier",
+              "Un barrio popular de Madrid."
+            ],
+            [
+              "las redes sociales",
+              "les réseaux sociaux",
+              "Publicar fotos en las redes sociales."
+            ],
+            [
+              "denunciar",
+              "dénoncer",
+              "Denunciar una injusticia."
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "intimidad"
+        },
+        {
+          "type": "definition",
+          "glossaire": "igualdad"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "titre": "Referencias culturales · Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Pourquoi c'est important"
+          ],
+          "lignes": [
+            [
+              "Droit de vote des femmes en Espagne (Clara Campoamor)",
+              "1931",
+              "Conquête de l'espace politique"
+            ],
+            [
+              "Federico García Lorca, *La casa de Bernarda Alba*",
+              "écrite en 1936",
+              "Des femmes enfermées dans la maison par une mère autoritaire"
+            ],
+            [
+              "Pedro Almodóvar, *¿Qué he hecho yo para merecer esto!!*",
+              "1984",
+              "Une femme au foyer épuisée dans un Madrid populaire"
+            ],
+            [
+              "Loi espagnole contre la violence de genre",
+              "2004",
+              "Les violences privées deviennent une question publique"
+            ],
+            [
+              "Mariage entre personnes de même sexe en Espagne",
+              "2005",
+              "Un droit de la vie privée reconnu par la loi"
+            ],
+            [
+              "Mouvement *Ni una menos* (Argentine)",
+              "2015",
+              "Mobilisation contre les féminicides"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pistes",
+      "titre": "Pistas de reflexión · Pistes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**La place des femmes** : de la maison à l'espace public et politique.",
+            "**La ville et les villages** comme espaces de rencontre et de conflit.",
+            "**Les réseaux sociaux** : où s'arrête la vie privée ?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "titre": "Gramática · Le point de grammaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**El subjuntivo presente** : après un verbe de volonté, de souhait ou de nécessité suivi de *que*, on emploie le subjonctif."
+        },
+        {
+          "type": "tableau",
+          "titre": "Formation",
+          "colonnes": [
+            "Verbe",
+            "Subjonctif présent (yo / ellos)"
+          ],
+          "lignes": [
+            [
+              "hablar",
+              "hable / hablen"
+            ],
+            [
+              "comer",
+              "coma / coman"
+            ],
+            [
+              "vivir",
+              "viva / vivan"
+            ],
+            [
+              "tener",
+              "tenga / tengan"
+            ],
+            [
+              "ser",
+              "sea / sean"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Quiero que las mujeres **tengan** los mismos derechos. (Je veux que…)",
+            "Es necesario que **respetemos** la vida privada. (Il est nécessaire que…)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frases",
+      "titre": "Frases útiles · Phrases utiles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Pour parler ou écrire sur l'axe",
+          "colonnes": [
+            "Español",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "En mi opinión…",
+              "À mon avis…"
+            ],
+            [
+              "Es importante que + subjuntivo",
+              "Il est important que…"
+            ],
+            [
+              "Por un lado… por otro lado…",
+              "D'un côté… de l'autre…"
+            ],
+            [
+              "Hoy en día…",
+              "De nos jours…"
+            ],
+            [
+              "Cada vez más…",
+              "De plus en plus…"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Droit de vote des femmes en Espagne",
+      "valeur": "1931",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Loi espagnole contre la violence de genre",
+      "valeur": "2004",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Mouvement Ni una menos",
+      "valeur": "2015",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Axe 1. Espace privé et espace public : l'essentiel",
+    "colonnes": [
+      "Aspect",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "Vocabulaire clé",
+        "la intimidad, la vida privada, el espacio público, la igualdad, la violencia de género, manifestarse"
+      ],
+      [
+        "Repères",
+        "Droit de vote des femmes en Espagne (Clara Campoamor) (1931), Federico García Lorca, *La casa de Bernarda Alba* (écrite en 1936), Pedro Almodóvar, *¿Qué he hecho yo para merecer esto!!* (1984), Loi espagnole contre la violence de genre (2004)"
+      ],
+      [
+        "Grammaire",
+        "El subjuntivo presente"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Privé / public** : la maison, la rue, les réseaux.",
+    "**Femmes** : vote en Espagne (1931), loi de 2004, *Ni una menos* (2015).",
+    "**Œuvres** : Lorca, *La casa de Bernarda Alba* ; Almodóvar (1984).",
+    "**Grammaire** : *querer que / es necesario que* + subjonctif.",
+    "**Vocabulaire** : intimidad, igualdad, violencia de género, manifestarse, redes sociales."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*la intimidad* signifie…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "l'intimité",
+          "correct": true,
+          "explication": "La vie privée."
+        },
+        {
+          "id": "b",
+          "texte": "l'intimidation",
+          "correct": false,
+          "explication": "Faux ami."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Les femmes espagnoles obtiennent le droit de vote en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1931",
+          "correct": true,
+          "explication": "Clara Campoamor."
+        },
+        {
+          "id": "b",
+          "texte": "1975",
+          "correct": false,
+          "explication": "Mort de Franco."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*Quiero que tú…*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "vengas",
+          "correct": true,
+          "explication": "Subjonctif après querer que."
+        },
+        {
+          "id": "b",
+          "texte": "vienes",
+          "correct": false,
+          "explication": "Indicatif : incorrect ici."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*Ni una menos* est un mouvement né en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Argentine",
+          "correct": true,
+          "explication": "2015, contre les féminicides."
+        },
+        {
+          "id": "b",
+          "texte": "Espagne",
+          "correct": false,
+          "explication": "Il est né en Argentine."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*La casa de Bernarda Alba* est de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Federico García Lorca",
+          "correct": true,
+          "explication": "Écrite en 1936."
+        },
+        {
+          "id": "b",
+          "texte": "Pedro Almodóvar",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

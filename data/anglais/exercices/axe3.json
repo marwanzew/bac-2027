@@ -1,0 +1,255 @@
+{
+  "matiere": "anglais",
+  "chapitre": "axe3",
+  "exercices": [
+    {
+      "id": "axe3-qcm",
+      "titre": "Vocabulary: 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*a dystopia*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une dystopie",
+              "correct": true,
+              "explication": "Société oppressive imaginaire."
+            },
+            {
+              "id": "b",
+              "texte": "une utopie heureuse",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*reality TV*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la téléréalité",
+              "correct": true,
+              "explication": "A reality TV show."
+            },
+            {
+              "id": "b",
+              "texte": "la télé en direct",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*If we do nothing, AI … our lives.*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "will change",
+              "correct": true,
+              "explication": "Conditionnel réel."
+            },
+            {
+              "id": "b",
+              "texte": "would changed",
+              "correct": false,
+              "explication": "Incorrect."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*plausible*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "vraisemblable",
+              "correct": true,
+              "explication": "A plausible future."
+            },
+            {
+              "id": "b",
+              "texte": "plausible au sens de « louable »",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*The Truman Show* sort en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère culturel (date établie)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1998",
+              "correct": true,
+              "explication": "Peter Weir."
+            },
+            {
+              "id": "b",
+              "texte": "1949",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe3-comprension",
+      "titre": "Reading comprehension",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Read the text and answer the questions. (Lis le texte et réponds aux questions.)",
+        "1. What did the video show?",
+        "2. What was the truth about the video?",
+        "3. Why did the student share it?",
+        "4. What are the consequences of the case?"
+      ],
+      "documents": [
+        {
+          "titre": "Text (written for practice)",
+          "contenu": "Last week, a video of a famous actor apologising for a crime he had never committed went viral. Millions of people shared it before experts revealed that it was a deepfake, created with artificial intelligence. \"It looked so real,\" said a student who had shared it. \"I didn't even think of checking.\" The actor's lawyers have announced that they will take legal action. The case has relaunched the debate on how to protect people from fake images.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. It showed a famous actor apologising for a crime he had never committed.",
+            "2. It was a deepfake created with artificial intelligence.",
+            "3. Because it looked real and she didn't think of checking.",
+            "4. The actor's lawyers will take legal action, and the debate on protecting people from fake images has started again."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe3-expresion",
+      "titre": "Written expression",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "\"Fiction helps us understand reality.\" Do you agree? Write about 180 words."
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *first, moreover, however, therefore, to conclude*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (niveau B2, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Some people think that fiction is only entertainment. Yet fiction often helps us understand reality."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "First, dystopias work as warnings. In *Nineteen Eighty-Four* (1949), George Orwell imagined a society under total surveillance. Today, when we talk about cameras or data collection, we still use the expression \"Big Brother\"."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Moreover, fiction lets us experience other lives. A novel or a film can make us feel what it is like to be someone completely different, which develops empathy."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "However, fiction can also be dangerous when it is mistaken for reality, as deepfakes show."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "To conclude, I agree with the statement, as long as we remain aware of the difference between the story and the facts."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

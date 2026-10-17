@@ -1,0 +1,319 @@
+{
+  "id": "explication-texte",
+  "matiere": "philosophie",
+  "titre": "Méthode : l'explication de texte",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthode",
+    "intitule": "Épreuve écrite de philosophie : l'explication de texte",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service du 11 septembre 2026 définissant l'épreuve de philosophie, BO spécial n° 4 du 17 septembre 2026",
+      "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2622661N",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Savoir dégager la thèse, le problème et la structure d'un texte.",
+    "Expliquer le texte phrase par phrase sans le paraphraser.",
+    "Discuter l'intérêt et les limites de la thèse."
+  ],
+  "parties": [
+    {
+      "id": "principe",
+      "titre": "Ce qu'on attend",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "L'épreuve écrite de philosophie (session 2027)",
+          "colonnes": [
+            "Élément",
+            "Ce que dit le texte officiel"
+          ],
+          "lignes": [
+            [
+              "Date",
+              "Lundi 14 juin 2027, le matin"
+            ],
+            [
+              "Durée",
+              "4 heures"
+            ],
+            [
+              "Choix",
+              "3 sujets : 2 sujets de dissertation et 1 explication de texte ; tu en traites un seul"
+            ],
+            [
+              "Dissertation",
+              "Une question simple portant sur une ou plusieurs notions du programme"
+            ],
+            [
+              "Explication de texte",
+              "Un extrait d'un auteur du programme ; il n'est pas nécessaire de connaître la doctrine ou l'œuvre de l'auteur"
+            ],
+            [
+              "Notation",
+              "Globale, de 0 à 20 ; coefficient 8"
+            ],
+            [
+              "Langue",
+              "Orthographe, syntaxe, organisation et précision du vocabulaire comptent dans l'évaluation ; une copie défaillante sur l'ensemble de la maîtrise de la langue ne peut pas avoir la moyenne"
+            ]
+          ]
+        },
+        {
+          "type": "citation",
+          "texte": "L'explication de texte s'attache à dégager les enjeux philosophiques et la démarche propre d'un passage",
+          "auteur": "Programme de philosophie de terminale",
+          "oeuvre": "arrêté du 19 juillet 2019",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+            "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+            "consulteLe": "2026-10-17"
+          }
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Tu n'as pas besoin de connaître l'auteur : le texte suffit. On attend que tu **comprennes** ce qu'il dit, **comment** il le dit, et **pourquoi** c'est important."
+        },
+        {
+          "type": "piege",
+          "titre": "la paraphrase",
+          "texte": "Répéter le texte avec d'autres mots n'est pas expliquer. Expliquer, c'est montrer le sens des mots, les étapes de l'argument, ce que l'auteur combat, et illustrer par des exemples."
+        }
+      ]
+    },
+    {
+      "id": "lecture",
+      "titre": "Étape 1 : lire et comprendre",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Lis le texte plusieurs fois**, crayon en main.",
+            "**Trouve le thème** (de quoi parle-t-il ?), la **thèse** (que soutient l'auteur ?) et le **problème** (à quelle question répond-il ?).",
+            "**Repère la thèse adverse** : contre quelle idée l'auteur écrit-il ?",
+            "**Découpe le texte** en parties selon les étapes de l'argumentation (connecteurs : mais, donc, car, en effet…).",
+            "**Souligne les mots-clés** et définis-les."
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Avant d'écrire, tu dois pouvoir dire en **une phrase** : « Dans ce texte, l'auteur soutient que… contre l'idée que…, en montrant d'abord…, puis… »."
+        }
+      ]
+    },
+    {
+      "id": "redaction",
+      "titre": "Étape 2 : rédiger",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Structure de l'explication",
+          "colonnes": [
+            "Partie",
+            "Contenu"
+          ],
+          "lignes": [
+            [
+              "Introduction",
+              "Thème, problème, thèse, enjeu, annonce des étapes du texte"
+            ],
+            [
+              "Développement",
+              "Explication suivie du texte, partie par partie : sens des mots, articulation des idées, exemples qui illustrent, objections possibles"
+            ],
+            [
+              "Conclusion",
+              "Rappel de la thèse et de la démarche ; intérêt du texte ; éventuellement une limite discutée"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Cite de courts passages entre guillemets, puis **explique-les**.",
+            "Pour chaque idée : **qu'est-ce que l'auteur dit ? pourquoi le dit-il ? qu'est-ce que cela implique ?**",
+            "Donne des **exemples concrets** qui ne sont pas dans le texte.",
+            "Tu peux **discuter** la thèse (montrer une limite), mais seulement après l'avoir bien expliquée."
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Durée de l'épreuve",
+      "valeur": "4 heures",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026 définissant l'épreuve de philosophie, BO spécial n° 4 du 17 septembre 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2622661N",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "notion",
+      "libelle": "Connaissance de l'auteur",
+      "valeur": "Pas exigée : le texte suffit",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026 définissant l'épreuve de philosophie, BO spécial n° 4 du 17 septembre 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2622661N",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "L'explication en 3 temps",
+    "sens": "horizontal",
+    "noeuds": [
+      {
+        "id": "c",
+        "texte": "Comprendre : thème, thèse, problème, structure"
+      },
+      {
+        "id": "e",
+        "texte": "Expliquer : partie par partie, exemples"
+      },
+      {
+        "id": "d",
+        "texte": "Discuter : intérêt et limites"
+      }
+    ],
+    "liens": [
+      {
+        "de": "c",
+        "vers": "e"
+      },
+      {
+        "de": "e",
+        "vers": "d"
+      }
+    ]
+  },
+  "fiche": [
+    "**Pas besoin de connaître l'auteur** : le texte suffit.",
+    "**Thème, thèse, problème, thèse adverse, structure** : à trouver avant d'écrire.",
+    "**Expliquer ≠ paraphraser** : sens des mots, articulation, exemples, implications.",
+    "**Plan** : introduction → explication suivie → conclusion.",
+    "**Discussion** : seulement après une explication solide."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Faut-il connaître la doctrine de l'auteur ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026 définissant l'épreuve de philosophie, BO spécial n° 4 du 17 septembre 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2622661N",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Non",
+          "correct": true,
+          "explication": "La note de service le précise."
+        },
+        {
+          "id": "b",
+          "texte": "Oui, obligatoirement",
+          "correct": false,
+          "explication": "Faux."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La thèse d'un texte, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "l'idée que l'auteur soutient",
+          "correct": true,
+          "explication": "À formuler en une phrase."
+        },
+        {
+          "id": "b",
+          "texte": "le thème général",
+          "correct": false,
+          "explication": "Le thème est ce dont parle le texte."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Paraphraser, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "répéter le texte avec d'autres mots",
+          "correct": true,
+          "explication": "À éviter."
+        },
+        {
+          "id": "b",
+          "texte": "expliquer le texte",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Pour découper un texte, on s'appuie surtout sur…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "les connecteurs logiques et les étapes de l'argument",
+          "correct": true,
+          "explication": "Mais, donc, car, en effet…"
+        },
+        {
+          "id": "b",
+          "texte": "le nombre de lignes",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Quand discuter la thèse ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Après l'avoir expliquée",
+          "correct": true,
+          "explication": "L'explication passe d'abord."
+        },
+        {
+          "id": "b",
+          "texte": "Dès l'introduction",
+          "correct": false,
+          "explication": "Trop tôt."
+        }
+      ]
+    }
+  ]
+}

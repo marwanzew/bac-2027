@@ -1,0 +1,198 @@
+{
+  "matiere": "francais",
+  "chapitre": "theatre",
+  "exercices": [
+    {
+      "id": "theatre-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le Menteur est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une comédie en vers",
+              "correct": true,
+              "explication": "Cinq actes."
+            },
+            {
+              "id": "b",
+              "texte": "une tragédie",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Camille a été élevée…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "au couvent",
+              "correct": true,
+              "explication": "Elle se méfie de l'amour."
+            },
+            {
+              "id": "b",
+              "texte": "à la cour",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Les didascalies sont…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les indications de mise en scène",
+              "correct": true,
+              "explication": "Écrites par l'auteur."
+            },
+            {
+              "id": "b",
+              "texte": "les répliques du héros",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "La dispute chez Sarraute naît…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "d'une phrase dite avec une certaine intonation",
+              "correct": true,
+              "explication": "« C'est bien… ça »."
+            },
+            {
+              "id": "b",
+              "texte": "d'un héritage",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Une suite de répliques très courtes s'appelle…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une stichomythie",
+              "correct": true,
+              "explication": "Effet de vivacité."
+            },
+            {
+              "id": "b",
+              "texte": "une tirade",
+              "correct": false,
+              "explication": "Longue réplique."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "theatre-diss",
+      "titre": "Plan de dissertation : On ne badine pas avec l'amour",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 60,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner, au format bac) : « Dans On ne badine pas avec l'amour, la parole est-elle seulement un jeu ? »",
+        "Rédige l'introduction et un plan détaillé en deux ou trois parties, avec des exemples précis tirés de l'œuvre et du parcours."
+      ],
+      "methode": [
+        "Analyse chaque mot du sujet, reformule-le, puis pose une problématique.",
+        "Chaque sous-partie = un argument + un exemple précis (épisode, personnage, citation courte que tu as vérifiée dans ton édition)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique** : les jeux de parole ne sont-ils qu'un divertissement, ou deviennent-ils une arme dangereuse ?"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**I. Une parole qui joue et amuse** : personnages grotesques (le Baron, Blazius, Bridaine), comique de répétition, joutes verbales entre Perdican et Camille.",
+            "**II. Une parole qui manipule et blesse** : orgueil, mensonges, Rosette utilisée pour provoquer la jalousie.",
+            "**III. Une parole aux conséquences tragiques** : le jeu se retourne contre les personnages ; la fin tragique illustre le titre."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : le jeu de la parole devient dangereux quand il touche au cœur, ce qui correspond au parcours « les jeux du cœur et de la parole »."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (accroche, sujet, problématique, annonce)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la question",
+          "points": 6
+        },
+        {
+          "critere": "Connaissance précise de l'œuvre et du parcours",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

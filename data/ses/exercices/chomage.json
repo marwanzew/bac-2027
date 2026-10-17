@@ -1,0 +1,297 @@
+{
+  "matiere": "ses",
+  "chapitre": "chomage",
+  "exercices": [
+    {
+      "id": "chomage-qcm",
+      "titre": "Le chômage : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Pour le BIT, vérifie les trois conditions une par une."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Léa, 20 ans, sans emploi, a envoyé des candidatures cette semaine et peut commencer lundi. Au sens du BIT, elle est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Insee, définition « Chômeur (au sens du BIT) »"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "chômeuse",
+              "correct": true,
+              "explication": "Elle remplit les trois conditions."
+            },
+            {
+              "id": "b",
+              "texte": "inactive",
+              "correct": false,
+              "explication": "Elle cherche activement et est disponible."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Tom travaille 20 h par semaine et voudrait travailler 35 h. Il est en situation de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Insee, documentation de l'enquête Emploi"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "sous-emploi",
+              "correct": true,
+              "explication": "Temps partiel subi, disponible pour travailler plus."
+            },
+            {
+              "id": "b",
+              "texte": "chômage",
+              "correct": false,
+              "explication": "Il a un emploi, donc il n'est pas chômeur."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Un employeur paie au-dessus du marché pour motiver ses salariés. Il verse…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme de SES de terminale, BO spécial n° 8 du 25 juillet 2019"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un salaire d'efficience",
+              "correct": true,
+              "explication": "Réponse à l'asymétrie d'information sur l'effort."
+            },
+            {
+              "id": "b",
+              "texte": "le salaire minimum",
+              "correct": false,
+              "explication": "Le salaire minimum est un plancher légal."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "La baisse des cotisations patronales sur les bas salaires vise à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme de SES de terminale, BO spécial n° 8 du 25 juillet 2019"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "réduire le coût du travail peu qualifié",
+              "correct": true,
+              "explication": "Pour favoriser son embauche."
+            },
+            {
+              "id": "b",
+              "texte": "soutenir directement la demande globale",
+              "correct": false,
+              "explication": "C'est l'objectif de la relance budgétaire ou monétaire."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Lors d'une récession, la hausse du chômage est surtout…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme de SES de terminale, BO spécial n° 8 du 25 juillet 2019"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "conjoncturelle",
+              "correct": true,
+              "explication": "Liée à la baisse de l'activité."
+            },
+            {
+              "id": "b",
+              "texte": "structurelle",
+              "correct": false,
+              "explication": "Le chômage structurel ne dépend pas de la conjoncture."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "chomage-appariement",
+      "titre": "Appariement et chômage structurel",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que les problèmes d'appariement sont une source de chômage structurel."
+      ],
+      "methode": [
+        "Définis chômage structurel et appariement.",
+        "Explique les trois sources : frictions, inadéquation spatiale, inadéquation des qualifications.",
+        "Donne un exemple d'emplois vacants qui coexistent avec du chômage."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Affirmation.** Les difficultés d'appariement, c'est-à-dire de rencontre entre offres et demandes d'emploi, expliquent qu'il existe du chômage même quand des emplois sont vacants : c'est un chômage structurel."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Explication.** Chercher un emploi et recruter prend du temps (frictions). Les emplois ne sont pas toujours là où vivent les chômeurs (inadéquation spatiale). Enfin, les compétences des chômeurs ne correspondent pas toujours à celles qu'attendent les employeurs (inadéquation des qualifications)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Illustration.** Des entreprises peinent à recruter des soudeurs ou des développeurs alors que des chômeurs sans ces qualifications cherchent un emploi."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "chomage-politiques",
+      "titre": "Quelle politique pour quel chômage ?",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que les politiques de lutte contre le chômage dépendent de sa nature."
+      ],
+      "methode": [
+        "Distingue chômage conjoncturel et chômage structurel.",
+        "Associe à chacun ses politiques avec leur mécanisme.",
+        "Mentionne une limite."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Chômage conjoncturel.** Il vient d'une demande globale insuffisante. Une politique budgétaire (hausse des dépenses publiques, baisse d'impôts) ou monétaire (baisse des taux d'intérêt) soutient la demande, donc la production et l'emploi. Limite : la relance budgétaire creuse le déficit public."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Chômage structurel.** Il vient du fonctionnement du marché du travail. La formation réduit l'inadéquation des qualifications ; l'allègement du coût du travail favorise l'embauche des peu qualifiés ; la flexibilisation réduit les rigidités. Limite : la flexibilisation peut accroître la précarité."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Distinction des deux types de chômage",
+          "points": 1
+        },
+        {
+          "critere": "Politiques et mécanismes",
+          "points": 2
+        },
+        {
+          "critere": "Une limite",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "chomage-plan-dissertation",
+      "titre": "Plan de dissertation : soutenir la demande suffit-il ?",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet : « Les politiques de soutien de la demande globale suffisent-elles à lutter contre le chômage ? »",
+        "Construis la problématique et un plan détaillé en deux parties."
+      ],
+      "methode": [
+        "Définis demande globale, chômage conjoncturel, chômage structurel.",
+        "Plan « oui… mais… ».",
+        "Barème sur 18 : à l'épreuve, les 2 derniers points portent sur la maîtrise de la langue."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique possible.** Relancer la demande permet-il de réduire tous les types de chômage ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Le soutien de la demande réduit le chômage conjoncturel.**"
+        },
+        {
+          "type": "liste",
+          "ordonnee": false,
+          "items": [
+            "A. Une demande insuffisante conduit les entreprises à produire et à employer moins (Keynes).",
+            "B. La politique budgétaire soutient directement la demande.",
+            "C. La politique monétaire, en baissant les taux d'intérêt, encourage la consommation et l'investissement."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Mais elle ne suffit pas face au chômage structurel.**"
+        },
+        {
+          "type": "liste",
+          "ordonnee": false,
+          "items": [
+            "A. Les problèmes d'appariement persistent même quand la demande est forte : il faut former et accompagner.",
+            "B. Un coût du travail élevé pour les peu qualifiés appelle des allègements de cotisations.",
+            "C. Les rigidités du marché du travail appellent des politiques de flexibilisation, qui ont elles-mêmes des limites."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes et problématique",
+          "points": 4
+        },
+        {
+          "critere": "Partie I : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Partie II : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Pertinence des mécanismes et des exemples",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "matiere": "llcer",
+  "chapitre": "methode-synthese",
+  "exercices": [
+    {
+      "id": "synthese-entrainement",
+      "titre": "Mini-synthèse : leaving home",
+      "type": "synthese",
+      "difficulte": "bac",
+      "dureeMinutes": 60,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Thématique « Voyages, territoires, frontières », axe « Migration et exil ». Les trois documents ont été écrits pour l'entraînement (dossier plus court qu'à l'examen).",
+        "In about 250 words, answer the following questions: 1) What feelings are associated with leaving one's country in the three documents? 2) To what extent is leaving presented as an opportunity?"
+      ],
+      "documents": [
+        {
+          "titre": "Document 1 : short story (écrit pour l'entraînement)",
+          "contenu": "Excerpt from a short story (written for practice). The night before the boat left, Aileen walked to the end of the pier and looked back at the town. She tried to memorise everything: the church tower, the red door of the bakery, the light in her parents' kitchen. Her brother had told her she would come back rich. She did not want to be rich. She only wanted, one day, to stand here again and recognise it all.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        },
+        {
+          "titre": "Document 2 : article de presse fictif",
+          "contenu": "Article (fictitious newspaper, written for practice), 2026. More than half of the young graduates interviewed for our survey say they would consider working abroad. For most of them, leaving is not an escape but an opportunity: higher salaries, new languages, new friendships. \"I'm not leaving my country, I'm adding another one,\" says Tom, 24, who has just moved to Toronto. Yet many admit that the first months are the hardest, when loneliness hits.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        },
+        {
+          "titre": "Document 3 : description d'une photographie (fictive)",
+          "contenu": "Iconographic document (description, written for practice): a black-and-white photograph shows a young woman on the deck of a ship, waving at a crowd on the quay. Her face is turned towards the land; behind her, the sea is empty and grey.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        }
+      ],
+      "methode": [
+        "Fais la grille idées × documents avant d'écrire.",
+        "Introduction : présente les trois documents et la problématique.",
+        "Paragraphe 1 = consigne 1 ; paragraphe 2 = consigne 2.",
+        "Chaque idée doit s'appuyer sur au moins deux documents."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model synthesis** (≈ 250 mots, un exemple parmi d'autres) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "The three documents deal with the experience of leaving one's country: an excerpt from a short story about Aileen on the eve of her departure, a newspaper article about young graduates who move abroad, and a photograph of a young woman waving from a ship. They raise the question of whether leaving home is a loss or a chance."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "First of all, departure is associated with strong and mixed feelings. Both Aileen in document 1 and the young woman in document 3 look back at the land they are leaving, which suggests attachment and nostalgia. Aileen tries to \"memorise everything\", as if she were afraid of losing her memories. Document 2 also mentions the loneliness of the first months abroad."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "However, leaving is not presented only as a loss. In document 2, most young graduates see moving abroad as an opportunity to earn more, learn new languages and make new friends. Tom's words, \"I'm not leaving my country, I'm adding another one\", show that migration can enrich one's identity rather than erase it. Yet document 1 nuances this vision: Aileen does not dream of becoming rich, she only hopes to come back one day."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "To conclude, the documents show that leaving one's country is both painful and full of promise: the hope of a new life always goes together with the fear of losing one's roots."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse aux deux consignes",
+          "points": 5
+        },
+        {
+          "critere": "Croisement des documents (pas de résumé un par un)",
+          "points": 4
+        },
+        {
+          "critere": "Organisation et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "id": "faux-amis-qcm",
+      "titre": "Faux amis : 5 pièges",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Méfie-toi des mots qui ressemblent trop au français."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*Eventually, she agreed.*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Finalement, elle accepta.",
+              "correct": true,
+              "explication": "eventually = finalement."
+            },
+            {
+              "id": "b",
+              "texte": "Éventuellement, elle accepta.",
+              "correct": false,
+              "explication": "Faux ami."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*He went to the library.*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Il alla à la bibliothèque.",
+              "correct": true,
+              "explication": "library = bibliothèque."
+            },
+            {
+              "id": "b",
+              "texte": "Il alla à la librairie.",
+              "correct": false,
+              "explication": "Librairie = bookshop."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*She pretended to be asleep.*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Elle fit semblant de dormir.",
+              "correct": true,
+              "explication": "to pretend = faire semblant."
+            },
+            {
+              "id": "b",
+              "texte": "Elle prétendit dormir.",
+              "correct": false,
+              "explication": "Faux ami."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*He realised his mistake.*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Il se rendit compte de son erreur.",
+              "correct": true,
+              "explication": "to realise = se rendre compte."
+            },
+            {
+              "id": "b",
+              "texte": "Il réalisa son erreur.",
+              "correct": false,
+              "explication": "Calque fautif."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*It was a great deception.*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "C'était une grande tromperie.",
+              "correct": true,
+              "explication": "deception = tromperie."
+            },
+            {
+              "id": "b",
+              "texte": "C'était une grande déception.",
+              "correct": false,
+              "explication": "Déception = disappointment."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "traduction-methode",
+      "titre": "Translation : the bookshop",
+      "type": "traduction",
+      "difficulte": "bac",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Translate the following passage into French. (Traduis le passage en français.)"
+      ],
+      "documents": [
+        {
+          "titre": "Passage à traduire (texte écrit pour l'entraînement)",
+          "contenu": "The bookshop had been in the family for three generations. When his father fell ill, Daniel was asked to look after it for a few weeks. He had always pretended to hate books, but on the first evening, alone among the shelves, he realised that he knew where every single one of them was. He stayed until midnight, reading.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        }
+      ],
+      "methode": [
+        "Lis tout le passage avant de traduire une seule phrase.",
+        "Repère les temps : le prétérit d'un récit se traduit souvent par le passé simple ou le passé composé, et par l'imparfait pour les descriptions.",
+        "Ne traduis pas mot à mot : la phrase française doit sonner naturelle.",
+        "Relis ta traduction comme un texte français, sans regarder l'anglais.",
+        "*bookshop* = librairie (et *library* = bibliothèque).",
+        "*had been in the family for three generations* : « appartenait à la famille depuis… » (pluperfect + for → imparfait + depuis).",
+        "*was asked* : passif → « on demanda à Daniel ».",
+        "*pretended* et *realised* : deux faux amis."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Proposition de traduction** (d'autres versions sont possibles) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La librairie appartenait à la famille depuis trois générations. Quand son père tomba malade, on demanda à Daniel de s'en occuper pendant quelques semaines. Il avait toujours fait semblant de détester les livres, mais dès le premier soir, seul au milieu des rayonnages, il se rendit compte qu'il savait où se trouvait chacun d'entre eux. Il resta jusqu'à minuit, à lire."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Sens exact (pas de contresens ni d'oubli)",
+          "points": 2
+        },
+        {
+          "critere": "Correction et naturel du français",
+          "points": 1.5
+        },
+        {
+          "critere": "Temps et registre respectés",
+          "points": 0.5
+        }
+      ]
+    }
+  ]
+}

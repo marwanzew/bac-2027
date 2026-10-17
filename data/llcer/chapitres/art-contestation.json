@@ -1,0 +1,454 @@
+{
+  "id": "art-contestation",
+  "matiere": "llcer",
+  "titre": "Art et contestation",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thématique « Arts et débats d'idées »",
+    "intitule": "Art et contestation",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Expliquer en anglais comment une œuvre peut critiquer la société ou le pouvoir.",
+    "Distinguer la contestation **dans** l'art (une œuvre qui dénonce) et l'art **contestataire** (une œuvre qui bouscule aussi les formes).",
+    "Utiliser le vocabulaire de l'engagement : satire, subversion, testimony, resistance.",
+    "Relier l'axe à des œuvres du monde anglophone et du programme limitatif."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment lire cet axe",
+          "texte": "Le programme officiel présente chaque axe par une problématique, des mots-clés et des pistes d'œuvres. Les objectifs « À la fin, je dois savoir… » sont une reformulation pédagogique ; les mots-clés et les pistes, eux, viennent du programme."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique de la thématique (programme)** : quels liens unissent les arts et les débats d'idées dans le monde anglophone ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'axe** : l'art peut **contester** l'ordre établi : dénoncer une injustice, se moquer des puissants, témoigner d'une souffrance, résister à une oppression. Le programme invite à distinguer :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**la contestation dans l'art** : le sujet de l'œuvre est une critique (un roman qui dénonce la misère ouvrière) ;",
+            "**l'art contestataire** : la forme même de l'œuvre rompt avec les règles (écriture expérimentale, détournement d'images publicitaires) : le choix esthétique est lui-même un engagement."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "un art « conservateur » aussi",
+          "texte": "Le programme cite aussi des œuvres conservatrices ou nostalgiques (Kipling, Waugh) : contester, c'est parfois défendre l'ordre ancien contre le changement. Cela enrichit une synthèse."
+        }
+      ]
+    },
+    {
+      "id": "vocabulaire",
+      "titre": "Key words : le vocabulaire de l'axe",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Mots-clés du programme et vocabulaire utile",
+          "colonnes": [
+            "English",
+            "Français",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "commitment / committed",
+              "engagement / engagé",
+              "a committed writer"
+            ],
+            [
+              "satire / satirical",
+              "satire / satirique",
+              "Hogarth's satirical engravings"
+            ],
+            [
+              "subversion / subversive",
+              "subversion / subversif",
+              "a subversive use of advertising images"
+            ],
+            [
+              "testimony / to bear witness",
+              "témoignage / témoigner",
+              "the novel bears witness to colonial violence"
+            ],
+            [
+              "resistance / to resist",
+              "résistance / résister",
+              "art as a form of resistance"
+            ],
+            [
+              "protest / to protest against",
+              "contestation / protester contre",
+              "a protest song"
+            ],
+            [
+              "to denounce / to expose",
+              "dénoncer / révéler",
+              "to expose social injustice"
+            ],
+            [
+              "to challenge",
+              "remettre en cause",
+              "to challenge authority"
+            ],
+            [
+              "dissent",
+              "désaccord, dissidence",
+              "a voice of dissent"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "satire"
+        },
+        {
+          "type": "definition",
+          "glossaire": "irony"
+        },
+        {
+          "type": "definition",
+          "glossaire": "dystopia"
+        }
+      ]
+    },
+    {
+      "id": "reperes-culturels",
+      "titre": "Repères culturels",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Les **pistes citées par le programme** et quelques repères sûrs pour nourrir une synthèse :"
+        },
+        {
+          "type": "tableau",
+          "titre": "Œuvres et artistes",
+          "colonnes": [
+            "Œuvre / artiste",
+            "Date",
+            "En quoi c'est de la contestation"
+          ],
+          "lignes": [
+            [
+              "William Hogarth, *Gin Lane* (gravure)",
+              "1751",
+              "Satire des ravages de l'alcool dans les quartiers pauvres de Londres"
+            ],
+            [
+              "Charles Dickens, *Hard Times* (roman)",
+              "1854",
+              "Critique de la société industrielle et de l'éducation utilitariste"
+            ],
+            [
+              "Chinua Achebe, *Things Fall Apart* (roman, Nigeria)",
+              "1958",
+              "Réponse africaine au regard colonial : raconter l'histoire du point de vue des colonisés"
+            ],
+            [
+              "Andy Warhol, *Campbell's Soup Cans* (pop art)",
+              "1962",
+              "Détourne les images de la consommation de masse : la forme interroge la société"
+            ],
+            [
+              "Billie Holiday, *Strange Fruit* (chanson)",
+              "1939",
+              "Chanson contre les lynchages dans le Sud des États-Unis"
+            ],
+            [
+              "Ken Loach, *I, Daniel Blake* (film)",
+              "2016",
+              "Dénonce l'administration sociale britannique ; Palme d'or à Cannes"
+            ],
+            [
+              "Street art (Banksy…)",
+              "depuis les années 1990",
+              "Art illégal, anonyme, dans l'espace public : la forme elle-même conteste"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "postcolonial-literature"
+        }
+      ]
+    },
+    {
+      "id": "programme-limitatif",
+      "titre": "Liens possibles avec le programme limitatif",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "des pistes, pas des règles",
+          "texte": "Ton professeur choisit trois œuvres et l'axe auquel il les relie. Les liens ci-dessous sont des pistes de réflexion."
+        },
+        {
+          "type": "tableau",
+          "titre": "Pistes",
+          "colonnes": [
+            "Œuvre",
+            "Pourquoi elle peut illustrer l'axe"
+          ],
+          "lignes": [
+            [
+              "Margaret Atwood, *The Handmaid's Tale* (1985)",
+              "Une dystopie qui dénonce le contrôle du corps des femmes par un régime théocratique"
+            ],
+            [
+              "Chimamanda Ngozi Adichie, *Americanah* (2013)",
+              "Le blog de l'héroïne critique la question raciale aux États-Unis"
+            ],
+            [
+              "Martin Scorsese, *Killers of the Flower Moon* (2023)",
+              "Le film porte à l'écran les meurtres d'Osages dans les années 1920 : l'art comme témoignage"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "titre": "Useful phrases : écrire sur l'axe",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "*The artist uses satire to criticise…* : l'artiste utilise la satire pour critiquer…",
+            "*This work can be seen as an act of resistance against…* : cette œuvre peut être vue comme un acte de résistance contre…",
+            "*By choosing an unconventional form, the author…* : en choisissant une forme inhabituelle, l'auteur…",
+            "*The novel gives a voice to those who…* : le roman donne une voix à ceux qui…",
+            "*However, one may wonder whether art can really change society.* : on peut toutefois se demander si l'art peut vraiment changer la société."
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Pour une synthèse : montre **ce qui est contesté**, **comment** (thème, forme, ton) et **avec quel effet** possible."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "William Hogarth, *Gin Lane*",
+      "valeur": "1751",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Charles Dickens, *Hard Times*",
+      "valeur": "1854",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Chinua Achebe, *Things Fall Apart*",
+      "valeur": "1958",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Andy Warhol, *Campbell's Soup Cans*",
+      "valeur": "1962",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Margaret Atwood, *The Handmaid's Tale*",
+      "valeur": "1985",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "Comment l'art conteste",
+    "sens": "vertical",
+    "noeuds": [
+      {
+        "id": "cible",
+        "texte": "Une cible : injustice, pouvoir, norme"
+      },
+      {
+        "id": "theme",
+        "texte": "Par le sujet (contestation dans l'art)"
+      },
+      {
+        "id": "forme",
+        "texte": "Par la forme (art contestataire)"
+      },
+      {
+        "id": "effet",
+        "texte": "Effets : dénoncer, témoigner, faire réagir"
+      }
+    ],
+    "liens": [
+      {
+        "de": "cible",
+        "vers": "theme"
+      },
+      {
+        "de": "cible",
+        "vers": "forme"
+      },
+      {
+        "de": "theme",
+        "vers": "effet"
+      },
+      {
+        "de": "forme",
+        "vers": "effet"
+      }
+    ]
+  },
+  "fiche": [
+    "**Axe** : l'art peut dénoncer, se moquer, témoigner, résister.",
+    "**Contestation dans l'art** (le sujet) ≠ **art contestataire** (la forme rompt avec les règles).",
+    "**Mots-clés** : commitment, satire, subversion, testimony, resistance, protest.",
+    "**Repères** : Hogarth (1751), Dickens *Hard Times* (1854), Achebe (1958), Warhol (1962), Loach (2016).",
+    "**Programme limitatif** : *The Handmaid's Tale*, *Americanah*, *Killers of the Flower Moon* (pistes).",
+    "**Nuance** : certaines œuvres défendent l'ordre ancien ; l'efficacité de l'art engagé se discute."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*\"satirical\"* means…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "qui se moque pour critiquer",
+          "correct": true,
+          "explication": "Satire = moquerie critique."
+        },
+        {
+          "id": "b",
+          "texte": "qui est triste",
+          "correct": false,
+          "explication": "Triste = sad, gloomy."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Contestation **dans** l'art, c'est quand…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+        "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le sujet de l'œuvre est une critique",
+          "correct": true,
+          "explication": "L'art contestataire, lui, bouscule aussi la forme."
+        },
+        {
+          "id": "b",
+          "texte": "la forme de l'œuvre est expérimentale",
+          "correct": false,
+          "explication": "C'est l'art contestataire."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*Things Fall Apart* was written by…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Chinua Achebe",
+          "correct": true,
+          "explication": "Roman nigérian de 1958."
+        },
+        {
+          "id": "b",
+          "texte": "Charles Dickens",
+          "correct": false,
+          "explication": "Dickens a écrit *Hard Times* (1854)."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*To bear witness* means…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "témoigner",
+          "correct": true,
+          "explication": "Le témoignage est un mot-clé de l'axe."
+        },
+        {
+          "id": "b",
+          "texte": "supporter",
+          "correct": false,
+          "explication": "Supporter = to stand, to bear (sans witness)."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Warhol's *Campbell's Soup Cans* belongs to…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "pop art",
+          "correct": true,
+          "explication": "Il détourne les images de la consommation."
+        },
+        {
+          "id": "b",
+          "texte": "Romanticism",
+          "correct": false,
+          "explication": "Le romantisme date de la fin du XVIIIe et du XIXe siècle."
+        }
+      ]
+    }
+  ]
+}

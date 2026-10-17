@@ -1,0 +1,250 @@
+{
+  "matiere": "llcer",
+  "chapitre": "initiation",
+  "exercices": [
+    {
+      "id": "initiation-vocabulaire",
+      "titre": "Vocabulary check : coming of age",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte de l'initiation."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*loss of innocence*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "perte de l'innocence",
+              "correct": true,
+              "explication": "Thème central de l'axe."
+            },
+            {
+              "id": "b",
+              "texte": "perte de temps",
+              "correct": false,
+              "explication": "Perte de temps = waste of time."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*a mentor*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un guide",
+              "correct": true,
+              "explication": "Il accompagne le héros."
+            },
+            {
+              "id": "b",
+              "texte": "un menteur",
+              "correct": false,
+              "explication": "Menteur = liar."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*boarding school*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "pensionnat",
+              "correct": true,
+              "explication": "Contexte scolaire de nombreux récits."
+            },
+            {
+              "id": "b",
+              "texte": "école de surf",
+              "correct": false,
+              "explication": "Contresens."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*to come of age*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "devenir adulte",
+              "correct": true,
+              "explication": "coming of age."
+            },
+            {
+              "id": "b",
+              "texte": "vieillir",
+              "correct": false,
+              "explication": "Vieillir = to grow old."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*maturity*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "maturité",
+              "correct": true,
+              "explication": "to reach maturity."
+            },
+            {
+              "id": "b",
+              "texte": "mâture",
+              "correct": false,
+              "explication": "Ce n'est pas un nom."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "initiation-traduction",
+      "titre": "Translation : leaving home",
+      "type": "traduction",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Translate the following passage into French. (Traduis le passage en français.)"
+      ],
+      "documents": [
+        {
+          "titre": "Passage à traduire (texte écrit pour l'entraînement)",
+          "contenu": "On the morning she left, her father carried her suitcase to the bus stop without saying a word. She had imagined this moment a hundred times, always with tears, but now that it had come she felt strangely calm. It was only when the bus turned the corner and the house disappeared that she understood she would never again be the girl who had lived there.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        }
+      ],
+      "methode": [
+        "Lis tout le passage avant de traduire une seule phrase.",
+        "Repère les temps : le prétérit d'un récit se traduit souvent par le passé simple ou le passé composé, et par l'imparfait pour les descriptions.",
+        "Ne traduis pas mot à mot : la phrase française doit sonner naturelle.",
+        "Relis ta traduction comme un texte français, sans regarder l'anglais.",
+        "*On the morning she left* : « Le matin de son départ » (transposition verbe → nom).",
+        "*It was only when… that* : « Ce ne fut que lorsque… que ».",
+        "*would never again be* : conditionnel : « ne serait plus jamais »."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Proposition de traduction** (d'autres versions sont possibles) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le matin de son départ, son père porta sa valise jusqu'à l'arrêt de bus sans dire un mot. Elle avait imaginé ce moment cent fois, toujours en larmes, mais maintenant qu'il était arrivé, elle se sentait étrangement calme. Ce ne fut que lorsque le bus tourna au coin de la rue et que la maison disparut qu'elle comprit qu'elle ne serait plus jamais la jeune fille qui avait vécu là."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Sens exact (pas de contresens ni d'oubli)",
+          "points": 2
+        },
+        {
+          "critere": "Correction et naturel du français",
+          "points": 1.5
+        },
+        {
+          "critere": "Temps et registre respectés",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "initiation-essai",
+      "titre": "Short essay : does growing up mean losing something?",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "In about 250 words: *Does growing up always mean losing something?* Refer to at least two works."
+      ],
+      "methode": [
+        "Thèse : grandir implique des pertes (innocence, illusions, lieu d'origine).",
+        "Antithèse : on gagne liberté, lucidité, identité.",
+        "Exemples : *Jane Eyre*, *Lord of the Flies*, *Brooklyn*, *The Catcher in the Rye*."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (un exemple de réponse possible, pas la seule) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Coming-of-age stories often describe growing up as a painful journey. Does it necessarily involve a loss?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Many works suggest that it does. In *Lord of the Flies*, the boys lose their innocence as violence takes over the island. Holden Caulfield, in *The Catcher in the Rye*, refuses to enter an adult world that he sees as false. Growing up can also mean leaving a place behind, as Eilis does when she emigrates from Ireland in *Brooklyn*."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "However, growing up is also a conquest. Jane Eyre, an orphan who suffers at school, becomes an independent woman who chooses her own life. The ordeals she goes through make her stronger and wiser."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In conclusion, growing up means losing certain illusions, but it is also the price to pay for freedom and self-knowledge."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse à la consigne, idées pertinentes",
+          "points": 4
+        },
+        {
+          "critere": "Organisation (introduction, paragraphes, connecteurs)",
+          "points": 3
+        },
+        {
+          "critere": "Richesse et correction de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "id": "la-justice",
+  "matiere": "philosophie",
+  "titre": "La justice",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "La justice",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer la justice comme vertu, comme institution et comme idéal.",
+    "Distinguer droit naturel et droit positif, légal et légitime.",
+    "Connaître Platon, Aristote, Pascal, Rousseau, Rawls sur la justice.",
+    "Traiter un sujet sur la justice."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "justice"
+        },
+        {
+          "type": "definition",
+          "glossaire": "droit-naturel"
+        },
+        {
+          "type": "definition",
+          "glossaire": "droit-positif"
+        },
+        {
+          "type": "definition",
+          "glossaire": "equite"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La justice désigne à la fois une **vertu** (être juste), une **institution** (les tribunaux) et un **idéal** (ce qui devrait être)."
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : la justice des lois (ce qui est légal) coïncide-t-elle avec la vraie justice (ce qui est légitime) ? Si les lois varient selon les pays et les époques, existe-t-il une justice universelle ? Et la justice consiste-t-elle à donner à tous la même chose, ou à chacun selon son mérite ou ses besoins ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **légal / légitime** ; **égalité / équité** ; **justice / force**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Platon (*La République*, IV^e^ s. av. J.-C.)",
+              "Avec l'anneau de Gygès qui rend invisible, chacun serait injuste : est-on juste seulement par peur de la sanction ?",
+              "La justice doit être aimée pour elle-même"
+            ],
+            [
+              "Aristote (*Éthique à Nicomaque*, livre V)",
+              "Justice distributive (à chacun selon son mérite) et justice corrective (réparer un tort à égalité) ; l'équité corrige la loi trop générale",
+              "Juste ne veut pas dire identique pour tous"
+            ],
+            [
+              "Pascal (*Pensées*, 1670)",
+              "« Plaisante justice qu'une rivière borne ! Vérité au deçà des Pyrénées, erreur au delà. »",
+              "Les lois varient : la justice humaine semble relative"
+            ],
+            [
+              "Rousseau (*Du contrat social*, 1762)",
+              "« Le plus fort n'est jamais assez fort pour être toujours le maître, s'il ne transforme sa force en droit et l'obéissance en devoir »",
+              "La force ne fait pas le droit"
+            ],
+            [
+              "Rawls (*Théorie de la justice*, 1971)",
+              "Des principes justes sont ceux qu'on choisirait derrière un « voile d'ignorance », sans savoir quelle place on occupera ; les inégalités ne sont justes que si elles profitent aux plus défavorisés",
+              "Une justice sociale fondée sur l'impartialité"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Les lois de ségrégation raciale aux États-Unis : légales mais injustes.",
+            "Le tiers-temps pour un élève dyslexique : équité plutôt qu'égalité stricte.",
+            "La note identique pour tous quel que soit le travail : égalité ou injustice ?",
+            "Se faire justice soi-même (vengeance) contre la justice des tribunaux."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Ce qui est légal est-il toujours juste ?",
+            "La justice consiste-t-elle à traiter tout le monde de la même façon ?",
+            "Peut-on se faire justice soi-même ?",
+            "La justice n'est-elle que l'intérêt du plus fort ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "L'anneau de Gygès",
+      "valeur": "Platon, *La République*, livre II",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Justice distributive et corrective, équité",
+      "valeur": "Aristote, *Éthique à Nicomaque*, livre V",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "« Plaisante justice qu'une rivière borne ! »",
+      "valeur": "Pascal, *Pensées*, 1670",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Voile d'ignorance",
+      "valeur": "Rawls, *Théorie de la justice*, 1971",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La justice : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Platon",
+        "Avec l'anneau de Gygès qui rend invisible, chacun serait injuste : est-on juste seulement par peur de la sanction ?"
+      ],
+      [
+        "Aristote",
+        "Justice distributive (à chacun selon son mérite) et justice corrective (réparer un tort à égalité) ; l'équité corrige la loi trop générale"
+      ],
+      [
+        "Pascal",
+        "« Plaisante justice qu'une rivière borne ! Vérité au deçà des Pyrénées, erreur au delà. »"
+      ],
+      [
+        "Rousseau",
+        "« Le plus fort n'est jamais assez fort pour être toujours le maître, s'il ne transforme sa force en droit et l'obéissance en devoir »"
+      ],
+      [
+        "Rawls",
+        "Des principes justes sont ceux qu'on choisirait derrière un « voile d'ignorance », sans savoir quelle place on occupera ; les inégalités ne sont justes que si elles profitent aux plus défavorisés"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Justice** : vertu, institution, idéal.",
+    "**Droit naturel** (universel) / **droit positif** (lois en vigueur).",
+    "**Légal / légitime** : une loi peut être injuste.",
+    "**Platon** : anneau de Gygès.",
+    "**Aristote** : distributive, corrective, équité.",
+    "**Pascal** : relativité des lois.",
+    "**Rousseau** : la force ne fait pas le droit.",
+    "**Rawls** : voile d'ignorance."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le droit positif, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "les lois en vigueur",
+          "correct": true,
+          "explication": "Posées par une autorité."
+        },
+        {
+          "id": "b",
+          "texte": "un droit optimiste",
+          "correct": false,
+          "explication": "Contresens."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "L'anneau de Gygès pose la question…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "serait-on juste si l'on était sûr de ne pas être puni ?",
+          "correct": true,
+          "explication": "Platon, *La République*."
+        },
+        {
+          "id": "b",
+          "texte": "faut-il porter des bijoux ?",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "L'équité consiste à…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "adapter la justice aux situations particulières",
+          "correct": true,
+          "explication": "Aristote."
+        },
+        {
+          "id": "b",
+          "texte": "donner exactement la même chose à tous",
+          "correct": false,
+          "explication": "C'est l'égalité stricte."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le voile d'ignorance est une idée de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Rawls",
+          "correct": true,
+          "explication": "1971."
+        },
+        {
+          "id": "b",
+          "texte": "Pascal",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "« La force ne fait pas le droit » correspond à…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Rousseau",
+          "correct": true,
+          "explication": "*Du contrat social*, livre I, chapitre 3."
+        },
+        {
+          "id": "b",
+          "texte": "Platon",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

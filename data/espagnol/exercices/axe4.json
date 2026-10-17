@@ -1,0 +1,251 @@
+{
+  "matiere": "espagnol",
+  "chapitre": "axe4",
+  "exercices": [
+    {
+      "id": "axe4-qcm",
+      "titre": "Vocabulario : 5 preguntas",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Responde a las 5 preguntas. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*convencer*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "convaincre",
+              "correct": true,
+              "explication": "Convencer al público."
+            },
+            {
+              "id": "b",
+              "texte": "convenir",
+              "correct": false,
+              "explication": "Convenir = convenir."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*los subtítulos*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les sous-titres",
+              "correct": true,
+              "explication": "Ver con subtítulos."
+            },
+            {
+              "id": "b",
+              "texte": "les titres",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*el mensaje*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le message",
+              "correct": true,
+              "explication": "Mandar un mensaje."
+            },
+            {
+              "id": "b",
+              "texte": "le ménage",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*«Voy a ganar.» → Dijo que…*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "iba a ganar",
+              "correct": true,
+              "explication": "Présent → imparfait."
+            },
+            {
+              "id": "b",
+              "texte": "va a ganar",
+              "correct": false,
+              "explication": "Il faut changer le temps."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*la traducción*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la traduction",
+              "correct": true,
+              "explication": "La traducción automática."
+            },
+            {
+              "id": "b",
+              "texte": "la tradition",
+              "correct": false,
+              "explication": "Tradition = tradición."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Una respuesta correcta",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe4-comprension",
+      "titre": "Comprensión escrita",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Lee el texto y contesta a las preguntas. (Lis le texte et réponds aux questions.)",
+        "1. ¿Dónde trabaja Marta y qué prepara?",
+        "2. ¿Qué tipo de personas quiere mostrar? ¿Por qué?",
+        "3. ¿Cuál es la reacción de su jefe?",
+        "4. ¿Tiene éxito el anuncio? Justifica."
+      ],
+      "documents": [
+        {
+          "titre": "Texto (escrito para el entrenamiento)",
+          "contenu": "Marta trabaja en una agencia de publicidad en Madrid. Esta semana prepara un anuncio para una marca de zapatillas. «No quiero mostrar solo a deportistas famosos», explica. «Quiero que la gente normal se identifique: una abuela que corre, un chico en silla de ruedas, una madre con su bebé.» Su jefe tiene dudas, pero acepta. Cuando el anuncio sale en la tele, miles de personas lo comparten en las redes sociales.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. Trabaja en una agencia de publicidad en Madrid y prepara un anuncio para una marca de zapatillas.",
+            "2. Quiere mostrar a gente normal (una abuela, un chico en silla de ruedas, una madre) para que el público se identifique.",
+            "3. Tiene dudas, pero acepta.",
+            "4. Sí: miles de personas lo comparten en las redes sociales."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe4-expresion",
+      "titre": "Expresión escrita",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "¿La publicidad nos ayuda o nos manipula? Escribe un texto de 120 palabras aproximadamente."
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *primero, además, sin embargo, por eso, en conclusión*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Modelo** (niveau B1, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La publicidad está en todas partes: en la calle, en la tele y en el móvil. ¿Nos ayuda o nos manipula?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Por un lado, puede ser útil, porque nos informa sobre productos nuevos. Algunos anuncios también defienden causas importantes, como la igualdad o la protección del medio ambiente."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Por otro lado, su objetivo principal es vender. Para convencernos, utiliza emociones, música, personas famosas y eslóganes fáciles de recordar. A veces nos hace creer que necesitamos cosas inútiles."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "En conclusión, creo que la publicidad no es mala en sí, pero es necesario que la miremos con espíritu crítico."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

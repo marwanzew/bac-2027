@@ -1,0 +1,325 @@
+{
+  "id": "poesie",
+  "matiere": "francais",
+  "titre": "La poésie du XIXe au XXIe siècle",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Objets d'étude et œuvres au programme 2026-2027",
+    "intitule": "La poésie du XIXe au XXIe siècle",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+      "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+    }
+  },
+  "objectifs": [
+    "Connaître les trois recueils au programme et leurs parcours.",
+    "Savoir analyser un poème (versification, images, sonorités).",
+    "Préparer la dissertation sur la poésie."
+  ],
+  "parties": [
+    {
+      "id": "programme",
+      "titre": "Les œuvres au programme",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Poésie : œuvres et parcours 2026-2027",
+          "colonnes": [
+            "Œuvre",
+            "Parcours associé"
+          ],
+          "lignes": [
+            [
+              "Rimbaud, Cahier de Douai (22 poèmes, de « Première soirée » à « Ma Bohème (Fantaisie) »)",
+              "émancipations créatrices"
+            ],
+            [
+              "Ponge, La rage de l'expression",
+              "dans l'atelier du poète"
+            ],
+            [
+              "Hélène Dorion, Mes forêts",
+              "la poésie, la nature, l'intime"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "alexandrin"
+        },
+        {
+          "type": "definition",
+          "glossaire": "sonnet"
+        },
+        {
+          "type": "definition",
+          "glossaire": "metaphore"
+        },
+        {
+          "type": "definition",
+          "glossaire": "comparaison"
+        },
+        {
+          "type": "definition",
+          "glossaire": "anaphore"
+        }
+      ]
+    },
+    {
+      "id": "rimbaud",
+      "titre": "Rimbaud, Cahier de Douai",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "En **1870**, à seize ans, **Arthur Rimbaud** (1854-1891) fugue et recopie à **Douai** vingt-deux poèmes qu'il confie au poète **Paul Demeny** : c'est pourquoi on parle aussi du *Recueil Demeny*. On y trouve notamment « Ma Bohème », « Le Dormeur du val », « Roman »."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « émancipations créatrices »** : le jeune poète s'émancipe de sa famille, de l'école, de la morale bourgeoise, et aussi des **règles poétiques** (beaucoup de sonnets, mais traités avec liberté et ironie). Fugue, errance, révolte contre la guerre et le pouvoir (Napoléon III) traversent le recueil."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Enjeux : liberté, adolescence, sensualité, révolte, satire, guerre de 1870."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ponge",
+      "titre": "Ponge, La rage de l'expression",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Recueil de **Francis Ponge** (1899-1988), publié en **1952**, qui réunit des textes écrits pendant les années 1938-1944, comme « Le Carnet du bois de pins », « Le Mimosa » ou « Notes prises pour un oiseau »."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « dans l'atelier du poète »** : au lieu d'un poème achevé, Ponge montre **le travail en train de se faire** : brouillons, essais, ratures, recherche du mot juste pour dire un objet. La « rage » est celle de l'expression exacte."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Enjeux : rapport aux mots et aux choses, écriture comme recherche, poésie en prose, humour."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dorion",
+      "titre": "Hélène Dorion, Mes forêts",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Recueil publié en **2021** par la poétesse québécoise **Hélène Dorion**. Il explore la forêt (arbres, saisons, animaux) comme lieu réel et comme miroir de l'intériorité."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « la poésie, la nature, l'intime »** : la nature devient un moyen de parler de soi (le temps, la perte, la renaissance) et la poésie invite à une attention renouvelée au monde vivant, menacé."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Enjeux : écologie, temps qui passe, intime, vers libres et poèmes brefs."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "analyser",
+      "titre": "Analyser un poème",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Forme** : type de vers (alexandrin, octosyllabe, vers libre), strophes, forme fixe (sonnet).",
+            "**Rythme** : césure, enjambement, rejet.",
+            "**Sonorités** : allitérations (consonnes), assonances (voyelles), rimes.",
+            "**Images** : comparaisons, métaphores, personnifications.",
+            "**Énonciation** : qui parle, à qui ? Registre lyrique (expression des sentiments)."
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "registre"
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Cahier de Douai",
+      "valeur": "1870",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "La rage de l'expression",
+      "valeur": "1952",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Mes forêts",
+      "valeur": "2021",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La poésie en un tableau",
+    "colonnes": [
+      "Recueil",
+      "Idée clé",
+      "Parcours"
+    ],
+    "lignes": [
+      [
+        "Cahier de Douai",
+        "Révolte et liberté d'un poète de 16 ans",
+        "émancipations créatrices"
+      ],
+      [
+        "La rage de l'expression",
+        "Le poème comme chantier",
+        "dans l'atelier du poète"
+      ],
+      [
+        "Mes forêts",
+        "La forêt, miroir de l'intime",
+        "la poésie, la nature, l'intime"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Rimbaud**, Cahier de Douai (1870) : 22 poèmes ; « émancipations créatrices ».",
+    "**Ponge**, La rage de l'expression (1952) : brouillons et recherche du mot juste ; « dans l'atelier du poète ».",
+    "**Dorion**, Mes forêts (2021) : nature et intériorité ; « la poésie, la nature, l'intime ».",
+    "Analyser : forme, rythme, sonorités, images, énonciation."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le Cahier de Douai compte…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "22 poèmes",
+          "correct": true,
+          "explication": "De « Première soirée » à « Ma Bohème »."
+        },
+        {
+          "id": "b",
+          "texte": "150 poèmes",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Le parcours associé à Ponge :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "dans l'atelier du poète",
+          "correct": true,
+          "explication": "Intitulé officiel."
+        },
+        {
+          "id": "b",
+          "texte": "émancipations créatrices",
+          "correct": false,
+          "explication": "C'est Rimbaud."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Hélène Dorion est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une poétesse québécoise",
+          "correct": true,
+          "explication": "Mes forêts, 2021."
+        },
+        {
+          "id": "b",
+          "texte": "une romancière du XIXe siècle",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Un alexandrin compte…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "12 syllabes",
+          "correct": true,
+          "explication": "Deux hémistiches de 6."
+        },
+        {
+          "id": "b",
+          "texte": "8 syllabes",
+          "correct": false,
+          "explication": "C'est l'octosyllabe."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Un sonnet compte…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "14 vers",
+          "correct": true,
+          "explication": "2 quatrains, 2 tercets."
+        },
+        {
+          "id": "b",
+          "texte": "12 vers",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

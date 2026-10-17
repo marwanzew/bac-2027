@@ -1,0 +1,327 @@
+{
+  "id": "energies",
+  "matiere": "enseignement-scientifique",
+  "titre": "Le futur des énergies",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thème 2",
+    "intitule": "Le futur des énergies",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'enseignement scientifique de terminale générale, BO n° 25 du 22 juin 2023"
+    }
+  },
+  "objectifs": [
+    "Expliquer comment on produit de l'électricité (alternateur, photovoltaïque).",
+    "Comprendre les pertes par effet Joule et l'intérêt de la haute tension.",
+    "Relier choix énergétiques, émissions de CO₂ et climat."
+  ],
+  "parties": [
+    {
+      "id": "electricite",
+      "titre": "Deux siècles d'énergie électrique",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "La plupart de l'électricité est produite par des **alternateurs** : un aimant tourne près d'une bobine et crée un courant (phénomène d'**induction**, découvert par Faraday en 1831). Ils convertissent de l'énergie **mécanique** en énergie **électrique** avec un très bon rendement. La turbine peut être entraînée par la vapeur (centrales nucléaires ou thermiques), l'eau ou le vent."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les **cellules photovoltaïques** sont faites d'un **semi-conducteur** (souvent le silicium) : elles convertissent directement l'énergie lumineuse en énergie électrique. Leur rendement est faible, de l'ordre de 20 % pour les panneaux courants."
+        },
+        {
+          "type": "definition",
+          "glossaire": "rendement"
+        },
+        {
+          "type": "exemple",
+          "titre": "Calcul de rendement",
+          "texte": "Un panneau reçoit 1 000 W de lumière et fournit 200 W électriques : rendement = 200 / 1 000 = **0,20, soit 20 %**. Les 800 W restants sont surtout perdus en chaleur."
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "titre": "Conversion et transport de l'électricité",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "effet-joule"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Pour transporter une puissance P = U × I, on peut augmenter la **tension U** pour diminuer l'**intensité I**. Comme les pertes valent R × I², diviser I par 10 divise les pertes par 100. C'est pourquoi les lignes du réseau de transport sont à **très haute tension**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le réseau électrique peut être modélisé par un **graphe** (sommets = sources et consommateurs, arêtes = lignes) pour chercher la répartition qui minimise les pertes."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "L'électricité se stocke mal : on utilise des **batteries** (énergie chimique), des **stations de transfert d'énergie par pompage** (STEP : on remonte de l'eau dans un barrage) ou la production d'**hydrogène**."
+        },
+        {
+          "type": "piege",
+          "titre": "puissance et énergie",
+          "texte": "La **puissance** s'exprime en watts (W) ; l'**énergie** en joules (J) ou en kilowattheures (kWh) : E = P × t. 1 kWh = 3,6 × 10⁶ J."
+        }
+      ]
+    },
+    {
+      "id": "choix",
+      "titre": "Énergie, choix de développement et futur climatique",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "La combustion des **combustibles fossiles** (charbon, pétrole, gaz) libère du **CO₂**. Ils fournissent encore environ **80 %** de l'énergie primaire consommée dans le monde."
+        },
+        {
+          "type": "definition",
+          "glossaire": "energie-renouvelable"
+        },
+        {
+          "type": "definition",
+          "glossaire": "empreinte-carbone"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "En France, l'électricité est surtout **bas carbone** : en 2025, le nucléaire a fourni **68,1 %** de la production et l'ensemble nucléaire + renouvelables **95,2 %** (RTE)."
+        },
+        {
+          "type": "tableau",
+          "titre": "Comparer les sources d'électricité",
+          "colonnes": [
+            "Source",
+            "Atouts",
+            "Limites"
+          ],
+          "lignes": [
+            [
+              "Fossiles",
+              "Pilotables",
+              "Fortes émissions de CO₂, ressources limitées"
+            ],
+            [
+              "Nucléaire",
+              "Bas carbone, pilotable",
+              "Déchets radioactifs, risques, uranium non renouvelable"
+            ],
+            [
+              "Solaire, éolien",
+              "Renouvelables, bas carbone",
+              "Intermittents, besoin de stockage"
+            ],
+            [
+              "Hydraulique",
+              "Renouvelable, pilotable, stockage (STEP)",
+              "Sites limités, impact sur les rivières"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Il n'existe pas de source parfaite : chaque choix énergétique est un compromis entre climat, coût, sûreté, disponibilité et impact environnemental."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "formule",
+      "libelle": "Pertes par effet Joule",
+      "valeur": "P = R × I²",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "type": "formule",
+      "libelle": "Puissance électrique",
+      "valeur": "P = U × I",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "type": "formule",
+      "libelle": "Énergie",
+      "valeur": "E = P × t ; 1 kWh = 3,6 × 10⁶ J",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Part du nucléaire dans la production électrique française en 2025",
+      "valeur": "68,1 %",
+      "certitude": "certain",
+      "source": {
+        "titre": "RTE, Bilan électrique 2025 (repris par Connaissance des énergies)",
+        "url": "https://www.connaissancedesenergies.org/la-production-electrique-bas-carbone-de-la-france-atteint-un-maximum-historique-en-2025"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Production électrique bas carbone en France en 2025",
+      "valeur": "95,2 %",
+      "certitude": "certain",
+      "source": {
+        "titre": "RTE, Bilan électrique 2025 (repris par Connaissance des énergies)",
+        "url": "https://www.connaissancedesenergies.org/la-production-electrique-bas-carbone-de-la-france-atteint-un-maximum-historique-en-2025"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "L'énergie en un tableau",
+    "colonnes": [
+      "Notion",
+      "À retenir"
+    ],
+    "lignes": [
+      [
+        "Alternateur",
+        "Mécanique → électrique, très bon rendement"
+      ],
+      [
+        "Photovoltaïque",
+        "Lumière → électrique, rendement ≈ 20 %"
+      ],
+      [
+        "Transport",
+        "Haute tension pour réduire les pertes R × I²"
+      ],
+      [
+        "Stockage",
+        "Batteries, STEP, hydrogène"
+      ],
+      [
+        "Climat",
+        "Fossiles = CO₂ ; besoin de sources bas carbone"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Alternateur** : induction, mécanique → électrique.",
+    "**Photovoltaïque** : semi-conducteur, rendement ≈ 20 %.",
+    "**Effet Joule** : P = R × I² → haute tension pour transporter.",
+    "**Rendement** = utile / reçu, toujours < 1.",
+    "France 2025 : **nucléaire 68,1 %**, **bas carbone 95,2 %**."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Un alternateur convertit l'énergie…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "mécanique en énergie électrique",
+          "correct": true,
+          "explication": "Par induction."
+        },
+        {
+          "id": "b",
+          "texte": "chimique en énergie électrique",
+          "correct": false,
+          "explication": "C'est une pile."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Pourquoi transporter l'électricité en haute tension ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Pour réduire l'intensité et donc les pertes par effet Joule",
+          "correct": true,
+          "explication": "Pertes = R × I²."
+        },
+        {
+          "id": "b",
+          "texte": "Pour aller plus vite",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Un panneau reçoit 500 W et fournit 100 W. Rendement :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "20 %",
+          "correct": true,
+          "explication": "100 / 500."
+        },
+        {
+          "id": "b",
+          "texte": "500 %",
+          "correct": false,
+          "explication": "Un rendement est toujours < 100 %."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Part du nucléaire dans la production électrique française en 2025 :",
+      "certitude": "certain",
+      "source": {
+        "titre": "RTE, Bilan électrique 2025 (repris par Connaissance des énergies)",
+        "url": "https://www.connaissancedesenergies.org/la-production-electrique-bas-carbone-de-la-france-atteint-un-maximum-historique-en-2025"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "environ deux tiers (68,1 %)",
+          "correct": true,
+          "explication": "RTE."
+        },
+        {
+          "id": "b",
+          "texte": "environ 10 %",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Une STEP permet…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "de stocker de l'énergie en remontant de l'eau",
+          "correct": true,
+          "explication": "Pompage-turbinage."
+        },
+        {
+          "id": "b",
+          "texte": "de produire de l'uranium",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

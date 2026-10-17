@@ -1,0 +1,405 @@
+{
+  "id": "axe4",
+  "matiere": "anglais",
+  "titre": "Axe 4. Enjeux et formes de la communication",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Axes culturels de terminale",
+    "intitule": "Axe 4. Enjeux et formes de la communication",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'anglais pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 4",
+      "url": "https://www.education.gouv.fr/sites/default/files/ensel621_annexe4.pdf"
+    }
+  },
+  "objectifs": [
+    "Analyser discours, publicités, médias et nouvelles formes de communication.",
+    "Connaître de grands discours et médias du monde anglophone.",
+    "Rapporter des paroles (reported speech)."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "The axis in brief · L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "ce qui est officiel",
+          "texte": "Le **titre de l'axe** vient du programme officiel (2025). Les pistes, repères et documents proposés ici sont des suggestions pour réviser : ton professeur choisit ses propres documents."
+        },
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVA, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B2**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Cet axe interroge **la manière dont on communique** et ce qui est en jeu : convaincre, informer, vendre, manipuler. Il couvre les grands discours politiques, la presse, la publicité, les réseaux sociaux et la place de l'anglais comme langue mondiale."
+        }
+      ]
+    },
+    {
+      "id": "vocabulario",
+      "titre": "Vocabulary",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Vocabulaire de l'axe",
+          "colonnes": [
+            "English",
+            "Français",
+            "Example"
+          ],
+          "lignes": [
+            [
+              "a speech",
+              "un discours",
+              "a famous speech"
+            ],
+            [
+              "to persuade",
+              "persuader",
+              "to persuade voters"
+            ],
+            [
+              "an advertisement / an ad",
+              "une publicité",
+              "a TV ad"
+            ],
+            [
+              "a headline",
+              "un gros titre",
+              "a newspaper headline"
+            ],
+            [
+              "mainstream media",
+              "les grands médias",
+              "mistrust of mainstream media"
+            ],
+            [
+              "a slogan",
+              "un slogan",
+              "a catchy slogan"
+            ],
+            [
+              "to go viral",
+              "devenir viral",
+              "The post went viral."
+            ],
+            [
+              "an influencer",
+              "un influenceur",
+              "Influencers sell products."
+            ],
+            [
+              "body language",
+              "le langage corporel",
+              "Body language matters."
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "headline"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "titre": "Cultural landmarks · Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Pourquoi c'est important"
+          ],
+          "lignes": [
+            [
+              "Abraham Lincoln, discours de Gettysburg",
+              "19 novembre 1863",
+              "« government of the people, by the people, for the people »"
+            ],
+            [
+              "Création de la BBC",
+              "1922",
+              "Un modèle de service public de l'audiovisuel"
+            ],
+            [
+              "Martin Luther King, *I Have a Dream*",
+              "28 août 1963",
+              "Un sommet de rhétorique"
+            ],
+            [
+              "Scandale Cambridge Analytica",
+              "2018",
+              "Données de Facebook utilisées à des fins politiques"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pistes",
+      "titre": "Ideas to explore · Pistes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Political speeches** : Lincoln, Churchill, Martin Luther King, Obama.",
+            "**Advertising and influence** : publicité, influenceurs.",
+            "**English as a global language** : langue des échanges et d'Internet."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "titre": "Grammar · Le point de grammaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Reported speech** : pour rapporter des paroles au passé, on recule souvent les temps d'un cran."
+        },
+        {
+          "type": "tableau",
+          "titre": "Exemples",
+          "colonnes": [
+            "Direct speech",
+            "Reported speech"
+          ],
+          "lignes": [
+            [
+              "\"I am tired.\"",
+              "He said (that) he was tired."
+            ],
+            [
+              "\"We will win.\"",
+              "She said they would win."
+            ],
+            [
+              "\"I have finished.\"",
+              "He said he had finished."
+            ],
+            [
+              "\"Do you agree?\"",
+              "She asked if I agreed."
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Verbes utiles : say, tell somebody, explain, claim, admit, ask, wonder."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frases",
+      "titre": "Useful phrases · Phrases utiles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Pour parler ou écrire sur l'axe",
+          "colonnes": [
+            "English",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "The speaker addresses…",
+              "L'orateur s'adresse à…"
+            ],
+            [
+              "The aim of this ad is to…",
+              "Le but de cette publicité est de…"
+            ],
+            [
+              "He resorts to…",
+              "Il a recours à…"
+            ],
+            [
+              "The message is conveyed through…",
+              "Le message est transmis par…"
+            ],
+            [
+              "It is meant to…",
+              "C'est destiné à…"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Discours de Gettysburg",
+      "valeur": "19 novembre 1863",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Création de la BBC",
+      "valeur": "1922",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Scandale Cambridge Analytica",
+      "valeur": "2018",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Axe 4. Enjeux et formes de la communication : l'essentiel",
+    "colonnes": [
+      "Aspect",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "Vocabulaire clé",
+        "a speech, to persuade, an advertisement / an ad, a headline, mainstream media, a slogan"
+      ],
+      [
+        "Repères",
+        "Abraham Lincoln, discours de Gettysburg (19 novembre 1863), Création de la BBC (1922), Martin Luther King, *I Have a Dream* (28 août 1963), Scandale Cambridge Analytica (2018)"
+      ],
+      [
+        "Grammaire",
+        "Reported speech"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Communication** : discours, presse, publicité, réseaux, anglais mondial.",
+    "**Repères** : Gettysburg (1863), BBC (1922), *I Have a Dream* (1963), Cambridge Analytica (2018).",
+    "**Grammaire** : reported speech (recul des temps)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*a headline*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un gros titre",
+          "correct": true,
+          "explication": "Newspaper headline."
+        },
+        {
+          "id": "b",
+          "texte": "une ligne de tête",
+          "correct": false,
+          "explication": "Contresens."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "\"I am tired.\" → He said he…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "was tired",
+          "correct": true,
+          "explication": "Recul du présent au prétérit."
+        },
+        {
+          "id": "b",
+          "texte": "is tired",
+          "correct": false,
+          "explication": "Non, on recule le temps."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La BBC est créée en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1922",
+          "correct": true,
+          "explication": "Service public."
+        },
+        {
+          "id": "b",
+          "texte": "1963",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*to go viral*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "devenir viral",
+          "correct": true,
+          "explication": "The post went viral."
+        },
+        {
+          "id": "b",
+          "texte": "tomber malade",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "« government of the people, by the people, for the people » :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Lincoln, Gettysburg, 1863",
+          "correct": true,
+          "explication": "Domaine public."
+        },
+        {
+          "id": "b",
+          "texte": "Churchill, 1940",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

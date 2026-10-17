@@ -1,0 +1,436 @@
+{
+  "id": "engagement-politique",
+  "matiere": "ses",
+  "titre": "Comment expliquer l'engagement politique dans les sociétés démocratiques ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Sociologie et science politique",
+    "intitule": "Comment expliquer l'engagement politique dans les sociétés démocratiques ?",
+    "evaluableEcrit": true,
+    "source": {
+      "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+      "consulteLe": "2026-10-17"
+    },
+    "certitude": "a_verifier",
+    "raison": "Objectifs relevés dans le compte rendu d'un atelier de l'académie de Grenoble qui cite le programme ; le PDF officiel n'a pas pu être relu directement."
+  },
+  "objectifs": [
+    "Comprendre que l'engagement politique prend des formes variées (vote, militantisme, engagement associatif, consommation engagée).",
+    "Comprendre pourquoi, malgré le paradoxe de l'action collective, les individus s'engagent (incitations sélectives, rétributions symboliques, structure des opportunités politiques).",
+    "Comprendre que l'engagement politique dépend notamment de variables sociodémographiques (catégorie socioprofessionnelle, diplôme, âge et génération, sexe).",
+    "Comprendre la diversité et les transformations des objets de l'action collective (conflits du travail, nouveaux enjeux de mobilisation, luttes minoritaires), des acteurs (partis politiques, syndicats, associations, groupements) et de leurs répertoires."
+  ],
+  "parties": [
+    {
+      "id": "formes",
+      "titre": "Les formes de l'engagement politique",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "engagement-politique"
+        },
+        {
+          "type": "tableau",
+          "titre": "Quatre formes (programme)",
+          "colonnes": [
+            "Forme",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "Vote",
+              "Voter aux élections présidentielle, législatives, municipales, européennes"
+            ],
+            [
+              "Militantisme",
+              "Adhérer à un parti ou à un syndicat, distribuer des tracts, participer aux réunions"
+            ],
+            [
+              "Engagement associatif",
+              "S'engager dans une association de défense de l'environnement ou d'aide aux personnes"
+            ],
+            [
+              "Consommation engagée",
+              "Boycotter une marque, acheter des produits équitables ou locaux"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "militantisme"
+        },
+        {
+          "type": "definition",
+          "glossaire": "consommation-engagee"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "L'engagement politique ne se limite pas au vote : il prend des formes **variées**, plus ou moins coûteuses en temps."
+        }
+      ]
+    },
+    {
+      "id": "paradoxe",
+      "titre": "Pourquoi s'engager malgré le paradoxe de l'action collective ?",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "action-collective"
+        },
+        {
+          "type": "definition",
+          "glossaire": "paradoxe-action-collective"
+        },
+        {
+          "type": "definition",
+          "glossaire": "passager-clandestin"
+        },
+        {
+          "type": "exemple",
+          "titre": "Exemple",
+          "texte": "Si une grève obtient une hausse de salaire, tous les salariés en profitent, grévistes ou non. Un salarié « calculateur » a donc intérêt à ne pas faire grève (il ne perd pas de salaire) et à laisser les autres agir."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Trois explications permettent de comprendre pourquoi les individus s'engagent quand même :"
+        },
+        {
+          "type": "definition",
+          "glossaire": "incitations-selectives"
+        },
+        {
+          "type": "definition",
+          "glossaire": "retributions-symboliques"
+        },
+        {
+          "type": "definition",
+          "glossaire": "structure-opportunites-politiques"
+        },
+        {
+          "type": "tableau",
+          "titre": "Trois réponses au paradoxe",
+          "colonnes": [
+            "Explication",
+            "Auteur associé",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "Incitations sélectives",
+              "Mancur Olson",
+              "Un syndicat offre à ses adhérents une aide juridique"
+            ],
+            [
+              "Rétributions symboliques",
+              "Daniel Gaxie",
+              "Le militant gagne de la reconnaissance, des amitiés, une meilleure estime de soi"
+            ],
+            [
+              "Structure des opportunités politiques",
+              "Sociologie des mobilisations",
+              "Une mobilisation a plus de chances de naître quand le gouvernement est divisé ou qu'une élection approche"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "variables",
+      "titre": "Qui s'engage ? Les variables sociodémographiques",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "L'engagement n'est pas réparti au hasard : il dépend de quatre variables citées par le programme."
+        },
+        {
+          "type": "tableau",
+          "titre": "Quatre variables",
+          "colonnes": [
+            "Variable",
+            "Tendance générale"
+          ],
+          "lignes": [
+            [
+              "Catégorie socioprofessionnelle",
+              "Les cadres et professions intellectuelles votent et militent plus que les ouvriers et employés"
+            ],
+            [
+              "Diplôme",
+              "Plus le diplôme est élevé, plus la participation est forte : il donne des compétences et un sentiment de compétence politique"
+            ],
+            [
+              "Âge et génération",
+              "Les jeunes votent moins régulièrement mais s'engagent dans d'autres formes (manifestations, pétitions, associations). Les générations n'ont pas le même rapport au vote, qui est moins vécu comme un devoir chez les plus jeunes"
+            ],
+            [
+              "Sexe",
+              "Les femmes votent désormais autant que les hommes, mais restent moins présentes dans les responsabilités des partis et des syndicats"
+            ]
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "effet d'âge ou effet de génération ?",
+          "texte": "Un **effet d'âge** disparaît en vieillissant (les jeunes votent moins, puis plus en s'installant). Un **effet de génération** reste toute la vie (une génération qui a grandi avec un autre rapport au vote le garde)."
+        }
+      ]
+    },
+    {
+      "id": "transformations",
+      "titre": "La transformation des objets, des acteurs et des répertoires",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Les objets.** Les **conflits du travail** (salaires, emploi, conditions de travail) ont longtemps dominé. Depuis les années 1960-1970, de **nouveaux enjeux** se sont développés (environnement, mode de vie), ainsi que des **luttes minoritaires** (droits des femmes, des minorités sexuelles, lutte contre le racisme)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "nouveaux-mouvements-sociaux"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Les acteurs.** Les **partis politiques** cherchent à conquérir le pouvoir ; les **syndicats** défendent les intérêts des salariés ou des employeurs ; les **associations** défendent une cause ; les **groupements** (groupes d'intérêt) cherchent à influencer les décisions."
+        },
+        {
+          "type": "definition",
+          "glossaire": "groupe-d-interet"
+        },
+        {
+          "type": "definition",
+          "glossaire": "repertoire-action-collective"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Les répertoires.** Ils ont évolué : à la grève et à la manifestation s'ajoutent des actions médiatisées, des pétitions en ligne, l'usage des réseaux sociaux, la consommation engagée ou la désobéissance civile."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Objets, acteurs et répertoires se **diversifient** ; les anciens (syndicats, grèves) ne disparaissent pas, ils coexistent avec les nouveaux."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Paradoxe de l'action collective, incitations sélectives",
+      "valeur": "Mancur Olson, *The Logic of Collective Action*, 1965",
+      "certitude": "certain",
+      "source": {
+        "titre": "M. Olson, The Logic of Collective Action, Harvard University Press, 1965"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Rétributions du militantisme",
+      "valeur": "Daniel Gaxie, 1977",
+      "certitude": "certain",
+      "source": {
+        "titre": "D. Gaxie, « Économie des partis et rétributions du militantisme », Revue française de science politique, 1977"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Répertoire d'action collective",
+      "valeur": "Charles Tilly",
+      "certitude": "certain",
+      "source": {
+        "titre": "C. Tilly, La France conteste, de 1600 à nos jours, Fayard, 1986"
+      }
+    },
+    {
+      "type": "notion",
+      "libelle": "Quatre formes d'engagement (programme)",
+      "valeur": "Vote · militantisme · engagement associatif · consommation engagée",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "Expliquer l'engagement",
+    "sens": "vertical",
+    "noeuds": [
+      {
+        "id": "p",
+        "texte": "Paradoxe de l'action collective (Olson)"
+      },
+      {
+        "id": "i",
+        "texte": "Incitations sélectives"
+      },
+      {
+        "id": "r",
+        "texte": "Rétributions symboliques"
+      },
+      {
+        "id": "o",
+        "texte": "Structure des opportunités politiques"
+      },
+      {
+        "id": "e",
+        "texte": "Engagement : vote, militantisme, association, consommation engagée"
+      },
+      {
+        "id": "v",
+        "texte": "Variables : PCS, diplôme, âge et génération, sexe"
+      }
+    ],
+    "liens": [
+      {
+        "de": "p",
+        "vers": "i",
+        "texte": "surmonté par"
+      },
+      {
+        "de": "p",
+        "vers": "r"
+      },
+      {
+        "de": "p",
+        "vers": "o"
+      },
+      {
+        "de": "i",
+        "vers": "e"
+      },
+      {
+        "de": "r",
+        "vers": "e"
+      },
+      {
+        "de": "o",
+        "vers": "e"
+      },
+      {
+        "de": "v",
+        "vers": "e",
+        "texte": "influencent"
+      }
+    ]
+  },
+  "fiche": [
+    "**4 formes** : vote, militantisme, engagement associatif, consommation engagée.",
+    "**Paradoxe de l'action collective** (Olson, 1965) : intérêt à être passager clandestin.",
+    "**3 réponses** : incitations sélectives (Olson), rétributions symboliques (Gaxie), structure des opportunités politiques.",
+    "**4 variables** : PCS, diplôme, âge et génération, sexe.",
+    "**Effet d'âge** (disparaît avec l'âge) ≠ **effet de génération** (reste).",
+    "**Objets** : conflits du travail, nouveaux enjeux, luttes minoritaires.",
+    "**Acteurs** : partis, syndicats, associations, groupements. **Répertoires** (Tilly) : de la grève aux pétitions en ligne."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Un salarié ne fait pas grève mais profite de la hausse de salaire obtenue. Il est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "passager clandestin",
+          "correct": true,
+          "explication": "Il profite sans supporter le coût."
+        },
+        {
+          "id": "b",
+          "texte": "militant",
+          "correct": false,
+          "explication": "Il ne s'engage pas."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Un syndicat offre une assurance juridique à ses seuls adhérents. C'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une incitation sélective",
+          "correct": true,
+          "explication": "Avantage réservé aux participants."
+        },
+        {
+          "id": "b",
+          "texte": "une rétribution symbolique",
+          "correct": false,
+          "explication": "Ici l'avantage est matériel."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Le sentiment d'être utile et reconnu grâce à son engagement est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une rétribution symbolique",
+          "correct": true,
+          "explication": "Selon Daniel Gaxie."
+        },
+        {
+          "id": "b",
+          "texte": "une structure des opportunités politiques",
+          "correct": false,
+          "explication": "Celle-ci concerne le contexte politique."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Boycotter une marque qui exploite des enfants est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "de la consommation engagée",
+          "correct": true,
+          "explication": "Les achats comme action politique."
+        },
+        {
+          "id": "b",
+          "texte": "du militantisme syndical",
+          "correct": false,
+          "explication": "Il n'y a pas de syndicat."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "La notion de répertoire d'action collective est associée à…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Charles Tilly",
+          "correct": true,
+          "explication": "Les moyens d'action d'une époque."
+        },
+        {
+          "id": "b",
+          "texte": "Mancur Olson",
+          "correct": false,
+          "explication": "Olson a mis en évidence le paradoxe."
+        }
+      ]
+    }
+  ]
+}

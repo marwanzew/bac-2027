@@ -1,0 +1,455 @@
+{
+  "id": "emotions",
+  "matiere": "llcer",
+  "titre": "L'expression des émotions",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thématique « Expression et construction de soi »",
+    "intitule": "L'expression des émotions",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Expliquer comment un artiste fait de l'émotion la matière de son œuvre.",
+    "Connaître les grands mouvements qui valorisent l'émotion : romantisme, transcendantalisme, modernisme, expressionnisme.",
+    "Décrire en anglais des émotions avec un vocabulaire précis.",
+    "Relier l'axe à des œuvres du programme limitatif."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment lire cet axe",
+          "texte": "Le programme officiel présente chaque axe par une problématique, des mots-clés et des pistes d'œuvres. Les objectifs « À la fin, je dois savoir… » sont une reformulation pédagogique ; les mots-clés et les pistes, eux, viennent du programme."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique de la thématique (programme)** : comment l'expression révèle-t-elle et construit-elle une identité, individuelle ou collective ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'axe** : l'émotion (passion, deuil, mélancolie, émerveillement) est un **matériau artistique**. Le programme invite à comparer les courants qui l'ont mise au centre : le **romantisme** anglais, le **transcendantalisme** américain, l'**expressionnisme**, et à les comparer avec leurs équivalents français."
+        },
+        {
+          "type": "definition",
+          "glossaire": "romanticism"
+        },
+        {
+          "type": "definition",
+          "glossaire": "modernism"
+        },
+        {
+          "type": "definition",
+          "glossaire": "epiphany"
+        }
+      ]
+    },
+    {
+      "id": "vocabulaire",
+      "titre": "Key words",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Mots-clés et vocabulaire des émotions",
+          "colonnes": [
+            "English",
+            "Français",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "grief / to mourn",
+              "chagrin, deuil / pleurer un mort",
+              "a poem about grief"
+            ],
+            [
+              "passion / passionate",
+              "passion / passionné",
+              "a passionate love"
+            ],
+            [
+              "longing",
+              "désir ardent, nostalgie",
+              "a deep longing for home"
+            ],
+            [
+              "awe",
+              "émerveillement mêlé de crainte",
+              "the sublime fills us with awe"
+            ],
+            [
+              "the sublime",
+              "le sublime",
+              "Turner's sublime seascapes"
+            ],
+            [
+              "melancholy",
+              "mélancolie",
+              "a melancholy tone"
+            ],
+            [
+              "sorrow",
+              "peine, tristesse profonde",
+              "to express sorrow"
+            ],
+            [
+              "to convey / to evoke",
+              "transmettre / évoquer",
+              "the painting conveys loneliness"
+            ],
+            [
+              "sublimation",
+              "sublimation",
+              "to turn suffering into art"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "tone"
+        },
+        {
+          "type": "definition",
+          "glossaire": "imagery"
+        },
+        {
+          "type": "definition",
+          "glossaire": "stream-of-consciousness"
+        }
+      ]
+    },
+    {
+      "id": "reperes-culturels",
+      "titre": "Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Œuvres et artistes",
+          "colonnes": [
+            "Œuvre / artiste",
+            "Date",
+            "Lien avec les émotions"
+          ],
+          "lignes": [
+            [
+              "William Wordsworth et Samuel T. Coleridge, *Lyrical Ballads*",
+              "1798",
+              "Recueil fondateur du romantisme anglais"
+            ],
+            [
+              "J. M. W. Turner (peintre, 1775-1851)",
+              "XIX^e^ siècle",
+              "Tempêtes et lumières : le sublime de la nature"
+            ],
+            [
+              "Ralph Waldo Emerson, *Nature*",
+              "1836",
+              "Texte fondateur du transcendantalisme américain"
+            ],
+            [
+              "Edgar Allan Poe, *The Raven*",
+              "1845",
+              "Poème du deuil et de l'obsession"
+            ],
+            [
+              "Emily Brontë, *Wuthering Heights*",
+              "1847",
+              "Passion destructrice sur les landes du Yorkshire"
+            ],
+            [
+              "Emily Dickinson (poétesse, 1830-1886)",
+              "XIX^e^ siècle",
+              "Poèmes brefs sur la mort, l'âme, l'intériorité"
+            ],
+            [
+              "Virginia Woolf, *Mrs Dalloway*",
+              "1925",
+              "Courant de conscience : les émotions d'une journée"
+            ],
+            [
+              "Edward Hopper, *Nighthawks*",
+              "1942",
+              "Solitude urbaine dans un café de nuit"
+            ],
+            [
+              "Jane Campion, *Bright Star*",
+              "2009",
+              "Film sur l'amour du poète John Keats et de Fanny Brawne"
+            ]
+          ]
+        },
+        {
+          "type": "citation",
+          "texte": "Poetry is the spontaneous overflow of powerful feelings.",
+          "auteur": "William Wordsworth",
+          "oeuvre": "préface des *Lyrical Ballads*, 1800",
+          "certitude": "certain",
+          "source": {
+            "titre": "W. Wordsworth, Preface to Lyrical Ballads, 1800 (domaine public)"
+          }
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Traduction** : « La poésie est le débordement spontané de sentiments puissants. »"
+        }
+      ]
+    },
+    {
+      "id": "programme-limitatif",
+      "titre": "Liens possibles avec le programme limitatif",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "des pistes, pas des règles",
+          "texte": "Ton professeur choisit les œuvres et l'axe auquel il les relie."
+        },
+        {
+          "type": "tableau",
+          "titre": "Pistes",
+          "colonnes": [
+            "Œuvre",
+            "Pourquoi elle peut illustrer l'axe"
+          ],
+          "lignes": [
+            [
+              "Jane Campion, *The Piano* (1993)",
+              "Ada, une femme muette, exprime ses émotions par le piano : la musique remplace la parole"
+            ],
+            [
+              "Colm Tóibín, *Brooklyn* (2009)",
+              "Le mal du pays (*homesickness*) et le deuil vécus par une jeune émigrée irlandaise"
+            ],
+            [
+              "Jane Austen, *Pride and Prejudice* (1813)",
+              "Des sentiments contenus par les conventions sociales"
+            ],
+            [
+              "Arundhati Roy, *The God of Small Things* (1997)",
+              "Le deuil et le traumatisme vus à travers le regard de deux enfants"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "titre": "Useful phrases",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "*The poem conveys a deep sense of loss.*",
+            "*The use of colour evokes loneliness.*",
+            "*The character's feelings are revealed through…*",
+            "*Emotion is not only expressed but also transformed into art.*"
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Dans une analyse : nomme **l'émotion**, montre **le procédé** qui la transmet (image, rythme, couleur, musique, cadrage) et **l'effet** sur le lecteur ou le spectateur."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Wordsworth et Coleridge, *Lyrical Ballads*",
+      "valeur": "1798",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Emily Brontë, *Wuthering Heights*",
+      "valeur": "1847",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Virginia Woolf, *Mrs Dalloway*",
+      "valeur": "1925",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Edward Hopper, *Nighthawks*",
+      "valeur": "1942",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Jane Campion, *The Piano*",
+      "valeur": "1993",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Grands courants",
+    "colonnes": [
+      "Courant",
+      "Époque",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Romantisme",
+        "fin XVIIIe – XIXe siècle",
+        "Émotion, nature, imagination, individu"
+      ],
+      [
+        "Transcendantalisme (États-Unis)",
+        "XIXe siècle",
+        "Intuition, lien spirituel avec la nature"
+      ],
+      [
+        "Modernisme",
+        "début XXe siècle",
+        "Intériorité, courant de conscience, formes nouvelles"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Axe** : l'émotion comme matériau artistique ; elle révèle et construit l'identité.",
+    "**Courants** : romantisme (Wordsworth, Coleridge, Keats), transcendantalisme (Emerson), modernisme (Woolf, Joyce), expressionnisme.",
+    "**Wordsworth** : « the spontaneous overflow of powerful feelings ».",
+    "**Vocabulaire** : grief, longing, awe, the sublime, melancholy, sorrow, to convey.",
+    "**Programme limitatif** : *The Piano*, *Brooklyn*, *Pride and Prejudice*, *The God of Small Things* (pistes)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*grief*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "chagrin, deuil",
+          "correct": true,
+          "explication": "a poem about grief."
+        },
+        {
+          "id": "b",
+          "texte": "grief, reproche",
+          "correct": false,
+          "explication": "Faux ami : grief en français = reproche."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*Lyrical Ballads* (1798) is associated with…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Romanticism",
+          "correct": true,
+          "explication": "Wordsworth et Coleridge."
+        },
+        {
+          "id": "b",
+          "texte": "modernism",
+          "correct": false,
+          "explication": "Le modernisme date du début du XXe siècle."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*Mrs Dalloway* uses…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "stream of consciousness",
+          "correct": true,
+          "explication": "Le flot des pensées des personnages."
+        },
+        {
+          "id": "b",
+          "texte": "stage directions",
+          "correct": false,
+          "explication": "Les didascalies concernent le théâtre."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "In *The Piano*, Ada expresses herself through…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "music",
+          "correct": true,
+          "explication": "Elle est muette et joue du piano."
+        },
+        {
+          "id": "b",
+          "texte": "letters to newspapers",
+          "correct": false,
+          "explication": "Ce n'est pas le cas."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*awe*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "émerveillement mêlé de crainte",
+          "correct": true,
+          "explication": "Lié au sublime."
+        },
+        {
+          "id": "b",
+          "texte": "ennui",
+          "correct": false,
+          "explication": "Ennui = boredom."
+        }
+      ]
+    }
+  ]
+}

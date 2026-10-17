@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "glossaire.schema.json",
+  "title": "Glossaire d'une matière (fichier data/<matiere>/glossaire.json)",
+  "type": "object",
+  "required": ["matiere", "entrees"],
+  "additionalProperties": false,
+  "properties": {
+    "matiere": { "$ref": "commun.schema.json#/$defs/id" },
+    "entrees": { "type": "array", "items": { "$ref": "#/$defs/definition" } }
+  },
+  "$defs": {
+    "definition": {
+      "title": "Définition (une entrée du glossaire, aussi une flashcard)",
+      "type": "object",
+      "required": ["id", "terme", "definition", "chapitres", "certitude", "source"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "commun.schema.json#/$defs/id" },
+        "terme": { "type": "string", "minLength": 1, "description": "Recto de la flashcard." },
+        "definition": { "$ref": "commun.schema.json#/$defs/texte", "description": "Verso : formulation attendue au bac." },
+        "exemple": { "$ref": "commun.schema.json#/$defs/texte" },
+        "traduction": {
+          "description": "Pour l'anglais et l'espagnol : terme en langue cible et en français.",
+          "type": "object", "required": ["cible", "fr"], "additionalProperties": false,
+          "properties": { "cible": { "type": "string" }, "fr": { "type": "string" } }
+        },
+        "chapitres": { "type": "array", "items": { "$ref": "commun.schema.json#/$defs/id" }, "description": "Chapitres où le terme est utilisé." },
+        "certitude": { "$ref": "commun.schema.json#/$defs/certitude" },
+        "source": { "$ref": "commun.schema.json#/$defs/source" },
+        "raison": { "type": "string" }
+      },
+      "if": { "properties": { "certitude": { "const": "a_verifier" } } },
+      "then": { "required": ["raison"] }
+    }
+  }
+}

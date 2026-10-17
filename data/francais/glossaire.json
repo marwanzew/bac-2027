@@ -1,0 +1,280 @@
+{
+  "matiere": "francais",
+  "entrees": [
+    {
+      "id": "parcours",
+      "terme": "parcours associé",
+      "definition": "Ensemble de textes et de documents étudiés en lien avec une œuvre du programme ; son intitulé est fixé par le programme et oriente la lecture de l'œuvre.",
+      "chapitres": [
+        "roman"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+      }
+    },
+    {
+      "id": "recapitulatif",
+      "terme": "récapitulatif",
+      "definition": "Document présenté à l'oral qui liste les textes étudiés pendant l'année (au moins quatre par objet d'étude en voie générale). Pour un candidat individuel, il est constitué par le candidat lui-même.",
+      "chapitres": [
+        "candidat-libre",
+        "methode-oral"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    },
+    {
+      "id": "explication-lineaire",
+      "terme": "explication linéaire",
+      "definition": "Explication d'un texte d'environ vingt lignes qui suit l'ordre du texte, mouvement par mouvement, pour montrer comment le sens se construit.",
+      "chapitres": [
+        "methode-oral"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    },
+    {
+      "id": "commentaire",
+      "terme": "commentaire",
+      "definition": "Exercice écrit qui consiste à interpréter un texte littéraire de façon organisée (introduction, parties, conclusion) à partir d'un projet de lecture.",
+      "chapitres": [
+        "methode-commentaire"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    },
+    {
+      "id": "dissertation",
+      "terme": "dissertation",
+      "definition": "Exercice écrit qui consiste à répondre de façon argumentée et organisée à une question portant sur une œuvre du programme et son parcours.",
+      "chapitres": [
+        "methode-dissertation"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    },
+    {
+      "id": "problematique",
+      "terme": "problématique",
+      "definition": "Question qui guide un commentaire ou une dissertation et que le devoir doit résoudre.",
+      "chapitres": [
+        "methode-commentaire",
+        "methode-dissertation"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    },
+    {
+      "id": "registre",
+      "terme": "registre",
+      "definition": "Tonalité d'un texte, liée à l'effet qu'il cherche à produire sur le lecteur : comique, tragique, lyrique, pathétique, épique, satirique, polémique…",
+      "chapitres": [
+        "poesie",
+        "theatre"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    },
+    {
+      "id": "metaphore",
+      "terme": "métaphore",
+      "definition": "Figure qui rapproche deux réalités sans outil de comparaison (« cette faucille d'or »).",
+      "chapitres": [
+        "poesie"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    },
+    {
+      "id": "comparaison",
+      "terme": "comparaison",
+      "definition": "Figure qui rapproche deux réalités avec un outil de comparaison (comme, tel, pareil à…).",
+      "chapitres": [
+        "poesie"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    },
+    {
+      "id": "anaphore",
+      "terme": "anaphore",
+      "definition": "Répétition d'un même mot ou groupe de mots en début de vers, de phrase ou de proposition.",
+      "chapitres": [
+        "poesie"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    },
+    {
+      "id": "hyperbole",
+      "terme": "hyperbole",
+      "definition": "Exagération destinée à frapper le lecteur.",
+      "chapitres": [
+        "litterature-idees"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    },
+    {
+      "id": "antithese",
+      "terme": "antithèse",
+      "definition": "Rapprochement de deux termes ou idées opposés.",
+      "chapitres": [
+        "litterature-idees"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    },
+    {
+      "id": "alexandrin",
+      "terme": "alexandrin",
+      "definition": "Vers de douze syllabes, souvent coupé en deux hémistiches de six syllabes par la césure.",
+      "chapitres": [
+        "poesie"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    },
+    {
+      "id": "sonnet",
+      "terme": "sonnet",
+      "definition": "Poème à forme fixe de quatorze vers : deux quatrains puis deux tercets.",
+      "chapitres": [
+        "poesie"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    },
+    {
+      "id": "focalisation",
+      "terme": "focalisation",
+      "definition": "Point de vue adopté par le narrateur : interne (à travers un personnage), externe (de l'extérieur) ou zéro (narrateur omniscient).",
+      "chapitres": [
+        "roman"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    },
+    {
+      "id": "double-enonciation",
+      "terme": "double énonciation",
+      "definition": "Propriété du théâtre : les paroles des personnages s'adressent à la fois aux autres personnages et au public.",
+      "chapitres": [
+        "theatre"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      }
+    },
+    {
+      "id": "naturalisme",
+      "terme": "naturalisme",
+      "definition": "Mouvement littéraire de la fin du XIXe siècle, mené par Zola, qui veut décrire la société avec une méthode inspirée des sciences (hérédité, milieu).",
+      "chapitres": [
+        "roman"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    },
+    {
+      "id": "humanisme",
+      "terme": "humanisme",
+      "definition": "Mouvement intellectuel de la Renaissance (XVIe siècle) qui place l'être humain, l'étude des textes antiques et la réflexion critique au centre.",
+      "chapitres": [
+        "litterature-idees"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    },
+    {
+      "id": "lumieres",
+      "terme": "Lumières",
+      "definition": "Mouvement intellectuel du XVIIIe siècle qui défend la raison, l'esprit critique, la tolérance et la liberté contre les préjugés et l'arbitraire.",
+      "chapitres": [
+        "litterature-idees"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    },
+    {
+      "id": "subordonnee-relative",
+      "terme": "proposition subordonnée relative",
+      "definition": "Proposition introduite par un pronom relatif (qui, que, dont, où, lequel…) qui complète le plus souvent un nom, son antécédent.",
+      "chapitres": [
+        "grammaire"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+        "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+      }
+    },
+    {
+      "id": "subordonnee-circonstancielle",
+      "terme": "proposition subordonnée circonstancielle",
+      "definition": "Proposition introduite par une conjonction de subordination (quand, parce que, bien que, si…) qui joue le rôle d'un complément circonstanciel de la principale.",
+      "chapitres": [
+        "grammaire"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+        "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+      }
+    },
+    {
+      "id": "interrogative-indirecte",
+      "terme": "subordonnée interrogative indirecte",
+      "definition": "Proposition qui rapporte une question à l'intérieur d'une phrase (« Je me demande s'il viendra »), sans point d'interrogation ni inversion du sujet.",
+      "chapitres": [
+        "grammaire"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+        "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+      }
+    }
+  ]
+}

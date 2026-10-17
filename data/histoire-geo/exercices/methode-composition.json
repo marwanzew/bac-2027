@@ -1,0 +1,46 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "methode-composition",
+  "exercices": [
+    {
+      "id": "compo-intro",
+      "titre": "Rédige une introduction",
+      "type": "plan-composition",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « La guerre froide, un affrontement indirect (1947-1991) ». Rédige l'introduction complète."
+      ],
+      "methode": [
+        "Accroche, définition, bornes justifiées, problématique, annonce du plan."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "En 1947, le président américain Truman annonce que les États-Unis aideront les peuples menacés par le communisme. Commence alors la guerre froide, un affrontement entre les États-Unis et l'URSS qui ne débouche jamais sur une guerre directe entre eux. Elle s'étend de 1947, avec la doctrine Truman, à 1991, date de la disparition de l'URSS. Comment ces deux superpuissances se sont-elles affrontées sans jamais se faire la guerre directement ? Nous verrons d'abord la formation de deux blocs (1947-1962), puis l'alternance de détente et de tensions (1962-1985), enfin la fin de la guerre froide (1985-1991)."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Accroche",
+          "points": 2
+        },
+        {
+          "critere": "Définition et bornes justifiées",
+          "points": 3
+        },
+        {
+          "critere": "Problématique",
+          "points": 3
+        },
+        {
+          "critere": "Annonce du plan",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "matiere": "histoire-geo",
+  "entrees": [
+    {
+      "id": "crise-economique",
+      "terme": "Crise économique",
+      "definition": "Ralentissement brutal de l'activité : chute de la production et des échanges, faillites, hausse du chômage.",
+      "chapitres": [
+        "h1-c1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "new-deal",
+      "terme": "New Deal",
+      "definition": "« Nouvelle donne » : politique de Roosevelt à partir de 1933, fondée sur l'intervention de l'État dans l'économie (grands travaux, aides, régulation, protection sociale).",
+      "chapitres": [
+        "h1-c1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "front-populaire",
+      "terme": "Front populaire",
+      "definition": "Alliance des partis de gauche (socialistes, radicaux, communistes) qui gagne les élections de 1936 en France ; gouvernement de Léon Blum.",
+      "chapitres": [
+        "h1-c1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "totalitarisme",
+      "terme": "Totalitarisme",
+      "definition": "Régime politique qui veut contrôler entièrement la société et les individus, grâce à une idéologie officielle, un parti unique, un chef, la propagande et la terreur.",
+      "chapitres": [
+        "h1-c2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "goulag",
+      "terme": "Goulag",
+      "definition": "Administration et ensemble des camps de travail forcé de l'URSS, où furent envoyés des millions de détenus.",
+      "chapitres": [
+        "h1-c2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "antisemitisme",
+      "terme": "Antisémitisme",
+      "definition": "Hostilité et haine envers les Juifs ; dans le nazisme, il prend la forme d'un racisme d'État qui aboutit au génocide.",
+      "chapitres": [
+        "h1-c2",
+        "h1-c3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "guerre-aneantissement",
+      "terme": "Guerre d'anéantissement",
+      "definition": "Guerre qui vise la destruction totale de l'ennemi, y compris de sa population civile, pour des raisons idéologiques ou raciales (front de l'Est).",
+      "chapitres": [
+        "h1-c3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "genocide",
+      "terme": "Génocide",
+      "definition": "Destruction volontaire et organisée d'un peuple, en raison de son origine nationale, ethnique, raciale ou religieuse.",
+      "chapitres": [
+        "h1-c3",
+        "h4-c1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "shoah",
+      "terme": "Shoah",
+      "definition": "Mot hébreu signifiant « catastrophe » : désigne le génocide des Juifs d'Europe par les nazis (environ 6 millions de victimes).",
+      "chapitres": [
+        "h1-c3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "collaboration",
+      "terme": "Collaboration",
+      "definition": "Politique de coopération du régime de Vichy avec l'Allemagne nazie occupante (économique, policière, politique).",
+      "chapitres": [
+        "h1-c3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "resistance",
+      "terme": "Résistance",
+      "definition": "Action clandestine ou armée menée contre l'occupant et le régime de Vichy, en France et depuis l'étranger (France libre).",
+      "chapitres": [
+        "h1-c3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "crime-contre-humanite",
+      "terme": "Crime contre l'humanité",
+      "definition": "Crime défini lors du procès de Nuremberg : assassinat, extermination, déportation ou persécution de populations civiles pour des raisons politiques, raciales ou religieuses.",
+      "chapitres": [
+        "h2-c1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "guerre-froide",
+      "terme": "Guerre froide",
+      "definition": "Affrontement idéologique, politique, économique et militaire indirect entre les États-Unis et l'URSS (1947-1991), sans guerre directe entre eux.",
+      "chapitres": [
+        "h2-c1",
+        "h2-c2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "bipolarisation",
+      "terme": "Bipolarisation",
+      "definition": "Division du monde en deux blocs rivaux, autour des États-Unis et de l'URSS, pendant la guerre froide.",
+      "chapitres": [
+        "h2-c2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "decolonisation",
+      "terme": "Décolonisation",
+      "definition": "Processus par lequel les colonies obtiennent leur indépendance, par la négociation ou par la guerre (surtout entre 1945 et 1975).",
+      "chapitres": [
+        "h2-c2",
+        "h2-c3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "tiers-monde",
+      "terme": "Tiers-monde",
+      "definition": "Expression d'Alfred Sauvy (1952) désignant les pays pauvres, souvent nouvellement indépendants, qui veulent exister entre les deux blocs.",
+      "chapitres": [
+        "h2-c2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "memoire",
+      "terme": "Mémoire",
+      "definition": "Souvenir qu'un individu ou un groupe garde du passé ; elle est sélective et affective, à la différence de l'histoire, qui établit les faits avec méthode.",
+      "chapitres": [
+        "h2-c3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "ve-republique",
+      "terme": "Ve République",
+      "definition": "Régime politique français fondé par la Constitution du 4 octobre 1958, qui renforce le pouvoir exécutif, notamment celui du président de la République.",
+      "chapitres": [
+        "h2-c3",
+        "h4-c3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "choc-petrolier",
+      "terme": "Choc pétrolier",
+      "definition": "Forte hausse brutale du prix du pétrole (1973, 1979) qui provoque inflation et ralentissement économique dans les pays importateurs.",
+      "chapitres": [
+        "h3-c1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "neoliberalisme",
+      "terme": "Néolibéralisme",
+      "definition": "Politique économique qui réduit l'intervention de l'État (baisse des impôts, privatisations, déréglementation) et fait confiance au marché.",
+      "chapitres": [
+        "h3-c1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "alternance",
+      "terme": "Alternance",
+      "definition": "Passage du pouvoir d'une majorité politique à une autre par des élections.",
+      "chapitres": [
+        "h3-c2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "cohabitation",
+      "terme": "Cohabitation",
+      "definition": "Situation où le président de la République et la majorité de l'Assemblée nationale (donc le gouvernement) sont de camps politiques opposés.",
+      "chapitres": [
+        "h3-c2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "multipolarite",
+      "terme": "Monde multipolaire",
+      "definition": "Monde organisé autour de plusieurs pôles de puissance, et non plus d'un ou deux.",
+      "chapitres": [
+        "h4-c1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "apartheid",
+      "terme": "Apartheid",
+      "definition": "Politique de ségrégation raciale officielle en Afrique du Sud (1948-1991), qui privait la majorité noire de droits.",
+      "chapitres": [
+        "h4-c1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "approfondissement",
+      "terme": "Approfondissement",
+      "definition": "Renforcement de l'intégration européenne : transfert de nouvelles compétences à l'UE (marché unique, euro, politiques communes).",
+      "chapitres": [
+        "h4-c2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "elargissement",
+      "terme": "Élargissement",
+      "definition": "Entrée de nouveaux États membres dans l'Union européenne.",
+      "chapitres": [
+        "h4-c2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "parite",
+      "terme": "Parité",
+      "definition": "Égal accès des femmes et des hommes aux mandats électoraux et aux fonctions électives, inscrit dans la Constitution en 1999.",
+      "chapitres": [
+        "h4-c3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "decentralisation",
+      "terme": "Décentralisation",
+      "definition": "Transfert de compétences et de moyens de l'État vers les collectivités territoriales (communes, départements, régions), qui sont administrées par des élus.",
+      "chapitres": [
+        "h4-c3",
+        "h3-c2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "maritimisation",
+      "terme": "Maritimisation",
+      "definition": "Part croissante des activités et des échanges qui passent par la mer, et attraction des activités vers les littoraux.",
+      "chapitres": [
+        "g1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "interface",
+      "terme": "Interface",
+      "definition": "Zone de contact entre deux espaces différents, qui favorise les échanges (un port entre terre et mer, une frontière).",
+      "chapitres": [
+        "g1",
+        "g3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "zee",
+      "terme": "Zone économique exclusive (ZEE)",
+      "definition": "Espace maritime jusqu'à 200 milles marins (environ 370 km) des côtes, où l'État riverain exploite seul les ressources (convention de Montego Bay, 1982).",
+      "chapitres": [
+        "g1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "mondialisation",
+      "terme": "Mondialisation",
+      "definition": "Processus de mise en relation des différentes parties du monde par l'intensification des échanges de marchandises, de capitaux, d'informations et de personnes.",
+      "chapitres": [
+        "g2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "metropolisation",
+      "terme": "Métropolisation",
+      "definition": "Concentration croissante des populations, des activités et des fonctions de commandement dans les grandes villes.",
+      "chapitres": [
+        "g2",
+        "g4"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "cohesion-territoriale",
+      "terme": "Cohésion territoriale",
+      "definition": "Objectif de réduire les inégalités de développement entre les territoires de l'UE, grâce à des politiques et des fonds de solidarité.",
+      "chapitres": [
+        "g3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    },
+    {
+      "id": "littoralisation",
+      "terme": "Littoralisation",
+      "definition": "Concentration croissante des populations et des activités sur les littoraux.",
+      "chapitres": [
+        "g4"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en histoire-géographie"
+      }
+    }
+  ]
+}

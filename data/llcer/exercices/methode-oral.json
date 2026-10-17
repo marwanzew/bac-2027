@@ -1,0 +1,109 @@
+{
+  "matiere": "llcer",
+  "chapitre": "methode-oral",
+  "exercices": [
+    {
+      "id": "dossier-construction",
+      "titre": "Construis ton dossier",
+      "type": "dossier-oral",
+      "difficulte": "moyen",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Choisis une thématique et une œuvre étudiée. Propose un dossier de 5 documents qui respecte les règles officielles, avec une problématique en anglais et une phrase qui justifie chaque document."
+      ],
+      "methode": [
+        "Vérifie les quatre règles : ≥ 1 œuvre étudiée, ≥ 1 texte littéraire, ≤ 2 œuvres d'art visuel, ≥ 1 texte non littéraire.",
+        "Varie les époques et les pays.",
+        "Ta problématique doit être une vraie question."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Exemple de dossier** (thématique « Arts et débats d'idées », axe « L'art du débat ») :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**Problématique** : *Can words change people's minds?*",
+            "1. *12 Angry Men* (1957), scène où le juré n° 8 propose un vote à bulletin secret (œuvre étudiée, extrait de film = œuvre d'art visuel n° 1).",
+            "2. Shakespeare, *Julius Caesar*, discours de Mark Antony (texte littéraire).",
+            "3. Discours de Winston Churchill du 4 juin 1940 (texte non littéraire).",
+            "4. Article de presse sur un concours de débat entre lycéens (texte non littéraire).",
+            "5. Une affiche de propagande de la Seconde Guerre mondiale (œuvre d'art visuel n° 2)."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les règles sont respectées : une œuvre étudiée, un texte littéraire, deux œuvres d'art visuel au maximum, deux textes non littéraires."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Règles du dossier respectées",
+          "points": 4
+        },
+        {
+          "critere": "Problématique pertinente",
+          "points": 3
+        },
+        {
+          "critere": "Justification de chaque document",
+          "points": 3
+        }
+      ]
+    },
+    {
+      "id": "oral-introduction",
+      "titre": "Write your 90-second introduction",
+      "type": "expression-ecrite",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Write the introduction of your oral presentation (about 120 words): theme, axis, problem, list of documents."
+      ],
+      "methode": [
+        "Commence par une accroche (une citation, une question, un fait).",
+        "Annonce clairement la problématique.",
+        "Liste les documents dans l'ordre où tu vas les présenter."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (un exemple de réponse possible, pas la seule) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "\"Words are weapons\": this idea sums up the file I would like to present today. It is linked to the theme *Arts et débats d'idées* and more precisely to the axis *L'art du débat*."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "The question I would like to address is: can words really change people's minds?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "To answer it, I chose five documents: an extract from Sidney Lumet's film *12 Angry Men*, released in 1957, which I studied in class; Mark Antony's speech in Shakespeare's *Julius Caesar*; Winston Churchill's speech of 4 June 1940; a newspaper article about a debating competition; and a wartime propaganda poster."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse à la consigne, idées pertinentes",
+          "points": 4
+        },
+        {
+          "critere": "Organisation (introduction, paragraphes, connecteurs)",
+          "points": 3
+        },
+        {
+          "critere": "Richesse et correction de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

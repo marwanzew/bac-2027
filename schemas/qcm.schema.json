@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "qcm.schema.json",
+  "title": "Question de QCM",
+  "type": "object",
+  "required": ["id", "enonce", "choix", "certitude", "source"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "$ref": "commun.schema.json#/$defs/id" },
+    "enonce": { "$ref": "commun.schema.json#/$defs/texte" },
+    "multiple": { "type": "boolean", "default": false, "description": "true = plusieurs bonnes réponses possibles." },
+    "choix": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 6,
+      "contains": { "type": "object", "properties": { "correct": { "const": true } }, "required": ["correct"] },
+      "items": {
+        "type": "object",
+        "required": ["id", "texte", "correct", "explication"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-f]$" },
+          "texte": { "$ref": "commun.schema.json#/$defs/texte" },
+          "correct": { "type": "boolean" },
+          "explication": { "$ref": "commun.schema.json#/$defs/texte", "description": "Affichée après la réponse, pour chaque choix." }
+        }
+      }
+    },
+    "certitude": { "$ref": "commun.schema.json#/$defs/certitude" },
+    "source": { "$ref": "commun.schema.json#/$defs/source" },
+    "raison": { "type": "string" }
+  },
+  "if": { "properties": { "certitude": { "const": "a_verifier" } } },
+  "then": { "required": ["raison"] }
+}

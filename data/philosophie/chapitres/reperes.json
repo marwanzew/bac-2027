@@ -1,0 +1,360 @@
+{
+  "id": "reperes",
+  "matiere": "philosophie",
+  "titre": "Les repères du programme",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Repères",
+    "intitule": "Liste des repères du programme de philosophie",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Connaître les couples de notions (repères) du programme.",
+    "Savoir les utiliser pour analyser un sujet ou un texte.",
+    "Ne pas les réciter : les mobiliser au service d'un problème."
+  ],
+  "parties": [
+    {
+      "id": "usage",
+      "titre": "À quoi servent les repères ?",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Les repères sont des **distinctions conceptuelles** (« légal / légitime », « en fait / en droit »…) qui aident à **analyser un sujet**, à **poser un problème** et à **lire un texte**."
+        },
+        {
+          "type": "piege",
+          "titre": "ce n'est pas un cours à part",
+          "texte": "Le programme précise que les repères ne font pas l'objet d'un enseignement séparé et ne doivent pas être réduits à des définitions figées : apprends leur sens, puis entraîne-toi à les utiliser dans un sujet."
+        },
+        {
+          "type": "exemple",
+          "titre": "Exemple d'utilisation",
+          "texte": "« Doit-on toujours obéir aux lois ? » → le repère **légal / légitime** fait apparaître le problème : une loi peut être légale sans être juste."
+        }
+      ]
+    },
+    {
+      "id": "liste",
+      "titre": "Les repères, un par un",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "absolu-relatif"
+        },
+        {
+          "type": "definition",
+          "glossaire": "abstrait-concret"
+        },
+        {
+          "type": "definition",
+          "glossaire": "acte-puissance"
+        },
+        {
+          "type": "definition",
+          "glossaire": "analyse-synthese"
+        },
+        {
+          "type": "definition",
+          "glossaire": "concept-image-metaphore"
+        },
+        {
+          "type": "definition",
+          "glossaire": "contingent-necessaire"
+        },
+        {
+          "type": "definition",
+          "glossaire": "croire-savoir"
+        },
+        {
+          "type": "definition",
+          "glossaire": "essentiel-accidentel"
+        },
+        {
+          "type": "definition",
+          "glossaire": "exemple-preuve"
+        },
+        {
+          "type": "definition",
+          "glossaire": "expliquer-comprendre"
+        },
+        {
+          "type": "definition",
+          "glossaire": "fait-droit"
+        },
+        {
+          "type": "definition",
+          "glossaire": "formel-materiel"
+        },
+        {
+          "type": "definition",
+          "glossaire": "genre-espece-individu"
+        },
+        {
+          "type": "definition",
+          "glossaire": "hypothese-consequence-conclusion"
+        },
+        {
+          "type": "definition",
+          "glossaire": "ideal-reel"
+        },
+        {
+          "type": "definition",
+          "glossaire": "identite-egalite-difference"
+        },
+        {
+          "type": "definition",
+          "glossaire": "impossible-possible"
+        },
+        {
+          "type": "definition",
+          "glossaire": "intuitif-discursif"
+        },
+        {
+          "type": "definition",
+          "glossaire": "legal-legitime"
+        },
+        {
+          "type": "definition",
+          "glossaire": "mediat-immediat"
+        },
+        {
+          "type": "definition",
+          "glossaire": "objectif-subjectif-intersubjectif"
+        },
+        {
+          "type": "definition",
+          "glossaire": "obligation-contrainte"
+        },
+        {
+          "type": "definition",
+          "glossaire": "origine-fondement"
+        },
+        {
+          "type": "definition",
+          "glossaire": "persuader-convaincre"
+        },
+        {
+          "type": "definition",
+          "glossaire": "principe-cause-fin"
+        },
+        {
+          "type": "definition",
+          "glossaire": "public-prive"
+        },
+        {
+          "type": "definition",
+          "glossaire": "ressemblance-analogie"
+        },
+        {
+          "type": "definition",
+          "glossaire": "theorie-pratique"
+        },
+        {
+          "type": "definition",
+          "glossaire": "transcendant-immanent"
+        },
+        {
+          "type": "definition",
+          "glossaire": "universel-general-particulier-singulier"
+        },
+        {
+          "type": "definition",
+          "glossaire": "vrai-probable-certain"
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "notion",
+      "libelle": "Repère très utile pour la politique et la morale",
+      "valeur": "Légal / légitime",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+        "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "notion",
+      "libelle": "Repère très utile pour poser un problème",
+      "valeur": "En fait / en droit",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+        "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "notion",
+      "libelle": "Repère très utile pour la vérité et la science",
+      "valeur": "Croire / savoir",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+        "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Les repères les plus utiles par notion (suggestions)",
+    "colonnes": [
+      "Notion",
+      "Repères"
+    ],
+    "lignes": [
+      [
+        "L'État, la justice, le devoir",
+        "légal / légitime ; obligation / contrainte ; public / privé ; en fait / en droit"
+      ],
+      [
+        "La vérité, la science, la raison",
+        "croire / savoir ; vrai / probable / certain ; exemple / preuve ; intuitif / discursif ; expliquer / comprendre"
+      ],
+      [
+        "La liberté, la conscience, l'inconscient",
+        "obligation / contrainte ; contingent / nécessaire ; médiat / immédiat ; objectif / subjectif"
+      ],
+      [
+        "L'art, la technique, le travail",
+        "théorie / pratique ; idéal / réel ; principe / cause / fin"
+      ],
+      [
+        "La religion",
+        "croire / savoir ; transcendant / immanent"
+      ]
+    ]
+  },
+  "fiche": [
+    "Les repères sont des **outils d'analyse**, pas un cours à réciter.",
+    "**Légal / légitime** : la loi n'est pas toujours juste.",
+    "**En fait / en droit** : ce qui est ≠ ce qui doit être.",
+    "**Croire / savoir** : sans ou avec raisons suffisantes.",
+    "**Obligation / contrainte** : devoir reconnu ≠ force subie.",
+    "**Persuader / convaincre** : émotions ≠ raisons.",
+    "**Origine / fondement** : d'où vient une chose ≠ ce qui la justifie.",
+    "**Contingent / nécessaire** : pourrait être autrement ≠ ne peut être autrement."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Une loi injuste votée régulièrement est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "légale mais pas légitime",
+          "correct": true,
+          "explication": "Repère légal / légitime."
+        },
+        {
+          "id": "b",
+          "texte": "légitime mais pas légale",
+          "correct": false,
+          "explication": "C'est l'inverse."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "« Je suis obligé de rendre ce que j'ai emprunté » relève de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "l'obligation",
+          "correct": true,
+          "explication": "Un devoir que je reconnais."
+        },
+        {
+          "id": "b",
+          "texte": "la contrainte",
+          "correct": false,
+          "explication": "La contrainte est une force extérieure."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Qu'il pleuve aujourd'hui est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "contingent",
+          "correct": true,
+          "explication": "Cela aurait pu ne pas arriver."
+        },
+        {
+          "id": "b",
+          "texte": "nécessaire",
+          "correct": false,
+          "explication": "Ce n'est pas impossible autrement."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Toucher les émotions de quelqu'un pour le faire changer d'avis, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "persuader",
+          "correct": true,
+          "explication": "Convaincre passe par des raisons."
+        },
+        {
+          "id": "b",
+          "texte": "convaincre",
+          "correct": false,
+          "explication": "Convaincre s'adresse à la raison."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Un exemple peut-il prouver une thèse générale ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Non, mais un contre-exemple peut la réfuter",
+          "correct": true,
+          "explication": "Repère exemple / preuve."
+        },
+        {
+          "id": "b",
+          "texte": "Oui, toujours",
+          "correct": false,
+          "explication": "Un cas ne suffit pas à établir une loi générale."
+        }
+      ]
+    }
+  ]
+}

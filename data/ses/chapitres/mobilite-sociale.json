@@ -1,0 +1,455 @@
+{
+  "id": "mobilite-sociale",
+  "matiere": "ses",
+  "titre": "Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Sociologie et science politique",
+    "intitule": "Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ?",
+    "evaluableEcrit": true,
+    "certitude": "certain",
+    "source": {
+      "titre": "Eduscol, fiche ressource de SES « Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ? », octobre 2025",
+      "url": "https://eduscol.education.fr/document/23221/download"
+    }
+  },
+  "objectifs": [
+    "Savoir distinguer la mobilité sociale intergénérationnelle des autres formes de mobilité (géographique, professionnelle).",
+    "Comprendre les principes de construction, les intérêts et les limites des tables de mobilité comme instrument de mesure de la mobilité sociale.",
+    "Comprendre que la mobilité observée comporte une composante structurelle (mobilité structurelle) ; comprendre que la mobilité peut aussi se mesurer de manière relative indépendamment des différences de structure entre origine et position sociales (fluidité sociale) et qu'une société plus mobile n'est pas nécessairement une société plus fluide.",
+    "À partir de la lecture des tables de mobilité, être capable de mettre en évidence des situations de mobilité ascendante, de reproduction sociale et de déclassement, et de retrouver les spécificités de la mobilité sociale des hommes et de celles des femmes.",
+    "Comprendre comment l'évolution de la structure socioprofessionnelle, les niveaux de formation et les ressources et configurations familiales contribuent à expliquer la mobilité sociale."
+  ],
+  "parties": [
+    {
+      "id": "formes",
+      "titre": "Les formes de mobilité",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "mobilite-sociale"
+        },
+        {
+          "type": "definition",
+          "glossaire": "mobilite-intergenerationnelle"
+        },
+        {
+          "type": "definition",
+          "glossaire": "mobilite-intragenerationnelle"
+        },
+        {
+          "type": "definition",
+          "glossaire": "mobilite-geographique"
+        },
+        {
+          "type": "piege",
+          "titre": "ne pas confondre",
+          "texte": "Un ouvrier qui devient chef d'équipe connaît une mobilité **professionnelle** (intragénérationnelle). La fille d'un ouvrier qui devient cadre connaît une mobilité **intergénérationnelle**. Le chapitre porte surtout sur la seconde."
+        }
+      ]
+    },
+    {
+      "id": "tables",
+      "titre": "Les tables de mobilité",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "table-de-mobilite"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Construction.** L'Insee interroge des personnes de 35 à 59 ans (âge où la position professionnelle est stabilisée) et leur demande la profession de leur père ou de leur mère. On classe les deux en groupes socioprofessionnels."
+        },
+        {
+          "type": "definition",
+          "glossaire": "table-de-destinee"
+        },
+        {
+          "type": "definition",
+          "glossaire": "table-de-recrutement"
+        },
+        {
+          "type": "tableau",
+          "titre": "Comment lire une phrase de table ?",
+          "colonnes": [
+            "Table",
+            "Phrase type"
+          ],
+          "lignes": [
+            [
+              "Destinée (on part de l'origine)",
+              "« Sur 100 fils d'ouvriers, X sont devenus cadres. »"
+            ],
+            [
+              "Recrutement (on part de la position)",
+              "« Sur 100 cadres, X ont un père ouvrier. »"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Intérêts.** Les tables mesurent l'ampleur de la mobilité et de la reproduction, permettent de comparer les époques et les pays, et de distinguer la mobilité des hommes et celle des femmes."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Limites.** Six grands groupes cachent des mobilités internes (un ouvrier non qualifié dont le fils devient ouvrier qualifié est compté « immobile ») ; la hiérarchie entre certains groupes n'est pas évidente (un employé est-il au-dessus d'un agriculteur ?) ; une même catégorie n'a pas la même valeur d'une génération à l'autre ; longtemps, on a comparé seulement les fils à leur père."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Destinée = **que deviennent** les enfants d'un groupe ? Recrutement = **d'où viennent** les membres d'un groupe ?"
+        }
+      ]
+    },
+    {
+      "id": "mesures",
+      "titre": "Mobilité observée, mobilité structurelle, fluidité",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "mobilite-observee"
+        },
+        {
+          "type": "definition",
+          "glossaire": "mobilite-structurelle"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Depuis les années 1950, la structure des emplois s'est transformée (moins d'agriculteurs et d'ouvriers, plus de cadres et de professions intermédiaires). Une partie de la mobilité est donc **forcée** par ces changements : il n'y a plus assez de places d'agriculteurs pour tous les enfants d'agriculteurs."
+        },
+        {
+          "type": "definition",
+          "glossaire": "fluidite-sociale"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La fluidité ne regarde pas le nombre de personnes mobiles, mais l'**inégalité des chances** : un enfant de cadre a-t-il beaucoup plus de chances qu'un enfant d'ouvrier de devenir cadre plutôt qu'ouvrier ?"
+        },
+        {
+          "type": "piege",
+          "titre": "plus mobile ≠ plus fluide",
+          "texte": "Une société peut être **plus mobile** (plus de personnes changent de position, grâce à la mobilité structurelle) sans être **plus fluide** (les inégalités de chances entre origines restent les mêmes). Exemple : beaucoup d'enfants d'ouvriers deviennent professions intermédiaires parce que ces emplois se multiplient, mais les enfants de cadres gardent le même avantage relatif pour devenir cadres."
+        }
+      ]
+    },
+    {
+      "id": "constats",
+      "titre": "Ce que montrent les tables aujourd'hui",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "reproduction-sociale"
+        },
+        {
+          "type": "definition",
+          "glossaire": "mobilite-ascendante"
+        },
+        {
+          "type": "definition",
+          "glossaire": "declassement"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "L'enquête de l'Insee de 2015 (personnes de 35 à 59 ans) donne les résultats suivants :"
+        },
+        {
+          "type": "tableau",
+          "titre": "Mobilité en 2015 (Insee)",
+          "colonnes": [
+            "",
+            "Hommes par rapport à leur père",
+            "Femmes par rapport à leur mère"
+          ],
+          "lignes": [
+            [
+              "Position différente du parent",
+              "65 %",
+              "71 %"
+            ],
+            [
+              "Mobilité ascendante",
+              "28 %",
+              "40 %"
+            ],
+            [
+              "Mobilité descendante",
+              "15 %",
+              "12 %"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Les spécificités des femmes.** Comparées à leur mère, les femmes connaissent une forte mobilité ascendante, car beaucoup de mères étaient employées ou ouvrières, et les filles ont accédé à des emplois plus qualifiés. Comparées à leur **père**, en revanche, elles connaissent plus souvent une mobilité descendante (25 %) qu'ascendante (22 %) : elles occupent plus souvent des emplois d'employées."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Les hommes.** Leur mobilité est quasi stable depuis 40 ans ; la mobilité descendante a doublé depuis 1977 (de 7 % à 15 %)."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "La reproduction sociale reste forte **aux deux extrémités** de la hiérarchie (enfants de cadres et enfants d'ouvriers)."
+        }
+      ]
+    },
+    {
+      "id": "facteurs",
+      "titre": "Les facteurs de la mobilité sociale",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme cite trois facteurs."
+        },
+        {
+          "type": "tableau",
+          "titre": "Trois facteurs",
+          "colonnes": [
+            "Facteur",
+            "Mécanisme"
+          ],
+          "lignes": [
+            [
+              "L'évolution de la structure socioprofessionnelle",
+              "La hausse des emplois qualifiés crée des places pour la mobilité ascendante (mobilité structurelle) ; leur ralentissement augmente le risque de déclassement"
+            ],
+            [
+              "Les niveaux de formation",
+              "Le diplôme est la principale voie d'accès aux positions élevées ; mais comme sa réussite dépend aussi de l'origine sociale (chapitre « École »), il peut aussi reproduire les positions"
+            ],
+            [
+              "Les ressources et configurations familiales",
+              "Capital économique (patrimoine), capital culturel, capital social (réseau de relations) ; taille de la fratrie, rang de naissance, famille monoparentale ou recomposée, position de la mère"
+            ]
+          ]
+        },
+        {
+          "type": "plus-loin",
+          "titre": "Le paradoxe d'Anderson",
+          "texte": "Le sociologue C. Arnold Anderson a montré (1961) qu'un fils plus diplômé que son père n'obtient pas forcément une position sociale plus élevée : quand les diplômes se multiplient, leur valeur sur le marché du travail baisse."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Hommes (35-59 ans) dont la position diffère de celle de leur père, 2015",
+      "valeur": "65 %",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee Première n° 1739, « En 40 ans, la mobilité sociale des femmes a progressé, celle des hommes est restée quasi stable », 27 février 2019",
+        "url": "https://insee.fr/fr/statistiques/3733096"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Femmes (35-59 ans) dont la position diffère de celle de leur mère, 2015",
+      "valeur": "71 %",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee Première n° 1739, « En 40 ans, la mobilité sociale des femmes a progressé, celle des hommes est restée quasi stable », 27 février 2019",
+        "url": "https://insee.fr/fr/statistiques/3733096"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Mobilité descendante des hommes par rapport à leur père",
+      "valeur": "7 % en 1977 → 15 % en 2015",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee Première n° 1739, « En 40 ans, la mobilité sociale des femmes a progressé, celle des hommes est restée quasi stable », 27 février 2019",
+        "url": "https://insee.fr/fr/statistiques/3733096"
+      }
+    },
+    {
+      "type": "notion",
+      "libelle": "Lire une table de destinée",
+      "valeur": "« Sur 100 enfants de [origine], X sont [position] »",
+      "certitude": "certain",
+      "source": {
+        "titre": "Eduscol, fiche ressource de SES « Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ? », octobre 2025",
+        "url": "https://eduscol.education.fr/document/23221/download"
+      }
+    },
+    {
+      "type": "notion",
+      "libelle": "Plus mobile ≠ plus fluide",
+      "valeur": "La mobilité structurelle peut augmenter sans que l'inégalité des chances recule",
+      "certitude": "certain",
+      "source": {
+        "titre": "Eduscol, fiche ressource de SES « Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ? », octobre 2025",
+        "url": "https://eduscol.education.fr/document/23221/download"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "Mesurer et expliquer la mobilité",
+    "sens": "vertical",
+    "noeuds": [
+      {
+        "id": "tab",
+        "texte": "Tables de mobilité (destinée, recrutement)"
+      },
+      {
+        "id": "obs",
+        "texte": "Mobilité observée"
+      },
+      {
+        "id": "str",
+        "texte": "Mobilité structurelle"
+      },
+      {
+        "id": "flu",
+        "texte": "Fluidité sociale (chances relatives)"
+      },
+      {
+        "id": "fac",
+        "texte": "Facteurs : structure, formation, famille"
+      }
+    ],
+    "liens": [
+      {
+        "de": "tab",
+        "vers": "obs"
+      },
+      {
+        "de": "obs",
+        "vers": "str",
+        "texte": "dont"
+      },
+      {
+        "de": "tab",
+        "vers": "flu"
+      },
+      {
+        "de": "fac",
+        "vers": "obs",
+        "texte": "expliquent"
+      }
+    ]
+  },
+  "fiche": [
+    "**Intergénérationnelle** (parents/enfants) ≠ **intragénérationnelle** (au cours de la carrière) ≠ **géographique**.",
+    "**Table de destinée** : que deviennent les enfants d'un groupe ? **Table de recrutement** : d'où viennent les membres d'un groupe ?",
+    "**Limites** : groupes larges, hiérarchie floue, catégories qui changent de valeur, longtemps seulement père/fils.",
+    "**Mobilité observée** dont **structurelle** (forcée par l'évolution des emplois).",
+    "**Fluidité** : inégalité des chances relatives. Plus mobile ≠ plus fluide.",
+    "**Insee 2015** : 65 % des hommes mobiles par rapport au père ; 71 % des femmes par rapport à la mère ; descendante des hommes 15 % (7 % en 1977).",
+    "**Femmes** : ascendantes par rapport à la mère, plus souvent descendantes par rapport au père.",
+    "**Facteurs** : structure socioprofessionnelle, niveau de formation, ressources et configurations familiales."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "« Sur 100 cadres, 10 ont un père ouvrier. » Cette phrase se lit dans…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une table de recrutement",
+          "correct": true,
+          "explication": "On part de la position actuelle."
+        },
+        {
+          "id": "b",
+          "texte": "une table de destinée",
+          "correct": false,
+          "explication": "Une table de destinée part de l'origine."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Un fils d'agriculteur devient ouvrier parce que le nombre d'exploitations a beaucoup diminué. C'est surtout…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "de la mobilité structurelle",
+          "correct": true,
+          "explication": "Elle est forcée par l'évolution des emplois."
+        },
+        {
+          "id": "b",
+          "texte": "de la fluidité sociale",
+          "correct": false,
+          "explication": "La fluidité mesure les chances relatives."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Une société plus mobile est-elle forcément plus fluide ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Eduscol, fiche ressource de SES « Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ? », octobre 2025",
+        "url": "https://eduscol.education.fr/document/23221/download"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Non",
+          "correct": true,
+          "explication": "La mobilité peut venir de la structure sans réduction de l'inégalité des chances."
+        },
+        {
+          "id": "b",
+          "texte": "Oui",
+          "correct": false,
+          "explication": "C'est le piège classique du chapitre."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "En 2015, par rapport à leur père, les femmes connaissent plus souvent…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee Première n° 1739, « En 40 ans, la mobilité sociale des femmes a progressé, celle des hommes est restée quasi stable », 27 février 2019",
+        "url": "https://insee.fr/fr/statistiques/3733096"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une mobilité descendante",
+          "correct": true,
+          "explication": "25 % contre 22 % d'ascendante."
+        },
+        {
+          "id": "b",
+          "texte": "une mobilité ascendante",
+          "correct": false,
+          "explication": "C'est vrai par rapport à leur mère, pas par rapport à leur père."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Un salarié devient cadre au cours de sa carrière. C'est une mobilité…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "intragénérationnelle",
+          "correct": true,
+          "explication": "Au cours de sa propre vie active."
+        },
+        {
+          "id": "b",
+          "texte": "intergénérationnelle",
+          "correct": false,
+          "explication": "Il faudrait comparer avec ses parents."
+        }
+      ]
+    }
+  ]
+}

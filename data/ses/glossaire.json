@@ -1,0 +1,1719 @@
+{
+  "matiere": "ses",
+  "entrees": [
+    {
+      "id": "croissance-economique",
+      "terme": "Croissance économique",
+      "definition": "Augmentation soutenue, sur une longue période, de la production de biens et de services d'un pays. Elle se mesure par le taux de variation du PIB en volume, c'est-à-dire corrigé de la hausse des prix.",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique (programme de SES de terminale, BO spécial n° 8 du 25 juillet 2019)"
+      }
+    },
+    {
+      "id": "pib",
+      "terme": "PIB",
+      "definition": "Produit intérieur brut : agrégat de la comptabilité nationale qui vise à mesurer la richesse créée par tous les agents, privés et publics, sur un territoire national pendant une période donnée.",
+      "exemple": "Le taux de croissance du PIB en volume mesure la croissance économique.",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, définition « Produit intérieur brut »",
+        "url": "https://www.insee.fr/fr/metadonnees/definition/c1365",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "id": "facteurs-de-production",
+      "terme": "Facteurs de production",
+      "definition": "Ressources combinées pour produire des biens et des services : principalement le **travail** (la main-d'œuvre) et le **capital** (machines, bâtiments, logiciels…).",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "productivite",
+      "terme": "Productivité",
+      "definition": "Rapport, en volume, entre une production et les ressources mises en œuvre pour l'obtenir. La productivité du travail rapporte la production à la quantité de travail utilisée (nombre de travailleurs ou d'heures).",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, définition « Productivité »",
+        "url": "https://www.insee.fr/fr/metadonnees/definition/c1452",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "id": "pgf",
+      "terme": "Productivité globale des facteurs (PGF)",
+      "definition": "Part de la croissance de la production qui ne s'explique pas par l'augmentation des quantités de travail et de capital utilisées. Elle mesure l'efficacité avec laquelle les facteurs de production sont combinés ; elle se calcule par différence (on parle de « résidu »).",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique ; notion citée par le programme de SES de terminale"
+      }
+    },
+    {
+      "id": "progres-technique",
+      "terme": "Progrès technique",
+      "definition": "Ensemble des innovations (nouveaux produits, nouveaux procédés, nouvelles organisations) qui permettent de produire davantage, ou mieux, avec la même quantité de facteurs de production.",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "innovation",
+      "terme": "Innovation",
+      "definition": "Mise en application économique d'une invention : nouveau produit, nouveau procédé de production, nouvelle organisation ou nouveau débouché.",
+      "exemple": "Le smartphone est une innovation de produit ; le travail à la chaîne est une innovation de procédé.",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique, d'après la typologie de J. A. Schumpeter"
+      }
+    },
+    {
+      "id": "croissance-endogene",
+      "terme": "Croissance endogène",
+      "definition": "Théories, développées à partir de la fin des années 1980, selon lesquelles le progrès technique résulte de décisions économiques (investissement en recherche, en capital humain, en infrastructures) : la croissance s'auto-entretient.",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique ; programme de SES : « le progrès technique est endogène »"
+      }
+    },
+    {
+      "id": "capital-humain",
+      "terme": "Capital humain",
+      "definition": "Ensemble des connaissances, des compétences et de l'état de santé d'une personne, qui déterminent sa capacité à produire. On l'accroît par la formation, l'expérience et la santé.",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "externalite",
+      "terme": "Externalité",
+      "definition": "Effet de l'activité d'un agent sur d'autres agents, sans compensation monétaire. Elle est positive quand elle leur est favorable (une découverte qui profite à d'autres chercheurs), négative quand elle leur nuit (la pollution).",
+      "chapitres": [
+        "croissance",
+        "environnement"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique (notion vue en première)"
+      }
+    },
+    {
+      "id": "institutions",
+      "terme": "Institutions",
+      "definition": "Ensemble des règles formelles (lois, Constitution, contrats) et informelles (coutumes, normes sociales) qui encadrent les comportements des agents économiques.",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique, d'après les travaux de D. C. North"
+      }
+    },
+    {
+      "id": "droits-de-propriete",
+      "terme": "Droits de propriété",
+      "definition": "Droits reconnus à une personne sur un bien : l'utiliser, en tirer un revenu et le céder. Ils couvrent aussi les biens immatériels (brevets, droits d'auteur).",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique ; notion citée par le programme de SES de terminale"
+      }
+    },
+    {
+      "id": "brevet",
+      "terme": "Brevet",
+      "definition": "Titre de propriété industrielle qui donne à l'inventeur le droit exclusif d'exploiter son invention pendant une durée limitée (20 ans au maximum en France), en échange de sa publication.",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Code de la propriété intellectuelle, article L611-2 ; INPI"
+      }
+    },
+    {
+      "id": "destruction-creatrice",
+      "terme": "Destruction créatrice",
+      "definition": "Processus, décrit par Joseph Schumpeter, par lequel les innovations font disparaître des produits, des entreprises et des emplois anciens tout en en créant de nouveaux, plus productifs.",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "J. A. Schumpeter, Capitalisme, socialisme et démocratie, 1942 ; notion citée par le programme de SES de terminale"
+      }
+    },
+    {
+      "id": "polarisation-emplois",
+      "terme": "Polarisation des emplois",
+      "definition": "Évolution de l'emploi dans laquelle les emplois intermédiaires, composés de tâches routinières faciles à automatiser, reculent, tandis que progressent les emplois très qualifiés et certains emplois peu qualifiés difficiles à automatiser.",
+      "chapitres": [
+        "croissance",
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "croissance-soutenable",
+      "terme": "Croissance soutenable",
+      "definition": "Croissance qui permet de répondre aux besoins des générations présentes sans compromettre la capacité des générations futures à répondre aux leurs, ce qui suppose de préserver les ressources naturelles et l'environnement.",
+      "chapitres": [
+        "croissance"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition dérivée du rapport Brundtland (« Notre avenir à tous », 1987)"
+      }
+    },
+    {
+      "id": "epreuve-composee",
+      "terme": "Épreuve composée",
+      "definition": "Sujet de SES en trois parties : mobilisation des connaissances (3,5 points), étude d'un document statistique (5,5 points), raisonnement s'appuyant sur un dossier documentaire (9 points).",
+      "chapitres": [
+        "epreuve-ecrite"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026, BO spécial n° 4",
+        "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2622656N"
+      }
+    },
+    {
+      "id": "avantage-comparatif",
+      "terme": "Avantage comparatif",
+      "definition": "Avantage d'un pays dans la production où son efficacité relative est la plus grande (ou son désavantage le plus faible) par rapport à ses partenaires. En s'y spécialisant et en échangeant, tous les pays peuvent gagner.",
+      "chapitres": [
+        "commerce-international"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "D. Ricardo, Des principes de l'économie politique et de l'impôt, 1817"
+      }
+    },
+    {
+      "id": "dotations-factorielles",
+      "terme": "Dotations factorielles",
+      "definition": "Quantités de facteurs de production (travail qualifié ou peu qualifié, capital, terres, ressources naturelles) dont dispose un pays. Selon le modèle HOS, un pays se spécialise dans les biens qui utilisent intensément son facteur abondant.",
+      "chapitres": [
+        "commerce-international"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Modèle Heckscher-Ohlin-Samuelson ; notion citée par le programme de SES"
+      }
+    },
+    {
+      "id": "commerce-intrabranche",
+      "terme": "Commerce intrabranche",
+      "definition": "Échange entre pays de produits appartenant à la même branche, différenciés par leurs caractéristiques ou leur qualité (des voitures contre des voitures). Il s'oppose au commerce interbranche, qui échange des produits de branches différentes.",
+      "chapitres": [
+        "commerce-international"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "competitivite",
+      "terme": "Compétitivité",
+      "definition": "Aptitude d'une entreprise ou d'un pays à vendre ses produits face à la concurrence, en particulier à exporter. On distingue la compétitivité-prix (vendre moins cher) et la compétitivité hors prix (qualité, innovation, image).",
+      "chapitres": [
+        "commerce-international"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle ; le programme de SES la définit comme « l'aptitude à exporter »"
+      }
+    },
+    {
+      "id": "chaine-de-valeur",
+      "terme": "Chaîne de valeur",
+      "definition": "Ensemble des étapes de la conception, de la production et de la commercialisation d'un produit, chacune ajoutant de la valeur. Elle est internationalisée quand ces étapes sont réparties entre plusieurs pays.",
+      "chapitres": [
+        "commerce-international"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "firme-multinationale",
+      "terme": "Firme multinationale (FMN)",
+      "definition": "Entreprise qui possède au moins une filiale à l'étranger, sur laquelle elle exerce un contrôle.",
+      "chapitres": [
+        "commerce-international"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "ide",
+      "terme": "Investissement direct à l'étranger (IDE)",
+      "definition": "Investissement par lequel une entreprise crée ou acquiert une entreprise à l'étranger, ou y prend une participation durable lui permettant d'exercer une influence sur sa gestion (au moins 10 % des droits de vote selon la convention internationale).",
+      "chapitres": [
+        "commerce-international"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition de l'OCDE et du FMI (seuil de 10 %)"
+      }
+    },
+    {
+      "id": "libre-echange",
+      "terme": "Libre-échange",
+      "definition": "Situation dans laquelle les échanges internationaux se font sans obstacles (droits de douane, quotas, normes discriminatoires).",
+      "chapitres": [
+        "commerce-international"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "protectionnisme",
+      "terme": "Protectionnisme",
+      "definition": "Ensemble des mesures prises par un État pour protéger ses producteurs de la concurrence étrangère : droits de douane, quotas, normes, subventions.",
+      "chapitres": [
+        "commerce-international"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "chomeur-bit",
+      "terme": "Chômeur (au sens du BIT)",
+      "definition": "Personne âgée de 15 ans ou plus qui remplit simultanément trois conditions : être sans emploi durant une semaine donnée ; être disponible pour prendre un emploi dans les deux semaines ; avoir cherché activement un emploi au cours des quatre dernières semaines ou en avoir trouvé un qui commence dans moins de trois mois.",
+      "chapitres": [
+        "chomage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, définition « Chômeur (au sens du BIT) »",
+        "url": "https://www.insee.fr/fr/metadonnees/definition/c1129"
+      }
+    },
+    {
+      "id": "taux-de-chomage",
+      "terme": "Taux de chômage",
+      "definition": "Part des chômeurs dans la population active (personnes en emploi et chômeurs) : nombre de chômeurs ÷ nombre d'actifs × 100.",
+      "chapitres": [
+        "chomage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, documentation de l'enquête Emploi"
+      }
+    },
+    {
+      "id": "taux-d-emploi",
+      "terme": "Taux d'emploi",
+      "definition": "Part des personnes ayant un emploi dans la population totale de la tranche d'âge considérée (souvent les 15-64 ans).",
+      "chapitres": [
+        "chomage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, documentation de l'enquête Emploi"
+      }
+    },
+    {
+      "id": "sous-emploi",
+      "terme": "Sous-emploi",
+      "definition": "Situation des personnes qui ont un emploi à temps partiel, souhaitent travailler davantage et sont disponibles pour le faire, ainsi que des personnes ayant involontairement travaillé moins que d'habitude (chômage technique ou partiel).",
+      "chapitres": [
+        "chomage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, documentation de l'enquête Emploi"
+      }
+    },
+    {
+      "id": "chomage-structurel",
+      "terme": "Chômage structurel",
+      "definition": "Chômage durable qui ne dépend pas de la conjoncture : il résulte du fonctionnement du marché du travail (problèmes d'appariement, asymétries d'information, effets de certaines institutions).",
+      "chapitres": [
+        "chomage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "chomage-conjoncturel",
+      "terme": "Chômage conjoncturel",
+      "definition": "Chômage lié à un ralentissement de l'activité économique : la baisse de la demande globale conduit les entreprises à produire moins et à employer moins.",
+      "chapitres": [
+        "chomage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "appariement",
+      "terme": "Appariement",
+      "definition": "Processus de rencontre entre les offres et les demandes d'emploi. Il est imparfait à cause des frictions (délais de recherche et de recrutement) et des inadéquations spatiales et de qualification.",
+      "chapitres": [
+        "chomage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "asymetrie-information",
+      "terme": "Asymétrie d'information",
+      "definition": "Situation dans laquelle une partie à un échange dispose d'informations que l'autre n'a pas. Sur le marché du travail, l'employeur connaît mal la productivité et l'effort réels du salarié.",
+      "chapitres": [
+        "chomage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "salaire-efficience",
+      "terme": "Salaire d'efficience",
+      "definition": "Salaire fixé par l'employeur au-dessus du salaire d'équilibre pour attirer les meilleurs candidats, inciter les salariés à l'effort et les fidéliser. Il peut être source de chômage structurel.",
+      "chapitres": [
+        "chomage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "smic",
+      "terme": "SMIC",
+      "definition": "Salaire minimum interprofessionnel de croissance : salaire horaire en dessous duquel aucun salarié ne peut être payé en France. Il a été créé en 1970.",
+      "chapitres": [
+        "chomage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Loi du 2 janvier 1970"
+      }
+    },
+    {
+      "id": "monopsone",
+      "terme": "Monopsone",
+      "definition": "Marché sur lequel il n'y a qu'un seul demandeur face à de nombreux offreurs. Sur le marché du travail, un employeur unique dans une zone peut imposer un salaire bas ; un salaire minimum peut alors augmenter l'emploi.",
+      "chapitres": [
+        "chomage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "bulle-speculative",
+      "terme": "Bulle spéculative",
+      "definition": "Hausse durable et forte du prix d'un actif (actions, immobilier…) au-delà de sa valeur fondamentale, alimentée par l'anticipation de nouvelles hausses. Elle finit par éclater : le prix s'effondre.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "comportement-mimetique",
+      "terme": "Comportement mimétique",
+      "definition": "Comportement d'un agent qui imite les décisions des autres (acheter quand les autres achètent, vendre quand ils vendent), en supposant qu'ils disposent de meilleures informations.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "prophetie-autorealisatrice",
+      "terme": "Prophétie autoréalisatrice",
+      "definition": "Anticipation qui provoque elle-même sa réalisation : si tous les agents pensent que le prix va monter et achètent, le prix monte effectivement.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "panique-bancaire",
+      "terme": "Panique bancaire",
+      "definition": "Situation dans laquelle de nombreux déposants, craignant la faillite de leur banque, retirent leurs dépôts en même temps. La banque, qui a prêté une grande partie de ces dépôts, ne peut pas tous les rembourser et risque la faillite.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "faillites-bancaires-en-chaine",
+      "terme": "Faillites bancaires en chaîne",
+      "definition": "Propagation des difficultés d'une banque aux autres : les banques se prêtent entre elles, donc la faillite de l'une fait subir des pertes à ses créancières, qui peuvent à leur tour faire faillite.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "effet-de-richesse",
+      "terme": "Effet de richesse",
+      "definition": "Effet de la variation de la valeur du patrimoine sur la consommation. Un effet de richesse négatif : la baisse du prix des actifs appauvrit les ménages, qui réduisent leur consommation.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "collateral",
+      "terme": "Collatéral",
+      "definition": "Actif apporté en garantie d'un prêt (un logement, des titres…). Si l'emprunteur ne rembourse pas, le prêteur peut le saisir et le vendre.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "ventes-forcees",
+      "terme": "Ventes forcées",
+      "definition": "Ventes d'actifs qu'un agent est obligé de réaliser pour rembourser ses dettes ou reconstituer ses garanties. Massives, elles font encore baisser les prix.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "contraction-du-credit",
+      "terme": "Contraction du crédit",
+      "definition": "Forte baisse des crédits accordés par les banques, qui deviennent plus prudentes ou manquent de fonds propres. Les ménages et les entreprises réduisent alors leurs dépenses.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "alea-moral",
+      "terme": "Aléa moral",
+      "definition": "Situation dans laquelle un agent protégé contre un risque prend davantage de risques, car il n'en supporte pas toutes les conséquences. Une banque qui s'attend à être sauvée en cas de difficulté peut prendre trop de risques.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "supervision-bancaire",
+      "terme": "Supervision bancaire",
+      "definition": "Contrôle de la situation et des risques des banques par une autorité publique, souvent la banque centrale. Dans la zone euro, la BCE supervise directement les grandes banques depuis 2014.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "BCE, supervision bancaire (mécanisme de surveillance unique)"
+      }
+    },
+    {
+      "id": "ratio-de-solvabilite",
+      "terme": "Ratio de solvabilité",
+      "definition": "Rapport entre les fonds propres d'une banque et ses actifs pondérés par leur risque (surtout ses crédits). Les accords de Bâle imposent un minimum, pour que la banque puisse absorber des pertes.",
+      "chapitres": [
+        "crises-financieres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "La finance pour tous, « Ratio de solvabilité bancaire »",
+        "url": "https://www.lafinancepourtous.com/decryptages/marches-financiers/acteurs-de-la-finance/comite-de-bale/bale-iii/ratio-de-solvabilite-bancaire"
+      }
+    },
+    {
+      "id": "marche-unique",
+      "terme": "Marché unique",
+      "definition": "Espace sans frontières intérieures dans lequel circulent librement les marchandises, les services, les capitaux et les personnes. Le marché unique européen est en place depuis le 1er janvier 1993.",
+      "chapitres": [
+        "politiques-europeennes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "zone-euro",
+      "terme": "Zone euro",
+      "definition": "Ensemble des pays de l'Union européenne qui ont adopté l'euro comme monnaie. Leur politique monétaire est conduite par la Banque centrale européenne. Elle compte 21 pays depuis l'entrée de la Bulgarie le 1er janvier 2026.",
+      "chapitres": [
+        "politiques-europeennes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Banque de France, « La Bulgarie rejoint la zone euro »",
+        "url": "https://www.banque-france.fr/fr/actualites/la-bulgarie-rejoint-la-zone-euro"
+      }
+    },
+    {
+      "id": "bce",
+      "terme": "Banque centrale européenne (BCE)",
+      "definition": "Banque centrale de la zone euro, indépendante des gouvernements. Son objectif principal est la stabilité des prix, définie comme une inflation de 2 % à moyen terme.",
+      "chapitres": [
+        "politiques-europeennes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "BCE, communiqué du 30 juin 2025 sur l'actualisation de sa stratégie de politique monétaire",
+        "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250630%7Eaabf988af8.fr.html"
+      }
+    },
+    {
+      "id": "politique-monetaire",
+      "terme": "Politique monétaire",
+      "definition": "Action de la banque centrale sur la quantité de monnaie et sur les taux d'intérêt, notamment par ses taux directeurs, pour agir sur l'inflation et l'activité économique.",
+      "chapitres": [
+        "politiques-europeennes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "taux-directeur",
+      "terme": "Taux directeur",
+      "definition": "Taux d'intérêt fixé par la banque centrale auquel les banques peuvent se refinancer auprès d'elle. Il influence les taux des crédits accordés aux ménages et aux entreprises.",
+      "chapitres": [
+        "politiques-europeennes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "politique-budgetaire",
+      "terme": "Politique budgétaire",
+      "definition": "Utilisation du budget de l'État (dépenses publiques, impôts) pour agir sur l'activité économique.",
+      "chapitres": [
+        "politiques-europeennes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "stabilisateurs-automatiques",
+      "terme": "Stabilisateurs automatiques",
+      "definition": "Variations du solde budgétaire qui se produisent sans décision nouvelle : en récession, les recettes fiscales baissent et les dépenses d'indemnisation du chômage augmentent, ce qui soutient la demande.",
+      "chapitres": [
+        "politiques-europeennes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "politique-de-la-concurrence",
+      "terme": "Politique de la concurrence",
+      "definition": "Action publique qui vise à préserver une concurrence effective sur les marchés : contrôle des ententes, des abus de position dominante, des concentrations et des aides d'État. Dans l'UE, elle est conduite par la Commission européenne.",
+      "chapitres": [
+        "politiques-europeennes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "choc-asymetrique",
+      "terme": "Choc asymétrique",
+      "definition": "Événement économique qui touche un ou quelques pays d'une zone et pas les autres (ou pas avec la même intensité). La politique monétaire commune ne peut pas y répondre.",
+      "chapitres": [
+        "politiques-europeennes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "policy-mix",
+      "terme": "Policy mix",
+      "definition": "Combinaison de la politique monétaire et de la politique budgétaire. Dans la zone euro, il suppose une coordination entre la BCE et les gouvernements nationaux.",
+      "chapitres": [
+        "politiques-europeennes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "pcs",
+      "terme": "Professions et catégories socioprofessionnelles (PCS)",
+      "definition": "Nomenclature de l'Insee qui classe la population selon la profession, le statut (salarié ou indépendant), la qualification et la position hiérarchique. Elle compte six groupes socioprofessionnels pour les personnes en emploi.",
+      "chapitres": [
+        "structure-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, nomenclature PCS 2020",
+        "url": "https://www.insee.fr/fr/metadonnees/pcs2020/groupeSocioprofessionnel/1"
+      }
+    },
+    {
+      "id": "espace-social",
+      "terme": "Espace social",
+      "definition": "Ensemble des positions occupées par les individus dans la société, structuré et hiérarchisé par plusieurs facteurs : profession, revenu, diplôme, sexe, âge, lieu de résidence…",
+      "chapitres": [
+        "structure-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "salarisation",
+      "terme": "Salarisation",
+      "definition": "Augmentation de la part des salariés dans la population en emploi, au détriment des indépendants (agriculteurs, artisans, commerçants).",
+      "chapitres": [
+        "structure-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "tertiarisation",
+      "terme": "Tertiarisation",
+      "definition": "Augmentation de la part des emplois dans le secteur tertiaire (les services).",
+      "chapitres": [
+        "structure-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "feminisation-emplois",
+      "terme": "Féminisation des emplois",
+      "definition": "Augmentation de la part des femmes parmi les personnes en emploi, liée à la hausse de leur activité professionnelle.",
+      "chapitres": [
+        "structure-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "classe-sociale",
+      "terme": "Classe sociale",
+      "definition": "Grand groupe d'individus qui partagent une position comparable dans l'organisation économique et sociale. Chez Marx, les classes se définissent par la place dans les rapports de production et s'opposent ; chez Weber, elles regroupent des individus ayant les mêmes chances d'accès aux biens.",
+      "chapitres": [
+        "structure-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "conscience-de-classe",
+      "terme": "Conscience de classe",
+      "definition": "Sentiment d'appartenir à une classe et de partager des intérêts communs face à une autre classe. Chez Marx, une classe « pour soi » est consciente d'elle-même et se mobilise ; une classe « en soi » existe seulement objectivement.",
+      "chapitres": [
+        "structure-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "stratification-sociale",
+      "terme": "Stratification sociale",
+      "definition": "Division de la société en strates (couches) hiérarchisées, sans forcément de conflit entre elles. Weber distingue trois ordres : économique (classes), social (groupes de statut, prestige) et politique (partis).",
+      "chapitres": [
+        "structure-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "groupe-de-statut",
+      "terme": "Groupe de statut",
+      "definition": "Chez Weber, groupe d'individus qui partagent un même prestige social, un même mode de vie et un même degré d'honneur.",
+      "chapitres": [
+        "structure-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "individualisation",
+      "terme": "Individualisation",
+      "definition": "Processus par lequel les individus se définissent davantage par leurs choix et leurs trajectoires personnels que par leur appartenance à un groupe.",
+      "chapitres": [
+        "structure-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "moyennisation",
+      "terme": "Moyennisation",
+      "definition": "Thèse (Henri Mendras) selon laquelle une vaste classe moyenne s'est développée en France pendant les Trente Glorieuses, réduisant les écarts de mode de vie entre groupes.",
+      "chapitres": [
+        "structure-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "egalite-des-chances",
+      "terme": "Égalité des chances",
+      "definition": "Principe selon lequel chaque individu, quelle que soit son origine sociale, son sexe ou son lieu de résidence, doit avoir les mêmes chances d'accéder aux différentes positions sociales, en fonction de ses seuls mérites.",
+      "chapitres": [
+        "ecole",
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "taux-de-scolarisation",
+      "terme": "Taux de scolarisation",
+      "definition": "Part des jeunes d'un âge donné qui sont scolarisés.",
+      "chapitres": [
+        "ecole"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "taux-d-acces",
+      "terme": "Taux d'accès à un diplôme",
+      "definition": "Part d'une génération qui obtient un diplôme (par exemple le baccalauréat) ou qui accède à un type de formation.",
+      "chapitres": [
+        "ecole"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "massification-scolaire",
+      "terme": "Massification scolaire",
+      "definition": "Augmentation du nombre d'élèves et d'étudiants et allongement de la durée des études : l'accès à l'école et au supérieur s'ouvre au plus grand nombre.",
+      "chapitres": [
+        "ecole"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "democratisation-scolaire",
+      "terme": "Démocratisation scolaire",
+      "definition": "Réduction des inégalités d'accès aux études et aux diplômes entre les groupes sociaux. Elle suppose que les chances d'accès des enfants d'origine populaire se rapprochent de celles des enfants favorisés.",
+      "chapitres": [
+        "ecole"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "capital-culturel",
+      "terme": "Capital culturel",
+      "definition": "Chez Pierre Bourdieu, ensemble des ressources culturelles d'un individu : diplômes, connaissances, manières de parler et de se comporter, biens culturels (livres…). Il se transmet en partie dans la famille.",
+      "chapitres": [
+        "ecole"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "socialisation-genre",
+      "terme": "Socialisation selon le genre",
+      "definition": "Apprentissage, dès l'enfance, de comportements, de goûts et de rôles considérés comme masculins ou féminins. Elle influence les choix d'orientation des filles et des garçons.",
+      "chapitres": [
+        "ecole"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "strategies-menages",
+      "terme": "Stratégies des ménages",
+      "definition": "Choix scolaires des familles (choix de l'établissement, des options, de l'orientation) qui visent à favoriser la réussite de leurs enfants. Chez Raymond Boudon, ces choix résultent d'un calcul coût-avantage qui varie selon le milieu social.",
+      "chapitres": [
+        "ecole"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "mobilite-sociale",
+      "terme": "Mobilité sociale",
+      "definition": "Changement de position sociale d'un individu. On la mesure le plus souvent entre générations, en comparant la position d'un individu à celle de ses parents.",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "mobilite-intergenerationnelle",
+      "terme": "Mobilité intergénérationnelle",
+      "definition": "Changement de position sociale entre parents et enfants (on compare la catégorie socioprofessionnelle d'un individu à celle de son père ou de sa mère).",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "mobilite-intragenerationnelle",
+      "terme": "Mobilité intragénérationnelle (professionnelle)",
+      "definition": "Changement de position sociale ou professionnelle d'un individu au cours de sa propre vie active.",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "mobilite-geographique",
+      "terme": "Mobilité géographique",
+      "definition": "Changement de lieu de résidence d'un individu.",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "table-de-mobilite",
+      "terme": "Table de mobilité",
+      "definition": "Tableau à double entrée qui croise la position sociale des individus (catégorie socioprofessionnelle) et celle de leur parent. Elle permet de mesurer la mobilité et la reproduction sociales.",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Eduscol, fiche ressource de SES « Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ? », octobre 2025",
+        "url": "https://eduscol.education.fr/document/23221/download"
+      }
+    },
+    {
+      "id": "table-de-destinee",
+      "terme": "Table de destinée",
+      "definition": "Table de mobilité lue à partir de l'origine : « sur 100 enfants de cadres, combien sont devenus cadres, ouvriers… ? ». Elle répond à la question : que deviennent les enfants d'un groupe ?",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "table-de-recrutement",
+      "terme": "Table de recrutement",
+      "definition": "Table de mobilité lue à partir de la position actuelle : « sur 100 cadres, combien ont un père cadre, ouvrier… ? ». Elle répond à la question : d'où viennent les membres d'un groupe ?",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "mobilite-observee",
+      "terme": "Mobilité observée",
+      "definition": "Ensemble des individus dont la position sociale est différente de celle de leur parent. On l'appelle aussi mobilité brute ou absolue.",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Eduscol, fiche ressource de SES « Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ? », octobre 2025",
+        "url": "https://eduscol.education.fr/document/23221/download"
+      }
+    },
+    {
+      "id": "mobilite-structurelle",
+      "terme": "Mobilité structurelle",
+      "definition": "Partie de la mobilité observée qui s'explique par l'évolution de la structure des emplois entre deux générations : quand le nombre de cadres augmente et celui des agriculteurs diminue, des enfants doivent forcément changer de position.",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Eduscol, fiche ressource de SES « Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ? », octobre 2025",
+        "url": "https://eduscol.education.fr/document/23221/download"
+      }
+    },
+    {
+      "id": "fluidite-sociale",
+      "terme": "Fluidité sociale",
+      "definition": "Mesure relative de la mobilité, indépendante des changements de structure : elle compare les chances d'enfants d'origines différentes d'accéder à une position plutôt qu'à une autre. Une société est plus fluide quand l'origine sociale pèse moins sur la position obtenue.",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Eduscol, fiche ressource de SES « Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ? », octobre 2025",
+        "url": "https://eduscol.education.fr/document/23221/download"
+      }
+    },
+    {
+      "id": "reproduction-sociale",
+      "terme": "Reproduction sociale",
+      "definition": "Situation dans laquelle les enfants occupent la même position sociale que leurs parents.",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "mobilite-ascendante",
+      "terme": "Mobilité ascendante",
+      "definition": "Mobilité vers une position sociale jugée plus élevée que celle du parent.",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "declassement",
+      "terme": "Déclassement",
+      "definition": "Mobilité descendante : l'individu occupe une position sociale jugée inférieure à celle de son parent.",
+      "chapitres": [
+        "mobilite-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "travail",
+      "terme": "Travail",
+      "definition": "Activité humaine rémunérée ou non (travail domestique, bénévolat) qui produit des biens ou des services.",
+      "chapitres": [
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "emploi",
+      "terme": "Emploi",
+      "definition": "Travail rémunéré exercé dans un cadre juridique : un contrat de travail pour les salariés, un statut d'indépendant pour les non-salariés.",
+      "chapitres": [
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "population-active",
+      "terme": "Population active",
+      "definition": "Ensemble des personnes qui occupent un emploi ou qui en recherchent un (chômeurs). Les autres sont inactives.",
+      "chapitres": [
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee, définition « Population active »"
+      }
+    },
+    {
+      "id": "statut-emploi",
+      "terme": "Statut d'emploi",
+      "definition": "Situation juridique de la personne qui travaille : salariée (liée à un employeur par un contrat de travail et subordonnée à lui) ou non salariée (indépendante).",
+      "chapitres": [
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "formes-particulieres-emploi",
+      "terme": "Formes particulières d'emploi",
+      "definition": "Emplois qui s'écartent de la norme du CDI à temps plein : CDD, intérim, apprentissage, contrats aidés. Ils sont souvent plus instables.",
+      "chapitres": [
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "qualite-emploi",
+      "terme": "Qualité de l'emploi",
+      "definition": "Ensemble des caractéristiques d'un emploi qui en font un « bon » ou un « mauvais » emploi : conditions de travail, niveau de salaire, sécurité économique, horizon de carrière, potentiel de formation, variété des tâches.",
+      "chapitres": [
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "id": "taylorisme",
+      "terme": "Taylorisme",
+      "definition": "Organisation scientifique du travail proposée par Frederick W. Taylor au début du XX^e^ siècle : division verticale (ceux qui conçoivent / ceux qui exécutent) et horizontale (tâches simples et répétitives) du travail, contrôle strict des temps, salaire au rendement.",
+      "chapitres": [
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "post-taylorisme",
+      "terme": "Post-taylorisme",
+      "definition": "Formes d'organisation du travail apparues à partir des années 1970 en réaction aux limites du taylorisme : flexibilité, polyvalence, recomposition des tâches, travail en équipe, management participatif.",
+      "chapitres": [
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "teletravail",
+      "terme": "Télétravail",
+      "definition": "Travail effectué hors des locaux de l'employeur (souvent à domicile) grâce aux outils numériques.",
+      "chapitres": [
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "integration-sociale",
+      "terme": "Intégration sociale",
+      "definition": "Processus par lequel un individu est attaché à des groupes sociaux et partage leurs normes et leurs valeurs. Le travail y contribue par le revenu, les relations et la reconnaissance qu'il procure.",
+      "chapitres": [
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "precarisation",
+      "terme": "Précarisation",
+      "definition": "Développement d'emplois instables (CDD, intérim, temps partiel subi) qui offrent peu de sécurité économique et de perspectives.",
+      "chapitres": [
+        "travail-emploi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "engagement-politique",
+      "terme": "Engagement politique",
+      "definition": "Ensemble des actions par lesquelles des individus participent à la vie politique ou cherchent à peser sur les décisions collectives : vote, militantisme, engagement associatif, consommation engagée…",
+      "chapitres": [
+        "engagement-politique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "militantisme",
+      "terme": "Militantisme",
+      "definition": "Engagement actif et durable dans une organisation (parti, syndicat, association) pour défendre une cause.",
+      "chapitres": [
+        "engagement-politique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "consommation-engagee",
+      "terme": "Consommation engagée",
+      "definition": "Utilisation de ses achats comme moyen d'action politique : boycott (refuser d'acheter) ou « buycott » (acheter de façon ciblée, par exemple des produits équitables).",
+      "chapitres": [
+        "engagement-politique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "action-collective",
+      "terme": "Action collective",
+      "definition": "Action concertée de plusieurs individus pour atteindre des objectifs communs.",
+      "chapitres": [
+        "engagement-politique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "paradoxe-action-collective",
+      "terme": "Paradoxe de l'action collective",
+      "definition": "Mis en évidence par Mancur Olson (1965) : un individu rationnel a intérêt à ne pas participer à une action collective, car il profitera de ses résultats même sans y avoir pris part (comportement de passager clandestin). Pourtant, des actions collectives ont lieu.",
+      "chapitres": [
+        "engagement-politique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "passager-clandestin",
+      "terme": "Passager clandestin",
+      "definition": "Individu qui profite des avantages d'une action collective ou d'un bien collectif sans en supporter les coûts.",
+      "chapitres": [
+        "engagement-politique",
+        "environnement"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "incitations-selectives",
+      "terme": "Incitations sélectives",
+      "definition": "Avantages réservés aux seuls participants d'une action collective (services, protection juridique, réductions…) ou sanctions pour ceux qui ne participent pas. Olson y voit une solution au paradoxe de l'action collective.",
+      "chapitres": [
+        "engagement-politique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "retributions-symboliques",
+      "terme": "Rétributions symboliques",
+      "definition": "Gratifications non matérielles que procure l'engagement : sentiment d'utilité, reconnaissance, estime, sociabilité, plaisir de défendre ses idées (Daniel Gaxie).",
+      "chapitres": [
+        "engagement-politique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "structure-opportunites-politiques",
+      "terme": "Structure des opportunités politiques",
+      "definition": "Ensemble des éléments du contexte politique qui rendent une mobilisation plus ou moins probable et efficace : ouverture du pouvoir, divisions entre élites, alliés possibles, degré de répression.",
+      "chapitres": [
+        "engagement-politique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "repertoire-action-collective",
+      "terme": "Répertoire d'action collective",
+      "definition": "Ensemble des moyens d'action dont dispose un groupe à une époque donnée pour faire entendre ses revendications : grève, manifestation, pétition, occupation, boycott… (Charles Tilly).",
+      "chapitres": [
+        "engagement-politique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "nouveaux-mouvements-sociaux",
+      "terme": "Nouveaux mouvements sociaux",
+      "definition": "Mobilisations apparues à partir des années 1960-1970, portant sur des enjeux autres que le travail (environnement, droits des femmes, paix, mode de vie) et souvent moins hiérarchisées que les syndicats.",
+      "chapitres": [
+        "engagement-politique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "groupe-d-interet",
+      "terme": "Groupe d'intérêt",
+      "definition": "Organisation qui cherche à influencer les décisions publiques en faveur des intérêts qu'elle défend, sans chercher à exercer le pouvoir (groupement professionnel, lobby…).",
+      "chapitres": [
+        "engagement-politique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "inegalites",
+      "terme": "Inégalités",
+      "definition": "Différences dans l'accès à des ressources rares et valorisées (revenu, patrimoine, diplôme, santé, logement…) qui se traduisent par des avantages ou des désavantages.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "inegalites-cumulatives",
+      "terme": "Caractère cumulatif des inégalités",
+      "definition": "Les inégalités s'entretiennent les unes les autres : un faible revenu limite l'accès à un bon logement, qui pèse sur la santé et la réussite scolaire des enfants, etc.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "rapport-interdecile",
+      "terme": "Rapport interdécile (D9/D1)",
+      "definition": "Rapport entre le revenu au-dessus duquel se trouvent les 10 % les plus aisés (9^e^ décile) et celui en dessous duquel se trouvent les 10 % les plus modestes (1^er^ décile). Plus il est élevé, plus les écarts sont grands.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "courbe-de-lorenz",
+      "terme": "Courbe de Lorenz",
+      "definition": "Courbe qui représente la part cumulée des revenus (ou du patrimoine) détenue par une part cumulée de la population classée du plus pauvre au plus riche. Plus elle s'éloigne de la diagonale (égalité parfaite), plus la répartition est inégale.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "coefficient-de-gini",
+      "terme": "Coefficient de Gini",
+      "definition": "Indicateur synthétique des inégalités, compris entre 0 (égalité parfaite) et 1 (inégalité maximale : une seule personne a tout). Il mesure l'écart entre la courbe de Lorenz et la diagonale.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "top-1",
+      "terme": "Top 1 %",
+      "definition": "Part des revenus ou du patrimoine détenue par les 1 % les plus aisés. Il montre la concentration au sommet de la distribution.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "correlation-revenus-parents-enfants",
+      "terme": "Corrélation des revenus parents-enfants",
+      "definition": "Mesure dynamique des inégalités : elle indique dans quelle mesure le revenu des enfants dépend de celui de leurs parents. Plus elle est forte, plus les inégalités se transmettent entre générations.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "egalite-des-droits",
+      "terme": "Égalité des droits",
+      "definition": "Tous les individus ont les mêmes droits et devoirs devant la loi.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie politique"
+      }
+    },
+    {
+      "id": "egalite-des-situations",
+      "terme": "Égalité des situations",
+      "definition": "Égalité réelle des conditions de vie (revenus, patrimoine, logement…) entre les individus.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie politique"
+      }
+    },
+    {
+      "id": "justice-sociale",
+      "terme": "Justice sociale",
+      "definition": "Ensemble des principes qui définissent une répartition juste des ressources et des positions dans une société.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie politique"
+      }
+    },
+    {
+      "id": "utilitarisme",
+      "terme": "Utilitarisme",
+      "definition": "Conception de la justice (Jeremy Bentham) : est juste ce qui maximise la somme des bien-être (utilités) des individus. Des inégalités sont acceptables si elles augmentent le bien-être total.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie politique"
+      }
+    },
+    {
+      "id": "libertarisme",
+      "terme": "Libertarisme",
+      "definition": "Conception de la justice (Robert Nozick) : est juste une répartition qui résulte d'échanges libres et d'une acquisition légitime. L'État doit être minimal ; la redistribution est injuste car elle porte atteinte à la propriété.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie politique"
+      }
+    },
+    {
+      "id": "egalitarisme-liberal",
+      "terme": "Égalitarisme libéral",
+      "definition": "Conception de la justice (John Rawls, *Théorie de la justice*, 1971) : les libertés de base sont égales pour tous, les positions sont ouvertes à tous à égalité des chances, et les inégalités ne sont justes que si elles profitent aux plus défavorisés (principe de différence).",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie politique"
+      }
+    },
+    {
+      "id": "egalitarisme-strict",
+      "terme": "Égalitarisme strict",
+      "definition": "Conception de la justice qui vise l'égalité des situations : est juste une société où chacun dispose des mêmes ressources.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie politique"
+      }
+    },
+    {
+      "id": "protection-sociale",
+      "terme": "Protection sociale",
+      "definition": "Ensemble des dispositifs qui protègent les individus contre les risques sociaux (maladie, vieillesse, chômage, famille…), par l'assurance (en échange de cotisations), l'assistance (sous conditions de ressources) ou des prestations universelles.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "prelevements-obligatoires",
+      "terme": "Prélèvements obligatoires",
+      "definition": "Impôts et cotisations sociales versés aux administrations publiques, sans contrepartie directe et individuelle (pour les impôts).",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "services-collectifs",
+      "terme": "Services collectifs",
+      "definition": "Services fournis par les pouvoirs publics, gratuitement ou à un prix inférieur à leur coût (éducation, santé, transports…), qui bénéficient à tous.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "discrimination",
+      "terme": "Discrimination",
+      "definition": "Traitement défavorable d'une personne en raison d'un critère interdit par la loi (origine, sexe, âge, handicap, orientation sexuelle…).",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Code pénal, article 225-1"
+      }
+    },
+    {
+      "id": "effets-pervers",
+      "terme": "Effet pervers",
+      "definition": "Conséquence non voulue d'une action, qui va à l'encontre de son objectif. En matière de redistribution : une désincitation au travail (si travailler rapporte peu de plus que les aides) ou à l'investissement.",
+      "chapitres": [
+        "justice-sociale"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      }
+    },
+    {
+      "id": "probleme-public",
+      "terme": "Problème public",
+      "definition": "Situation jugée problématique qui fait l'objet d'un débat public et dont on estime que les pouvoirs publics doivent s'occuper. Une question environnementale devient un problème public grâce à l'action de différents acteurs.",
+      "chapitres": [
+        "environnement"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "mise-a-l-agenda",
+      "terme": "Mise à l'agenda politique",
+      "definition": "Processus par lequel un problème public est pris en compte par les responsables politiques et inscrit parmi les questions sur lesquelles ils doivent agir.",
+      "chapitres": [
+        "environnement"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    },
+    {
+      "id": "bien-commun",
+      "terme": "Bien commun",
+      "definition": "Bien dont on ne peut empêcher personne de profiter (non excluable) mais dont l'usage par les uns réduit la quantité disponible pour les autres (rival) : stocks de poissons, atmosphère, climat. Il est exposé à la surexploitation.",
+      "chapitres": [
+        "environnement"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "reglementation-environnementale",
+      "terme": "Réglementation (environnementale)",
+      "definition": "Instrument qui fixe des normes obligatoires (interdictions, limites d'émission, normes techniques) sous peine de sanctions.",
+      "chapitres": [
+        "environnement"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "taxation-environnementale",
+      "terme": "Taxation (environnementale)",
+      "definition": "Instrument qui fait payer aux pollueurs le coût de leur pollution (principe pollueur-payeur), comme la taxe carbone. Elle « internalise » l'externalité négative en la faisant entrer dans les prix (idée d'Arthur C. Pigou).",
+      "chapitres": [
+        "environnement"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "marche-de-quotas",
+      "terme": "Marché de quotas d'émission",
+      "definition": "Instrument qui fixe un plafond total d'émissions et distribue ou vend des droits (quotas) aux entreprises ; celles qui émettent moins que leurs quotas peuvent vendre le surplus aux autres. Le prix du quota incite à réduire les émissions.",
+      "chapitres": [
+        "environnement"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Commission européenne, système d'échange de quotas d'émission de l'UE (SEQE-UE)",
+        "url": "https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_fr"
+      }
+    },
+    {
+      "id": "subvention-innovation-verte",
+      "terme": "Subvention à l'innovation verte",
+      "definition": "Aide publique (argent, crédit d'impôt) qui encourage la recherche et l'adoption de technologies moins polluantes.",
+      "chapitres": [
+        "environnement"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      }
+    },
+    {
+      "id": "dysfonctionnements-action-publique",
+      "terme": "Dysfonctionnements de l'action publique",
+      "definition": "Obstacles qui empêchent une politique d'atteindre ses objectifs : influence des groupes d'intérêt (lobbying), manque d'information, coûts, contestation sociale, mauvaise coordination entre échelles.",
+      "chapitres": [
+        "environnement"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science politique"
+      }
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "matiere": "anglais",
+  "chapitre": "axe4",
+  "exercices": [
+    {
+      "id": "axe4-qcm",
+      "titre": "Vocabulary: 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*to persuade*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "persuader",
+              "correct": true,
+              "explication": "To persuade voters."
+            },
+            {
+              "id": "b",
+              "texte": "poursuivre",
+              "correct": false,
+              "explication": "To pursue."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*an ad*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une publicité",
+              "correct": true,
+              "explication": "Advertisement."
+            },
+            {
+              "id": "b",
+              "texte": "une addition",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "\"Do you agree?\" → She asked…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "if I agreed",
+              "correct": true,
+              "explication": "Question indirecte."
+            },
+            {
+              "id": "b",
+              "texte": "do I agree",
+              "correct": false,
+              "explication": "Pas d'inversion au discours indirect."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*body language*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le langage corporel",
+              "correct": true,
+              "explication": "Gestes, postures."
+            },
+            {
+              "id": "b",
+              "texte": "la langue du corps humain",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*mainstream media*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les grands médias",
+              "correct": true,
+              "explication": "Médias dominants."
+            },
+            {
+              "id": "b",
+              "texte": "les médias de rue",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe4-comprension",
+      "titre": "Reading comprehension",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Read the text and answer the questions. (Lis le texte et réponds aux questions.)",
+        "1. How does Jade earn money?",
+        "2. Why does she say her followers trust her?",
+        "3. What did the survey reveal?",
+        "4. What has Jade decided to do, and why?"
+      ],
+      "documents": [
+        {
+          "titre": "Text (written for practice)",
+          "contenu": "Jade, 19, has 200,000 followers on a video platform. Every week, brands send her clothes and make-up, and she earns money by showing them in her videos. \"My followers trust me because I'm honest,\" she says. But a recent survey showed that many teenagers do not realise when a video is an advertisement. Since then, Jade has decided to write \"sponsored\" clearly at the beginning of each video.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. Brands send her products and she earns money by showing them in her videos.",
+            "2. Because she thinks she is honest with them.",
+            "3. Many teenagers do not realise when a video is an advertisement.",
+            "4. She writes \"sponsored\" at the beginning of each video, so that her followers know it is an advertisement."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe4-expresion",
+      "titre": "Written expression",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Are influencers a good source of information for young people? Write about 180 words."
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *first, moreover, however, therefore, to conclude*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (niveau B2, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Influencers have become very popular among young people. But are they a good source of information?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the one hand, some influencers share useful content: they explain science, give study tips or talk about mental health in a simple way. Young people often find them more accessible than traditional media."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the other hand, many influencers are paid by brands, and their opinions are not always independent. A recent survey showed that many teenagers cannot tell when a video is an advertisement."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In conclusion, influencers can be a good starting point, but young people should always check where the information comes from and compare it with other sources."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

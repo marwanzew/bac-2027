@@ -1,0 +1,415 @@
+{
+  "id": "axe1",
+  "matiere": "anglais",
+  "titre": "Axe 1. Espace privé et espace public",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Axes culturels de terminale",
+    "intitule": "Axe 1. Espace privé et espace public",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'anglais pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 4",
+      "url": "https://www.education.gouv.fr/sites/default/files/ensel621_annexe4.pdf"
+    }
+  },
+  "objectifs": [
+    "Parler en anglais de la frontière entre vie privée et vie publique.",
+    "Connaître des repères sur les droits des femmes et la vie privée dans le monde anglophone.",
+    "Exprimer l'obligation et le conseil avec les modaux (must, have to, should)."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "The axis in brief · L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "ce qui est officiel",
+          "texte": "Le **titre de l'axe** vient du programme officiel (2025). Les pistes, repères et documents proposés ici sont des suggestions pour réviser : ton professeur choisit ses propres documents."
+        },
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVA, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B2**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Cet axe interroge la **frontière entre ce qui est privé** (famille, corps, intimité, données personnelles) **et ce qui est public** (politique, rue, médias, réseaux sociaux). Ce qui était privé devient parfois une question publique : les violences domestiques, le droit des femmes à disposer de leur corps, la surveillance."
+        }
+      ]
+    },
+    {
+      "id": "vocabulario",
+      "titre": "Vocabulary",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Vocabulaire de l'axe",
+          "colonnes": [
+            "English",
+            "Français",
+            "Example"
+          ],
+          "lignes": [
+            [
+              "privacy",
+              "la vie privée",
+              "Social media threaten our privacy."
+            ],
+            [
+              "the public sphere",
+              "l'espace public",
+              "Women entered the public sphere."
+            ],
+            [
+              "to campaign for",
+              "faire campagne pour",
+              "Suffragettes campaigned for the vote."
+            ],
+            [
+              "surveillance",
+              "la surveillance",
+              "CCTV surveillance in British cities."
+            ],
+            [
+              "personal data",
+              "les données personnelles",
+              "Companies collect personal data."
+            ],
+            [
+              "to speak out",
+              "prendre la parole, dénoncer",
+              "Victims spoke out during #MeToo."
+            ],
+            [
+              "equal rights",
+              "l'égalité des droits",
+              "The fight for equal rights."
+            ],
+            [
+              "to share",
+              "partager",
+              "Teenagers share everything online."
+            ],
+            [
+              "a whistleblower",
+              "un lanceur d'alerte",
+              "A whistleblower revealed the scandal."
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "privacy"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "titre": "Cultural landmarks · Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Pourquoi c'est important"
+          ],
+          "lignes": [
+            [
+              "Representation of the People Act (UK) : vote des femmes de plus de 30 ans",
+              "1918",
+              "Les suffragettes entrent dans la vie politique"
+            ],
+            [
+              "Égalité du droit de vote entre hommes et femmes au Royaume-Uni",
+              "1928",
+              "Equal Franchise Act"
+            ],
+            [
+              "Rosa Parks refuse de céder sa place dans un bus (Montgomery)",
+              "1er décembre 1955",
+              "Un geste privé devient un symbole public des droits civiques"
+            ],
+            [
+              "Arrêt *Roe v. Wade* (États-Unis)",
+              "1973",
+              "Droit à l'avortement reconnu ; annulé par l'arrêt *Dobbs* le 24 juin 2022"
+            ],
+            [
+              "Mouvement #MeToo",
+              "2017",
+              "Les violences sexuelles sortent du silence"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pistes",
+      "titre": "Ideas to explore · Pistes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Women in the public sphere** : suffragettes, droits civiques, #MeToo.",
+            "**Privacy in the digital age** : données personnelles, surveillance, réseaux sociaux.",
+            "**The body and the law** : avortement, débats aux États-Unis."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "titre": "Grammar · Le point de grammaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Modals of obligation and advice** : must / have to (obligation), should (conseil), mustn't (interdiction), don't have to (absence d'obligation)."
+        },
+        {
+          "type": "tableau",
+          "titre": "Exemples",
+          "colonnes": [
+            "Modal",
+            "Sens",
+            "Example"
+          ],
+          "lignes": [
+            [
+              "must",
+              "obligation (souvent ressentie par celui qui parle)",
+              "*We must protect our privacy.*"
+            ],
+            [
+              "have to",
+              "obligation extérieure",
+              "*Companies have to respect the law.*"
+            ],
+            [
+              "should",
+              "conseil",
+              "*You should think before you post.*"
+            ],
+            [
+              "mustn't",
+              "interdiction",
+              "*You mustn't share someone's photo without permission.*"
+            ],
+            [
+              "don't have to",
+              "pas d'obligation",
+              "*You don't have to reveal everything.*"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frases",
+      "titre": "Useful phrases · Phrases utiles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Pour parler ou écrire sur l'axe",
+          "colonnes": [
+            "English",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "Nowadays, …",
+              "De nos jours, …"
+            ],
+            [
+              "On the one hand… on the other hand…",
+              "D'un côté… de l'autre…"
+            ],
+            [
+              "It raises the question of…",
+              "Cela soulève la question de…"
+            ],
+            [
+              "The line between… and… is blurred.",
+              "La frontière entre… et… est floue."
+            ],
+            [
+              "In my view, …",
+              "À mon avis, …"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Vote des femmes de plus de 30 ans au Royaume-Uni",
+      "valeur": "1918",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Rosa Parks, Montgomery",
+      "valeur": "1er décembre 1955",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Mouvement #MeToo",
+      "valeur": "2017",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Axe 1. Espace privé et espace public : l'essentiel",
+    "colonnes": [
+      "Aspect",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "Vocabulaire clé",
+        "privacy, the public sphere, to campaign for, surveillance, personal data, to speak out"
+      ],
+      [
+        "Repères",
+        "Representation of the People Act (UK) : vote des femmes de plus de 30 ans (1918), Égalité du droit de vote entre hommes et femmes au Royaume-Uni (1928), Rosa Parks refuse de céder sa place dans un bus (Montgomery) (1er décembre 1955), Arrêt *Roe v. Wade* (États-Unis) (1973)"
+      ],
+      [
+        "Grammaire",
+        "Modals of obligation and advice"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Privé / public** : intimité, corps, données, réseaux.",
+    "**Repères** : 1918 et 1928 (vote des femmes au Royaume-Uni), Rosa Parks (1955), *Roe v. Wade* (1973) puis *Dobbs* (2022), #MeToo (2017).",
+    "**Vocabulaire** : privacy, public sphere, personal data, to speak out.",
+    "**Grammaire** : must / have to / should / mustn't / don't have to."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*privacy* signifie…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la vie privée",
+          "correct": true,
+          "explication": "Social media threaten our privacy."
+        },
+        {
+          "id": "b",
+          "texte": "la privatisation",
+          "correct": false,
+          "explication": "Privatisation = privatisation."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*You … share someone's photo without permission.* (interdiction)",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "mustn't",
+          "correct": true,
+          "explication": "Interdiction."
+        },
+        {
+          "id": "b",
+          "texte": "don't have to",
+          "correct": false,
+          "explication": "Absence d'obligation."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Rosa Parks refuse de céder sa place en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1955",
+          "correct": true,
+          "explication": "1er décembre 1955, Montgomery."
+        },
+        {
+          "id": "b",
+          "texte": "1918",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*to speak out*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "dénoncer, prendre la parole",
+          "correct": true,
+          "explication": "#MeToo."
+        },
+        {
+          "id": "b",
+          "texte": "parler dehors",
+          "correct": false,
+          "explication": "Contresens."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "L'arrêt *Roe v. Wade* est annulé en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2022",
+          "correct": true,
+          "explication": "Arrêt Dobbs, 24 juin 2022."
+        },
+        {
+          "id": "b",
+          "texte": "1973",
+          "correct": false,
+          "explication": "1973 : Roe v. Wade."
+        }
+      ]
+    }
+  ]
+}

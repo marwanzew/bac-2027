@@ -1,0 +1,693 @@
+{
+  "id": "methode-synthese",
+  "matiere": "llcer",
+  "titre": "Méthode : la synthèse et la traduction",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthode",
+    "intitule": "Épreuve écrite de spécialité LLCER anglais (session 2027)",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+      "url": "https://eduscol.education.fr/document/52914/download",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Connaître exactement le format de l'écrit : durée, documents, synthèse, traduction, barème.",
+    "Savoir analyser un dossier et construire une synthèse organisée d'environ 500 mots.",
+    "Maîtriser les principales techniques de traduction et éviter les pièges classiques.",
+    "Gérer son temps pendant les 3 h 30."
+  ],
+  "parties": [
+    {
+      "id": "format",
+      "titre": "Le format de l'épreuve écrite",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "L'écrit en un coup d'œil",
+          "colonnes": [
+            "Élément",
+            "Ce que dit le texte officiel"
+          ],
+          "lignes": [
+            [
+              "Durée",
+              "3 heures 30"
+            ],
+            [
+              "Date (session 2027)",
+              "Jeudi 17 juin 2027"
+            ],
+            [
+              "Choix",
+              "Deux sujets au choix, portant sur deux des trois thématiques du programme"
+            ],
+            [
+              "Dossier",
+              "3 ou 4 documents, 4 000 à 5 000 signes au total, dont obligatoirement un texte littéraire (il peut y avoir un document iconographique, un article, un extrait d'essai…)"
+            ],
+            [
+              "Partie 1 : synthèse (16 points)",
+              "En anglais, environ 500 mots, guidée par 2 ou 3 questions ou consignes ; elle peut être complétée par un écrit argumentatif, l'ensemble ne dépassant pas 500 mots"
+            ],
+            [
+              "Partie 2 : traduction (4 points)",
+              "Traduire en français un passage d'environ 500 signes d'un des textes du dossier"
+            ],
+            [
+              "Dictionnaire",
+              "Dictionnaire unilingue (anglais-anglais) non encyclopédique autorisé"
+            ],
+            [
+              "Niveau attendu",
+              "B2/C1"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La note de spécialité combine l'écrit et l'oral, qui comptent **chacun pour moitié** ; l'épreuve a un **coefficient 16**."
+        },
+        {
+          "type": "piege",
+          "titre": "[À VÉRIFIER] maîtrise de la langue",
+          "texte": "Une note de service du 11 septembre 2026 prévoit, au baccalauréat, au moins 2 points pour la maîtrise de la langue dans chaque épreuve écrite. Elle ne cite pas les épreuves de langues vivantes et la note de l'épreuve de LLCER n'a pas été modifiée : demande à ton professeur comment ce point s'applique à l'écrit de LLCER."
+        },
+        {
+          "type": "definition",
+          "glossaire": "synthesis"
+        }
+      ]
+    },
+    {
+      "id": "synthese",
+      "titre": "Construire la synthèse",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Une synthèse **n'est pas** un résumé document par document. C'est un texte organisé qui **croise** les documents pour répondre aux questions posées."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**1. Lis les consignes d'abord** : elles donnent la direction de ta synthèse. Souligne les mots-clés.",
+            "**2. Identifie chaque document** : nature (roman, article, photo, affiche…), auteur, date, source, thème principal.",
+            "**3. Fais une grille** : en colonnes les documents, en lignes les idées. Tu vois immédiatement les points communs et les oppositions.",
+            "**4. Trouve le fil directeur** : relie le dossier à la thématique et à l'axe ; formule une problématique.",
+            "**5. Fais un plan** qui suit les consignes : un paragraphe par idée, chaque idée appuyée sur plusieurs documents.",
+            "**6. Rédige** : introduction (présentation du dossier + problématique), développement, conclusion (réponse + ouverture).",
+            "**7. Relis-toi** : accords, temps, -s à la troisième personne, orthographe. Compte tes mots."
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Exemple de grille (dossier sur l'exil)",
+          "colonnes": [
+            "Idée",
+            "Doc 1 (roman)",
+            "Doc 2 (article)",
+            "Doc 3 (photo)"
+          ],
+          "lignes": [
+            [
+              "La douleur du départ",
+              "✔",
+              "—",
+              "✔"
+            ],
+            [
+              "La nouvelle vie",
+              "✔",
+              "✔",
+              "—"
+            ],
+            [
+              "L'identité hybride",
+              "—",
+              "✔",
+              "✔"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Chaque paragraphe = **une idée + plusieurs documents** : *Both documents 1 and 3 show that… whereas document 2 suggests…*"
+        },
+        {
+          "type": "piege",
+          "titre": "les erreurs à éviter",
+          "texte": "Paraphraser un seul document ; recopier des phrases du dossier ; oublier un document ; donner ton avis quand on ne te le demande pas ; dépasser largement 500 mots."
+        }
+      ]
+    },
+    {
+      "id": "connecteurs",
+      "titre": "La boîte à outils : connecteurs et formules",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Connecteurs logiques",
+          "colonnes": [
+            "Pour…",
+            "English"
+          ],
+          "lignes": [
+            [
+              "Introduire",
+              "*The documents deal with… / The file is made up of…*"
+            ],
+            [
+              "Ajouter",
+              "*Moreover, Furthermore, In addition, Besides*"
+            ],
+            [
+              "Opposer",
+              "*However, Yet, Whereas, On the contrary, Nevertheless*"
+            ],
+            [
+              "Comparer",
+              "*Similarly, Likewise, Both… and…, Just as…*"
+            ],
+            [
+              "Illustrer",
+              "*For instance, For example, As shown in document 2*"
+            ],
+            [
+              "Expliquer la cause",
+              "*Because, Since, As, Due to*"
+            ],
+            [
+              "Conséquence",
+              "*Therefore, Thus, As a result, Consequently*"
+            ],
+            [
+              "Conclure",
+              "*To conclude, In conclusion, All in all*"
+            ]
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Introduire les documents",
+          "colonnes": [
+            "Formule",
+            "Sens"
+          ],
+          "lignes": [
+            [
+              "*an excerpt from a novel by…, published in…*",
+              "un extrait d'un roman de…, publié en…"
+            ],
+            [
+              "*an article from* The Guardian *dated…*",
+              "un article du Guardian daté du…"
+            ],
+            [
+              "*a photograph taken by… in…*",
+              "une photographie prise par… en…"
+            ],
+            [
+              "*a poster designed for…*",
+              "une affiche conçue pour…"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "traduction",
+      "titre": "Réussir la traduction",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "La traduction vaut 4 points sur 20, mais elle se prépare : il s'agit d'un passage d'environ 500 signes (3 ou 4 phrases). On attend un français **correct, naturel et fidèle** au sens."
+        },
+        {
+          "type": "tableau",
+          "titre": "Techniques de traduction",
+          "colonnes": [
+            "Technique",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "Transposition (changer la nature d'un mot)",
+              "*after he left* → « après son départ »"
+            ],
+            [
+              "Modulation (changer de point de vue)",
+              "*the room fell silent* → « le silence se fit dans la pièce »"
+            ],
+            [
+              "Chassé-croisé (verbe de mouvement)",
+              "*He swam across the river* → « Il traversa la rivière à la nage »"
+            ],
+            [
+              "Étoffement (ajouter des mots pour être clair)",
+              "*the letter lay unopened* → « la lettre restait là, sans avoir été ouverte »"
+            ],
+            [
+              "Passif → « on »",
+              "*She was told that…* → « On lui dit que… »"
+            ]
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Les temps du récit",
+          "colonnes": [
+            "Anglais",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "Prétérit simple (action)",
+              "passé simple (récit littéraire) ou passé composé"
+            ],
+            [
+              "Prétérit progressif / description",
+              "imparfait"
+            ],
+            [
+              "*used to* + verbe (habitude passée)",
+              "imparfait (+ « autrefois »)"
+            ],
+            [
+              "Plus-que-parfait (*had done*)",
+              "plus-que-parfait"
+            ],
+            [
+              "*would* (futur dans le passé)",
+              "conditionnel présent"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "faux-ami"
+        },
+        {
+          "type": "tableau",
+          "titre": "Faux amis fréquents",
+          "colonnes": [
+            "Anglais",
+            "Sens réel",
+            "Piège"
+          ],
+          "lignes": [
+            [
+              "actually",
+              "en fait",
+              "≠ actuellement (currently)"
+            ],
+            [
+              "eventually",
+              "finalement",
+              "≠ éventuellement (possibly)"
+            ],
+            [
+              "library",
+              "bibliothèque",
+              "≠ librairie (bookshop)"
+            ],
+            [
+              "sensible",
+              "raisonnable, sensé",
+              "≠ sensible (sensitive)"
+            ],
+            [
+              "to pretend",
+              "faire semblant",
+              "≠ prétendre (to claim)"
+            ],
+            [
+              "to realise",
+              "se rendre compte",
+              "≠ réaliser (to achieve)"
+            ],
+            [
+              "grief",
+              "chagrin",
+              "≠ grief (reproche)"
+            ],
+            [
+              "deception",
+              "tromperie",
+              "≠ déception (disappointment)"
+            ],
+            [
+              "to attend",
+              "assister à",
+              "≠ attendre (to wait)"
+            ],
+            [
+              "a novel",
+              "un roman",
+              "≠ une nouvelle (a short story)"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Méthode : **lis tout le passage**, traduis phrase par phrase **par le sens**, puis **relis ton français seul**, sans l'anglais : s'il sonne faux, reformule."
+        }
+      ]
+    },
+    {
+      "id": "analyse",
+      "titre": "Le vocabulaire de l'analyse littéraire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Pour parler d'un texte littéraire dans ta synthèse (et à l'oral), utilise le vocabulaire précis de l'analyse. Tous ces mots sont aussi dans les flashcards de la matière."
+        },
+        {
+          "type": "definition",
+          "glossaire": "narrator"
+        },
+        {
+          "type": "definition",
+          "glossaire": "omniscient-narrator"
+        },
+        {
+          "type": "definition",
+          "glossaire": "point-of-view"
+        },
+        {
+          "type": "definition",
+          "glossaire": "plot"
+        },
+        {
+          "type": "definition",
+          "glossaire": "setting"
+        },
+        {
+          "type": "definition",
+          "glossaire": "flashback"
+        },
+        {
+          "type": "definition",
+          "glossaire": "foreshadowing"
+        },
+        {
+          "type": "definition",
+          "glossaire": "metaphor"
+        },
+        {
+          "type": "definition",
+          "glossaire": "simile"
+        },
+        {
+          "type": "definition",
+          "glossaire": "symbol"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Ne te contente pas de nommer un procédé : explique son **effet** (*The metaphor suggests that… / The first-person narrative makes the reader share…*)."
+        }
+      ]
+    },
+    {
+      "id": "temps",
+      "titre": "Gérer les 3 h 30",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "une suggestion, pas une règle",
+          "texte": "Ce découpage est une proposition d'entraînement ; adapte-le à ton rythme."
+        },
+        {
+          "type": "tableau",
+          "titre": "Exemple de répartition",
+          "colonnes": [
+            "Étape",
+            "Durée indicative"
+          ],
+          "lignes": [
+            [
+              "Lire les deux sujets et choisir",
+              "10 min"
+            ],
+            [
+              "Analyser les documents et remplir la grille",
+              "40 min"
+            ],
+            [
+              "Plan détaillé",
+              "20 min"
+            ],
+            [
+              "Rédiger la synthèse",
+              "1 h 20"
+            ],
+            [
+              "Traduction",
+              "30 min"
+            ],
+            [
+              "Relecture (langue, nombre de mots)",
+              "10 min"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Durée de l'écrit",
+      "valeur": "3 h 30",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Barème",
+      "valeur": "Synthèse 16 points + traduction 4 points",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Synthèse",
+      "valeur": "environ 500 mots",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Dossier",
+      "valeur": "3 ou 4 documents, 4 000 à 5 000 signes",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Écrit de LLCER, session 2027",
+      "valeur": "jeudi 17 juin 2027",
+      "certitude": "certain",
+      "source": {
+        "titre": "Calendrier de la session 2027, annexe III, BO spécial n° 2 du 25 août 2026"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "La synthèse en 6 étapes",
+    "sens": "vertical",
+    "noeuds": [
+      {
+        "id": "c",
+        "texte": "Lire les consignes"
+      },
+      {
+        "id": "i",
+        "texte": "Identifier les documents"
+      },
+      {
+        "id": "g",
+        "texte": "Grille : idées × documents"
+      },
+      {
+        "id": "p",
+        "texte": "Problématique et plan"
+      },
+      {
+        "id": "r",
+        "texte": "Rédaction (~500 mots)"
+      },
+      {
+        "id": "l",
+        "texte": "Relecture"
+      }
+    ],
+    "liens": [
+      {
+        "de": "c",
+        "vers": "i"
+      },
+      {
+        "de": "i",
+        "vers": "g"
+      },
+      {
+        "de": "g",
+        "vers": "p"
+      },
+      {
+        "de": "p",
+        "vers": "r"
+      },
+      {
+        "de": "r",
+        "vers": "l"
+      }
+    ]
+  },
+  "fiche": [
+    "**Écrit** : 3 h 30, 2 sujets au choix (2 des 3 thématiques), dossier de 3 ou 4 documents dont un texte littéraire.",
+    "**Synthèse** : en anglais, ~500 mots, guidée par 2 ou 3 consignes : 16 points.",
+    "**Traduction** : ~500 signes vers le français : 4 points.",
+    "**Dictionnaire** unilingue non encyclopédique autorisé.",
+    "**Synthèse ≠ résumé** : croiser les documents, une idée par paragraphe.",
+    "**Traduction** : par le sens ; transposition, modulation, chassé-croisé ; attention aux temps et aux faux amis.",
+    "**Écrit + oral** = chacun la moitié de la note ; coefficient 16."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Combien de points vaut la synthèse ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "16 points",
+          "correct": true,
+          "explication": "La traduction vaut 4 points."
+        },
+        {
+          "id": "b",
+          "texte": "10 points",
+          "correct": false,
+          "explication": "Non, 16 sur 20."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La synthèse doit faire environ…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "500 mots",
+          "correct": true,
+          "explication": "Écrit argumentatif éventuel compris."
+        },
+        {
+          "id": "b",
+          "texte": "200 mots",
+          "correct": false,
+          "explication": "Trop court."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*actually* signifie…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "en fait",
+          "correct": true,
+          "explication": "Faux ami classique."
+        },
+        {
+          "id": "b",
+          "texte": "actuellement",
+          "correct": false,
+          "explication": "Actuellement = currently."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le dictionnaire autorisé est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "unilingue, non encyclopédique",
+          "correct": true,
+          "explication": "Anglais-anglais."
+        },
+        {
+          "id": "b",
+          "texte": "bilingue anglais-français",
+          "correct": false,
+          "explication": "Le bilingue n'est pas autorisé."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*He swam across the river* se traduit par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Il traversa la rivière à la nage",
+          "correct": true,
+          "explication": "Chassé-croisé."
+        },
+        {
+          "id": "b",
+          "texte": "Il nagea à travers la rivière",
+          "correct": false,
+          "explication": "Calque maladroit."
+        }
+      ]
+    }
+  ]
+}

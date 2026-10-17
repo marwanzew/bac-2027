@@ -1,0 +1,232 @@
+{
+  "matiere": "ses",
+  "chapitre": "justice-sociale",
+  "exercices": [
+    {
+      "id": "justice-qcm",
+      "titre": "Justice sociale : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Pour les conceptions : quel critère du juste ?"
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le D9/D1 compare…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le seuil des 10 % les plus aisés à celui des 10 % les plus modestes",
+              "correct": true,
+              "explication": "Rapport entre deux déciles."
+            },
+            {
+              "id": "b",
+              "texte": "le revenu moyen des riches et des pauvres",
+              "correct": false,
+              "explication": "Ce sont des seuils, pas des moyennes."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Plus la courbe de Lorenz s'éloigne de la diagonale…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "plus la répartition est inégale",
+              "correct": true,
+              "explication": "La diagonale est l'égalité parfaite."
+            },
+            {
+              "id": "b",
+              "texte": "plus la répartition est égale",
+              "correct": false,
+              "explication": "C'est l'inverse."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Donner à tous les mêmes droits devant la loi, c'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'égalité des droits",
+              "correct": true,
+              "explication": "Égalité juridique."
+            },
+            {
+              "id": "b",
+              "texte": "l'égalité des situations",
+              "correct": false,
+              "explication": "Celle-ci concerne les conditions de vie réelles."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "L'utilitarisme est associé à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Jeremy Bentham",
+              "correct": true,
+              "explication": "Maximiser le bien-être total."
+            },
+            {
+              "id": "b",
+              "texte": "John Rawls",
+              "correct": false,
+              "explication": "Rawls critique l'utilitarisme."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Le RSA est une prestation…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "d'assistance",
+              "correct": true,
+              "explication": "Sous condition de ressources."
+            },
+            {
+              "id": "b",
+              "texte": "d'assurance",
+              "correct": false,
+              "explication": "L'assurance repose sur des cotisations préalables."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "justice-conceptions",
+      "titre": "Comparer deux conceptions de la justice",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que les inégalités acceptables diffèrent selon les conceptions de la justice sociale."
+      ],
+      "methode": [
+        "Compare au moins deux conceptions, avec auteur et critère."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Libertarisme (Nozick).** Une inégalité est juste si elle résulte d'échanges libres et d'une acquisition légitime : l'État ne doit pas redistribuer."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Égalitarisme libéral (Rawls).** Les inégalités ne sont justes que si l'égalité des chances est assurée et si elles profitent aux plus défavorisés : une forte rémunération des médecins peut être juste si elle améliore la santé de tous."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Égalitarisme strict.** Il vise l'égalité des situations : presque aucune inégalité n'est acceptable."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "justice-action-publique",
+      "titre": "Les débats sur l'action publique",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que l'action des pouvoirs publics en matière de justice sociale fait l'objet de débats."
+      ],
+      "methode": [
+        "Présente les leviers puis les trois débats du programme."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Les leviers.** Fiscalité progressive, protection sociale, services collectifs et lutte contre les discriminations réduisent les inégalités."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Efficacité.** On peut se demander s'ils réduisent vraiment les inégalités, alors que le Gini atteint en 2024 son plus haut niveau depuis 1996."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Légitimité.** Avec des prélèvements obligatoires élevés (43,6 % du PIB en 2025), le consentement à l'impôt peut s'affaiblir."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Effets pervers.** Certaines aides peuvent décourager la reprise d'un emploi si elle rapporte peu de revenu en plus."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

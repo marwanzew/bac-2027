@@ -1,0 +1,305 @@
+{
+  "id": "methode-oral",
+  "matiere": "francais",
+  "titre": "Méthode : l'épreuve orale",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthodes des épreuves",
+    "intitule": "Méthode : l'épreuve orale",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+    }
+  },
+  "objectifs": [
+    "Connaître le déroulement exact de l'oral.",
+    "Réussir la lecture, l'explication linéaire et la présentation de l'œuvre.",
+    "Préparer l'entretien."
+  ],
+  "parties": [
+    {
+      "id": "deroulement",
+      "titre": "Le déroulement",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "L'oral en 50 minutes",
+          "colonnes": [
+            "Temps",
+            "Ce que tu fais",
+            "Points"
+          ],
+          "lignes": [
+            [
+              "30 min",
+              "Préparation : explication et question de grammaire",
+              "—"
+            ],
+            [
+              "Partie 1 (12 min)",
+              "Lecture à voix haute",
+              "2"
+            ],
+            [
+              "Partie 1",
+              "Explication linéaire d'un texte de ton récapitulatif (environ 20 lignes)",
+              "8"
+            ],
+            [
+              "Partie 1",
+              "Question de grammaire",
+              "2"
+            ],
+            [
+              "Partie 2 (8 min)",
+              "Présentation de l'œuvre choisie puis entretien",
+              "8"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "recapitulatif"
+        }
+      ]
+    },
+    {
+      "id": "explication",
+      "titre": "L'explication linéaire",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "explication-lineaire"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**Introduction** (1 min environ) : présenter l'œuvre et situer l'extrait ; annoncer le **projet de lecture** et les **mouvements** du texte.",
+            "**Lecture** expressive (avant ou après l'introduction, selon l'examinateur).",
+            "**Explication** mouvement par mouvement : citer, nommer le procédé, interpréter.",
+            "**Conclusion** : réponse au projet de lecture, ouverture."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "le commentaire déguisé",
+          "texte": "L'explication **suit l'ordre du texte** ; elle ne regroupe pas les remarques par thèmes comme un commentaire écrit."
+        }
+      ]
+    },
+    {
+      "id": "oeuvre",
+      "titre": "La seconde partie : l'œuvre choisie",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Tu présentes **l'œuvre que tu as choisie**, en expliquant **pourquoi tu l'as choisie**. L'examinateur engage ensuite un **entretien** : il évalue ta capacité à exprimer une lecture personnelle et à défendre tes choix."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Prépare une présentation de 2 à 3 minutes : de quoi parle l'œuvre, ce qui t'a marqué, un passage précis.",
+            "Anticipe les questions : personnages, thèmes, lien avec le parcours, autres œuvres comparables.",
+            "Parle avec sincérité ; tu peux dire ce qui t'a moins plu, en argumentant."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conseils",
+      "titre": "Conseils",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Regarde l'examinateur, parle lentement, ne lis pas tes notes.",
+            "Écris au brouillon le **plan** de ton explication, pas des phrases entières.",
+            "Garde **deux minutes** maximum pour la grammaire."
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Préparation / épreuve",
+      "valeur": "30 min / 20 min",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Barème partie 1",
+      "valeur": "lecture 2, explication 8, grammaire 2",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Barème partie 2",
+      "valeur": "8 points (présentation de l'œuvre et entretien)",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "L'oral en bref",
+    "colonnes": [
+      "Moment",
+      "Clé"
+    ],
+    "lignes": [
+      [
+        "Lecture",
+        "Expressive, rythmée"
+      ],
+      [
+        "Explication",
+        "Ordre du texte, projet de lecture, mouvements"
+      ],
+      [
+        "Grammaire",
+        "Analyse syntaxique, 2 min"
+      ],
+      [
+        "Œuvre",
+        "Lecture personnelle, choix argumenté"
+      ]
+    ]
+  },
+  "fiche": [
+    "30 min de préparation, 20 min d'épreuve, coef 5.",
+    "Lecture **2** + explication **8** + grammaire **2** = 12 ; œuvre + entretien = **8**.",
+    "Explication **linéaire** : suit le texte, mouvement par mouvement.",
+    "Seconde partie : défendre une **lecture personnelle**."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "L'explication linéaire…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "suit l'ordre du texte",
+          "correct": true,
+          "explication": "Mouvement par mouvement."
+        },
+        {
+          "id": "b",
+          "texte": "regroupe les remarques par thèmes",
+          "correct": false,
+          "explication": "C'est le commentaire."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La lecture à voix haute vaut…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2 points",
+          "correct": true,
+          "explication": "Partie 1."
+        },
+        {
+          "id": "b",
+          "texte": "8 points",
+          "correct": false,
+          "explication": "C'est l'explication."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La seconde partie dure…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "8 minutes",
+          "correct": true,
+          "explication": "Présentation et entretien."
+        },
+        {
+          "id": "b",
+          "texte": "12 minutes",
+          "correct": false,
+          "explication": "C'est la première partie."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Un texte d'explication mesure environ…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "vingt lignes",
+          "correct": true,
+          "explication": "Ou un poème."
+        },
+        {
+          "id": "b",
+          "texte": "trois pages",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Temps de préparation :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "30 minutes",
+          "correct": true,
+          "explication": "Avant les 20 minutes d'épreuve."
+        },
+        {
+          "id": "b",
+          "texte": "1 heure",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

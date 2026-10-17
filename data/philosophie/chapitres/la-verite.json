@@ -1,0 +1,335 @@
+{
+  "id": "la-verite",
+  "matiere": "philosophie",
+  "titre": "La vérité",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "La vérité",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer vérité, réalité, certitude, opinion.",
+    "Connaître les critères de la vérité (correspondance, cohérence, évidence).",
+    "Connaître Platon, Descartes, Spinoza, Nietzsche, Popper sur la vérité.",
+    "Traiter un sujet sur la vérité et l'opinion."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "verite"
+        },
+        {
+          "type": "definition",
+          "glossaire": "opinion"
+        },
+        {
+          "type": "definition",
+          "glossaire": "evidence"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La **réalité** est ce qui existe ; la **vérité** est une qualité de nos énoncés : un énoncé est vrai s'il dit ce qui est. La **certitude** est un état d'esprit : on peut être certain et se tromper."
+        },
+        {
+          "type": "definition",
+          "glossaire": "doute-methodique"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : nous cherchons la vérité, mais comment savoir que nous l'avons atteinte ? Nos sens nous trompent, nos opinions varient. Existe-t-il une vérité objective, ou chacun a-t-il « sa » vérité ? Et faut-il toujours dire la vérité ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **vérité / opinion** ; **objectif / subjectif** ; **certitude / doute**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Platon (*La République*, livre VII)",
+              "Dans l'allégorie de la caverne, les prisonniers prennent des ombres pour la réalité ; le philosophe sort vers la lumière de la vérité",
+              "Il faut dépasser l'opinion vers la connaissance"
+            ],
+            [
+              "Descartes (*Discours de la méthode*, 1637)",
+              "Ne recevoir pour vrai que ce qui est évident ; douter de tout ce qui peut l'être pour trouver une certitude",
+              "Le doute méthodique mène à la vérité"
+            ],
+            [
+              "Spinoza (*Éthique*, 1677)",
+              "La vérité est norme d'elle-même et du faux : avoir une idée vraie, c'est savoir qu'on l'a",
+              "L'idée vraie se reconnaît d'elle-même"
+            ],
+            [
+              "Nietzsche (fragments posthumes, années 1880)",
+              "Il n'y aurait pas de faits, seulement des interprétations",
+              "La vérité est une construction humaine"
+            ],
+            [
+              "Popper (*Logique de la découverte scientifique*, 1934)",
+              "Une théorie scientifique doit être réfutable par l'expérience ; on ne prouve jamais définitivement qu'elle est vraie",
+              "La vérité scientifique est provisoire"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Les « fake news » : une information fausse partagée parce qu'elle plaît.",
+            "Le bâton plongé dans l'eau qui paraît brisé : les sens trompent.",
+            "« À chacun sa vérité » : vrai pour les goûts, mais pour 2 + 2 = 4 ?",
+            "Le médecin qui hésite à annoncer un diagnostic grave."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "La vérité est-elle relative ?",
+            "Peut-on renoncer à la vérité ?",
+            "Faut-il toujours dire la vérité ?",
+            "L'opinion s'oppose-t-elle à la vérité ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Allégorie de la caverne",
+      "valeur": "Platon, *La République*, livre VII",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Doute méthodique, évidence",
+      "valeur": "Descartes, 1637",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La vérité norme d'elle-même",
+      "valeur": "Spinoza, *Éthique*, 1677",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Réfutabilité",
+      "valeur": "Popper, 1934",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La vérité : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Platon",
+        "Dans l'allégorie de la caverne, les prisonniers prennent des ombres pour la réalité ; le philosophe sort vers la lumière de la vérité"
+      ],
+      [
+        "Descartes",
+        "Ne recevoir pour vrai que ce qui est évident ; douter de tout ce qui peut l'être pour trouver une certitude"
+      ],
+      [
+        "Spinoza",
+        "La vérité est norme d'elle-même et du faux : avoir une idée vraie, c'est savoir qu'on l'a"
+      ],
+      [
+        "Nietzsche",
+        "Il n'y aurait pas de faits, seulement des interprétations"
+      ],
+      [
+        "Popper",
+        "Une théorie scientifique doit être réfutable par l'expérience ; on ne prouve jamais définitivement qu'elle est vraie"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Vérité** (qualité d'un énoncé) ≠ réalité ≠ certitude ≠ opinion.",
+    "**Critères** : correspondance, cohérence, évidence.",
+    "**Platon** : caverne, opinion → connaissance.",
+    "**Descartes** : doute méthodique, évidence.",
+    "**Spinoza** : la vérité est norme d'elle-même.",
+    "**Nietzsche** : des interprétations.",
+    "**Popper** : vérité scientifique provisoire, réfutabilité."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "La vérité est une qualité…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "d'un énoncé",
+          "correct": true,
+          "explication": "Ce qui existe, c'est la réalité."
+        },
+        {
+          "id": "b",
+          "texte": "d'un objet",
+          "correct": false,
+          "explication": "Un objet est réel, pas vrai."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "L'allégorie de la caverne est de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Platon",
+          "correct": true,
+          "explication": "*La République*, livre VII."
+        },
+        {
+          "id": "b",
+          "texte": "Descartes",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Pour Popper, une théorie scientifique doit être…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "réfutable",
+          "correct": true,
+          "explication": "Testable par l'expérience."
+        },
+        {
+          "id": "b",
+          "texte": "irréfutable",
+          "correct": false,
+          "explication": "C'est l'inverse."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "On peut être certain et…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "se tromper",
+          "correct": true,
+          "explication": "La certitude est un état d'esprit."
+        },
+        {
+          "id": "b",
+          "texte": "avoir forcément raison",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Le doute méthodique est de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Descartes",
+          "correct": true,
+          "explication": "*Discours de la méthode*."
+        },
+        {
+          "id": "b",
+          "texte": "Nietzsche",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

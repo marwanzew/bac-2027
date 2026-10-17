@@ -1,0 +1,410 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "chapitre.schema.json",
+  "title": "Chapitre de cours (fichier data/<matiere>/chapitres/<id>.json)",
+  "type": "object",
+  "required": [
+    "id",
+    "matiere",
+    "titre",
+    "maj",
+    "rattachement",
+    "objectifs",
+    "parties",
+    "reperes",
+    "synthese",
+    "fiche",
+    "quiz"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "$ref": "commun.schema.json#/$defs/id"
+    },
+    "matiere": {
+      "$ref": "commun.schema.json#/$defs/id"
+    },
+    "titre": {
+      "type": "string",
+      "minLength": 1
+    },
+    "maj": {
+      "$ref": "commun.schema.json#/$defs/date",
+      "description": "Date de dernière relecture."
+    },
+    "rattachement": {
+      "description": "1. Rattachement au programme officiel, avec les intitulés exacts.",
+      "type": "object",
+      "required": [
+        "theme",
+        "intitule",
+        "source"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "theme": {
+          "type": "string",
+          "description": "Ex. « Science économique »."
+        },
+        "intitule": {
+          "type": "string",
+          "description": "Intitulé officiel du chapitre, de la notion ou de l'axe."
+        },
+        "evaluableEcrit": {
+          "type": "boolean"
+        },
+        "source": {
+          "$ref": "commun.schema.json#/$defs/source"
+        },
+        "certitude": {
+          "$ref": "commun.schema.json#/$defs/certitude",
+          "description": "Certitude sur la reproduction exacte des objectifs officiels."
+        },
+        "raison": {
+          "type": "string"
+        }
+      },
+      "if": {
+        "properties": {
+          "certitude": {
+            "const": "a_verifier"
+          }
+        },
+        "required": [
+          "certitude"
+        ]
+      },
+      "then": {
+        "required": [
+          "raison"
+        ]
+      }
+    },
+    "objectifs": {
+      "description": "2. « À la fin, je dois savoir… »",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "commun.schema.json#/$defs/texte"
+      }
+    },
+    "parties": {
+      "description": "3 à 5. Cours en parties numérotées, fait de blocs.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "titre",
+          "blocs"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "$ref": "commun.schema.json#/$defs/id"
+          },
+          "titre": {
+            "type": "string"
+          },
+          "blocs": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "$ref": "#/$defs/bloc"
+            }
+          }
+        }
+      }
+    },
+    "reperes": {
+      "description": "6. Dates, auteurs, formules, mécanismes, chiffres clés.",
+      "type": "array",
+      "items": {
+        "allOf": [
+          {
+            "$ref": "commun.schema.json#/$defs/verifiable"
+          }
+        ],
+        "type": "object",
+        "required": [
+          "type",
+          "libelle",
+          "valeur"
+        ],
+        "properties": {
+          "type": {
+            "enum": [
+              "date",
+              "auteur",
+              "formule",
+              "mecanisme",
+              "chiffre",
+              "lieu",
+              "notion"
+            ]
+          },
+          "libelle": {
+            "type": "string"
+          },
+          "valeur": {
+            "$ref": "commun.schema.json#/$defs/texte"
+          },
+          "certitude": true,
+          "source": true,
+          "raison": true
+        },
+        "unevaluatedProperties": false
+      }
+    },
+    "synthese": {
+      "description": "7. Schéma ou tableau de synthèse.",
+      "oneOf": [
+        {
+          "$ref": "commun.schema.json#/$defs/tableau"
+        },
+        {
+          "$ref": "commun.schema.json#/$defs/schema"
+        }
+      ]
+    },
+    "fiche": {
+      "description": "8. Fiche de révision d'une page maximum.",
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 12,
+      "items": {
+        "$ref": "commun.schema.json#/$defs/texte"
+      }
+    },
+    "quiz": {
+      "description": "9. Mini-quiz : exactement 5 questions.",
+      "type": "array",
+      "minItems": 5,
+      "maxItems": 5,
+      "items": {
+        "$ref": "qcm.schema.json"
+      }
+    }
+  },
+  "$defs": {
+    "bloc": {
+      "type": "object",
+      "required": [
+        "type"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "paragraphe",
+            "liste",
+            "definition",
+            "a-retenir",
+            "piege",
+            "exemple",
+            "plus-loin",
+            "citation",
+            "tableau",
+            "schema"
+          ]
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "paragraphe"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "texte"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "type": true,
+              "texte": {
+                "$ref": "commun.schema.json#/$defs/texte"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "liste"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "items"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "type": true,
+              "ordonnee": {
+                "type": "boolean"
+              },
+              "items": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "$ref": "commun.schema.json#/$defs/texte"
+                }
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "definition"
+              }
+            }
+          },
+          "then": {
+            "description": "Renvoie à une entrée du glossaire : la définition n'est écrite qu'une fois.",
+            "required": [
+              "glossaire"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "type": true,
+              "glossaire": {
+                "$ref": "commun.schema.json#/$defs/id"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "enum": [
+                  "a-retenir",
+                  "piege",
+                  "exemple"
+                ]
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "texte"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "type": true,
+              "titre": {
+                "type": "string"
+              },
+              "texte": {
+                "$ref": "commun.schema.json#/$defs/texte"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "plus-loin"
+              }
+            }
+          },
+          "then": {
+            "description": "Hors programme, toujours affiché comme tel (règle R4).",
+            "required": [
+              "titre",
+              "texte"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "type": true,
+              "titre": {
+                "type": "string"
+              },
+              "texte": {
+                "$ref": "commun.schema.json#/$defs/texte"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "citation"
+              }
+            }
+          },
+          "then": {
+            "description": "Citation exacte uniquement, référencée (règle R6).",
+            "required": [
+              "texte",
+              "auteur",
+              "oeuvre",
+              "certitude",
+              "source"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "type": true,
+              "texte": {
+                "type": "string"
+              },
+              "auteur": {
+                "type": "string"
+              },
+              "oeuvre": {
+                "type": "string"
+              },
+              "reference": {
+                "type": "string",
+                "description": "Chapitre, page, édition."
+              },
+              "certitude": {
+                "$ref": "commun.schema.json#/$defs/certitude"
+              },
+              "source": {
+                "$ref": "commun.schema.json#/$defs/source"
+              },
+              "raison": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "tableau"
+              }
+            }
+          },
+          "then": {
+            "$ref": "commun.schema.json#/$defs/tableau"
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "schema"
+              }
+            }
+          },
+          "then": {
+            "$ref": "commun.schema.json#/$defs/schema"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "matiere": "espagnol",
+  "chapitre": "axe2",
+  "exercices": [
+    {
+      "id": "axe2-qcm",
+      "titre": "Vocabulario : 5 preguntas",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Responde a las 5 preguntas. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*la fosa común*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la fosse commune",
+              "correct": true,
+              "explication": "Exhumaciones."
+            },
+            {
+              "id": "b",
+              "texte": "la fosse septique",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*recordar*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "se souvenir",
+              "correct": true,
+              "explication": "Recordar a las víctimas."
+            },
+            {
+              "id": "b",
+              "texte": "enregistrer",
+              "correct": false,
+              "explication": "Enregistrer = grabar."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*Mi abuela … en un pueblo.* (habitude)",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "vivía",
+              "correct": true,
+              "explication": "Imparfait."
+            },
+            {
+              "id": "b",
+              "texte": "vivió",
+              "correct": false,
+              "explication": "Indéfini : action ponctuelle."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*el patrimonio*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le patrimoine",
+              "correct": true,
+              "explication": "El patrimonio de Toledo."
+            },
+            {
+              "id": "b",
+              "texte": "le patron",
+              "correct": false,
+              "explication": "Patron = jefe."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*la paz*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la paix",
+              "correct": true,
+              "explication": "Firmar la paz."
+            },
+            {
+              "id": "b",
+              "texte": "le pas",
+              "correct": false,
+              "explication": "Pas = paso."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Una respuesta correcta",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe2-comprension",
+      "titre": "Comprensión escrita",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Lee el texto y contesta a las preguntas. (Lis le texte et réponds aux questions.)",
+        "1. ¿Dónde y cuándo se reunían estas mujeres?",
+        "2. ¿A quién buscaban?",
+        "3. ¿Qué hicieron después las abuelas?",
+        "4. ¿Por qué es hoy la plaza un lugar de memoria?"
+      ],
+      "documents": [
+        {
+          "titre": "Texto (escrito para el entrenamiento)",
+          "contenu": "Cada jueves, desde 1977, unas mujeres caminaban en círculo en la Plaza de Mayo de Buenos Aires. Llevaban un pañuelo blanco en la cabeza. Buscaban a sus hijos, desaparecidos durante la dictadura militar. Con los años, las abuelas también empezaron a buscar a sus nietos, robados al nacer. Gracias a su lucha, muchos jóvenes descubrieron su verdadera identidad. Hoy, la plaza es un lugar de memoria.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. Se reunían cada jueves, desde 1977, en la Plaza de Mayo de Buenos Aires.",
+            "2. Buscaban a sus hijos, desaparecidos durante la dictadura militar.",
+            "3. Empezaron a buscar a sus nietos, robados al nacer.",
+            "4. Porque recuerda la lucha de estas mujeres y a las víctimas de la dictadura."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe2-expresion",
+      "titre": "Expresión escrita",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "¿Por qué es importante recordar el pasado? Escribe un texto de 120 palabras aproximadamente."
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *primero, además, sin embargo, por eso, en conclusión*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Modelo** (niveau B1, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Recordar el pasado es importante por varias razones. Primero, permite rendir homenaje a las víctimas. Por ejemplo, en Argentina, las Madres y Abuelas de Plaza de Mayo lucharon durante años para encontrar a los desaparecidos."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Además, la memoria ayuda a no repetir los errores. Cuando conocemos la historia de una guerra o de una dictadura, comprendemos mejor el valor de la democracia y de la paz."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Sin embargo, recordar puede ser doloroso y a veces divide a una sociedad, como en España con los debates sobre la memoria histórica. En conclusión, creo que no hay que olvidar, pero es necesario recordar juntos, con respeto."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "matiere": "francais",
+  "chapitre": "roman",
+  "exercices": [
+    {
+      "id": "roman-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le Chevalier de la charrette est écrit…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "en vers",
+              "correct": true,
+              "explication": "Octosyllabes."
+            },
+            {
+              "id": "b",
+              "texte": "en prose",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Pot-Bouille appartient au cycle…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "des Rougon-Macquart",
+              "correct": true,
+              "explication": "10e volume."
+            },
+            {
+              "id": "b",
+              "texte": "de La Comédie humaine",
+              "correct": false,
+              "explication": "C'est Balzac."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "La grand-mère de Télumée s'appelle…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Reine Sans Nom",
+              "correct": true,
+              "explication": "Elle transmet sa force."
+            },
+            {
+              "id": "b",
+              "texte": "Guenièvre",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Le parcours de la Charrette :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+            "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le roman et l'invention de l'amour",
+              "correct": true,
+              "explication": "Intitulé officiel."
+            },
+            {
+              "id": "b",
+              "texte": "mensonge et comédie",
+              "correct": false,
+              "explication": "C'est Le Menteur."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Le naturalisme est mené par…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Zola",
+              "correct": true,
+              "explication": "Fin XIXe."
+            },
+            {
+              "id": "b",
+              "texte": "Chrétien de Troyes",
+              "correct": false,
+              "explication": "XIIe siècle."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "roman-diss",
+      "titre": "Plan de dissertation : Pot-Bouille",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 60,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner, au format bac) : « Selon vous, Pot-Bouille se contente-t-il de dénoncer l'hypocrisie de la bourgeoisie ? »",
+        "Rédige l'introduction et un plan détaillé en deux ou trois parties, avec des exemples précis tirés de l'œuvre et du parcours."
+      ],
+      "methode": [
+        "Analyse chaque mot du sujet, reformule-le, puis pose une problématique.",
+        "Chaque sous-partie = un argument + un exemple précis (épisode, personnage, citation courte que tu as vérifiée dans ton édition)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique** : le roman est-il seulement une satire, ou dévoile-t-il plus largement les mécanismes de toute une société ?"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**I. Une satire féroce de l'hypocrisie bourgeoise** : façade respectable de l'immeuble et vices cachés ; mariages d'argent ; morale affichée et adultères.",
+            "**II. Un dévoilement des rouages de la société** : rôle de l'argent et de l'ambition (Octave Mouret) ; hiérarchie sociale de l'immeuble (maîtres et domestiques) ; condition des femmes, éduquées pour le mariage.",
+            "**III. Une entreprise romanesque et naturaliste** : regard quasi scientifique sur un milieu ; ironie et comique qui rendent la critique efficace ; l'immeuble comme modèle réduit de la société."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : la dénonciation est le point de départ, mais le roman vise surtout à faire comprendre comment fonctionne la société, ce qui répond au parcours."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (accroche, sujet, problématique, annonce)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la question",
+          "points": 6
+        },
+        {
+          "critere": "Connaissance précise de l'œuvre et du parcours",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

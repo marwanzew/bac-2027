@@ -1,0 +1,225 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "h4-c1",
+  "exercices": [
+    {
+      "id": "h4-c1-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Un monde multipolaire compte…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "plusieurs grandes puissances",
+              "correct": true,
+              "explication": "Chine, Russie, Inde…"
+            },
+            {
+              "id": "b",
+              "texte": "une seule puissance",
+              "correct": false,
+              "explication": "Unipolaire."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Srebrenica (1995) est situé en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Bosnie",
+              "correct": true,
+              "explication": "Ex-Yougoslavie."
+            },
+            {
+              "id": "b",
+              "texte": "Afrique du Sud",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "La Chine entre à l'OMC en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "2001",
+              "correct": true,
+              "explication": "Intégration à la mondialisation."
+            },
+            {
+              "id": "b",
+              "texte": "1949",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "L'apartheid commence à être mis en place en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1948",
+              "correct": true,
+              "explication": "Afrique du Sud."
+            },
+            {
+              "id": "b",
+              "texte": "1994",
+              "correct": false,
+              "explication": "Fin."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "La Russie envahit l'Ukraine le…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "24 février 2022",
+              "correct": true,
+              "explication": "Après l'annexion de la Crimée en 2014."
+            },
+            {
+              "id": "b",
+              "texte": "11 septembre 2001",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "h4-c1-composition",
+      "titre": "Plan de composition : « Le monde depuis 1991 : nouveaux rapports de puissance et nouvelles conflictualités »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « Le monde depuis 1991 : nouveaux rapports de puissance et nouvelles conflictualités »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : 1991, fin de la guerre froide ; problématique : le monde est-il devenu plus stable après la guerre froide ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. De nouveaux rapports de puissance**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. L'hyperpuissance américaine",
+            "B. L'affirmation de nouvelles puissances (Chine, Russie)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. De nouvelles formes de conflits**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Guerres civiles et crimes de masse (Rwanda, Srebrenica)",
+            "B. Le terrorisme islamiste (11 septembre 2001)",
+            "C. Le retour de la guerre entre États (Ukraine, 2022)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III. Des efforts de régulation**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. ONU et justice internationale (CPI)",
+            "B. Un exemple de sortie pacifique : la fin de l'apartheid"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : un monde multipolaire et instable."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "id": "climat",
+  "matiere": "enseignement-scientifique",
+  "titre": "Science, climat et société",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thème 1",
+    "intitule": "Science, climat et société",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'enseignement scientifique de terminale générale, BO n° 25 du 22 juin 2023"
+    }
+  },
+  "objectifs": [
+    "Expliquer comment la composition de l'atmosphère a évolué avec la vie.",
+    "Comprendre la complexité du système climatique et le rôle des rétroactions.",
+    "Savoir ce que disent les modèles sur le climat du futur et l'origine humaine du réchauffement."
+  ],
+  "parties": [
+    {
+      "id": "atmosphere",
+      "titre": "L'atmosphère terrestre et la vie",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "L'atmosphère primitive de la Terre était riche en **CO₂** et en **vapeur d'eau**, et ne contenait pratiquement pas de **dioxygène (O₂)**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le dioxygène a été produit par la **photosynthèse**, d'abord par des micro-organismes (cyanobactéries) dans les océans. Il s'est accumulé dans l'atmosphère il y a environ **2,4 milliards d'années**. Les **fers rubanés** et les **paléosols oxydés** sont des indices de cette oxygénation."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Une partie du dioxygène forme de l'**ozone (O₃)** en haute atmosphère : la **couche d'ozone** absorbe une grande partie du rayonnement ultraviolet, ce qui a permis à la vie de coloniser les continents."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le carbone est stocké dans des **réservoirs** (atmosphère, océans, biosphère, roches, combustibles fossiles) et circule entre eux : c'est le **cycle du carbone**. Les combustibles fossiles sont du carbone d'origine biologique piégé pendant des millions d'années."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "La vie a profondément transformé l'atmosphère : l'O₂ actuel est d'origine biologique."
+        }
+      ]
+    },
+    {
+      "id": "systeme",
+      "titre": "La complexité du système climatique",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "effet-de-serre"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Depuis la période préindustrielle (1850-1900), la température moyenne à la surface du globe a augmenté d'environ **1,1 °C** (moyenne 2011-2020, GIEC). La concentration en CO₂ est passée d'environ **280 ppm** à plus de **410 ppm** en 2019."
+        },
+        {
+          "type": "definition",
+          "glossaire": "retroaction"
+        },
+        {
+          "type": "definition",
+          "glossaire": "albedo"
+        },
+        {
+          "type": "tableau",
+          "titre": "Deux rétroactions positives",
+          "colonnes": [
+            "Mécanisme",
+            "Effet"
+          ],
+          "lignes": [
+            [
+              "Fonte des glaces → baisse de l'albédo → plus d'énergie absorbée",
+              "Amplifie le réchauffement"
+            ],
+            [
+              "Réchauffement → plus de vapeur d'eau (gaz à effet de serre) dans l'air",
+              "Amplifie le réchauffement"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "L'**océan** joue un rôle majeur : il stocke plus de **90 %** de l'énergie excédentaire accumulée par le système climatique, et absorbe environ un quart du CO₂ émis par les activités humaines. Conséquences : **dilatation thermique** et hausse du niveau de la mer, **acidification**."
+        },
+        {
+          "type": "definition",
+          "glossaire": "acidification-oceans"
+        },
+        {
+          "type": "piege",
+          "titre": "météo ≠ climat",
+          "texte": "La **météo** décrit le temps qu'il fait sur quelques jours ; le **climat** est une moyenne sur au moins 30 ans. Un hiver froid ne contredit pas le réchauffement climatique."
+        }
+      ]
+    },
+    {
+      "id": "futur",
+      "titre": "Le climat du futur",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Les **modèles climatiques** sont des programmes informatiques qui calculent l'évolution du climat à partir des lois de la physique. On les valide en vérifiant qu'ils reproduisent le climat passé."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Selon le GIEC, il est **sans équivoque** que l'influence humaine a réchauffé l'atmosphère, l'océan et les terres. Les projections dépendent des **scénarios d'émissions** : plus les émissions sont fortes, plus le réchauffement est élevé."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "L'**accord de Paris** (2015) vise à contenir le réchauffement **nettement en dessous de 2 °C** et à poursuivre les efforts pour le limiter à **1,5 °C**."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**Atténuation** : réduire les émissions (sobriété, efficacité, énergies bas carbone).",
+            "**Adaptation** : se préparer aux effets inévitables (canicules, sécheresses, montée des eaux)."
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Oxygénation de l'atmosphère",
+      "valeur": "il y a environ 2,4 milliards d'années",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Réchauffement observé (2011-2020 par rapport à 1850-1900)",
+      "valeur": "environ +1,1 °C",
+      "certitude": "certain",
+      "source": {
+        "titre": "GIEC, 6e rapport d'évaluation (AR6), rapport de synthèse, 2023",
+        "url": "https://www.ipcc.ch/report/ar6/syr/"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "CO₂ atmosphérique : préindustriel → 2019",
+      "valeur": "≈ 280 ppm → plus de 410 ppm",
+      "certitude": "certain",
+      "source": {
+        "titre": "GIEC, 6e rapport d'évaluation (AR6), rapport de synthèse, 2023",
+        "url": "https://www.ipcc.ch/report/ar6/syr/"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Accord de Paris",
+      "valeur": "12 décembre 2015",
+      "certitude": "certain",
+      "source": {
+        "titre": "Accord de Paris, 12 décembre 2015 (CCNUCC)"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Part de l'énergie excédentaire stockée par l'océan",
+      "valeur": "plus de 90 %",
+      "certitude": "certain",
+      "source": {
+        "titre": "GIEC, 6e rapport d'évaluation (AR6), rapport de synthèse, 2023",
+        "url": "https://www.ipcc.ch/report/ar6/syr/"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Le climat en un tableau",
+    "colonnes": [
+      "Idée",
+      "À retenir"
+    ],
+    "lignes": [
+      [
+        "Atmosphère et vie",
+        "O₂ produit par la photosynthèse ; couche d'ozone"
+      ],
+      [
+        "Effet de serre",
+        "Naturel, renforcé par les émissions humaines"
+      ],
+      [
+        "Rétroactions",
+        "Albédo, vapeur d'eau : amplifient"
+      ],
+      [
+        "Océan",
+        "Stocke chaleur et CO₂ ; acidification, montée des eaux"
+      ],
+      [
+        "Futur",
+        "Modèles + scénarios ; atténuation et adaptation"
+      ]
+    ]
+  },
+  "fiche": [
+    "O₂ d'origine **biologique** (photosynthèse), accumulé il y a ≈ 2,4 milliards d'années.",
+    "Réchauffement ≈ **+1,1 °C** (2011-2020 / 1850-1900) ; CO₂ ≈ 280 → plus de 410 ppm.",
+    "**Rétroactions positives** : albédo de la glace, vapeur d'eau.",
+    "**Océan** : plus de 90 % de l'énergie excédentaire, ≈ 1/4 du CO₂ émis ; acidification.",
+    "**Accord de Paris** (2015) : nettement sous 2 °C, si possible 1,5 °C."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "D'où vient le dioxygène de l'atmosphère ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "De la photosynthèse",
+          "correct": true,
+          "explication": "D'abord par des cyanobactéries."
+        },
+        {
+          "id": "b",
+          "texte": "Des volcans",
+          "correct": false,
+          "explication": "Les volcans émettent surtout CO₂ et vapeur d'eau."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La fonte de la banquise…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "diminue l'albédo et amplifie le réchauffement",
+          "correct": true,
+          "explication": "Rétroaction positive."
+        },
+        {
+          "id": "b",
+          "texte": "augmente l'albédo",
+          "correct": false,
+          "explication": "L'océan sombre réfléchit moins."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Réchauffement observé depuis 1850-1900 (moyenne 2011-2020) :",
+      "certitude": "certain",
+      "source": {
+        "titre": "GIEC, 6e rapport d'évaluation (AR6), rapport de synthèse, 2023",
+        "url": "https://www.ipcc.ch/report/ar6/syr/"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "environ 1,1 °C",
+          "correct": true,
+          "explication": "GIEC, AR6."
+        },
+        {
+          "id": "b",
+          "texte": "environ 4 °C",
+          "correct": false,
+          "explication": "C'est l'ordre de grandeur de scénarios futurs pessimistes."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le climat est une moyenne sur…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Connaissance scientifique établie (programme et manuels)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "au moins 30 ans",
+          "correct": true,
+          "explication": "La météo, quelques jours."
+        },
+        {
+          "id": "b",
+          "texte": "une saison",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "L'accord de Paris vise à limiter le réchauffement…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Accord de Paris, 12 décembre 2015 (CCNUCC)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "nettement en dessous de 2 °C",
+          "correct": true,
+          "explication": "Et si possible 1,5 °C."
+        },
+        {
+          "id": "b",
+          "texte": "à 3 °C",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "matiere": "llcer",
+  "chapitre": "exploration",
+  "exercices": [
+    {
+      "id": "exploration-vocabulaire",
+      "titre": "Vocabulary check : exploration",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Mots transparents, mais vérifie le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*a quest*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une quête",
+              "correct": true,
+              "explication": "a quest for freedom."
+            },
+            {
+              "id": "b",
+              "texte": "une question",
+              "correct": false,
+              "explication": "Question = question."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*a pioneer*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un pionnier",
+              "correct": true,
+              "explication": "pioneers heading West."
+            },
+            {
+              "id": "b",
+              "texte": "un pion",
+              "correct": false,
+              "explication": "Contresens."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*to push back the boundaries*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "repousser les limites",
+              "correct": true,
+              "explication": "boundary = limite, frontière."
+            },
+            {
+              "id": "b",
+              "texte": "reculer",
+              "correct": false,
+              "explication": "Pas exactement."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*an expedition*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une expédition",
+              "correct": true,
+              "explication": "Même mot."
+            },
+            {
+              "id": "b",
+              "texte": "un envoi postal",
+              "correct": false,
+              "explication": "Pas dans ce contexte."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*to conquer*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "conquérir",
+              "correct": true,
+              "explication": "to conquer space."
+            },
+            {
+              "id": "b",
+              "texte": "concourir",
+              "correct": false,
+              "explication": "Concourir = to compete."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "exploration-traduction",
+      "titre": "Translation : the expedition",
+      "type": "traduction",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Translate the following passage into French. (Traduis le passage en français.)"
+      ],
+      "documents": [
+        {
+          "titre": "Passage à traduire (texte écrit pour l'entraînement)",
+          "contenu": "For three weeks, the men walked across the ice without seeing any sign of life. Their food was running out and their maps had proved useless. Yet each night, before falling asleep, the captain wrote a few lines in his diary, as if the words themselves could keep them alive. Years later, those pages were all that remained of the expedition.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        }
+      ],
+      "methode": [
+        "Lis tout le passage avant de traduire une seule phrase.",
+        "Repère les temps : le prétérit d'un récit se traduit souvent par le passé simple ou le passé composé, et par l'imparfait pour les descriptions.",
+        "Ne traduis pas mot à mot : la phrase française doit sonner naturelle.",
+        "Relis ta traduction comme un texte français, sans regarder l'anglais.",
+        "*walked across* : chassé-croisé possible (« traversèrent la glace à pied ») ; « marchèrent sur la glace » convient aussi.",
+        "*was running out* : « s'épuisaient » (forme progressive → imparfait).",
+        "*had proved useless* : « s'étaient révélées inutiles »."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Proposition de traduction** (d'autres versions sont possibles) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Pendant trois semaines, les hommes marchèrent sur la glace sans voir le moindre signe de vie. Leurs vivres s'épuisaient et leurs cartes s'étaient révélées inutiles. Pourtant, chaque soir, avant de s'endormir, le capitaine écrivait quelques lignes dans son journal, comme si les mots eux-mêmes pouvaient les maintenir en vie. Des années plus tard, ces pages étaient tout ce qui restait de l'expédition."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Sens exact (pas de contresens ni d'oubli)",
+          "points": 2
+        },
+        {
+          "critere": "Correction et naturel du français",
+          "points": 1.5
+        },
+        {
+          "critere": "Temps et registre respectés",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "exploration-essai",
+      "titre": "Short essay : the explorer, hero or conqueror?",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "In about 250 words: *Should explorers be seen as heroes?*"
+      ],
+      "methode": [
+        "Pour : courage, savoir, dépassement de soi (Shackleton, Darwin, Apollo 11).",
+        "Contre : exploration liée à la colonisation (Conrad, Achebe, Manifest Destiny).",
+        "Conclusion nuancée."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (un exemple de réponse possible, pas la seule) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Explorers are often celebrated as heroes in history books. But is this image fair?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Many explorers showed extraordinary courage. During the *Endurance* expedition (1914-1917), Shackleton managed to bring his whole crew back alive from Antarctica. Others pushed back the boundaries of knowledge: Darwin's voyage on the *Beagle* led to the theory of evolution."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "However, exploration was often the first step towards colonisation. The idea of Manifest Destiny was used to justify the conquest of Native American lands, and Conrad's *Heart of Darkness* shows the violence of colonial Africa. For the people who were \"discovered\", explorers were not heroes but invaders."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In conclusion, explorers can be admired for their courage and curiosity, but their stories must also be told from the point of view of those who paid the price of exploration."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse à la consigne, idées pertinentes",
+          "points": 4
+        },
+        {
+          "critere": "Organisation (introduction, paragraphes, connecteurs)",
+          "points": 3
+        },
+        {
+          "critere": "Richesse et correction de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

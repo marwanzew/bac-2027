@@ -1,0 +1,251 @@
+{
+  "matiere": "anglais",
+  "chapitre": "axe1",
+  "exercices": [
+    {
+      "id": "axe1-qcm",
+      "titre": "Vocabulary: 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*personal data*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les données personnelles",
+              "correct": true,
+              "explication": "Collected by companies."
+            },
+            {
+              "id": "b",
+              "texte": "les dates personnelles",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*a whistleblower*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un lanceur d'alerte",
+              "correct": true,
+              "explication": "Révèle un scandale."
+            },
+            {
+              "id": "b",
+              "texte": "un arbitre",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*You … think before you post.* (conseil)",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "should",
+              "correct": true,
+              "explication": "Conseil."
+            },
+            {
+              "id": "b",
+              "texte": "mustn't",
+              "correct": false,
+              "explication": "Interdiction."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*to campaign for*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "faire campagne pour",
+              "correct": true,
+              "explication": "Suffragettes."
+            },
+            {
+              "id": "b",
+              "texte": "camper",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*equal rights*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'égalité des droits",
+              "correct": true,
+              "explication": "The fight for equal rights."
+            },
+            {
+              "id": "b",
+              "texte": "les droits égaux uniquement économiques",
+              "correct": false,
+              "explication": "Sens général."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe1-comprension",
+      "titre": "Reading comprehension",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Read the text and answer the questions. (Lis le texte et réponds aux questions.)",
+        "1. What did Maya's parents install on her phone, and why?",
+        "2. How did Maya feel when her friends found out?",
+        "3. What did she tell her parents?",
+        "4. What compromise did they reach?"
+      ],
+      "documents": [
+        {
+          "titre": "Text (written for practice)",
+          "contenu": "When Maya turned sixteen, her parents installed an app on her phone so they could see where she was at all times. At first, she didn't mind. But when her friends started making jokes about it, she felt embarrassed. One evening, she sat down with her parents. \"I understand that you worry,\" she said, \"but I need some space to grow up.\" They agreed to remove the app, as long as she texted them when she went out at night.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. They installed an app to see where she was at all times, because they wanted to know she was safe.",
+            "2. She felt embarrassed because her friends made jokes about it.",
+            "3. She told them that she understood their worries but that she needed some space to grow up.",
+            "4. They agreed to remove the app as long as she texted them when she went out at night."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe1-expresion",
+      "titre": "Written expression",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Should parents be allowed to monitor their teenagers' phones? Write about 180 words. (Environ 180 mots.)"
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *first, moreover, however, therefore, to conclude*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (niveau B2, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Many parents today use apps to know where their children are or what they do online. But should they be allowed to monitor their teenagers' phones?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the one hand, parents are responsible for their children's safety. The Internet can be dangerous: cyberbullying, inappropriate content or strangers. In some situations, monitoring can protect a young person."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the other hand, teenagers need privacy to become independent adults. Constant surveillance can destroy trust between parents and children, and teenagers often find ways to hide what they do anyway."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In my view, parents shouldn't spy on their children's phones. Instead, they should talk with them about the risks and agree on clear rules together. Trust is a better protection than an app."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

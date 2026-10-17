@@ -1,0 +1,215 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "h1-c3",
+  "exercices": [
+    {
+      "id": "h1-c3-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "La rafle du Vél' d'Hiv a lieu en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "juillet 1942",
+              "correct": true,
+              "explication": "16-17 juillet."
+            },
+            {
+              "id": "b",
+              "texte": "juin 1940",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Barbarossa désigne…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'attaque allemande contre l'URSS",
+              "correct": true,
+              "explication": "22 juin 1941."
+            },
+            {
+              "id": "b",
+              "texte": "le débarquement",
+              "correct": false,
+              "explication": "C'est Overlord."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Le régime de Vichy s'appelle officiellement…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'État français",
+              "correct": true,
+              "explication": "Après le 10 juillet 1940."
+            },
+            {
+              "id": "b",
+              "texte": "la IVe République",
+              "correct": false,
+              "explication": "Elle commence en 1946."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Le CNR est unifié par…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Jean Moulin",
+              "correct": true,
+              "explication": "Mai 1943."
+            },
+            {
+              "id": "b",
+              "texte": "Pétain",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Pearl Harbor est attaqué le…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "7 décembre 1941",
+              "correct": true,
+              "explication": "Par le Japon."
+            },
+            {
+              "id": "b",
+              "texte": "1er septembre 1939",
+              "correct": false,
+              "explication": "Pologne."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "h1-c3-composition",
+      "titre": "Plan de composition : « La Seconde Guerre mondiale, une guerre d'anéantissement »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « La Seconde Guerre mondiale, une guerre d'anéantissement »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : définition de la guerre d'anéantissement ; bornes 1939-1945 ; problématique : en quoi la guerre vise-t-elle la destruction totale de l'ennemi, civils compris ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Une guerre mondiale et totale**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Des fronts sur plusieurs continents (Europe, Pacifique)",
+            "B. Le front de l'Est : une guerre idéologique et raciale",
+            "C. Toutes les ressources mobilisées"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. L'anéantissement des populations**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Le génocide des Juifs et des Tsiganes (Einsatzgruppen, Wannsee, Auschwitz)",
+            "B. Les violences contre les civils (bombardements, massacres)",
+            "C. Hiroshima et Nagasaki (août 1945)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : environ 60 millions de morts, un monde à reconstruire (ONU, procès de Nuremberg)."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

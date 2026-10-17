@@ -1,0 +1,443 @@
+{
+  "id": "axe6",
+  "matiere": "anglais",
+  "titre": "Axe 6. Le Royaume-Uni et ses nations",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Axes culturels de terminale",
+    "intitule": "Axe 6. Le Royaume-Uni et ses nations",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'anglais pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 4",
+      "url": "https://www.education.gouv.fr/sites/default/files/ensel621_annexe4.pdf"
+    }
+  },
+  "objectifs": [
+    "Connaître les quatre nations du Royaume-Uni et leur histoire commune.",
+    "Comprendre la dévolution, les débats sur l'indépendance de l'Écosse et le cas de l'Irlande du Nord.",
+    "Utiliser les comparatifs et les superlatifs."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "The axis in brief · L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "ce qui est officiel",
+          "texte": "Le **titre de l'axe** vient du programme officiel (2025). Les pistes, repères et documents proposés ici sont des suggestions pour réviser : ton professeur choisit ses propres documents."
+        },
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVA, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B2**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "C'est **l'axe obligatoire** en voie générale. Il étudie le **Royaume-Uni de Grande-Bretagne et d'Irlande du Nord**, formé de quatre nations : **Angleterre, Écosse, pays de Galles, Irlande du Nord**. Elles partagent un État et un monarque, mais ont chacune leur identité, leurs symboles, parfois leur langue, et depuis 1998-1999 des institutions propres (dévolution)."
+        }
+      ]
+    },
+    {
+      "id": "vocabulario",
+      "titre": "Vocabulary",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Vocabulaire de l'axe",
+          "colonnes": [
+            "English",
+            "Français",
+            "Example"
+          ],
+          "lignes": [
+            [
+              "the United Kingdom",
+              "le Royaume-Uni",
+              "England, Scotland, Wales and Northern Ireland"
+            ],
+            [
+              "Great Britain",
+              "la Grande-Bretagne",
+              "the island of England, Scotland and Wales"
+            ],
+            [
+              "a nation",
+              "une nation",
+              "the four nations"
+            ],
+            [
+              "devolution",
+              "la dévolution",
+              "Scotland has its own Parliament."
+            ],
+            [
+              "independence",
+              "l'indépendance",
+              "a referendum on independence"
+            ],
+            [
+              "the Crown",
+              "la Couronne",
+              "the British Crown"
+            ],
+            [
+              "Unionist / Nationalist",
+              "unioniste / nationaliste",
+              "in Northern Ireland"
+            ],
+            [
+              "Welsh / Gaelic",
+              "gallois / gaélique",
+              "Welsh is spoken in Wales."
+            ],
+            [
+              "a referendum",
+              "un référendum",
+              "the 2014 referendum"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "devolution"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "titre": "Cultural landmarks · Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Pourquoi c'est important"
+          ],
+          "lignes": [
+            [
+              "Actes d'Union : l'Angleterre et l'Écosse forment le royaume de Grande-Bretagne",
+              "1707",
+              "Naissance de la Grande-Bretagne"
+            ],
+            [
+              "Union avec l'Irlande",
+              "1801",
+              "Royaume-Uni de Grande-Bretagne et d'Irlande"
+            ],
+            [
+              "Indépendance de l'État libre d'Irlande ; l'Irlande du Nord reste britannique",
+              "1922",
+              "Naissance de la frontière irlandaise"
+            ],
+            [
+              "Accord du Vendredi saint (Irlande du Nord)",
+              "10 avril 1998",
+              "Fin des « Troubles »"
+            ],
+            [
+              "Dévolution : Parlement écossais, Assemblée galloise, Assemblée d'Irlande du Nord",
+              "1998-1999",
+              "Chaque nation gagne des institutions propres"
+            ],
+            [
+              "Référendum sur l'indépendance de l'Écosse : le « non » l'emporte (55 %)",
+              "18 septembre 2014",
+              "L'Écosse reste dans le Royaume-Uni"
+            ],
+            [
+              "Référendum sur le Brexit : l'Écosse et l'Irlande du Nord votent majoritairement pour rester",
+              "23 juin 2016",
+              "Le Brexit relance les tensions entre nations"
+            ],
+            [
+              "Charles III devient roi",
+              "8 septembre 2022",
+              "Après la mort d'Élisabeth II"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pistes",
+      "titre": "Ideas to explore · Pistes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Four nations, one state** : identités, symboles, langues.",
+            "**Devolution and independence** : Écosse, pays de Galles.",
+            "**Northern Ireland** : unionistes et nationalistes, Brexit et frontière.",
+            "**The monarchy** : symbole d'unité."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "titre": "Grammar · Le point de grammaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Comparatives and superlatives** : -er / more pour comparer ; the -est / the most pour le superlatif."
+        },
+        {
+          "type": "tableau",
+          "titre": "Formes",
+          "colonnes": [
+            "Adjectif",
+            "Comparatif",
+            "Superlatif"
+          ],
+          "lignes": [
+            [
+              "small",
+              "smaller than",
+              "the smallest"
+            ],
+            [
+              "important",
+              "more important than",
+              "the most important"
+            ],
+            [
+              "good",
+              "better than",
+              "the best"
+            ],
+            [
+              "bad",
+              "worse than",
+              "the worst"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "items": [
+            "*England is the largest nation in terms of population.*",
+            "*Scotland voted more strongly to remain in the EU than England.*"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frases",
+      "titre": "Useful phrases · Phrases utiles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Pour parler ou écrire sur l'axe",
+          "colonnes": [
+            "English",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "The UK is made up of…",
+              "Le Royaume-Uni est composé de…"
+            ],
+            [
+              "Each nation has its own…",
+              "Chaque nation a son propre…"
+            ],
+            [
+              "… is a matter of debate.",
+              "… fait débat."
+            ],
+            [
+              "Since devolution, …",
+              "Depuis la dévolution, …"
+            ],
+            [
+              "A sense of national identity",
+              "Un sentiment d'identité nationale"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Actes d'Union (Angleterre et Écosse)",
+      "valeur": "1707",
+      "certitude": "certain",
+      "source": {
+        "titre": "UK Parliament, histoire de la dévolution et des Actes d'Union"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Accord du Vendredi saint",
+      "valeur": "10 avril 1998",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Référendum écossais",
+      "valeur": "18 septembre 2014",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Référendum sur le Brexit",
+      "valeur": "23 juin 2016",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Axe 6. Le Royaume-Uni et ses nations : l'essentiel",
+    "colonnes": [
+      "Aspect",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "Vocabulaire clé",
+        "the United Kingdom, Great Britain, a nation, devolution, independence, the Crown"
+      ],
+      [
+        "Repères",
+        "Actes d'Union : l'Angleterre et l'Écosse forment le royaume de Grande-Bretagne (1707), Union avec l'Irlande (1801), Indépendance de l'État libre d'Irlande ; l'Irlande du Nord reste britannique (1922), Accord du Vendredi saint (Irlande du Nord) (10 avril 1998)"
+      ],
+      [
+        "Grammaire",
+        "Comparatives and superlatives"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Axe obligatoire** en voie générale.",
+    "**4 nations** : Angleterre, Écosse, pays de Galles, Irlande du Nord.",
+    "**Repères** : 1707, 1801, 1922, 1998 (Vendredi saint), 1998-1999 (dévolution), 2014 (référendum écossais), 2016 (Brexit), 2022 (Charles III).",
+    "**Grammaire** : comparatifs et superlatifs."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Combien de nations composent le Royaume-Uni ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "4",
+          "correct": true,
+          "explication": "Angleterre, Écosse, pays de Galles, Irlande du Nord."
+        },
+        {
+          "id": "b",
+          "texte": "3",
+          "correct": false,
+          "explication": "La Grande-Bretagne n'en compte que 3 (sans l'Irlande du Nord)."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Le référendum sur l'indépendance de l'Écosse a lieu en…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2014",
+          "correct": true,
+          "explication": "Le non l'emporte."
+        },
+        {
+          "id": "b",
+          "texte": "2016",
+          "correct": false,
+          "explication": "Brexit."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*Great Britain* désigne…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "l'île de l'Angleterre, de l'Écosse et du pays de Galles",
+          "correct": true,
+          "explication": "Sans l'Irlande du Nord."
+        },
+        {
+          "id": "b",
+          "texte": "tout le Royaume-Uni",
+          "correct": false,
+          "explication": "C'est une confusion fréquente."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*good → …*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "better / the best",
+          "correct": true,
+          "explication": "Irrégulier."
+        },
+        {
+          "id": "b",
+          "texte": "gooder / the goodest",
+          "correct": false,
+          "explication": "Incorrect."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "L'axe 6 est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme d'anglais pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 4",
+        "url": "https://www.education.gouv.fr/sites/default/files/ensel621_annexe4.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "obligatoire en voie générale",
+          "correct": true,
+          "explication": "Programme de 2025."
+        },
+        {
+          "id": "b",
+          "texte": "facultatif",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

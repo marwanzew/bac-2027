@@ -1,0 +1,353 @@
+{
+  "id": "l-etat",
+  "matiere": "philosophie",
+  "titre": "L'État",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "L'État",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Définir l'État et le distinguer de la société, de la nation et du gouvernement.",
+    "Comprendre les théories du contrat (Hobbes, Locke, Rousseau).",
+    "Connaître Weber, Montesquieu, Marx sur le pouvoir de l'État.",
+    "Traiter un sujet sur l'État et la liberté."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "etat"
+        },
+        {
+          "type": "definition",
+          "glossaire": "souverainete"
+        },
+        {
+          "type": "definition",
+          "glossaire": "contrat-social"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "L'État n'est pas la **société** (l'ensemble des relations entre individus), ni la **nation** (une communauté d'histoire et de culture), ni le **gouvernement** (ceux qui exercent le pouvoir pour un temps)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "volonte-generale"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : l'État protège (sécurité, droits, services) mais il commande et contraint (impôts, lois, police). Est-il la condition de notre liberté ou une menace pour elle ? Qu'est-ce qui rend son pouvoir légitime ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **sécurité / liberté** ; **force / droit** ; **protection / oppression**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Hobbes (*Léviathan*, 1651)",
+              "Sans État, l'état de nature est une guerre de chacun contre chacun ; les hommes confient tout pouvoir à un souverain pour obtenir la sécurité",
+              "L'État est la condition de la paix"
+            ],
+            [
+              "Locke (*Second Traité du gouvernement civil*, 1690)",
+              "L'État existe pour protéger les droits naturels (vie, liberté, propriété) ; s'il les viole, le peuple peut lui résister",
+              "Le pouvoir de l'État est limité"
+            ],
+            [
+              "Montesquieu (*De l'esprit des lois*, 1748)",
+              "Pour éviter l'abus de pouvoir, « il faut que, par la disposition des choses, le pouvoir arrête le pouvoir » : séparation des pouvoirs",
+              "Liberté politique et équilibre des pouvoirs"
+            ],
+            [
+              "Rousseau (*Du contrat social*, 1762)",
+              "Le pouvoir légitime repose sur la volonté générale ; en obéissant à la loi commune, chacun n'obéit qu'à lui-même",
+              "L'État peut réaliser la liberté"
+            ],
+            [
+              "Marx et Engels (*Manifeste du parti communiste*, 1848)",
+              "L'État moderne sert les intérêts de la classe dominante",
+              "L'État n'est pas neutre"
+            ],
+            [
+              "Weber (*Le Savant et le politique*, conférence de 1919)",
+              "L'État revendique le monopole de la violence physique légitime sur un territoire",
+              "Définition de l'État par la force légitime"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Les confinements de 2020 : l'État restreint des libertés au nom de la santé de tous.",
+            "L'impôt : contrainte, mais aussi financement des écoles et des hôpitaux.",
+            "Un État qui surveille ses citoyens par la technologie.",
+            "Le vote : participer à la volonté générale."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "L'État est-il un mal nécessaire ?",
+            "L'État garantit-il notre liberté ?",
+            "Peut-on se passer de l'État ?",
+            "Doit-on tout attendre de l'État ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "État de nature, souverain absolu",
+      "valeur": "Hobbes, *Léviathan*, 1651",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Droits naturels, droit de résistance",
+      "valeur": "Locke, 1690",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Séparation des pouvoirs",
+      "valeur": "Montesquieu, *De l'esprit des lois*, 1748",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Volonté générale",
+      "valeur": "Rousseau, *Du contrat social*, 1762",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Monopole de la violence physique légitime",
+      "valeur": "Weber, 1919",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "L'État : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Hobbes",
+        "Sans État, l'état de nature est une guerre de chacun contre chacun ; les hommes confient tout pouvoir à un souverain pour obtenir la sécurité"
+      ],
+      [
+        "Locke",
+        "L'État existe pour protéger les droits naturels (vie, liberté, propriété) ; s'il les viole, le peuple peut lui résister"
+      ],
+      [
+        "Montesquieu",
+        "Pour éviter l'abus de pouvoir, « il faut que, par la disposition des choses, le pouvoir arrête le pouvoir » : séparation des pouvoirs"
+      ],
+      [
+        "Rousseau",
+        "Le pouvoir légitime repose sur la volonté générale ; en obéissant à la loi commune, chacun n'obéit qu'à lui-même"
+      ],
+      [
+        "Marx et Engels",
+        "L'État moderne sert les intérêts de la classe dominante"
+      ],
+      [
+        "Weber",
+        "L'État revendique le monopole de la violence physique légitime sur un territoire"
+      ]
+    ]
+  },
+  "fiche": [
+    "**État** ≠ société ≠ nation ≠ gouvernement.",
+    "**Hobbes** : guerre de chacun contre chacun ; l'État pour la sécurité.",
+    "**Locke** : protéger les droits naturels ; droit de résistance.",
+    "**Montesquieu** : le pouvoir arrête le pouvoir.",
+    "**Rousseau** : volonté générale ; obéir à la loi, c'est n'obéir qu'à soi.",
+    "**Marx** : l'État sert la classe dominante.",
+    "**Weber** : monopole de la violence physique légitime."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Pour Hobbes, l'état de nature est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une guerre de chacun contre chacun",
+          "correct": true,
+          "explication": "*Léviathan*, 1651."
+        },
+        {
+          "id": "b",
+          "texte": "un paradis",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La séparation des pouvoirs est associée à…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Montesquieu",
+          "correct": true,
+          "explication": "*De l'esprit des lois*, 1748."
+        },
+        {
+          "id": "b",
+          "texte": "Marx",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Weber définit l'État par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le monopole de la violence physique légitime",
+          "correct": true,
+          "explication": "Conférence de 1919."
+        },
+        {
+          "id": "b",
+          "texte": "la religion",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "La volonté générale est une notion de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Rousseau",
+          "correct": true,
+          "explication": "*Du contrat social*."
+        },
+        {
+          "id": "b",
+          "texte": "Hobbes",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Pour Locke, si l'État viole les droits naturels…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le peuple peut lui résister",
+          "correct": true,
+          "explication": "Droit de résistance."
+        },
+        {
+          "id": "b",
+          "texte": "il faut obéir quand même",
+          "correct": false,
+          "explication": "C'est plutôt Hobbes."
+        }
+      ]
+    }
+  ]
+}

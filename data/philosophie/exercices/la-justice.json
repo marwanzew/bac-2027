@@ -1,0 +1,239 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "la-justice",
+  "exercices": [
+    {
+      "id": "justice-philo-qcm",
+      "titre": "La justice : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Utilise le repère légal / légitime."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Une loi de ségrégation raciale est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "légale mais illégitime",
+              "correct": true,
+              "explication": "Repère légal / légitime."
+            },
+            {
+              "id": "b",
+              "texte": "légitime mais illégale",
+              "correct": false,
+              "explication": "Inverse."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Justice distributive selon Aristote :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "à chacun selon son mérite",
+              "correct": true,
+              "explication": "Proportionnelle."
+            },
+            {
+              "id": "b",
+              "texte": "à chacun la même chose",
+              "correct": false,
+              "explication": "C'est l'égalité arithmétique."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Pascal souligne que les lois…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "varient selon les lieux",
+              "correct": true,
+              "explication": "« Vérité au deçà des Pyrénées, erreur au delà »."
+            },
+            {
+              "id": "b",
+              "texte": "sont toujours justes",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Se venger, c'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "se faire justice soi-même",
+              "correct": true,
+              "explication": "Contre la justice institutionnelle."
+            },
+            {
+              "id": "b",
+              "texte": "respecter le droit",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Le tiers-temps pour un élève dyslexique illustre…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'équité",
+              "correct": true,
+              "explication": "Adapter pour être juste."
+            },
+            {
+              "id": "b",
+              "texte": "l'injustice",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "justice-probl",
+      "titre": "Problématiser : « Ce qui est légal est-il toujours juste ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Ce qui est légal est-il toujours juste ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Définis légal et juste.",
+        "Pense à des lois injustes de l'histoire.",
+        "Mais sans lois, la justice serait-elle possible ?"
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Est légal ce qui est conforme à la loi en vigueur ; est juste ce qui respecte ce qui est dû à chacun."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** Les lois visent la justice et la rendent possible (sans elles, la loi du plus fort). Mais l'histoire montre des lois injustes, et les lois varient (Pascal)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** La loi est-elle la mesure de la justice, ou faut-il juger les lois au nom d'une justice qui les dépasse ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    },
+    {
+      "id": "justice-plan",
+      "titre": "Plan détaillé : « Ce qui est légal est-il toujours juste ? »",
+      "type": "plan-detaille",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Ce qui est légal est-il toujours juste ? »",
+        "Construis un plan détaillé en deux ou trois parties, avec pour chaque partie une thèse, des arguments et au moins une référence."
+      ],
+      "methode": [
+        "Commence par l'analyse des termes et la problématique.",
+        "Chaque partie répond à la question ; la partie suivante naît d'une limite de la précédente.",
+        "Une référence d'auteur sert à éclairer un argument, pas à le remplacer.",
+        "À l'épreuve, la note est globale sur 20 : ce barème n'est qu'un repère d'entraînement."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**I.** La loi est la condition de la justice : sans lois communes, règne la force (Rousseau ; exemple de la vengeance privée)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II.** Mais une loi peut être injuste : les lois varient (Pascal) et l'histoire connaît des lois iniques (ségrégation) ; Antigone oppose une loi non écrite."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III.** La justice est un idéal qui permet de juger et de corriger les lois : équité (Aristote), principes choisis impartialement (Rawls) ; les lois peuvent être réformées."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Problématique",
+          "points": 4
+        },
+        {
+          "critere": "Progression des parties",
+          "points": 6
+        },
+        {
+          "critere": "Arguments et exemples",
+          "points": 6
+        },
+        {
+          "critere": "Références pertinentes",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

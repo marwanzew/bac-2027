@@ -1,0 +1,443 @@
+{
+  "id": "travail-emploi",
+  "matiere": "ses",
+  "titre": "Quelles mutations du travail et de l'emploi ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Sociologie et science politique",
+    "intitule": "Quelles mutations du travail et de l'emploi ?",
+    "evaluableEcrit": true,
+    "source": {
+      "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+      "consulteLe": "2026-10-17"
+    },
+    "certitude": "a_verifier",
+    "raison": "Objectifs relevés dans une fiche de l'académie d'Orléans-Tours qui cite le programme ; la fin de plusieurs objectifs n'a été lue que sous forme résumée. Le PDF officiel n'a pas pu être relu directement."
+  },
+  "objectifs": [
+    "Savoir distinguer les notions de travail, activité, statut d'emploi (salarié, non-salarié), chômage ; comprendre que l'évolution des formes d'emploi rend plus incertaines les frontières entre emploi, chômage et inactivité.",
+    "Connaître les principaux descripteurs de la qualité des emplois (conditions de travail, niveau de salaire, sécurité économique, horizon de carrière, potentiel de formation, variété des tâches).",
+    "Comprendre les principales caractéristiques des modèles d'organisation taylorien (division du travail horizontale et verticale, relation hiérarchique stricte) et post-taylorien (flexibilité, recomposition des tâches, management participatif) ; comprendre les effets positifs et négatifs de l'évolution des formes de l'organisation du travail sur les conditions de travail.",
+    "Comprendre comment le numérique brouille les frontières du travail (télétravail, travail / hors travail), transforme les relations d'emploi et accroît les risques de polarisation des emplois.",
+    "Comprendre que le travail est source d'intégration sociale et que certaines évolutions de l'emploi (précarisation, taux persistant de chômage élevé, polarisation de la qualité des emplois) peuvent affaiblir ce pouvoir intégrateur."
+  ],
+  "parties": [
+    {
+      "id": "notions",
+      "titre": "Travail, emploi, activité, chômage",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "travail"
+        },
+        {
+          "type": "definition",
+          "glossaire": "emploi"
+        },
+        {
+          "type": "definition",
+          "glossaire": "population-active"
+        },
+        {
+          "type": "definition",
+          "glossaire": "statut-emploi"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "En 2025, **86,5 %** des personnes en emploi sont salariées. Parmi les salariés, **72,8 %** sont en CDI ou fonctionnaires."
+        },
+        {
+          "type": "definition",
+          "glossaire": "formes-particulieres-emploi"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Des frontières plus floues.** Avec le temps partiel subi, les contrats courts, l'alternance entre petits boulots et chômage, ou les micro-entrepreneurs dépendants d'une plateforme, il devient difficile de dire si une personne est en emploi, au chômage ou inactive (voir le halo autour du chômage et le [[sous-emploi]] dans le chapitre « Chômage »)."
+        },
+        {
+          "type": "piege",
+          "titre": "travail ≠ emploi",
+          "texte": "Une personne qui s'occupe de ses enfants ou qui fait du bénévolat **travaille** mais n'a pas d'**emploi**."
+        }
+      ]
+    },
+    {
+      "id": "qualite",
+      "titre": "La qualité des emplois",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "qualite-emploi"
+        },
+        {
+          "type": "tableau",
+          "titre": "Six descripteurs (programme)",
+          "colonnes": [
+            "Descripteur",
+            "Question à se poser"
+          ],
+          "lignes": [
+            [
+              "Conditions de travail",
+              "Pénibilité, horaires, rythme, autonomie ?"
+            ],
+            [
+              "Niveau de salaire",
+              "Le salaire permet-il de bien vivre ?"
+            ],
+            [
+              "Sécurité économique",
+              "Le contrat est-il stable (CDI) ou précaire ?"
+            ],
+            [
+              "Horizon de carrière",
+              "Peut-on progresser ?"
+            ],
+            [
+              "Potentiel de formation",
+              "L'emploi permet-il d'apprendre et de se former ?"
+            ],
+            [
+              "Variété des tâches",
+              "Les tâches sont-elles répétitives ou diversifiées ?"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Un emploi n'est pas seulement « avoir un travail » : sa **qualité** varie fortement selon ces six dimensions."
+        }
+      ]
+    },
+    {
+      "id": "organisation",
+      "titre": "Du taylorisme au post-taylorisme",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "taylorisme"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Henry Ford y ajoute le travail à la chaîne (1913) et le salaire élevé pour fidéliser les ouvriers : c'est le **fordisme**. Ces méthodes ont permis de forts gains de productivité et la production de masse."
+        },
+        {
+          "type": "definition",
+          "glossaire": "post-taylorisme"
+        },
+        {
+          "type": "tableau",
+          "titre": "Comparer les deux modèles",
+          "colonnes": [
+            "",
+            "Taylorien",
+            "Post-taylorien"
+          ],
+          "lignes": [
+            [
+              "Division du travail",
+              "Horizontale (tâches parcellisées) et verticale (conception / exécution)",
+              "Recomposition des tâches, polyvalence"
+            ],
+            [
+              "Hiérarchie",
+              "Stricte, contrôle des temps",
+              "Management participatif, autonomie, équipes"
+            ],
+            [
+              "Production",
+              "De masse, standardisée",
+              "Flexible, à la demande (juste-à-temps)"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Effets sur les conditions de travail.** Positifs : plus d'autonomie, de responsabilités et de variété des tâches. Négatifs : intensification du travail, pression des délais et des objectifs, stress. Le taylorisme n'a pas disparu : il subsiste par exemple dans les centres d'appels ou les entrepôts logistiques, où le rythme est dicté par des logiciels."
+        },
+        {
+          "type": "piege",
+          "titre": "pas une rupture totale",
+          "texte": "Le post-taylorisme n'a pas remplacé partout le taylorisme : les deux coexistent, parfois dans une même entreprise."
+        }
+      ]
+    },
+    {
+      "id": "numerique",
+      "titre": "Le numérique transforme le travail",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "teletravail"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "En 2025, **19,7 %** des salariés télétravaillent au moins un jour par semaine."
+        },
+        {
+          "type": "tableau",
+          "titre": "Trois effets du numérique (programme)",
+          "colonnes": [
+            "Effet",
+            "Exemples"
+          ],
+          "lignes": [
+            [
+              "Il brouille les frontières du travail",
+              "Télétravail ; messages professionnels le soir ou le week-end : la limite entre travail et hors-travail s'efface (d'où le « droit à la déconnexion »)"
+            ],
+            [
+              "Il transforme les relations d'emploi",
+              "Travailleurs des plateformes (livraison, VTC) souvent indépendants mais dépendants de l'algorithme de la plateforme"
+            ],
+            [
+              "Il accroît les risques de polarisation",
+              "Les emplois intermédiaires routiniers sont automatisés ; les emplois très qualifiés et les emplois peu qualifiés non automatisables se développent"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "polarisation-emplois"
+        }
+      ]
+    },
+    {
+      "id": "integration",
+      "titre": "Le travail, source d'intégration",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "integration-sociale"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Selon Émile Durkheim (*De la division du travail social*, 1893), la division du travail crée une **solidarité organique** : chacun dépend des autres. Le travail apporte un **revenu**, des **relations sociales**, une **identité** et une **reconnaissance**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Selon Serge Paugam (*Le Salarié de la précarité*, 2000), l'intégration professionnelle repose sur deux dimensions : la satisfaction dans le **travail** et la stabilité de l'**emploi**."
+        },
+        {
+          "type": "definition",
+          "glossaire": "precarisation"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Ce qui affaiblit ce pouvoir intégrateur** (programme) : la précarisation, un taux de chômage durablement élevé, la polarisation de la qualité des emplois (de bons emplois d'un côté, des emplois peu qualifiés, mal payés et instables de l'autre)."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Le travail intègre, mais **pas tous les emplois de la même façon** : un emploi précaire intègre moins qu'un emploi stable et valorisé."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Organisation scientifique du travail",
+      "valeur": "Frederick W. Taylor, *The Principles of Scientific Management*, 1911",
+      "certitude": "certain",
+      "source": {
+        "titre": "F. W. Taylor, The Principles of Scientific Management, 1911"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Chaîne de montage chez Ford",
+      "valeur": "1913",
+      "certitude": "certain",
+      "source": {
+        "titre": "Manuels de SES de terminale"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Solidarité organique",
+      "valeur": "Émile Durkheim, *De la division du travail social*, 1893",
+      "certitude": "certain",
+      "source": {
+        "titre": "É. Durkheim, De la division du travail social, 1893"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Intégration professionnelle (travail et emploi)",
+      "valeur": "Serge Paugam, *Le Salarié de la précarité*, 2000",
+      "certitude": "certain",
+      "source": {
+        "titre": "S. Paugam, Le Salarié de la précarité, PUF, 2000"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Salariés en télétravail au moins un jour par semaine (2025)",
+      "valeur": "19,7 %",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee Première n° 2096, « Une photographie du marché du travail en 2025 », mars 2026",
+        "url": "https://www.insee.fr/fr/statistiques/fichier/8901327/ip2096.pdf"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Salariés en CDI ou fonctionnaires (2025)",
+      "valeur": "72,8 %",
+      "certitude": "certain",
+      "source": {
+        "titre": "Insee Première n° 2096, « Une photographie du marché du travail en 2025 », mars 2026",
+        "url": "https://www.insee.fr/fr/statistiques/fichier/8901327/ip2096.pdf"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Mutations du travail et de l'emploi",
+    "colonnes": [
+      "Mutation",
+      "Effets positifs",
+      "Effets négatifs"
+    ],
+    "lignes": [
+      [
+        "Post-taylorisme",
+        "Autonomie, variété des tâches",
+        "Intensification, stress"
+      ],
+      [
+        "Numérique",
+        "Télétravail, souplesse, nouveaux emplois qualifiés",
+        "Frontières brouillées, plateformes, polarisation"
+      ],
+      [
+        "Formes particulières d'emploi",
+        "Souplesse pour les entreprises, porte d'entrée vers l'emploi",
+        "Précarisation, intégration affaiblie"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Travail** (rémunéré ou non) ≠ **emploi** (travail rémunéré dans un cadre juridique).",
+    "**Statut** : salarié (86,5 % en 2025) ou non-salarié. Frontières emploi / chômage / inactivité de plus en plus floues.",
+    "**Qualité de l'emploi** : conditions de travail, salaire, sécurité économique, carrière, formation, variété des tâches.",
+    "**Taylorisme** : division horizontale et verticale, hiérarchie stricte. **Post-taylorisme** : flexibilité, recomposition des tâches, management participatif.",
+    "**Effets** : plus d'autonomie mais intensification du travail.",
+    "**Numérique** : télétravail (19,7 % des salariés), frontière travail/hors-travail, plateformes, polarisation.",
+    "**Intégration** : Durkheim (solidarité organique), Paugam (travail + emploi).",
+    "**Affaiblissement** : précarisation, chômage persistant, polarisation de la qualité des emplois."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Un bénévole dans une association…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "travaille, mais n'a pas d'emploi",
+          "correct": true,
+          "explication": "Son travail n'est pas rémunéré."
+        },
+        {
+          "id": "b",
+          "texte": "occupe un emploi",
+          "correct": false,
+          "explication": "L'emploi suppose une rémunération et un cadre juridique."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La séparation entre ceux qui conçoivent et ceux qui exécutent est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la division verticale du travail",
+          "correct": true,
+          "explication": "Caractéristique du taylorisme."
+        },
+        {
+          "id": "b",
+          "texte": "la division horizontale du travail",
+          "correct": false,
+          "explication": "L'horizontale découpe la production en tâches simples."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Le management participatif caractérise…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le modèle post-taylorien",
+          "correct": true,
+          "explication": "Avec flexibilité et recomposition des tâches."
+        },
+        {
+          "id": "b",
+          "texte": "le modèle taylorien",
+          "correct": false,
+          "explication": "Le taylorisme repose sur une hiérarchie stricte."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Quel élément n'est pas un descripteur de la qualité de l'emploi selon le programme ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "La taille de l'entreprise",
+          "correct": true,
+          "explication": "Elle ne figure pas dans la liste."
+        },
+        {
+          "id": "b",
+          "texte": "L'horizon de carrière",
+          "correct": false,
+          "explication": "Il en fait partie."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Selon Paugam, l'intégration professionnelle repose sur…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en sociologie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la satisfaction au travail et la stabilité de l'emploi",
+          "correct": true,
+          "explication": "Les deux dimensions."
+        },
+        {
+          "id": "b",
+          "texte": "le seul niveau de salaire",
+          "correct": false,
+          "explication": "Le salaire n'est qu'un élément."
+        }
+      ]
+    }
+  ]
+}

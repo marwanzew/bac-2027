@@ -1,0 +1,214 @@
+{
+  "matiere": "francais",
+  "chapitre": "methode-commentaire",
+  "exercices": [
+    {
+      "id": "methode-commentaire-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "« J'irai par la forêt, j'irai par la montagne » : figure principale ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Victor Hugo, Les Contemplations (1856), livre IV « Pauca meae », poème XIV (texte vérifié sur lalanguefrancaise.com)",
+            "url": "https://www.lalanguefrancaise.com/litterature/demain-des-l-aube-hugo"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "anaphore",
+              "correct": true,
+              "explication": "Répétition de « j'irai » en début de proposition."
+            },
+            {
+              "id": "b",
+              "texte": "métaphore",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Le futur « Je partirai » exprime…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Victor Hugo, Les Contemplations (1856), livre IV « Pauca meae », poème XIV (texte vérifié sur lalanguefrancaise.com)",
+            "url": "https://www.lalanguefrancaise.com/litterature/demain-des-l-aube-hugo"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une certitude, une détermination",
+              "correct": true,
+              "explication": "Futur de certitude."
+            },
+            {
+              "id": "b",
+              "texte": "un doute",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Le poème est composé…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Victor Hugo, Les Contemplations (1856), livre IV « Pauca meae », poème XIV (texte vérifié sur lalanguefrancaise.com)",
+            "url": "https://www.lalanguefrancaise.com/litterature/demain-des-l-aube-hugo"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "de trois quatrains d'alexandrins",
+              "correct": true,
+              "explication": "12 vers."
+            },
+            {
+              "id": "b",
+              "texte": "d'un sonnet",
+              "correct": false,
+              "explication": "Un sonnet a 14 vers."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "« le jour pour moi sera comme la nuit » :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Victor Hugo, Les Contemplations (1856), livre IV « Pauca meae », poème XIV (texte vérifié sur lalanguefrancaise.com)",
+            "url": "https://www.lalanguefrancaise.com/litterature/demain-des-l-aube-hugo"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "comparaison et antithèse",
+              "correct": true,
+              "explication": "Outil « comme » ; jour / nuit."
+            },
+            {
+              "id": "b",
+              "texte": "hyperbole seule",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Le dernier vers révèle que le poète se rend…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Victor Hugo, Les Contemplations (1856), livre IV « Pauca meae », poème XIV (texte vérifié sur lalanguefrancaise.com)",
+            "url": "https://www.lalanguefrancaise.com/litterature/demain-des-l-aube-hugo"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "sur une tombe",
+              "correct": true,
+              "explication": "Celle de sa fille Léopoldine."
+            },
+            {
+              "id": "b",
+              "texte": "chez une femme aimée",
+              "correct": false,
+              "explication": "C'est le piège du début."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "methode-commentaire-hugo",
+      "titre": "Commentaire : Hugo, « Demain, dès l'aube… »",
+      "type": "explication-texte",
+      "difficulte": "bac",
+      "dureeMinutes": 90,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Fais le brouillon complet du commentaire de ce poème : projet de lecture, plan en deux ou trois parties, deux citations analysées par sous-partie.",
+        "Rédige l'introduction et un paragraphe entièrement."
+      ],
+      "methode": [
+        "Repère le mouvement du poème : départ, marche, arrivée.",
+        "Observe le moment où le lecteur comprend à qui parle le poète."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Projet de lecture** : comment ce poème transforme-t-il un voyage apparemment amoureux en hommage funèbre ?"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**I. Un voyage déterminé vers l'être aimé** : futurs de certitude, anaphore « j'irai », tutoiement (« Vois-tu, je sais que tu m'attends ») qui laisse croire à un rendez-vous.",
+            "**II. Une marche coupée du monde** : « les yeux fixés sur mes pensées », négations (« sans rien voir », « ni l'or du soir »), le jour « comme la nuit » : le deuil efface le paysage.",
+            "**III. Une révélation finale et un hommage** : le mot « tombe » à la rime du vers 11 ; le bouquet « de houx vert et de bruyère en fleur », offrande vivante et fidèle."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : le poème trompe d'abord le lecteur pour mieux faire ressentir la douleur ; il fait du deuil une fidélité. Ouverture : d'autres poèmes de « Pauca meae » consacrés à Léopoldine."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Projet de lecture pertinent",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent",
+          "points": 6
+        },
+        {
+          "critere": "Citations analysées (procédé + effet)",
+          "points": 6
+        },
+        {
+          "critere": "Introduction",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ],
+      "documents": [
+        {
+          "titre": "Victor Hugo, « Demain, dès l'aube… », Les Contemplations (1856)",
+          "contenu": "Demain, dès l'aube, à l'heure où blanchit la campagne,\nJe partirai. Vois-tu, je sais que tu m'attends.\nJ'irai par la forêt, j'irai par la montagne.\nJe ne puis demeurer loin de toi plus longtemps.\n\nJe marcherai les yeux fixés sur mes pensées,\nSans rien voir au dehors, sans entendre aucun bruit,\nSeul, inconnu, le dos courbé, les mains croisées,\nTriste, et le jour pour moi sera comme la nuit.\n\nJe ne regarderai ni l'or du soir qui tombe,\nNi les voiles au loin descendant vers Harfleur,\nEt quand j'arriverai, je mettrai sur ta tombe\nUn bouquet de houx vert et de bruyère en fleur.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Victor Hugo, Les Contemplations (1856), livre IV « Pauca meae », poème XIV (texte vérifié sur lalanguefrancaise.com)",
+            "url": "https://www.lalanguefrancaise.com/litterature/demain-des-l-aube-hugo"
+          }
+        }
+      ]
+    }
+  ]
+}

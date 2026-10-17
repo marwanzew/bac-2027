@@ -1,0 +1,429 @@
+{
+  "id": "ancrage-heritage",
+  "matiere": "llcer",
+  "titre": "Ancrage et héritage",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thématique « Voyages, territoires, frontières »",
+    "intitule": "Ancrage et héritage",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Expliquer ce qui attache un individu ou un groupe à un territoire, une culture, une langue.",
+    "Montrer comment on célèbre et protège un héritage, et comment il peut être menacé ou revendiqué.",
+    "Repérer les dérives possibles : repli identitaire, nationalisme, xénophobie.",
+    "Utiliser le vocabulaire : belonging, heritage, roots, homeland, multiculturalism."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment lire cet axe",
+          "texte": "Le programme officiel présente chaque axe par une problématique, des mots-clés et des pistes d'œuvres. Les objectifs « À la fin, je dois savoir… » sont une reformulation pédagogique ; les mots-clés et les pistes, eux, viennent du programme."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique de la thématique (programme)** : comment le voyage, la frontière et le territoire ont-ils façonné l'histoire, l'identité et les sociétés du monde anglophone, dans un contexte d'expansion et de colonisation ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'axe** : on s'**ancre** dans un lieu, une communauté, une histoire. Le programme invite à étudier la **célébration** des cultures et des traditions, la **lutte pour préserver un héritage** menacé (langues, peuples autochtones), mais aussi les **dérives** nationalistes ou xénophobes du repli identitaire."
+        },
+        {
+          "type": "definition",
+          "glossaire": "heritage"
+        }
+      ]
+    },
+    {
+      "id": "vocabulaire",
+      "titre": "Key words",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Mots-clés et vocabulaire utile",
+          "colonnes": [
+            "English",
+            "Français",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "belonging / a sense of belonging",
+              "appartenance / sentiment d'appartenance",
+              "a strong sense of belonging"
+            ],
+            [
+              "roots",
+              "racines",
+              "to go back to one's roots"
+            ],
+            [
+              "homeland / native land",
+              "patrie / terre natale",
+              "to return to one's homeland"
+            ],
+            [
+              "heritage",
+              "patrimoine, héritage",
+              "cultural heritage"
+            ],
+            [
+              "to preserve / to safeguard",
+              "préserver / sauvegarder",
+              "to safeguard an endangered language"
+            ],
+            [
+              "Indigenous peoples",
+              "peuples autochtones",
+              "the rights of Indigenous peoples"
+            ],
+            [
+              "multiculturalism",
+              "multiculturalisme",
+              "British multiculturalism"
+            ],
+            [
+              "to claim / a claim",
+              "revendiquer / une revendication",
+              "to claim one's identity"
+            ],
+            [
+              "identity politics / withdrawal into one's identity",
+              "politique identitaire / repli identitaire",
+              "the risks of withdrawal into one's identity"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reperes-culturels",
+      "titre": "Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Intérêt"
+          ],
+          "lignes": [
+            [
+              "Walter Scott, *Waverley*",
+              "1814",
+              "Roman historique qui construit une image romantique de l'Écosse"
+            ],
+            [
+              "Fondation du National Trust",
+              "1895",
+              "Protection du patrimoine naturel et bâti britannique"
+            ],
+            [
+              "Celtic Revival (renouveau celtique, W. B. Yeats…)",
+              "fin XIX^e^ – début XX^e^ siècle",
+              "Redécouverte de la langue et des légendes irlandaises"
+            ],
+            [
+              "James Joyce, *Dubliners*",
+              "1914",
+              "Dublin comme ancrage et comme prison"
+            ],
+            [
+              "Romans de William Faulkner (comté imaginaire de Yoknapatawpha)",
+              "à partir des années 1920",
+              "Le Sud américain et le poids de son passé"
+            ],
+            [
+              "Premier carnaval de Notting Hill (Londres)",
+              "1966",
+              "Célébration de la culture caribéenne au Royaume-Uni"
+            ],
+            [
+              "Spike Lee, *Do the Right Thing*",
+              "1989",
+              "Tensions entre communautés dans un quartier de Brooklyn"
+            ],
+            [
+              "Accord du Vendredi saint (Irlande du Nord)",
+              "10 avril 1998",
+              "Paix en Irlande du Nord ; la frontière irlandaise reste un enjeu"
+            ],
+            [
+              "Référendum sur le Brexit",
+              "23 juin 2016",
+              "Débat sur la souveraineté et l'identité nationale"
+            ],
+            [
+              "Charlottesville et le débat sur les monuments confédérés",
+              "2017",
+              "Quel héritage faut-il honorer dans l'espace public ?"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les **Highland Games** écossais, cités par le programme, célèbrent un héritage par le sport, la musique et le costume."
+        }
+      ]
+    },
+    {
+      "id": "programme-limitatif",
+      "titre": "Liens possibles avec le programme limitatif",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "des pistes, pas des règles",
+          "texte": "Ton professeur choisit les œuvres et l'axe auquel il les relie."
+        },
+        {
+          "type": "tableau",
+          "titre": "Pistes",
+          "colonnes": [
+            "Œuvre",
+            "Pourquoi elle peut illustrer l'axe"
+          ],
+          "lignes": [
+            [
+              "Martin Scorsese, *Killers of the Flower Moon* (2023)",
+              "La culture et les terres du peuple osage, convoitées et menacées"
+            ],
+            [
+              "Arundhati Roy, *The God of Small Things* (1997)",
+              "Une famille du Kerala, entre traditions, système de castes et héritage colonial"
+            ],
+            [
+              "Colm Tóibín, *Brooklyn* (2009)",
+              "Le lien avec la ville natale irlandaise et la tentation du retour"
+            ],
+            [
+              "J. M. Coetzee, *Boyhood* (1997)",
+              "Un enfant entre deux cultures, afrikaner et anglaise, en Afrique du Sud"
+            ],
+            [
+              "Chimamanda Ngozi Adichie, *Americanah* (2013)",
+              "Rester fidèle à ses racines nigérianes après des années aux États-Unis"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "titre": "Useful phrases",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "*The character feels deeply rooted in…*",
+            "*This tradition is a way of keeping the past alive.*",
+            "*Heritage can unite a community, but it can also exclude others.*",
+            "*Who decides what is worth preserving?*"
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "L'héritage a deux visages : il **rassemble** (fierté, mémoire, transmission) et il peut **exclure** (repli, nationalisme). Une bonne synthèse montre les deux."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Walter Scott, *Waverley*",
+      "valeur": "1814",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "National Trust",
+      "valeur": "1895",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Accord du Vendredi saint",
+      "valeur": "10 avril 1998",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Référendum sur le Brexit",
+      "valeur": "23 juin 2016",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Martin Scorsese, *Killers of the Flower Moon*",
+      "valeur": "2023",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Les deux visages de l'héritage",
+    "colonnes": [
+      "Rassembler",
+      "Exclure"
+    ],
+    "lignes": [
+      [
+        "Fierté, mémoire, transmission",
+        "Repli identitaire"
+      ],
+      [
+        "Protection des langues et des peuples autochtones",
+        "Nationalisme, xénophobie"
+      ],
+      [
+        "Fêtes et traditions (Notting Hill, Highland Games)",
+        "Conflits autour des monuments et des frontières"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Axe** : appartenance, patrimoine, identité ; célébrer, préserver, revendiquer… ou se replier.",
+    "**Vocabulaire** : belonging, roots, homeland, heritage, to safeguard, Indigenous peoples, multiculturalism.",
+    "**Repères** : *Waverley* (1814), National Trust (1895), Celtic Revival, Notting Hill (1966), accord du Vendredi saint (1998), Brexit (2016).",
+    "**Programme limitatif** : *Killers of the Flower Moon*, *The God of Small Things*, *Brooklyn*, *Boyhood*, *Americanah* (pistes)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*a sense of belonging*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un sentiment d'appartenance",
+          "correct": true,
+          "explication": "Mot-clé de l'axe."
+        },
+        {
+          "id": "b",
+          "texte": "un sens de l'orientation",
+          "correct": false,
+          "explication": "Contresens."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "The Brexit referendum took place in…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2016",
+          "correct": true,
+          "explication": "Le 23 juin 2016."
+        },
+        {
+          "id": "b",
+          "texte": "2020",
+          "correct": false,
+          "explication": "Le Royaume-Uni a quitté l'UE le 31 janvier 2020, mais le référendum date de 2016."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*Indigenous peoples*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "peuples autochtones",
+          "correct": true,
+          "explication": "Ex. les Osages, les Maoris, les Aborigènes."
+        },
+        {
+          "id": "b",
+          "texte": "peuples indigents",
+          "correct": false,
+          "explication": "Faux ami : indigent = poor."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "The Notting Hill Carnival celebrates…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Caribbean culture in London",
+          "correct": true,
+          "explication": "Depuis 1966."
+        },
+        {
+          "id": "b",
+          "texte": "the Queen's birthday",
+          "correct": false,
+          "explication": "Ce n'est pas le cas."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*roots*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "racines",
+          "correct": true,
+          "explication": "to go back to one's roots."
+        },
+        {
+          "id": "b",
+          "texte": "routes",
+          "correct": false,
+          "explication": "Routes = roads."
+        }
+      ]
+    }
+  ]
+}

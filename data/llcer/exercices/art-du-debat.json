@@ -1,0 +1,250 @@
+{
+  "matiere": "llcer",
+  "chapitre": "art-du-debat",
+  "exercices": [
+    {
+      "id": "debat-rhetorique",
+      "titre": "Vocabulary check : the art of debate",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Associe chaque notion à sa définition."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*to persuade*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "persuader",
+              "correct": true,
+              "explication": "Souvent par les émotions."
+            },
+            {
+              "id": "b",
+              "texte": "poursuivre",
+              "correct": false,
+              "explication": "Poursuivre = to pursue."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*a rhetorical question*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une question qui n'attend pas de réponse",
+              "correct": true,
+              "explication": "Pour faire réagir."
+            },
+            {
+              "id": "b",
+              "texte": "une question difficile",
+              "correct": false,
+              "explication": "Pas forcément."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*ethos* refers to…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Aristote, Rhétorique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "the speaker's credibility",
+              "correct": true,
+              "explication": "La crédibilité de l'orateur."
+            },
+            {
+              "id": "b",
+              "texte": "the audience's emotions",
+              "correct": false,
+              "explication": "C'est le pathos."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*repartee*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la répartie",
+              "correct": true,
+              "explication": "Répondre vite et avec esprit."
+            },
+            {
+              "id": "b",
+              "texte": "le départ",
+              "correct": false,
+              "explication": "Départ = departure."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*to sway the crowd*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "influencer la foule",
+              "correct": true,
+              "explication": "to sway = faire pencher."
+            },
+            {
+              "id": "b",
+              "texte": "fuir la foule",
+              "correct": false,
+              "explication": "Fuir = to flee."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "debat-du-traduction",
+      "titre": "Translation : the debate",
+      "type": "traduction",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Translate the following passage into French. (Traduis le passage en français.)"
+      ],
+      "documents": [
+        {
+          "titre": "Passage à traduire (texte écrit pour l'entraînement)",
+          "contenu": "When the last speaker sat down, the hall fell silent. She had not raised her voice once, yet every argument had landed like a blow. Her opponent, who had been so confident an hour earlier, was staring at his notes as if they were written in a foreign language. The vote was not even close.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        }
+      ],
+      "methode": [
+        "Lis tout le passage avant de traduire une seule phrase.",
+        "Repère les temps : le prétérit d'un récit se traduit souvent par le passé simple ou le passé composé, et par l'imparfait pour les descriptions.",
+        "Ne traduis pas mot à mot : la phrase française doit sonner naturelle.",
+        "Relis ta traduction comme un texte français, sans regarder l'anglais.",
+        "*the hall fell silent* : modulation : « un silence se fit dans la salle ».",
+        "*yet* : et pourtant.",
+        "*not even close* : ne fut même pas serré."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Proposition de traduction** (d'autres versions sont possibles) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Quand la dernière oratrice se rassit, un silence se fit dans la salle. Elle n'avait pas une seule fois élevé la voix, et pourtant chaque argument avait porté comme un coup. Son adversaire, qui était si sûr de lui une heure plus tôt, fixait ses notes comme si elles étaient écrites dans une langue étrangère. Le vote ne fut même pas serré."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Sens exact (pas de contresens ni d'oubli)",
+          "points": 2
+        },
+        {
+          "critere": "Correction et naturel du français",
+          "points": 1.5
+        },
+        {
+          "critere": "Temps et registre respectés",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "debat-du-essai",
+      "titre": "Short essay : persuasion or manipulation?",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "In about 250 words: *Is there a clear line between persuasion and manipulation?* Use examples from speeches, films or novels."
+      ],
+      "methode": [
+        "Définis les deux notions.",
+        "Exemples : Churchill ou King (persuasion au service d'une cause) ; Mark Antony ou Squealer (manipulation).",
+        "Conclusion : la frontière dépend de l'honnêteté et du but."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (un exemple de réponse possible, pas la seule) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Every speaker wants to influence the audience, but not all influence is legitimate. Where does persuasion end and manipulation begin?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Persuasion uses arguments and emotions openly. In 1940, Churchill's speeches gave hope to a nation at war: he appealed to emotions, but he did not hide the danger. Likewise, in *12 Angry Men*, Juror 8 changes the others' minds by asking questions and examining facts."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Manipulation, on the contrary, hides its real purpose. In Shakespeare's *Julius Caesar*, Mark Antony pretends he does not want to praise Caesar, yet he turns the crowd against the conspirators. In *Animal Farm*, Squealer twists the truth to protect the pigs' power."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In conclusion, the line is not always clear, since both use the same rhetorical tools. The difference lies in honesty: persuasion respects the audience's freedom to judge, while manipulation tries to take it away."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse à la consigne, idées pertinentes",
+          "points": 4
+        },
+        {
+          "critere": "Organisation (introduction, paragraphes, connecteurs)",
+          "points": 3
+        },
+        {
+          "critere": "Richesse et correction de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

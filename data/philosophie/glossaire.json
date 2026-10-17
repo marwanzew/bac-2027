@@ -1,0 +1,1155 @@
+{
+  "matiere": "philosophie",
+  "entrees": [
+    {
+      "id": "absolu-relatif",
+      "terme": "Absolu / relatif",
+      "definition": "Est absolu ce qui ne dépend de rien d'autre et vaut sans condition ; est relatif ce qui dépend d'autre chose (d'un point de vue, d'une époque, d'une comparaison).",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "« Les goûts sont relatifs » : ils varient selon les personnes."
+    },
+    {
+      "id": "abstrait-concret",
+      "terme": "Abstrait / concret",
+      "definition": "Le concret est ce qui est donné dans l'expérience, singulier et réel ; l'abstrait est ce que l'esprit isole par la pensée (une qualité, une idée générale).",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "La blancheur est abstraite ; cette feuille blanche est concrète."
+    },
+    {
+      "id": "acte-puissance",
+      "terme": "En acte / en puissance",
+      "definition": "Distinction d'Aristote : est en puissance ce qui peut devenir quelque chose ; est en acte ce qui l'est effectivement.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "Le gland est un chêne en puissance."
+    },
+    {
+      "id": "analyse-synthese",
+      "terme": "Analyse / synthèse",
+      "definition": "L'analyse décompose un tout en ses éléments ; la synthèse rassemble des éléments pour former un tout.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "concept-image-metaphore",
+      "terme": "Concept / image / métaphore",
+      "definition": "Le concept est une idée générale définie avec précision ; l'image est une représentation sensible ; la métaphore transporte le sens d'un mot vers une autre réalité par analogie.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "contingent-necessaire",
+      "terme": "Contingent / nécessaire",
+      "definition": "Est nécessaire ce qui ne peut pas ne pas être (ou être autrement) ; est contingent ce qui pourrait ne pas être ou être autrement.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "Que 2 + 2 = 4 est nécessaire ; qu'il pleuve aujourd'hui est contingent."
+    },
+    {
+      "id": "croire-savoir",
+      "terme": "Croire / savoir",
+      "definition": "Savoir, c'est tenir pour vrai avec des raisons suffisantes et vérifiables ; croire, c'est tenir pour vrai sans preuve suffisante (opinion, foi, confiance).",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "essentiel-accidentel",
+      "terme": "Essentiel / accidentel",
+      "definition": "Est essentiel ce qui appartient à la définition même d'une chose ; est accidentel ce qui peut changer sans qu'elle cesse d'être ce qu'elle est.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "Être raisonnable est essentiel à l'homme selon Aristote ; être blond est accidentel."
+    },
+    {
+      "id": "exemple-preuve",
+      "terme": "Exemple / preuve",
+      "definition": "L'exemple illustre ou rend sensible une idée ; la preuve établit qu'elle est vraie. Un exemple ne prouve pas une thèse générale, mais un contre-exemple peut la réfuter.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "expliquer-comprendre",
+      "terme": "Expliquer / comprendre",
+      "definition": "Expliquer, c'est rendre compte d'un phénomène par ses causes (sciences de la nature) ; comprendre, c'est saisir le sens d'une action ou d'une œuvre humaine (sciences humaines).",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "fait-droit",
+      "terme": "En fait / en droit",
+      "definition": "« En fait » désigne ce qui est ; « en droit » ce qui doit être ou ce qui est légitime.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "En fait, certains trichent ; en droit, la triche est interdite."
+    },
+    {
+      "id": "formel-materiel",
+      "terme": "Formel / matériel",
+      "definition": "Est formel ce qui concerne la forme (la structure, la validité d'un raisonnement) ; est matériel ce qui concerne le contenu.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "Un raisonnement peut être formellement valide avec un contenu faux."
+    },
+    {
+      "id": "genre-espece-individu",
+      "terme": "Genre / espèce / individu",
+      "definition": "Le genre regroupe plusieurs espèces (l'animal) ; l'espèce regroupe des individus semblables (l'homme) ; l'individu est un être singulier (Socrate).",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "hypothese-consequence-conclusion",
+      "terme": "Hypothèse / conséquence / conclusion",
+      "definition": "L'hypothèse est une proposition admise provisoirement ; la conséquence est ce qui en découle ; la conclusion est la proposition à laquelle aboutit un raisonnement.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "ideal-reel",
+      "terme": "Idéal / réel",
+      "definition": "Le réel est ce qui existe effectivement ; l'idéal est ce qui existe dans la pensée comme modèle de perfection.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "identite-egalite-difference",
+      "terme": "Identité / égalité / différence",
+      "definition": "L'identité est le fait d'être le même ; l'égalité est le fait d'avoir la même valeur, la même quantité ou les mêmes droits sans être identique ; la différence est ce qui distingue.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "Les citoyens sont égaux en droits sans être identiques."
+    },
+    {
+      "id": "impossible-possible",
+      "terme": "Impossible / possible",
+      "definition": "Est possible ce qui peut être (sans contradiction, ou compatible avec les lois de la nature) ; est impossible ce qui ne peut pas être.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "intuitif-discursif",
+      "terme": "Intuitif / discursif",
+      "definition": "Une connaissance intuitive est immédiate, saisie d'un coup ; une connaissance discursive passe par un raisonnement, étape par étape.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "legal-legitime",
+      "terme": "Légal / légitime",
+      "definition": "Est légal ce qui est conforme à la loi en vigueur ; est légitime ce qui est juste, fondé en droit ou en raison. Une loi peut être légale sans être légitime.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "La désobéissance civile est illégale, mais elle se veut légitime."
+    },
+    {
+      "id": "mediat-immediat",
+      "terme": "Médiat / immédiat",
+      "definition": "Est immédiat ce qui se donne directement, sans intermédiaire ; est médiat ce qui passe par un intermédiaire (un raisonnement, un outil, un signe).",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "objectif-subjectif-intersubjectif",
+      "terme": "Objectif / subjectif / intersubjectif",
+      "definition": "Est objectif ce qui vaut indépendamment du sujet ; est subjectif ce qui dépend du sujet ; est intersubjectif ce qui est partagé et reconnu par plusieurs sujets.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "obligation-contrainte",
+      "terme": "Obligation / contrainte",
+      "definition": "La contrainte est une force extérieure qui s'impose ; l'obligation est un devoir que l'on reconnaît et auquel on peut choisir d'obéir ou non.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "On est contraint par un voleur armé ; on est obligé par une promesse."
+    },
+    {
+      "id": "origine-fondement",
+      "terme": "Origine / fondement",
+      "definition": "L'origine est le point de départ dans le temps (d'où vient une chose) ; le fondement est ce qui la justifie en droit (ce qui la rend légitime).",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "persuader-convaincre",
+      "terme": "Persuader / convaincre",
+      "definition": "Convaincre, c'est amener quelqu'un à une idée par des raisons ; persuader, c'est l'y amener en touchant ses émotions ou ses désirs.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "principe-cause-fin",
+      "terme": "Principe / cause / fin",
+      "definition": "Le principe est ce qui vient en premier et dont le reste découle ; la cause est ce qui produit un effet ; la fin est le but en vue duquel une chose est faite.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "public-prive",
+      "terme": "Public / privé",
+      "definition": "Est public ce qui concerne tous les membres d'une communauté (l'État, l'espace commun) ; est privé ce qui relève de l'individu ou de la famille.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "ressemblance-analogie",
+      "terme": "Ressemblance / analogie",
+      "definition": "La ressemblance est le fait d'avoir des caractères communs ; l'analogie est une ressemblance de rapports (A est à B ce que C est à D).",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "Le roi est à l'État ce que le pilote est au navire."
+    },
+    {
+      "id": "theorie-pratique",
+      "terme": "Théorie / pratique",
+      "definition": "La théorie relève de la connaissance (ce qui est) ; la pratique relève de l'action (ce qu'il faut faire).",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "transcendant-immanent",
+      "terme": "Transcendant / immanent",
+      "definition": "Est transcendant ce qui est extérieur et supérieur à un ordre de réalité (un Dieu hors du monde) ; est immanent ce qui est intérieur à cet ordre.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "universel-general-particulier-singulier",
+      "terme": "Universel / général / particulier / singulier",
+      "definition": "L'universel vaut pour tous sans exception ; le général vaut pour la plupart des cas ; le particulier concerne une partie ; le singulier concerne un seul être.",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "vrai-probable-certain",
+      "terme": "Vrai / probable / certain",
+      "definition": "Le vrai qualifie un énoncé conforme à la réalité ; le probable ce qui a des chances d'être vrai ; le certain ce dont l'esprit ne peut douter (la certitude est un état du sujet).",
+      "chapitres": [
+        "reperes"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "exemple": "On peut être certain et se tromper."
+    },
+    {
+      "id": "libre-arbitre",
+      "terme": "Libre arbitre",
+      "definition": "Pouvoir de la volonté de choisir entre plusieurs possibles sans y être déterminée par une cause extérieure.",
+      "chapitres": [
+        "la-liberte"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "determinisme",
+      "terme": "Déterminisme",
+      "definition": "Doctrine selon laquelle tout événement a des causes qui le produisent nécessairement ; appliqué à l'homme, il conteste le libre arbitre.",
+      "chapitres": [
+        "la-liberte"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "autonomie",
+      "terme": "Autonomie",
+      "definition": "Fait de se donner à soi-même sa propre loi (du grec *autos*, soi-même, et *nomos*, la loi). Chez Kant, obéir à la loi morale que sa raison se donne.",
+      "chapitres": [
+        "la-liberte",
+        "le-devoir"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "heteronomie",
+      "terme": "Hétéronomie",
+      "definition": "Fait de recevoir sa loi de l'extérieur (désirs, autorité, coutume) au lieu de se la donner soi-même.",
+      "chapitres": [
+        "la-liberte",
+        "le-devoir"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "bonheur",
+      "terme": "Bonheur",
+      "definition": "État de satisfaction complète et durable, qui concerne la vie dans son ensemble (et non un moment).",
+      "chapitres": [
+        "le-bonheur"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "hedonisme",
+      "terme": "Hédonisme",
+      "definition": "Doctrine qui fait du plaisir le bien suprême et le but de la vie.",
+      "chapitres": [
+        "le-bonheur"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "ataraxie",
+      "terme": "Ataraxie",
+      "definition": "Absence de trouble de l'âme : idéal de bonheur des épicuriens et des stoïciens.",
+      "chapitres": [
+        "le-bonheur"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "divertissement",
+      "terme": "Divertissement",
+      "definition": "Chez Pascal, tout ce qui détourne l'homme de penser à sa condition (sa mort, sa misère) : jeux, occupations, agitation.",
+      "chapitres": [
+        "le-bonheur"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "devoir",
+      "terme": "Devoir",
+      "definition": "Ce que l'on doit faire, une obligation que l'on reconnaît comme valable, morale ou juridique, même quand elle s'oppose à nos désirs.",
+      "chapitres": [
+        "le-devoir"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "morale",
+      "terme": "Morale",
+      "definition": "Ensemble des règles qui distinguent le bien et le mal et qui guident l'action ; elle peut être propre à une société ou se vouloir universelle.",
+      "chapitres": [
+        "le-devoir"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "imperatif-categorique",
+      "terme": "Impératif catégorique",
+      "definition": "Chez Kant, commandement moral inconditionnel (« tu dois », sans « si tu veux… ») : agis seulement selon une règle que tu pourrais vouloir voir appliquée par tous.",
+      "chapitres": [
+        "le-devoir"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "utilitarisme-philo",
+      "terme": "Utilitarisme",
+      "definition": "Doctrine morale (Bentham, Mill) selon laquelle une action est bonne si elle produit le plus grand bonheur pour le plus grand nombre.",
+      "chapitres": [
+        "le-devoir"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "justice",
+      "terme": "Justice",
+      "definition": "Vertu qui consiste à respecter le droit et à donner à chacun ce qui lui revient ; institution chargée d'appliquer le droit ; idéal de ce qui devrait être.",
+      "chapitres": [
+        "la-justice"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "droit-naturel",
+      "terme": "Droit naturel",
+      "definition": "Droit qui serait fondé sur la nature humaine ou la raison, valable partout et toujours, indépendamment des lois écrites.",
+      "chapitres": [
+        "la-justice",
+        "l-etat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "droit-positif",
+      "terme": "Droit positif",
+      "definition": "Ensemble des lois effectivement en vigueur dans un pays à une époque donnée.",
+      "chapitres": [
+        "la-justice",
+        "l-etat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "equite",
+      "terme": "Équité",
+      "definition": "Justice qui tient compte des situations particulières, là où l'application stricte d'une loi générale serait injuste (Aristote).",
+      "chapitres": [
+        "la-justice"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "etat",
+      "terme": "État",
+      "definition": "Ensemble des institutions qui exercent un pouvoir souverain sur un territoire et une population, en édictant des lois et en disposant de la force publique.",
+      "chapitres": [
+        "l-etat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "souverainete",
+      "terme": "Souveraineté",
+      "definition": "Pouvoir suprême de décider en dernier ressort, sans être soumis à une autorité supérieure.",
+      "chapitres": [
+        "l-etat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "contrat-social",
+      "terme": "Contrat social",
+      "definition": "Accord, réel ou supposé, par lequel des individus fondent ensemble une société politique et acceptent une autorité commune.",
+      "chapitres": [
+        "l-etat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "volonte-generale",
+      "terme": "Volonté générale",
+      "definition": "Chez Rousseau, volonté du peuple tourné vers l'intérêt commun, distincte de la somme des intérêts particuliers.",
+      "chapitres": [
+        "l-etat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "conscience",
+      "terme": "Conscience",
+      "definition": "Présence de l'esprit à lui-même et au monde : savoir que l'on perçoit, que l'on pense, que l'on existe.",
+      "chapitres": [
+        "la-conscience"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "conscience-morale",
+      "terme": "Conscience morale",
+      "definition": "Faculté de juger le bien et le mal de nos actions, souvent vécue comme une voix intérieure (remords, scrupule).",
+      "chapitres": [
+        "la-conscience",
+        "le-devoir"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "cogito",
+      "terme": "Cogito",
+      "definition": "Du latin *cogito*, « je pense » : chez Descartes, la certitude « je pense, donc je suis », qui résiste au doute.",
+      "chapitres": [
+        "la-conscience",
+        "la-verite"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "mauvaise-foi",
+      "terme": "Mauvaise foi",
+      "definition": "Chez Sartre, mensonge à soi-même par lequel on fuit sa liberté et sa responsabilité.",
+      "chapitres": [
+        "la-conscience",
+        "l-inconscient"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "inconscient",
+      "terme": "Inconscient",
+      "definition": "Au sens large, ce dont on n'a pas conscience. Chez Freud, partie du psychisme formée de désirs refoulés qui agissent sur nous à notre insu.",
+      "chapitres": [
+        "l-inconscient"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "refoulement",
+      "terme": "Refoulement",
+      "definition": "Chez Freud, mécanisme par lequel des désirs jugés inacceptables sont repoussés hors de la conscience, où ils restent actifs.",
+      "chapitres": [
+        "l-inconscient"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "lapsus",
+      "terme": "Lapsus",
+      "definition": "Erreur de parole ou d'écriture qui, selon Freud, révèle un désir inconscient.",
+      "chapitres": [
+        "l-inconscient"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "psychanalyse",
+      "terme": "Psychanalyse",
+      "definition": "Méthode d'exploration de l'inconscient et de soin fondée par Freud, qui passe par la parole du patient.",
+      "chapitres": [
+        "l-inconscient"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "verite",
+      "terme": "Vérité",
+      "definition": "Qualité d'un énoncé qui est conforme à la réalité (vérité-correspondance) ou cohérent avec d'autres énoncés admis (vérité-cohérence).",
+      "chapitres": [
+        "la-verite"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "opinion",
+      "terme": "Opinion",
+      "definition": "Jugement que l'on tient pour vrai sans l'avoir examiné ni fondé sur des raisons suffisantes.",
+      "chapitres": [
+        "la-verite"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "evidence",
+      "terme": "Évidence",
+      "definition": "Ce qui s'impose à l'esprit avec clarté sans avoir besoin de démonstration ; critère de vérité chez Descartes.",
+      "chapitres": [
+        "la-verite"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "doute-methodique",
+      "terme": "Doute méthodique",
+      "definition": "Chez Descartes, démarche qui consiste à douter de tout ce qui peut l'être pour trouver une certitude indubitable.",
+      "chapitres": [
+        "la-verite"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "oeuvre-art",
+      "terme": "Œuvre d'art",
+      "definition": "Production humaine unique, faite pour être contemplée plutôt qu'utilisée, et reconnue pour sa valeur esthétique.",
+      "chapitres": [
+        "l-art"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "beau",
+      "terme": "Beau",
+      "definition": "Qualité de ce qui procure un plaisir esthétique ; chez Kant, ce qui plaît universellement sans concept.",
+      "chapitres": [
+        "l-art"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "mimesis",
+      "terme": "Mimèsis (imitation)",
+      "definition": "Imitation de la réalité par l'art (Platon, Aristote).",
+      "chapitres": [
+        "l-art"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "catharsis",
+      "terme": "Catharsis",
+      "definition": "Chez Aristote, purification des passions (crainte, pitié) que produit la tragédie chez le spectateur.",
+      "chapitres": [
+        "l-art"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "nature",
+      "terme": "Nature",
+      "definition": "Ensemble des êtres et des phénomènes qui existent sans intervention humaine ; essence d'une chose ; ce qui est inné par opposition à l'acquis.",
+      "chapitres": [
+        "la-nature"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "culture",
+      "terme": "Culture",
+      "definition": "Ensemble de ce que l'homme acquiert et transmet en société (langage, techniques, règles, savoirs, arts), par opposition à ce qui est inné.",
+      "chapitres": [
+        "la-nature"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "perfectibilite",
+      "terme": "Perfectibilité",
+      "definition": "Chez Rousseau, capacité de l'homme à se transformer et à se perfectionner, qui le distingue de l'animal.",
+      "chapitres": [
+        "la-nature"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "raison",
+      "terme": "Raison",
+      "definition": "Faculté de penser de façon logique, de juger et de distinguer le vrai du faux et le bien du mal ; ce qui permet de rendre compte (« donner ses raisons »).",
+      "chapitres": [
+        "la-raison"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "raisonnement",
+      "terme": "Raisonnement",
+      "definition": "Enchaînement ordonné de propositions qui conduit à une conclusion (déduction, induction).",
+      "chapitres": [
+        "la-raison",
+        "la-science"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "passion",
+      "terme": "Passion",
+      "definition": "Émotion ou désir puissant qui s'empare de l'esprit (au sens ancien : ce que l'on subit, par opposition à l'action).",
+      "chapitres": [
+        "la-raison"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "religion",
+      "terme": "Religion",
+      "definition": "Ensemble de croyances et de rites relatifs au sacré, qui unit une communauté de fidèles.",
+      "chapitres": [
+        "la-religion"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "foi",
+      "terme": "Foi",
+      "definition": "Adhésion confiante à des vérités religieuses qui ne peuvent pas être démontrées.",
+      "chapitres": [
+        "la-religion"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "sacre",
+      "terme": "Sacré",
+      "definition": "Ce qui est séparé du monde ordinaire (le profane), entouré de respect et d'interdits (Durkheim).",
+      "chapitres": [
+        "la-religion"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "laicite",
+      "terme": "Laïcité",
+      "definition": "Principe de séparation des religions et de l'État, qui garantit la liberté de conscience et la neutralité de l'État (en France, loi de 1905).",
+      "chapitres": [
+        "la-religion"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Loi du 9 décembre 1905 concernant la séparation des Églises et de l'État"
+      }
+    },
+    {
+      "id": "science",
+      "terme": "Science",
+      "definition": "Connaissance objective, méthodique et vérifiable, qui cherche des lois universelles et se distingue de l'opinion.",
+      "chapitres": [
+        "la-science"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "experience-experimentation",
+      "terme": "Expérience / expérimentation",
+      "definition": "L'expérience est l'observation de ce qui se passe ; l'expérimentation est une expérience provoquée et contrôlée pour tester une hypothèse.",
+      "chapitres": [
+        "la-science"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "induction",
+      "terme": "Induction",
+      "definition": "Raisonnement qui va de cas particuliers à une loi générale ; il n'est jamais absolument certain.",
+      "chapitres": [
+        "la-science"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "refutabilite",
+      "terme": "Réfutabilité",
+      "definition": "Chez Popper, possibilité qu'une théorie soit contredite par une expérience ; critère de ce qui est scientifique.",
+      "chapitres": [
+        "la-science",
+        "la-verite"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "technique",
+      "terme": "Technique",
+      "definition": "Ensemble de procédés et de savoir-faire qui permettent de produire un résultat utile ; ensemble des outils et machines.",
+      "chapitres": [
+        "la-technique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "outil-machine",
+      "terme": "Outil / machine",
+      "definition": "L'outil prolonge la main et dépend de l'habileté de celui qui l'utilise ; la machine fonctionne de façon en partie autonome et peut imposer son rythme à l'homme.",
+      "chapitres": [
+        "la-technique",
+        "le-travail"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "homo-faber",
+      "terme": "Homo faber",
+      "definition": "Expression de Bergson : l'homme défini comme être qui fabrique des outils.",
+      "chapitres": [
+        "la-technique"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "temps",
+      "terme": "Temps",
+      "definition": "Milieu indéfini dans lequel se succèdent les événements ; il peut être mesuré (temps objectif) ou vécu (temps subjectif).",
+      "chapitres": [
+        "le-temps"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "duree",
+      "terme": "Durée",
+      "definition": "Chez Bergson, temps vécu par la conscience, continu et qualitatif, distinct du temps mesuré des horloges.",
+      "chapitres": [
+        "le-temps"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "finitude",
+      "terme": "Finitude",
+      "definition": "Caractère de ce qui est limité ; pour l'homme, le fait d'être mortel.",
+      "chapitres": [
+        "le-temps"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "travail-philo",
+      "terme": "Travail",
+      "definition": "Activité par laquelle l'homme transforme la nature pour satisfaire ses besoins, souvent vécue comme une peine mais aussi comme une manière de se former.",
+      "chapitres": [
+        "le-travail"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "alienation",
+      "terme": "Aliénation",
+      "definition": "Fait de devenir étranger à soi-même ; chez Marx, situation du travailleur qui ne se reconnaît ni dans le produit ni dans l'activité de son travail.",
+      "chapitres": [
+        "le-travail"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "division-du-travail",
+      "terme": "Division du travail",
+      "definition": "Répartition des tâches entre travailleurs spécialisés, qui augmente la productivité (Smith) mais peut rendre le travail répétitif.",
+      "chapitres": [
+        "le-travail"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "langage",
+      "terme": "Langage",
+      "definition": "Faculté de communiquer et de penser au moyen de signes ; chez l'homme, système articulé capable de produire une infinité d'énoncés nouveaux.",
+      "chapitres": [
+        "le-langage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "langue",
+      "terme": "Langue",
+      "definition": "Système de signes propre à une communauté (le français, le japonais…), distinct de la parole, usage individuel de la langue.",
+      "chapitres": [
+        "le-langage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "signe",
+      "terme": "Signe",
+      "definition": "Élément qui renvoie à autre chose que lui-même ; le signe linguistique unit un son (signifiant) et un sens (signifié), de façon arbitraire.",
+      "chapitres": [
+        "le-langage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    },
+    {
+      "id": "ineffable",
+      "terme": "Ineffable",
+      "definition": "Ce qui ne peut pas être exprimé par des mots.",
+      "chapitres": [
+        "le-langage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      }
+    }
+  ]
+}

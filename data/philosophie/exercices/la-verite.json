@@ -1,0 +1,186 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "la-verite",
+  "exercices": [
+    {
+      "id": "verite-qcm",
+      "titre": "La vérité : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Distingue vérité, opinion, certitude."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Une opinion est un jugement…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "non examiné",
+              "correct": true,
+              "explication": "Sans raisons suffisantes."
+            },
+            {
+              "id": "b",
+              "texte": "toujours faux",
+              "correct": false,
+              "explication": "Une opinion peut être vraie par hasard."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Le bâton qui paraît brisé dans l'eau montre que…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les sens peuvent tromper",
+              "correct": true,
+              "explication": "Exemple classique."
+            },
+            {
+              "id": "b",
+              "texte": "l'eau casse les bâtons",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "« Pas de faits, seulement des interprétations » :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Nietzsche",
+              "correct": true,
+              "explication": "Fragments posthumes."
+            },
+            {
+              "id": "b",
+              "texte": "Platon",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "L'évidence est le critère de vérité de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Descartes",
+              "correct": true,
+              "explication": "Idées claires et distinctes."
+            },
+            {
+              "id": "b",
+              "texte": "Popper",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "« À chacun sa vérité » vaut plutôt pour…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les goûts",
+              "correct": true,
+              "explication": "Mais pas pour 2 + 2 = 4."
+            },
+            {
+              "id": "b",
+              "texte": "les mathématiques",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "verite-probl",
+      "titre": "Problématiser : « La vérité est-elle relative ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « La vérité est-elle relative ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Définis vérité et relatif.",
+        "Distingue domaines : goûts, morale, sciences, mathématiques."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Est relatif ce qui dépend d'un point de vue, d'une époque, d'une culture. La vérité est la conformité d'un énoncé à ce qui est."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** Les opinions varient selon les personnes et les époques, et même les théories scientifiques changent. Pourtant, si tout était relatif, la phrase « tout est relatif » le serait aussi, et aucune discussion ne serait possible."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** La diversité des opinions prouve-t-elle qu'il n'existe pas de vérité universelle, ou montre-t-elle seulement que la vérité doit être cherchée avec méthode ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

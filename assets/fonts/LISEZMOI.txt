@@ -1,0 +1,6 @@
+Police du site (incluse, aucune connexion nécessaire)
+
+Inter et Inter Display (inter-*.woff, inter-display-*.woff)
+Licence : SIL Open Font License 1.1. https://rsms.me/inter/
+
+Les fichiers ont été réduits aux caractères utiles en français et en anglais.

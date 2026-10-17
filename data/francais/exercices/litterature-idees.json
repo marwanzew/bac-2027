@@ -1,0 +1,199 @@
+{
+  "matiere": "francais",
+  "chapitre": "litterature-idees",
+  "exercices": [
+    {
+      "id": "litterature-idees-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "La Boétie était l'ami de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Montaigne",
+              "correct": true,
+              "explication": "Les Essais évoquent leur amitié."
+            },
+            {
+              "id": "b",
+              "texte": "Voltaire",
+              "correct": false,
+              "explication": "XVIIIe siècle."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Lettres d'une Péruvienne est un roman…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "épistolaire",
+              "correct": true,
+              "explication": "Par lettres."
+            },
+            {
+              "id": "b",
+              "texte": "en vers",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Fontenelle présente le système…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "de Copernic",
+              "correct": true,
+              "explication": "Héliocentrisme."
+            },
+            {
+              "id": "b",
+              "texte": "de Ptolémée comme vrai",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Pour Graffigny, l'édition de 1752 ajoute notamment…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+            "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une introduction historique et des lettres",
+              "correct": true,
+              "explication": "XXVIII, XXIX, XXX, XXXIV au programme."
+            },
+            {
+              "id": "b",
+              "texte": "une préface de Zola",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Les Lumières défendent…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la raison et la liberté",
+              "correct": true,
+              "explication": "XVIIIe siècle."
+            },
+            {
+              "id": "b",
+              "texte": "l'obéissance aveugle",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "litterature-idees-diss",
+      "titre": "Plan de dissertation : Discours de la servitude volontaire",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 60,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner, au format bac) : « Le Discours de la servitude volontaire est-il seulement une dénonciation de la tyrannie ? »",
+        "Rédige l'introduction et un plan détaillé en deux ou trois parties, avec des exemples précis tirés de l'œuvre et du parcours."
+      ],
+      "methode": [
+        "Analyse chaque mot du sujet, reformule-le, puis pose une problématique.",
+        "Chaque sous-partie = un argument + un exemple précis (épisode, personnage, citation courte que tu as vérifiée dans ton édition)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique** : La Boétie se contente-t-il de dénoncer le tyran, ou interroge-t-il surtout la responsabilité de ceux qui obéissent ?"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**I. Une dénonciation de la tyrannie** : portrait du tyran, ses ruses (jeux, divertissements), la chaîne des complices.",
+            "**II. Une analyse de la servitude volontaire** : le peuple se soumet par habitude ; le paradoxe : il suffirait de ne plus servir.",
+            "**III. Un éloge de la liberté à défendre et entretenir** : liberté naturelle, amitié, mémoire et éducation contre l'oubli de la liberté."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : la dénonciation du tyran conduit à une réflexion plus dérangeante sur notre propre responsabilité, au cœur du parcours."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (accroche, sujet, problématique, annonce)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la question",
+          "points": 6
+        },
+        {
+          "critere": "Connaissance précise de l'œuvre et du parcours",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

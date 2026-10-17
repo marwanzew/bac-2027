@@ -1,0 +1,187 @@
+{
+  "matiere": "francais",
+  "chapitre": "methode-oral",
+  "exercices": [
+    {
+      "id": "methode-oral-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le projet de lecture est annoncé…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "dans l'introduction",
+              "correct": true,
+              "explication": "Avec les mouvements du texte."
+            },
+            {
+              "id": "b",
+              "texte": "à la fin seulement",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Pendant l'entretien, l'examinateur évalue…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+            "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "ta lecture personnelle et tes arguments",
+              "correct": true,
+              "explication": "Partie 2."
+            },
+            {
+              "id": "b",
+              "texte": "ta récitation du cours",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Grammaire : temps conseillé",
+          "certitude": "certain",
+          "source": {
+            "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+            "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "2 minutes maximum",
+              "correct": true,
+              "explication": "Sur 2 points."
+            },
+            {
+              "id": "b",
+              "texte": "10 minutes",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Le texte expliqué est choisi par…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+            "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'examinateur, dans ton récapitulatif",
+              "correct": true,
+              "explication": "Prépare tous tes textes."
+            },
+            {
+              "id": "b",
+              "texte": "toi, le jour même",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Total de la première partie :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+            "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "12 points",
+              "correct": true,
+              "explication": "2 + 8 + 2."
+            },
+            {
+              "id": "b",
+              "texte": "20 points",
+              "correct": false,
+              "explication": "20, c'est l'épreuve entière."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "methode-oral-presentation",
+      "titre": "Prépare la présentation de ton œuvre",
+      "type": "dossier-oral",
+      "difficulte": "moyen",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Choisis l'une des œuvres de ton récapitulatif.",
+        "Prépare une présentation de 2 à 3 minutes, puis écris cinq questions que l'examinateur pourrait te poser et tes réponses."
+      ],
+      "methode": [
+        "Structure : l'œuvre en deux phrases → pourquoi tu l'as choisie → un passage marquant → lien avec le parcours."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "Exemple de structure pour *Pluie et vent sur Télumée Miracle* : présentation (roman de Simone Schwarz-Bart, 1972, la vie de Télumée en Guadeloupe) ; raison du choix (la force de la grand-mère Reine Sans Nom, la transmission) ; un passage marquant que tu as relu ; lien avec « tisser les mémoires, habiter le monde »."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Questions possibles : Quel personnage t'a le plus marqué ? Que signifie le titre ? En quoi ce roman transmet-il une mémoire ? Quel passage relirais-tu ? Le conseillerais-tu, et à qui ?"
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Présentation claire et personnelle",
+          "points": 8
+        },
+        {
+          "critere": "Précision sur l'œuvre",
+          "points": 6
+        },
+        {
+          "critere": "Réponses argumentées",
+          "points": 6
+        }
+      ]
+    }
+  ]
+}

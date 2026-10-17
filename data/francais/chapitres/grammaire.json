@@ -1,0 +1,335 @@
+{
+  "id": "grammaire",
+  "matiere": "francais",
+  "titre": "La question de grammaire",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthodes des épreuves",
+    "intitule": "La question de grammaire",
+    "certitude": "certain",
+    "source": {
+      "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+      "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+    }
+  },
+  "objectifs": [
+    "Connaître les notions sur lesquelles peut porter la question.",
+    "Analyser une phrase avec méthode (manipulations).",
+    "Répondre en moins de deux minutes."
+  ],
+  "parties": [
+    {
+      "id": "cadre",
+      "titre": "Le cadre",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "La question porte **uniquement sur le texte** et vise **l'analyse syntaxique d'une courte phrase**. Tu la prépares pendant les 30 minutes et tu y réponds avant ou après l'explication, en **deux minutes maximum**, sur **2 points**. On évalue ton **raisonnement**, pas seulement le résultat."
+        },
+        {
+          "type": "tableau",
+          "titre": "Notions possibles (programme de seconde et de première)",
+          "colonnes": [
+            "Notion",
+            "Ce qu'on peut te demander"
+          ],
+          "lignes": [
+            [
+              "Accords et sujet",
+              "Identifier le sujet, sa place"
+            ],
+            [
+              "Le verbe",
+              "Seulement la concordance des temps"
+            ],
+            [
+              "Phrase complexe",
+              "Juxtaposition, coordination, subordination"
+            ],
+            [
+              "Subordonnées relatives",
+              "Syntaxe : pronom, antécédent, fonction"
+            ],
+            [
+              "Subordonnées circonstancielles",
+              "Syntaxe des conjonctives compléments circonstanciels"
+            ],
+            [
+              "L'interrogation",
+              "Totale / partielle, directe / indirecte"
+            ],
+            [
+              "La négation",
+              "Totale / partielle (pas la négation lexicale)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrase-complexe",
+      "titre": "La phrase complexe",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Une phrase complexe contient **plusieurs propositions** (une par verbe conjugué). Elles sont reliées par **juxtaposition** (virgule, point-virgule), **coordination** (mais, ou, et, donc, or, ni, car) ou **subordination** (une proposition dépend d'une autre)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "subordonnee-relative"
+        },
+        {
+          "type": "definition",
+          "glossaire": "subordonnee-circonstancielle"
+        },
+        {
+          "type": "exemple",
+          "titre": "Analyse",
+          "texte": "« Je partirai quand le jour se lèvera. » : deux propositions ; « quand le jour se lèvera » est une subordonnée circonstancielle de temps, introduite par la conjonction « quand », complément circonstanciel de la principale « Je partirai »."
+        }
+      ]
+    },
+    {
+      "id": "interrogation",
+      "titre": "L'interrogation",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Totale** : réponse oui / non (« Viendras-tu ? »). **Partielle** : porte sur un élément, avec un mot interrogatif (« Quand viendras-tu ? »).",
+            "Trois constructions de l'interrogation directe : intonation (« Tu viens ? »), « est-ce que », inversion du sujet (« Viens-tu ? »)."
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "interrogative-indirecte"
+        },
+        {
+          "type": "exemple",
+          "titre": "Transformation",
+          "texte": "« Viendras-tu demain ? » → « Je me demande **si tu viendras demain**. » : plus de point d'interrogation, plus d'inversion, introduction par « si »."
+        }
+      ]
+    },
+    {
+      "id": "negation",
+      "titre": "La négation",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Totale** : « ne… pas », « ne… point » : toute la phrase est niée.",
+            "**Partielle** : « ne… jamais, ne… plus, ne… rien, ne… personne, ne… aucun, ne… guère » : la négation porte sur un élément (temps, objet, personne).",
+            "**Restrictive** : « ne… que » = seulement (ce n'est pas une vraie négation).",
+            "À l'oral familier, « ne » disparaît souvent ; à l'écrit littéraire, « ne » seul peut suffire (« Je ne puis »)."
+          ]
+        },
+        {
+          "type": "exemple",
+          "titre": "Hugo",
+          "texte": "« Je ne puis demeurer loin de toi plus longtemps » : négation avec « ne » seul, sans « pas », tour littéraire possible avec le verbe « pouvoir »."
+        }
+      ]
+    },
+    {
+      "id": "methode",
+      "titre": "La méthode des manipulations",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Supprimer** : si la phrase reste correcte, l'élément n'est pas essentiel (complément circonstanciel).",
+            "**Déplacer** : un complément circonstanciel se déplace souvent.",
+            "**Remplacer** : par un pronom ou un mot simple pour trouver la fonction.",
+            "**Encadrer** : « c'est… qui » pour trouver le sujet."
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Cite toujours la phrase, nomme la notion, montre la manipulation, conclus."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Durée conseillée",
+      "valeur": "2 minutes maximum",
+      "certitude": "certain",
+      "source": {
+        "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+        "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Barème",
+      "valeur": "2 points",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service relative aux modalités d'évaluation des épreuves anticipées de français, version consolidée (Éduscol, mars 2024), issue de la note du 23 juillet 2020 (MENE2019312N)",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/voies-gteafdoc-consolide-avec-annexepdf-102126.pdf"
+      }
+    },
+    {
+      "type": "mecanisme",
+      "libelle": "Manipulations",
+      "valeur": "supprimer, déplacer, remplacer, encadrer",
+      "certitude": "certain",
+      "source": {
+        "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+        "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La grammaire en bref",
+    "colonnes": [
+      "Notion",
+      "Repère"
+    ],
+    "lignes": [
+      [
+        "Relative",
+        "Pronom relatif + antécédent"
+      ],
+      [
+        "Circonstancielle",
+        "Conjonction + complément circonstanciel"
+      ],
+      [
+        "Interrogation",
+        "Totale / partielle ; directe / indirecte"
+      ],
+      [
+        "Négation",
+        "Totale / partielle / restrictive"
+      ]
+    ]
+  },
+  "fiche": [
+    "Analyse **syntaxique** d'une courte phrase du texte, **2 points**, **2 minutes**.",
+    "Phrase complexe : juxtaposition, coordination, subordination.",
+    "Interrogative indirecte : pas de « ? », pas d'inversion.",
+    "Négation totale (ne… pas), partielle (ne… jamais), restrictive (ne… que)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "« Ne… que » exprime…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+        "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une restriction",
+          "correct": true,
+          "explication": "Seulement."
+        },
+        {
+          "id": "b",
+          "texte": "une négation totale",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "« Je me demande s'il viendra » contient…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+        "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une interrogative indirecte",
+          "correct": true,
+          "explication": "Introduite par si."
+        },
+        {
+          "id": "b",
+          "texte": "une relative",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "« Mais, ou, et, donc, or, ni, car » sont…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+        "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "des conjonctions de coordination",
+          "correct": true,
+          "explication": "Coordination."
+        },
+        {
+          "id": "b",
+          "texte": "des pronoms relatifs",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Dans « le livre que je lis », « que je lis » est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+        "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une subordonnée relative",
+          "correct": true,
+          "explication": "Antécédent : livre."
+        },
+        {
+          "id": "b",
+          "texte": "une circonstancielle",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Le temps maximal pour la grammaire :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+        "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2 minutes",
+          "correct": true,
+          "explication": "Sur 2 points."
+        },
+        {
+          "id": "b",
+          "texte": "8 minutes",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

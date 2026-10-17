@@ -1,0 +1,190 @@
+{
+  "matiere": "llcer",
+  "chapitre": "oeuvres",
+  "exercices": [
+    {
+      "id": "oeuvres-qcm",
+      "titre": "Quiz : les œuvres du programme",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Révise la fiche de chaque œuvre avant de répondre."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Which work is a play?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Fiche de l'œuvre : informations de publication ou de sortie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "*The Caretaker*",
+              "correct": true,
+              "explication": "Pièce de Harold Pinter (1960)."
+            },
+            {
+              "id": "b",
+              "texte": "*Moon Palace*",
+              "correct": false,
+              "explication": "C'est un roman."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Which work won the Booker Prize in 1997?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Fiche de l'œuvre : informations de publication ou de sortie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "*The God of Small Things*",
+              "correct": true,
+              "explication": "Arundhati Roy."
+            },
+            {
+              "id": "b",
+              "texte": "*Boyhood*",
+              "correct": false,
+              "explication": "Ce n'est pas le cas."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*Boyhood* is narrated…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Fiche de l'œuvre : informations de publication ou de sortie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "in the third person, in the present tense",
+              "correct": true,
+              "explication": "Coetzee parle de lui en « he »."
+            },
+            {
+              "id": "b",
+              "texte": "by a dog",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*Killers of the Flower Moon* is about…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Fiche de l'œuvre : informations de publication ou de sortie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "the murders of Osage people in the 1920s",
+              "correct": true,
+              "explication": "D'après le livre de David Grann."
+            },
+            {
+              "id": "b",
+              "texte": "the Irish famine",
+              "correct": false,
+              "explication": "Rien à voir."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Who plays Beatrice in Branagh's *Much Ado About Nothing*?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Fiche de l'œuvre : informations de publication ou de sortie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Emma Thompson",
+              "correct": true,
+              "explication": "Branagh joue Benedick."
+            },
+            {
+              "id": "b",
+              "texte": "Holly Hunter",
+              "correct": false,
+              "explication": "Holly Hunter joue Ada dans *The Piano*."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "oeuvres-essai",
+      "titre": "Present a work in 2 minutes",
+      "type": "expression-ecrite",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Choose one work from the list. In about 150 words, present it in English: author, date, genre, plot in three sentences, two themes, and one axis it illustrates. (Prépare-le aussi à l'oral : 2 minutes.)"
+      ],
+      "methode": [
+        "Plan : identité de l'œuvre → résumé → thèmes → lien avec un axe.",
+        "Présent de narration pour le résumé.",
+        "Termine par une phrase personnelle : *What struck me most is…*"
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (un exemple de réponse possible, pas la seule) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "*Brooklyn* is a novel by the Irish writer Colm Tóibín, published in 2009. It tells the story of Eilis Lacey, a young woman who leaves her small Irish town for New York in the early 1950s because she cannot find a job at home."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In Brooklyn, she suffers from homesickness, but she gradually builds a new life: she works, studies and falls in love. When a family tragedy brings her back to Ireland, she has to choose between two lives."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "The novel deals with emigration, belonging and growing up. It illustrates the axis *Migration et exil*, as it shows both the pain of uprooting and the opportunities that migration offers. What struck me most is the quiet way in which Eilis's feelings are described."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse à la consigne, idées pertinentes",
+          "points": 4
+        },
+        {
+          "critere": "Organisation (introduction, paragraphes, connecteurs)",
+          "points": 3
+        },
+        {
+          "critere": "Richesse et correction de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

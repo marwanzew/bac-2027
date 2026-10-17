@@ -1,0 +1,186 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "la-nature",
+  "exercices": [
+    {
+      "id": "la-nature-qcm",
+      "titre": "La nature : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relie chaque auteur à sa thèse."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Un être naturel, pour Aristote,…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "a en lui le principe de son mouvement",
+              "correct": true,
+              "explication": "*Physique*."
+            },
+            {
+              "id": "b",
+              "texte": "est fabriqué",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Les enfants sauvages montrent…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le rôle de la société dans le langage",
+              "correct": true,
+              "explication": "Sans société, pas de langue."
+            },
+            {
+              "id": "b",
+              "texte": "que le langage est inné",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "« Tout est fabriqué et tout est naturel chez l'homme » :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Merleau-Ponty",
+              "correct": true,
+              "explication": "1945."
+            },
+            {
+              "id": "b",
+              "texte": "Rousseau",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "L'inné s'oppose à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'acquis",
+              "correct": true,
+              "explication": "Repère nature / culture."
+            },
+            {
+              "id": "b",
+              "texte": "le naturel",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Jonas pense à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les générations futures",
+              "correct": true,
+              "explication": "Responsabilité."
+            },
+            {
+              "id": "b",
+              "texte": "la mode",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "la-nature-probl",
+      "titre": "Problématiser : « L'homme doit-il dominer la nature ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « L'homme doit-il dominer la nature ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Définis dominer et nature.",
+        "Pense à Descartes et à Jonas."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** Dominer, c'est maîtriser et soumettre ; la nature est ici l'environnement physique et vivant."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** La maîtrise de la nature a permis de nourrir, soigner, protéger les hommes (Descartes). Mais elle menace aujourd'hui les conditions de la vie (climat, biodiversité)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** La domination de la nature est-elle la condition du progrès humain, ou faut-il la remplacer par une responsabilité envers la nature (Jonas) ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

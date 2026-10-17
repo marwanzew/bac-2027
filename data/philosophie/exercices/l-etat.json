@@ -1,0 +1,186 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "l-etat",
+  "exercices": [
+    {
+      "id": "etat-qcm",
+      "titre": "L'État : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relie auteurs et thèses."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le gouvernement, c'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "ceux qui exercent le pouvoir pour un temps",
+              "correct": true,
+              "explication": "≠ l'État, qui dure."
+            },
+            {
+              "id": "b",
+              "texte": "la nation",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*Léviathan* date de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1651",
+              "correct": true,
+              "explication": "Hobbes."
+            },
+            {
+              "id": "b",
+              "texte": "1848",
+              "correct": false,
+              "explication": "1848 : le *Manifeste*."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Pour Marx, l'État est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "au service de la classe dominante",
+              "correct": true,
+              "explication": "Il n'est pas neutre."
+            },
+            {
+              "id": "b",
+              "texte": "neutre",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "« Le pouvoir arrête le pouvoir » :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Montesquieu",
+              "correct": true,
+              "explication": "Séparation des pouvoirs."
+            },
+            {
+              "id": "b",
+              "texte": "Rousseau",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "La souveraineté est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le pouvoir de décider en dernier ressort",
+              "correct": true,
+              "explication": "Pouvoir suprême."
+            },
+            {
+              "id": "b",
+              "texte": "une dette",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "etat-probl",
+      "titre": "Problématiser : « L'État garantit-il notre liberté ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « L'État garantit-il notre liberté ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Définis État et liberté.",
+        "Pense à Hobbes (sécurité) et à Locke / Montesquieu (limites)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** L'État exerce un pouvoir souverain et dispose de la force ; la liberté peut être l'absence de contrainte ou la capacité d'agir à l'abri des autres."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** Sans État, la liberté de chacun est menacée par les autres (Hobbes). Mais l'État peut lui-même devenir une menace : contrôle, censure, abus de pouvoir."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** L'État est-il la condition de la liberté ou son principal danger ? À quelles conditions protège-t-il la liberté au lieu de la détruire ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "page.schema.json",
+  "title": "Page sans cours (Grand oral, EPS) : data/<matiere>/page.json",
+  "type": "object",
+  "required": [
+    "titre",
+    "sections",
+    "maj"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "titre": {
+      "type": "string"
+    },
+    "intro": {
+      "type": "string"
+    },
+    "maj": {
+      "$ref": "commun.schema.json#/$defs/date"
+    },
+    "outil": {
+      "enum": [
+        "chrono-grand-oral"
+      ]
+    },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "titre",
+          "blocs"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "titre": {
+            "type": "string"
+          },
+          "blocs": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "$ref": "chapitre.schema.json#/$defs/bloc"
+            }
+          }
+        }
+      }
+    }
+  }
+}

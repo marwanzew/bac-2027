@@ -1,0 +1,430 @@
+{
+  "id": "methode-oral",
+  "matiere": "llcer",
+  "titre": "Méthode : le dossier et l'oral de 20 minutes",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthode",
+    "intitule": "Épreuve orale de spécialité LLCER anglais",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+      "url": "https://eduscol.education.fr/document/52914/download",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Connaître le format exact de l'oral et les règles du dossier.",
+    "Construire un dossier cohérent de 4 à 6 documents.",
+    "Présenter son dossier en 10 minutes avec une problématique.",
+    "Réussir l'entretien de 10 minutes."
+  ],
+  "parties": [
+    {
+      "id": "format",
+      "titre": "Le format de l'oral",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "L'oral en un coup d'œil",
+          "colonnes": [
+            "Élément",
+            "Ce que dit le texte officiel"
+          ],
+          "lignes": [
+            [
+              "Durée",
+              "20 minutes, sans temps de préparation"
+            ],
+            [
+              "Partie 1",
+              "Présentation du dossier en anglais : 10 minutes au plus"
+            ],
+            [
+              "Partie 2",
+              "Échange avec l'examinateur en anglais : 10 minutes au plus"
+            ],
+            [
+              "Dossier",
+              "4 à 6 documents textuels et/ou iconographiques, étudiés ou non en classe, visés par ton professeur de terminale"
+            ],
+            [
+              "Évaluation",
+              "Le dossier lui-même n'est pas noté : c'est ta prestation orale qui l'est"
+            ],
+            [
+              "Sans dossier",
+              "L'examinateur te remet trois documents de natures différentes sur une thématique, que tu commentes"
+            ],
+            [
+              "Niveau attendu",
+              "B2/C1"
+            ]
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "date de l'oral",
+          "texte": "La date de l'oral n'est pas nationale : elle est fixée par ton académie et figurera sur ta convocation. Tu peux l'enregistrer dans le compte à rebours du site."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Tu remets un exemplaire de ton dossier à l'examinateur au début de l'épreuve et tu en gardes un."
+        }
+      ]
+    },
+    {
+      "id": "dossier",
+      "titre": "Construire le dossier",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Ce que le dossier doit contenir",
+          "colonnes": [
+            "Règle",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "Au moins une œuvre intégrale étudiée (extrait ou illustration)",
+              "Un extrait de *Brooklyn* ou une scène de *The Piano*"
+            ],
+            [
+              "Au moins un texte littéraire (pas seulement un roman)",
+              "Un poème, une scène de théâtre, une nouvelle"
+            ],
+            [
+              "Au plus deux œuvres d'art visuel",
+              "Une affiche, un tableau, une photo, un extrait de film"
+            ],
+            [
+              "Au moins un texte non littéraire",
+              "Un article de presse, un discours, un extrait d'essai"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**Choisis un fil conducteur** : une thématique (ou deux) et une problématique personnelle.",
+            "**Varie** les époques, les pays anglophones et les types de documents.",
+            "**Choisis des documents que tu aimes** : tu dois pouvoir en parler avec conviction.",
+            "**Fais viser** le dossier par ton professeur."
+          ]
+        },
+        {
+          "type": "exemple",
+          "titre": "Exemple de dossier",
+          "texte": "Thématique « Voyages, territoires, frontières » — problématique : *Is leaving one's country always a loss?* Documents : un extrait de *Brooklyn* (œuvre étudiée) ; un poème sur l'exil ; une photographie de l'arrivée de l'*Empire Windrush* (1948) ; un article de presse récent sur des jeunes qui partent travailler à l'étranger ; une affiche d'Ellis Island."
+        }
+      ]
+    },
+    {
+      "id": "presentation",
+      "titre": "Présenter en 10 minutes",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Plan de présentation",
+          "colonnes": [
+            "Étape",
+            "Durée indicative",
+            "Ce que tu dis"
+          ],
+          "lignes": [
+            [
+              "Introduction",
+              "1 min 30",
+              "Thématique, axe, problématique, annonce des documents"
+            ],
+            [
+              "Présentation des documents",
+              "6 min",
+              "Pour chaque document : nature, auteur, date, idée principale, et surtout le **lien** avec ta problématique ; fais des liens entre les documents"
+            ],
+            [
+              "Conclusion",
+              "1 min 30",
+              "Réponse à la problématique, avis personnel, ouverture"
+            ],
+            [
+              "Marge",
+              "1 min",
+              "Pour ne pas être coupé"
+            ]
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Phrases utiles",
+          "colonnes": [
+            "Pour…",
+            "English"
+          ],
+          "lignes": [
+            [
+              "Annoncer",
+              "*My file is entitled… It is linked to the theme… I chose these documents because…*"
+            ],
+            [
+              "Problématique",
+              "*The question I would like to address is…*"
+            ],
+            [
+              "Lier",
+              "*This document echoes / contrasts with document 2…*"
+            ],
+            [
+              "Avis",
+              "*What struck me most is… / I find it particularly moving because…*"
+            ],
+            [
+              "Conclure",
+              "*To conclude, these documents show that…*"
+            ]
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "ne récite pas",
+          "texte": "Ne lis pas un texte appris par cœur : prépare des notes courtes (mots-clés) et regarde l'examinateur."
+        }
+      ]
+    },
+    {
+      "id": "entretien",
+      "titre": "L'entretien de 10 minutes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "L'examinateur va te demander d'**approfondir** un document, de **justifier un choix**, de **comparer**, ou de **relier** ton dossier à d'autres œuvres.",
+            "Si tu ne comprends pas : *Could you repeat the question, please?* / *Do you mean that…?*",
+            "Pour gagner du temps : *That's an interesting question. Let me think…*",
+            "Développe tes réponses (3 ou 4 phrases), avec un exemple."
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "close-up"
+        },
+        {
+          "type": "definition",
+          "glossaire": "long-shot"
+        },
+        {
+          "type": "definition",
+          "glossaire": "high-angle-shot"
+        },
+        {
+          "type": "definition",
+          "glossaire": "low-angle-shot"
+        },
+        {
+          "type": "definition",
+          "glossaire": "voice-over"
+        },
+        {
+          "type": "definition",
+          "glossaire": "stage-directions"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Pour un document visuel : décris (*In the foreground / background…*), analyse les choix (cadrage, couleurs, lumière), puis interprète (*This suggests that…*)."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Durée de l'oral",
+      "valeur": "20 min (10 + 10), sans préparation",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Dossier",
+      "valeur": "4 à 6 documents",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "notion",
+      "libelle": "Contenu obligatoire",
+      "valeur": "≥ 1 œuvre étudiée · ≥ 1 texte littéraire · ≤ 2 œuvres d'art visuel · ≥ 1 texte non littéraire",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "L'oral en 3 temps",
+    "sens": "horizontal",
+    "noeuds": [
+      {
+        "id": "d",
+        "texte": "Dossier : 4 à 6 documents + problématique"
+      },
+      {
+        "id": "p",
+        "texte": "Présentation : 10 min"
+      },
+      {
+        "id": "e",
+        "texte": "Entretien : 10 min"
+      }
+    ],
+    "liens": [
+      {
+        "de": "d",
+        "vers": "p"
+      },
+      {
+        "de": "p",
+        "vers": "e"
+      }
+    ]
+  },
+  "fiche": [
+    "**Oral** : 20 min sans préparation : 10 min de présentation + 10 min d'échange, en anglais.",
+    "**Dossier** : 4 à 6 documents, visé par ton professeur ; il n'est pas noté.",
+    "**Contenu** : au moins 1 œuvre étudiée, au moins 1 texte littéraire, au plus 2 œuvres d'art visuel, au moins 1 texte non littéraire.",
+    "**Présentation** : introduction + problématique → documents reliés entre eux → conclusion personnelle.",
+    "**Entretien** : développer, justifier, comparer ; demander de répéter si besoin.",
+    "**Sans dossier** : 3 documents imposés à commenter."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Combien de temps de préparation avant l'oral ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Aucun",
+          "correct": true,
+          "explication": "L'oral se passe sans préparation."
+        },
+        {
+          "id": "b",
+          "texte": "30 minutes",
+          "correct": false,
+          "explication": "C'est faux pour l'oral principal."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Combien de documents dans le dossier ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "4 à 6",
+          "correct": true,
+          "explication": "Version consolidée de la note de service."
+        },
+        {
+          "id": "b",
+          "texte": "10",
+          "correct": false,
+          "explication": "Trop."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Le dossier doit contenir au plus…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "deux œuvres d'art visuel",
+          "correct": true,
+          "explication": "Affiche, tableau, photo, extrait de film…"
+        },
+        {
+          "id": "b",
+          "texte": "un texte littéraire",
+          "correct": false,
+          "explication": "C'est « au moins » un texte littéraire."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le dossier est-il noté ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Non, c'est la prestation orale qui est évaluée",
+          "correct": true,
+          "explication": "Le dossier sert de support."
+        },
+        {
+          "id": "b",
+          "texte": "Oui, sur 10 points",
+          "correct": false,
+          "explication": "Faux."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*In the foreground*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "au premier plan",
+          "correct": true,
+          "explication": "Background = arrière-plan."
+        },
+        {
+          "id": "b",
+          "texte": "au fond",
+          "correct": false,
+          "explication": "Au fond = in the background."
+        }
+      ]
+    }
+  ]
+}

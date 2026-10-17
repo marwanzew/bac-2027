@@ -1,0 +1,251 @@
+{
+  "matiere": "espagnol",
+  "chapitre": "axe3",
+  "exercices": [
+    {
+      "id": "axe3-qcm",
+      "titre": "Vocabulario : 5 preguntas",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Responde a las 5 preguntas. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*el cuadro*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le tableau",
+              "correct": true,
+              "explication": "Un cuadro de Goya."
+            },
+            {
+              "id": "b",
+              "texte": "le cadre seulement",
+              "correct": false,
+              "explication": "Ici : le tableau."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*García Márquez … colombiano.*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "es",
+              "correct": true,
+              "explication": "Origine : ser."
+            },
+            {
+              "id": "b",
+              "texte": "está",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*la novela*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le roman",
+              "correct": true,
+              "explication": "Una novela famosa."
+            },
+            {
+              "id": "b",
+              "texte": "la nouvelle",
+              "correct": false,
+              "explication": "Nouvelle = relato, cuento."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*el sueño*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le rêve (ou le sommeil)",
+              "correct": true,
+              "explication": "Entre el sueño y la realidad."
+            },
+            {
+              "id": "b",
+              "texte": "le soin",
+              "correct": false,
+              "explication": "Soin = cuidado."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*El laberinto del fauno* se passe…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère culturel (date établie)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "après la guerre civile espagnole",
+              "correct": true,
+              "explication": "1944."
+            },
+            {
+              "id": "b",
+              "texte": "au Mexique aztèque",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Una respuesta correcta",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe3-comprension",
+      "titre": "Comprensión escrita",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Lee el texto y contesta a las preguntas. (Lis le texte et réponds aux questions.)",
+        "1. ¿Qué historia cuentan en el pueblo?",
+        "2. ¿Ana cree en la leyenda?",
+        "3. ¿Qué le pasa a Ana esa noche?",
+        "4. ¿En qué se parece este texto al realismo mágico?"
+      ],
+      "documents": [
+        {
+          "titre": "Texto (escrito para el entrenamiento)",
+          "contenu": "En el pueblo de Ana, todo el mundo cuenta la misma historia: cada año, la noche del primer día del verano, las mariposas amarillas vuelven a la plaza y anuncian que alguien va a enamorarse. Ana no cree en esas leyendas. Sin embargo, esa noche, mientras está sentada en un banco, una mariposa amarilla se pone sobre su mano. Al día siguiente, un chico nuevo llega al pueblo.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. Cuentan que cada año, la primera noche del verano, unas mariposas amarillas vuelven a la plaza y anuncian que alguien va a enamorarse.",
+            "2. No, Ana no cree en esas leyendas.",
+            "3. Una mariposa amarilla se pone sobre su mano y al día siguiente llega un chico nuevo.",
+            "4. Porque un elemento mágico (las mariposas que anuncian el amor) aparece en la vida cotidiana como algo normal."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe3-expresion",
+      "titre": "Expresión escrita",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "¿Prefieres las historias realistas o las historias fantásticas? Explica por qué en 120 palabras aproximadamente."
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *primero, además, sin embargo, por eso, en conclusión*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Modelo** (niveau B1, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Personalmente, prefiero las historias fantásticas, aunque las historias realistas también me interesan."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Primero, las historias fantásticas me permiten imaginar otros mundos y olvidar la vida cotidiana. Por ejemplo, en *El laberinto del fauno*, la niña descubre un mundo mágico para escapar de la guerra."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Sin embargo, estas historias también hablan de la realidad. La película muestra la violencia de la posguerra en España, y el realismo mágico de García Márquez habla de la historia de Colombia."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "En conclusión, creo que la ficción no es lo contrario de la realidad: es otra manera de comprenderla."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

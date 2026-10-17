@@ -1,0 +1,257 @@
+{
+  "id": "g4",
+  "matiere": "histoire-geo",
+  "titre": "La France et ses régions dans l'Union européenne et dans la mondialisation : lignes de force et recompositions",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Géographie – Les territoires dans la mondialisation : entre intégrations et rivalités",
+    "intitule": "La France et ses régions dans l'Union européenne et dans la mondialisation : lignes de force et recompositions",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Identifier les lignes de force du territoire français.",
+    "Comprendre les recompositions territoriales entre attractivité, concurrence et inégalités.",
+    "Appliquer cette grille de lecture à la région du lycée : l'Occitanie."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les questions du programme",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Les lignes de force du territoire français.",
+            "Des recompositions territoriales à toutes les échelles, entre attractivité, concurrence et inégalités.",
+            "Étude de la région du lycée (pour toi : l'Occitanie)."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "lignes",
+      "titre": "Les lignes de force",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Le poids de Paris et de l'Île-de-France** : capitale, métropole mondiale, cœur des réseaux de transport (LGV, aéroports).",
+            "**Les métropoles régionales** (Lyon, Marseille, Toulouse, Lille, Bordeaux, Nantes…) en croissance.",
+            "**Les littoraux et le Sud** attirent population et activités (littoralisation, attrait du soleil).",
+            "**Les grands axes** (Seine, Rhône-Saône, frontière du Nord-Est) structurent le territoire.",
+            "**La « diagonale des faibles densités »**, des Ardennes aux Landes, reste peu peuplée."
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "metropolisation"
+        },
+        {
+          "type": "definition",
+          "glossaire": "littoralisation"
+        }
+      ]
+    },
+    {
+      "id": "recompositions",
+      "titre": "Des recompositions territoriales",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Les métropoles concentrent les emplois qualifiés ; les espaces périurbains s'étendent ; certains territoires industriels et ruraux perdent des habitants et des services. En **2016**, la réforme des régions a créé des régions plus grandes (13 en métropole) pour qu'elles pèsent davantage en Europe."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Attractivité et concurrence entre territoires renforcent les **inégalités** : l'État et l'UE tentent de les corriger."
+        }
+      ]
+    },
+    {
+      "id": "occitanie",
+      "titre": "Ta région : l'Occitanie",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Créée en 2016 par la fusion de Languedoc-Roussillon et de Midi-Pyrénées, l'**Occitanie** est l'une des plus vastes régions de France. Elle a deux grandes métropoles : **Toulouse**, capitale européenne de l'aéronautique et du spatial (Airbus), et **Montpellier**. Elle attire beaucoup de nouveaux habitants, surtout sur le littoral et autour des métropoles, mais compte aussi des espaces ruraux peu denses (Massif central, Pyrénées). Elle coopère avec la Catalogne espagnole (eurorégion Pyrénées-Méditerranée)."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Réforme des régions (13 en métropole)",
+      "valeur": "1er janvier 2016",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Création de la région Occitanie",
+      "valeur": "2016",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La France : lignes de force et recompositions",
+    "colonnes": [
+      "Lignes de force",
+      "Recompositions"
+    ],
+    "lignes": [
+      [
+        "Paris et l'Île-de-France",
+        "Croissance des métropoles régionales"
+      ],
+      [
+        "Littoraux et Sud attractifs",
+        "Étalement périurbain"
+      ],
+      [
+        "Grands axes",
+        "Déclin de certains espaces ruraux et industriels"
+      ],
+      [
+        "Diagonale des faibles densités",
+        "Nouvelles régions (2016)"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Lignes de force** : Paris, métropoles régionales, littoraux, axes, diagonale des faibles densités.",
+    "**Recompositions** : métropolisation, périurbanisation, inégalités.",
+    "**2016** : 13 régions métropolitaines.",
+    "**Occitanie** : Toulouse (aéronautique, Airbus), Montpellier, région attractive, coopération avec la Catalogne."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "La « diagonale des faibles densités » va…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "des Ardennes aux Landes",
+          "correct": true,
+          "explication": "Espaces peu peuplés."
+        },
+        {
+          "id": "b",
+          "texte": "de Lille à Marseille",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "L'Occitanie est née de la fusion de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Languedoc-Roussillon et Midi-Pyrénées",
+          "correct": true,
+          "explication": "2016."
+        },
+        {
+          "id": "b",
+          "texte": "Aquitaine et Limousin",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Toulouse est un grand centre…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "de l'aéronautique et du spatial",
+          "correct": true,
+          "explication": "Airbus."
+        },
+        {
+          "id": "b",
+          "texte": "de l'industrie automobile",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "La littoralisation est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la concentration des hommes et des activités sur les littoraux",
+          "correct": true,
+          "explication": "Attrait des côtes."
+        },
+        {
+          "id": "b",
+          "texte": "l'érosion des côtes",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Combien de régions en métropole depuis 2016 ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "13",
+          "correct": true,
+          "explication": "Au lieu de 22."
+        },
+        {
+          "id": "b",
+          "texte": "27",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

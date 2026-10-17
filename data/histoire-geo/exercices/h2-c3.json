@@ -1,0 +1,226 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "h2-c3",
+  "exercices": [
+    {
+      "id": "h2-c3-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le traité de Rome crée…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la CEE",
+              "correct": true,
+              "explication": "25 mars 1957."
+            },
+            {
+              "id": "b",
+              "texte": "l'euro",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "L'Algérie devient indépendante le…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "5 juillet 1962",
+              "correct": true,
+              "explication": "Après le référendum d'autodétermination."
+            },
+            {
+              "id": "b",
+              "texte": "18 mars 1962",
+              "correct": false,
+              "explication": "Évian."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "La France quitte le commandement intégré de l'OTAN en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1966",
+              "correct": true,
+              "explication": "Décision de De Gaulle."
+            },
+            {
+              "id": "b",
+              "texte": "1949",
+              "correct": false,
+              "explication": "Création de l'OTAN."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "L'article 16 de la Constitution donne au président…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "des pouvoirs exceptionnels en cas de crise grave",
+              "correct": true,
+              "explication": "Exécutif fort."
+            },
+            {
+              "id": "b",
+              "texte": "le droit de voter les lois seul en temps normal",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "L'expression « guerre d'Algérie » est reconnue par la loi en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1999",
+              "correct": true,
+              "explication": "Avant, on parlait d'« événements »."
+            },
+            {
+              "id": "b",
+              "texte": "1962",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "h2-c3-composition",
+      "titre": "Plan de composition : « La France et la décolonisation : la guerre d'Algérie (1954-1962) et ses mémoires »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « La France et la décolonisation : la guerre d'Algérie (1954-1962) et ses mémoires »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : définition (décolonisation, mémoire) ; bornes 1954-1962 et au-delà ; problématique : comment la guerre d'Algérie transforme-t-elle la France et laisse-t-elle des mémoires conflictuelles ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Une guerre de décolonisation (1954-1962)**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Une colonie de peuplement inégalitaire",
+            "B. Une guerre violente (appelés, torture, attentats)",
+            "C. Vers l'indépendance : de Gaulle, Évian, 5 juillet 1962"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Une guerre qui change la France**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. La chute de la IVe République et la Constitution de 1958",
+            "B. Le départ des pieds-noirs et des harkis"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III. Des mémoires concurrentes**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Un long silence (« événements » jusqu'en 1999)",
+            "B. Des groupes porteurs de mémoires différentes",
+            "C. Le travail des historiens"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : une guerre qui pèse encore sur les relations franco-algériennes."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "matiere": "ses",
+  "chapitre": "mobilite-sociale",
+  "exercices": [
+    {
+      "id": "mobilite-qcm",
+      "titre": "Mobilité sociale : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Pour une table : repère toujours le « sur 100 … » pour savoir d'où tu pars."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "La fille d'un ouvrier devient cadre. Situation de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "mobilité ascendante",
+              "correct": true,
+              "explication": "Position plus élevée que celle du parent."
+            },
+            {
+              "id": "b",
+              "texte": "reproduction sociale",
+              "correct": false,
+              "explication": "Elle occuperait alors la même position."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Le fils d'un cadre devient employé. Situation de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "déclassement",
+              "correct": true,
+              "explication": "Mobilité descendante."
+            },
+            {
+              "id": "b",
+              "texte": "mobilité structurelle",
+              "correct": false,
+              "explication": "C'est une explication possible, pas une situation individuelle."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Pour mesurer la mobilité indépendamment des changements de structure, on utilise…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Eduscol, fiche ressource de SES « Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ? », octobre 2025",
+            "url": "https://eduscol.education.fr/document/23221/download"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la fluidité sociale",
+              "correct": true,
+              "explication": "Mesure relative."
+            },
+            {
+              "id": "b",
+              "texte": "la mobilité observée",
+              "correct": false,
+              "explication": "Elle inclut la mobilité structurelle."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Quel âge ont les personnes interrogées dans les tables de l'Insee ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Insee Première n° 1739, « En 40 ans, la mobilité sociale des femmes a progressé, celle des hommes est restée quasi stable », 27 février 2019",
+            "url": "https://insee.fr/fr/statistiques/3733096"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "35 à 59 ans",
+              "correct": true,
+              "explication": "Leur position professionnelle est stabilisée."
+            },
+            {
+              "id": "b",
+              "texte": "18 à 25 ans",
+              "correct": false,
+              "explication": "Leur position n'est pas encore stabilisée."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Le capital social, c'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le réseau de relations d'une personne",
+              "correct": true,
+              "explication": "Une ressource familiale qui aide à trouver un emploi."
+            },
+            {
+              "id": "b",
+              "texte": "le patrimoine financier",
+              "correct": false,
+              "explication": "Le patrimoine relève du capital économique."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "mobilite-lecture-table",
+      "titre": "Lire une table de mobilité (données fictives)",
+      "type": "etude-document",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Données **fictives**, créées pour l'exercice. Table de destinée : sur 100 fils d'ouvriers, 45 sont ouvriers, 25 professions intermédiaires, 12 employés, 10 cadres et 8 dans d'autres groupes. Sur 100 fils de cadres, 50 sont cadres et 8 ouvriers.",
+        "1. Rédigez une phrase avec la donnée « 45 ». 2. Identifiez une situation de reproduction, une de mobilité ascendante et une de déclassement. 3. Peut-on conclure que les fils d'ouvriers et de cadres ont les mêmes chances de devenir cadres ?"
+      ],
+      "methode": [
+        "Commence chaque phrase par « Sur 100 fils de… ».",
+        "Pour la question 3, compare les deux origines."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**1.** Selon cette table fictive, sur 100 fils d'ouvriers, 45 sont devenus ouvriers."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**2.** Reproduction : les 45 fils d'ouvriers restés ouvriers, ou les 50 fils de cadres devenus cadres. Mobilité ascendante : les 10 fils d'ouvriers devenus cadres (ou les 25 devenus professions intermédiaires). Déclassement : les 8 fils de cadres devenus ouvriers."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**3.** Non : un fils de cadre a 50 chances sur 100 de devenir cadre, un fils d'ouvrier 10 sur 100, soit 5 fois moins. L'origine sociale pèse fortement : la société est peu fluide."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Phrase de lecture correcte",
+          "points": 1.5
+        },
+        {
+          "critere": "Trois situations identifiées",
+          "points": 2
+        },
+        {
+          "critere": "Comparaison des chances",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "mobilite-structurelle-fluidite",
+      "titre": "Mobilité structurelle et fluidité",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez qu'une société plus mobile n'est pas nécessairement une société plus fluide."
+      ],
+      "methode": [
+        "Définis mobilité observée, mobilité structurelle et fluidité.",
+        "Explique pourquoi la mobilité peut augmenter sans que la fluidité augmente."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Définitions.** La mobilité observée compte tous les individus dont la position diffère de celle de leur parent. Une partie est structurelle : elle résulte de l'évolution des emplois. La fluidité compare les chances relatives d'accès aux positions selon l'origine."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Mécanisme.** Avec la multiplication des emplois qualifiés, beaucoup d'enfants d'ouvriers montent dans la hiérarchie : la mobilité augmente. Mais les enfants de cadres en profitent aussi, et gardent le même avantage relatif. L'inégalité des chances ne recule pas : la fluidité n'augmente pas."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "mobilite-plan-dissertation",
+      "titre": "Plan de dissertation : les facteurs de la mobilité",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet : « Comment la famille et l'école influencent-elles la mobilité sociale ? »",
+        "Construis la problématique et un plan détaillé."
+      ],
+      "methode": [
+        "Plan thématique : I. l'école ; II. la famille. Montre dans chaque partie qu'ils peuvent favoriser la mobilité **ou** la reproduction.",
+        "Barème sur 18 : à l'épreuve, les 2 derniers points portent sur la maîtrise de la langue."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique possible.** L'école et la famille sont-elles des moteurs de mobilité ou des instruments de reproduction ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Le niveau de formation, voie de mobilité mais aussi de reproduction.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Le diplôme donne accès aux emplois qualifiés : c'est la principale voie de mobilité ascendante.",
+            "B. Mais la réussite scolaire dépend de l'origine sociale (capital culturel, stratégies des ménages).",
+            "C. Et la multiplication des diplômes réduit leur valeur (paradoxe d'Anderson, hors programme)."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Les ressources et configurations familiales.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Le capital économique, culturel et social des parents favorise la reproduction aux extrémités de la hiérarchie.",
+            "B. La configuration familiale (taille de la fratrie, famille monoparentale) influence les ressources disponibles.",
+            "C. La position de la mère compte aussi et a contribué à la mobilité ascendante des femmes."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes et problématique",
+          "points": 4
+        },
+        {
+          "critere": "Partie I : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Partie II : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Pertinence des mécanismes et des exemples",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

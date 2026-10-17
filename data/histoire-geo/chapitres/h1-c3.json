@@ -1,0 +1,320 @@
+{
+  "id": "h1-c3",
+  "matiere": "histoire-geo",
+  "titre": "La Seconde Guerre mondiale",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Histoire · Thème 1 – Fragilités des démocraties, totalitarismes et Seconde Guerre mondiale (1929-1945)",
+    "intitule": "La Seconde Guerre mondiale",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Montrer que la guerre est mondiale et d'une violence extrême (guerre d'anéantissement).",
+    "Expliquer le processus qui mène au génocide des Juifs et des Tsiganes.",
+    "Comprendre les choix de la France en 1940 : Vichy et la France libre.",
+    "Connaître les points de passage."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les points de passage et d'ouverture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "juin 1940 en France : continuer ou arrêter la guerre ;",
+            "de Gaulle et la France libre ;",
+            "le front de l'Est et la guerre d'anéantissement ;",
+            "juin 1944 : le débarquement en Normandie et l'opération Bagration ;",
+            "6 et 9 août 1945 : les bombardements nucléaires d'Hiroshima et de Nagasaki."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "guerre",
+      "titre": "Une guerre mondiale et d'anéantissement",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Après le pacte germano-soviétique (23 août 1939), l'Allemagne envahit la Pologne le **1er septembre 1939** ; la France et le Royaume-Uni lui déclarent la guerre. Le Japon, allié de l'Allemagne, attaque les États-Unis à **Pearl Harbor** (7 décembre 1941) : la guerre devient mondiale."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Le front de l'Est** : le 22 juin 1941, l'Allemagne attaque l'URSS (opération Barbarossa). C'est une **guerre d'anéantissement** : les nazis veulent détruire le « judéo-bolchevisme » et réduire les Slaves en esclavage. Les civils sont massacrés, les prisonniers soviétiques meurent par millions. La victoire soviétique à **Stalingrad** (capitulation allemande le 2 février 1943) marque un tournant."
+        },
+        {
+          "type": "definition",
+          "glossaire": "guerre-aneantissement"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Juin 1944** : les Alliés débarquent en **Normandie** le 6 juin ; à l'Est, l'Armée rouge lance l'**opération Bagration** (22 juin) et détruit une grande partie des forces allemandes. L'Allemagne capitule le **8 mai 1945**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Les 6 et 9 août 1945**, les États-Unis lancent des bombes atomiques sur **Hiroshima** et **Nagasaki** ; le Japon capitule (signature le 2 septembre 1945). La guerre fait environ 60 millions de morts, en majorité des civils."
+        }
+      ]
+    },
+    {
+      "id": "genocide",
+      "titre": "Le génocide des Juifs et des Tsiganes",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "genocide"
+        },
+        {
+          "type": "definition",
+          "glossaire": "shoah"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le processus : exclusion et persécutions (lois de Nuremberg, 1935 ; nuit de Cristal, 1938) → ghettos en Pologne → massacres par balles des **Einsatzgruppen** en URSS à partir de 1941 → conférence de **Wannsee** (20 janvier 1942) qui organise la « solution finale » → **centres de mise à mort** (Auschwitz-Birkenau, Treblinka…). Environ **6 millions de Juifs** et plusieurs centaines de milliers de Tsiganes sont assassinés."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "En France, le régime de Vichy collabore aux déportations : lors de la **rafle du Vél' d'Hiv** (16-17 juillet 1942), la police française arrête plus de 13 000 Juifs à Paris."
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "titre": "La France : arrêter ou continuer la guerre ?",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Juin 1940** : l'armée française est battue. Le maréchal **Pétain** demande l'armistice (17 juin), signé le 22 juin. Le **18 juin**, depuis Londres, **de Gaulle** appelle à continuer le combat : c'est le début de la **France libre**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le **10 juillet 1940**, les parlementaires votent les pleins pouvoirs à Pétain : la République est remplacée par l'**État français** (régime de Vichy), autoritaire, antisémite, qui choisit la **collaboration** avec l'Allemagne. La **Résistance** se développe ; Jean Moulin unifie ses mouvements au sein du **Conseil national de la Résistance** (CNR, mai 1943)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "collaboration"
+        },
+        {
+          "type": "definition",
+          "glossaire": "resistance"
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Invasion de la Pologne",
+      "valeur": "1er septembre 1939",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Appel du général de Gaulle",
+      "valeur": "18 juin 1940",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Attaque de l'URSS (Barbarossa)",
+      "valeur": "22 juin 1941",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Conférence de Wannsee",
+      "valeur": "20 janvier 1942",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Débarquement en Normandie",
+      "valeur": "6 juin 1944",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Hiroshima et Nagasaki",
+      "valeur": "6 et 9 août 1945",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La guerre en quatre temps",
+    "colonnes": [
+      "Période",
+      "Événements clés"
+    ],
+    "lignes": [
+      [
+        "1939-1941",
+        "Victoires allemandes ; défaite française (juin 1940)"
+      ],
+      [
+        "1941-1942",
+        "Mondialisation : Barbarossa (juin 1941), Pearl Harbor (déc. 1941) ; Wannsee (janv. 1942)"
+      ],
+      [
+        "1943-1944",
+        "Tournants : Stalingrad (fév. 1943) ; Normandie et Bagration (juin 1944)"
+      ],
+      [
+        "1945",
+        "Capitulations : Allemagne (8 mai), Japon (2 sept.) après Hiroshima et Nagasaki"
+      ]
+    ]
+  },
+  "fiche": [
+    "**1er sept. 1939** : invasion de la Pologne. **7 déc. 1941** : Pearl Harbor.",
+    "**Front de l'Est** : guerre d'anéantissement ; Stalingrad (fév. 1943).",
+    "**Génocide** : ~6 millions de Juifs assassinés ; Wannsee (20 janv. 1942) ; Auschwitz-Birkenau.",
+    "**France** : armistice (22 juin 1940), appel du 18 juin, Vichy et la collaboration, Résistance (CNR 1943), Vél' d'Hiv (juillet 1942).",
+    "**Juin 1944** : Normandie (6 juin), Bagration (22 juin).",
+    "**6 et 9 août 1945** : Hiroshima, Nagasaki."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le débarquement en Normandie a lieu le…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "6 juin 1944",
+          "correct": true,
+          "explication": "Jour J."
+        },
+        {
+          "id": "b",
+          "texte": "8 mai 1945",
+          "correct": false,
+          "explication": "Capitulation allemande."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "L'opération Bagration est une offensive…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "soviétique",
+          "correct": true,
+          "explication": "22 juin 1944."
+        },
+        {
+          "id": "b",
+          "texte": "américaine",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La conférence de Wannsee organise…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la « solution finale »",
+          "correct": true,
+          "explication": "20 janvier 1942."
+        },
+        {
+          "id": "b",
+          "texte": "la paix",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "L'appel du 18 juin 1940 est lancé par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "de Gaulle",
+          "correct": true,
+          "explication": "Depuis Londres."
+        },
+        {
+          "id": "b",
+          "texte": "Pétain",
+          "correct": false,
+          "explication": "Pétain demande l'armistice."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Hiroshima est bombardée le…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "6 août 1945",
+          "correct": true,
+          "explication": "Nagasaki le 9."
+        },
+        {
+          "id": "b",
+          "texte": "6 juin 1944",
+          "correct": false,
+          "explication": "Débarquement."
+        }
+      ]
+    }
+  ]
+}

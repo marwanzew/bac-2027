@@ -1,0 +1,28 @@
+{
+  "titre": "EPS",
+  "intro": "Rappel des modalités · contrôle continu · coefficient 6",
+  "maj": "2026-10-17",
+  "sections": [
+    {
+      "titre": "Comment l'EPS compte au bac",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "L'EPS n'a pas d'épreuve finale : elle est évaluée en **contrôle continu**, avec un **coefficient 6** sur 100."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Source : note de service du 28 juillet 2021, BO n° 30 du 29 juillet 2021."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les activités évaluées et leur calendrier sont fixés par ton équipe d'EPS : demande-les à ton professeur en début d'année."
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Une absence non justifiée lors d'une évaluation peut peser lourd : préviens ton professeur et apporte un justificatif."
+        }
+      ]
+    }
+  ]
+}

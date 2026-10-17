@@ -1,0 +1,247 @@
+{
+  "matiere": "espagnol",
+  "chapitre": "axe1",
+  "exercices": [
+    {
+      "id": "axe1-qcm",
+      "titre": "Vocabulario : 5 preguntas",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Responde a las 5 preguntas. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*denunciar*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "dénoncer",
+              "correct": true,
+              "explication": "denunciar una injusticia."
+            },
+            {
+              "id": "b",
+              "texte": "renoncer",
+              "correct": false,
+              "explication": "Renoncer = renunciar."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*el barrio*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le quartier",
+              "correct": true,
+              "explication": "Un barrio popular."
+            },
+            {
+              "id": "b",
+              "texte": "la barrière",
+              "correct": false,
+              "explication": "Barrière = barrera."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*la igualdad*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'égalité",
+              "correct": true,
+              "explication": "Luchar por la igualdad."
+            },
+            {
+              "id": "b",
+              "texte": "l'église",
+              "correct": false,
+              "explication": "Église = iglesia."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*manifestarse*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "manifester",
+              "correct": true,
+              "explication": "Miles de personas se manifiestan."
+            },
+            {
+              "id": "b",
+              "texte": "se maquiller",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*Es necesario que nosotros…*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue espagnole"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "hablemos",
+              "correct": true,
+              "explication": "Subjonctif."
+            },
+            {
+              "id": "b",
+              "texte": "hablamos",
+              "correct": false,
+              "explication": "Indicatif."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Una respuesta correcta",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe1-comprension",
+      "titre": "Comprensión escrita",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Lee el texto y contesta a las preguntas. (Lis le texte et réponds aux questions.)",
+        "1. ¿Quién es Lucía y dónde vive?",
+        "2. ¿Qué publica en las redes sociales?",
+        "3. ¿Por qué se preocupa su madre?",
+        "4. ¿Qué decide Lucía al final? ¿Por qué?"
+      ],
+      "documents": [
+        {
+          "titre": "Texto (escrito para el entrenamiento)",
+          "contenu": "Lucía tiene diecisiete años y vive en Sevilla. Cada noche publica fotos en las redes sociales: sus amigas, su perro, su plato favorito. Un día, su madre descubre que una desconocida comenta todas sus fotos. «No quiero que la gente sepa dónde vives», le dice. Lucía se enfada al principio, pero después decide cambiar la configuración de su perfil. Ahora solo sus amigos pueden ver lo que publica. «Mi vida privada es mía», explica.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. Lucía es una chica de diecisiete años que vive en Sevilla.",
+            "2. Publica fotos de sus amigas, de su perro y de su plato favorito.",
+            "3. Porque una desconocida comenta todas sus fotos y no quiere que la gente sepa dónde vive su hija.",
+            "4. Decide cambiar la configuración de su perfil para que solo sus amigos vean sus fotos, porque considera que su vida privada le pertenece."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe1-expresion",
+      "titre": "Expresión escrita",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "¿Crees que las redes sociales ponen en peligro la vida privada? Escribe un texto de 120 palabras aproximadamente. (Penses-tu que les réseaux sociaux mettent en danger la vie privée ? Environ 120 mots.)"
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *primero, además, sin embargo, por eso, en conclusión*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Modelo** (niveau B1, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Hoy en día, casi todos los jóvenes usan las redes sociales. Por un lado, son útiles: permiten hablar con los amigos, compartir fotos y descubrir el mundo. Por otro lado, pueden ser peligrosas para la vida privada."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "En efecto, cuando publicamos una foto, no sabemos quién la va a ver. Un desconocido puede saber dónde vivimos o qué hacemos. Además, lo que publicamos hoy puede quedarse en Internet durante muchos años."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "En mi opinión, las redes sociales no son malas, pero es necesario que aprendamos a usarlas con prudencia. Es importante que cada uno proteja su perfil y que piense antes de publicar."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

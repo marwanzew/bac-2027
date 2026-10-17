@@ -1,0 +1,251 @@
+{
+  "matiere": "anglais",
+  "chapitre": "axe6",
+  "exercices": [
+    {
+      "id": "axe6-qcm",
+      "titre": "Vocabulary: 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*devolution*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la dévolution (transfert de pouvoirs)",
+              "correct": true,
+              "explication": "Parlement écossais…"
+            },
+            {
+              "id": "b",
+              "texte": "la révolution",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "L'accord du Vendredi saint date de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère culturel (date établie)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1998",
+              "correct": true,
+              "explication": "10 avril 1998."
+            },
+            {
+              "id": "b",
+              "texte": "1922",
+              "correct": false,
+              "explication": "Indépendance irlandaise."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*Welsh* est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la langue galloise",
+              "correct": true,
+              "explication": "Spoken in Wales."
+            },
+            {
+              "id": "b",
+              "texte": "écossais",
+              "correct": false,
+              "explication": "Écossais = Scottish."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*more important … *",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "than",
+              "correct": true,
+              "explication": "Comparatif."
+            },
+            {
+              "id": "b",
+              "texte": "that",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Charles III devient roi en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère culturel (date établie)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "2022",
+              "correct": true,
+              "explication": "8 septembre 2022."
+            },
+            {
+              "id": "b",
+              "texte": "2016",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe6-comprension",
+      "titre": "Reading comprehension",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Read the text and answer the questions. (Lis le texte et réponds aux questions.)",
+        "1. Where does Eilidh live?",
+        "2. How do her grandparents and her friends feel about their identity?",
+        "3. What happened in 2014 and in 2016?",
+        "4. Why did many people start thinking about independence again?"
+      ],
+      "documents": [
+        {
+          "titre": "Text (written for practice)",
+          "contenu": "Eilidh lives in Glasgow. She is 18 and she voted for the first time last year. \"My grandparents feel British first,\" she explains, \"but my friends and I feel Scottish before anything else.\" In 2014, when Scotland voted to stay in the United Kingdom, she was too young to vote. Two years later, most Scots voted to remain in the European Union, but the UK as a whole voted to leave. \"That's when many people started thinking about independence again,\" she says.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. In Glasgow, in Scotland.",
+            "2. Her grandparents feel British first; she and her friends feel Scottish first.",
+            "3. In 2014, Scotland voted to stay in the UK; in 2016, most Scots voted to remain in the EU but the UK as a whole voted to leave.",
+            "4. Because Scotland was taken out of the EU against the will of most of its voters."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe6-expresion",
+      "titre": "Written expression",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Is the United Kingdom still united? Write about 180 words."
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *first, moreover, however, therefore, to conclude*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (niveau B2, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "The United Kingdom is made up of four nations: England, Scotland, Wales and Northern Ireland. But is it still united?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the one hand, the four nations share a long history, a state and a monarch. In 2014, Scotland voted to stay in the UK, and many people still feel both British and Scottish, Welsh or Northern Irish."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "On the other hand, devolution has given each nation its own institutions, and national identities are stronger than before. Brexit increased tensions: Scotland and Northern Ireland voted to remain in the EU, but they had to leave."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In conclusion, the UK is still united, but its unity is more fragile than in the past and depends on respecting the identity of each nation."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

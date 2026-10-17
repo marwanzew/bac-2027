@@ -1,0 +1,278 @@
+{
+  "id": "g3",
+  "matiere": "histoire-geo",
+  "titre": "L'Union européenne dans la mondialisation : des dynamiques complexes",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Géographie – Les territoires dans la mondialisation : entre intégrations et rivalités",
+    "intitule": "L'Union européenne dans la mondialisation : des dynamiques complexes",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Comprendre les politiques européennes entre compétitivité et cohésion des territoires.",
+    "Montrer que l'UE est un espace plus ou moins ouvert sur le monde.",
+    "Étudier les territoires transfrontaliers de la France."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les questions du programme",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Des politiques européennes entre compétitivité et cohésion des territoires.",
+            "L'Union européenne, un espace plus ou moins ouvert sur le monde.",
+            "Question spécifique sur la France : les dynamiques différenciées des territoires transfrontaliers."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "politiques",
+      "titre": "Compétitivité et cohésion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "cohesion-territoriale"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**La compétitivité** : marché unique (1993), libre circulation, politique de recherche, grands réseaux de transport. Le cœur économique de l'UE est la **dorsale européenne** (de Londres à Milan, par la vallée du Rhin), autour de grandes métropoles."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**La cohésion** : la politique de cohésion (fonds européens comme le FEDER) aide les régions en retard de développement, surtout en Europe de l'Est et du Sud. La **PAC** (1962) soutient l'agriculture. Les écarts se réduisent entre pays, mais persistent entre régions."
+        }
+      ]
+    },
+    {
+      "id": "ouverture",
+      "titre": "Un espace plus ou moins ouvert",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Ouvert** : l'UE est une grande puissance commerciale ; ses ports (Rotterdam, Anvers, Hambourg) et ses aéroports la relient au monde ; elle signe de nombreux accords de libre-échange ; elle attire touristes et étudiants."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Fermé** : l'**espace Schengen** (accords de 1985, appliqués en 1995) supprime les contrôles aux frontières intérieures mais renforce les frontières extérieures (agence **Frontex**, créée en 2004). Les routes migratoires en Méditerranée sont meurtrières."
+        }
+      ]
+    },
+    {
+      "id": "transfrontalier",
+      "titre": "La France et ses territoires transfrontaliers",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Des dynamiques différentes selon les frontières : des centaines de milliers de **travailleurs frontaliers** vont chaque jour en Suisse et au Luxembourg ; des coopérations s'organisent (Grand Genève, Eurométropole Lille-Kortrijk-Tournai, Eurodistrict Strasbourg-Ortenau). À la frontière espagnole, l'**eurorégion Pyrénées-Méditerranée** associe l'Occitanie et la Catalogne."
+        },
+        {
+          "type": "definition",
+          "glossaire": "interface"
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Politique agricole commune (PAC)",
+      "valeur": "1962",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Accords de Schengen (application en 1995)",
+      "valeur": "1985",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Marché unique",
+      "valeur": "1993",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Agence Frontex",
+      "valeur": "2004",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "L'UE dans la mondialisation",
+    "colonnes": [
+      "Dynamique",
+      "Exemples"
+    ],
+    "lignes": [
+      [
+        "Compétitivité",
+        "Marché unique, dorsale européenne, métropoles"
+      ],
+      [
+        "Cohésion",
+        "Fonds européens, PAC"
+      ],
+      [
+        "Ouverture",
+        "Ports (Rotterdam), accords commerciaux"
+      ],
+      [
+        "Fermeture relative",
+        "Schengen, Frontex"
+      ],
+      [
+        "France",
+        "Frontaliers vers la Suisse et le Luxembourg, eurorégions"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Compétitivité** : marché unique, dorsale européenne.",
+    "**Cohésion** : politique de cohésion (FEDER), PAC (1962).",
+    "**Ouverture** : grande puissance commerciale ; Rotterdam, 1er port européen.",
+    "**Schengen** (1985, appliqué en 1995) ; **Frontex** (2004).",
+    "**Transfrontalier** : Suisse, Luxembourg, Grand Genève, Eurométropole lilloise, eurorégion Pyrénées-Méditerranée."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "La politique de cohésion vise à…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "réduire les écarts de développement entre régions",
+          "correct": true,
+          "explication": "Fonds européens."
+        },
+        {
+          "id": "b",
+          "texte": "augmenter les droits de douane",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Les accords de Schengen datent de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1985",
+          "correct": true,
+          "explication": "Appliqués en 1995."
+        },
+        {
+          "id": "b",
+          "texte": "2004",
+          "correct": false,
+          "explication": "Frontex."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La dorsale européenne va…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "de Londres à Milan",
+          "correct": true,
+          "explication": "Par la vallée du Rhin."
+        },
+        {
+          "id": "b",
+          "texte": "de Lisbonne à Varsovie",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le premier port européen est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Rotterdam",
+          "correct": true,
+          "explication": "Pays-Bas."
+        },
+        {
+          "id": "b",
+          "texte": "Marseille",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Beaucoup de frontaliers français travaillent…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère géographique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "en Suisse et au Luxembourg",
+          "correct": true,
+          "explication": "Salaires élevés."
+        },
+        {
+          "id": "b",
+          "texte": "en Islande",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

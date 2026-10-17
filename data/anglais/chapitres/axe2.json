@@ -1,0 +1,404 @@
+{
+  "id": "axe2",
+  "matiere": "anglais",
+  "titre": "Axe 2. Territoire et mémoire",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Axes culturels de terminale",
+    "intitule": "Axe 2. Territoire et mémoire",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'anglais pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 4",
+      "url": "https://www.education.gouv.fr/sites/default/files/ensel621_annexe4.pdf"
+    }
+  },
+  "objectifs": [
+    "Parler de la mémoire collective et des lieux de mémoire dans le monde anglophone.",
+    "Connaître des repères : mémoriaux, esclavage, peuples autochtones, commémorations.",
+    "Utiliser le present perfect et le prétérit."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "The axis in brief · L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "ce qui est officiel",
+          "texte": "Le **titre de l'axe** vient du programme officiel (2025). Les pistes, repères et documents proposés ici sont des suggestions pour réviser : ton professeur choisit ses propres documents."
+        },
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVA, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B2**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Cet axe interroge le **lien entre un territoire et la mémoire** de son histoire : monuments, commémorations, débats sur les statues, reconnaissance des peuples autochtones ou des victimes de l'esclavage. Qui décide de ce dont on se souvient ?"
+        }
+      ]
+    },
+    {
+      "id": "vocabulario",
+      "titre": "Vocabulary",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Vocabulaire de l'axe",
+          "colonnes": [
+            "English",
+            "Français",
+            "Example"
+          ],
+          "lignes": [
+            [
+              "a memorial",
+              "un mémorial",
+              "The 9/11 Memorial in New York."
+            ],
+            [
+              "to commemorate",
+              "commémorer",
+              "to commemorate the victims"
+            ],
+            [
+              "a statue",
+              "une statue",
+              "Protesters pulled down a statue."
+            ],
+            [
+              "slavery",
+              "l'esclavage",
+              "the legacy of slavery"
+            ],
+            [
+              "Indigenous peoples",
+              "les peuples autochtones",
+              "the rights of Indigenous peoples"
+            ],
+            [
+              "an apology",
+              "des excuses",
+              "a national apology"
+            ],
+            [
+              "heritage",
+              "le patrimoine",
+              "cultural heritage"
+            ],
+            [
+              "to remember",
+              "se souvenir",
+              "We will remember them."
+            ],
+            [
+              "a landmark",
+              "un lieu emblématique, un repère",
+              "a historical landmark"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "memorial"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "titre": "Cultural landmarks · Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Pourquoi c'est important"
+          ],
+          "lignes": [
+            [
+              "Remembrance Day (Royaume-Uni, Commonwealth), coquelicots",
+              "11 novembre",
+              "Mémoire des soldats morts dans les guerres"
+            ],
+            [
+              "Excuses officielles de l'Australie aux « générations volées » aborigènes",
+              "13 février 2008",
+              "Une nation reconnaît une injustice passée"
+            ],
+            [
+              "Ouverture du mémorial du 11-Septembre à New York",
+              "2011",
+              "Lieu de mémoire sur le site du World Trade Center"
+            ],
+            [
+              "Statue d'Edward Colston, marchand d'esclaves, jetée dans le port de Bristol",
+              "7 juin 2020",
+              "Débat sur les monuments liés à l'esclavage"
+            ],
+            [
+              "Juneteenth devient jour férié fédéral aux États-Unis",
+              "2021",
+              "Commémore la fin de l'esclavage (19 juin 1865)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pistes",
+      "titre": "Ideas to explore · Pistes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Lieux de mémoire** : mémoriaux, musées, monuments.",
+            "**Mémoires contestées** : statues, esclavage, colonisation.",
+            "**Peuples autochtones** : Aborigènes, Amérindiens, Maoris."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "titre": "Grammar · Le point de grammaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Present perfect or simple past** : le prétérit raconte un fait passé daté et terminé ; le present perfect relie le passé au présent (bilan, conséquence)."
+        },
+        {
+          "type": "tableau",
+          "titre": "Exemples",
+          "colonnes": [
+            "Temps",
+            "Emploi",
+            "Example"
+          ],
+          "lignes": [
+            [
+              "Simple past",
+              "Fait daté, terminé",
+              "The statue **was** pulled down in 2020."
+            ],
+            [
+              "Present perfect",
+              "Lien avec le présent",
+              "The city **has decided** to put it in a museum."
+            ],
+            [
+              "Present perfect + for/since",
+              "Durée jusqu'à maintenant",
+              "People **have commemorated** the victims **since** 2011."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frases",
+      "titre": "Useful phrases · Phrases utiles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Pour parler ou écrire sur l'axe",
+          "colonnes": [
+            "English",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "This monument pays tribute to…",
+              "Ce monument rend hommage à…"
+            ],
+            [
+              "It reminds us that…",
+              "Il nous rappelle que…"
+            ],
+            [
+              "Some people argue that…, while others…",
+              "Certains affirment que…, tandis que d'autres…"
+            ],
+            [
+              "The past is still present in…",
+              "Le passé est encore présent dans…"
+            ],
+            [
+              "It is a duty to remember.",
+              "C'est un devoir de mémoire."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Excuses de l'Australie aux générations volées",
+      "valeur": "13 février 2008",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Mémorial du 11-Septembre",
+      "valeur": "2011",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Statue de Colston à Bristol",
+      "valeur": "7 juin 2020",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Axe 2. Territoire et mémoire : l'essentiel",
+    "colonnes": [
+      "Aspect",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "Vocabulaire clé",
+        "a memorial, to commemorate, a statue, slavery, Indigenous peoples, an apology"
+      ],
+      [
+        "Repères",
+        "Remembrance Day (Royaume-Uni, Commonwealth), coquelicots (11 novembre), Excuses officielles de l'Australie aux « générations volées » aborigènes (13 février 2008), Ouverture du mémorial du 11-Septembre à New York (2011), Statue d'Edward Colston, marchand d'esclaves, jetée dans le port de Bristol (7 juin 2020)"
+      ],
+      [
+        "Grammaire",
+        "Present perfect or simple past"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Mémoire et territoire** : mémoriaux, monuments, commémorations.",
+    "**Repères** : Remembrance Day (11 novembre), excuses australiennes (2008), mémorial du 11-Septembre (2011), Colston (2020), Juneteenth (2021).",
+    "**Grammaire** : simple past (daté) / present perfect (lien avec le présent)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*to commemorate*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "commémorer",
+          "correct": true,
+          "explication": "To commemorate the victims."
+        },
+        {
+          "id": "b",
+          "texte": "commenter",
+          "correct": false,
+          "explication": "Commenter = to comment."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*The statue … pulled down in 2020.*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "was",
+          "correct": true,
+          "explication": "Prétérit : date précise."
+        },
+        {
+          "id": "b",
+          "texte": "has been",
+          "correct": false,
+          "explication": "Pas de present perfect avec une date passée."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Remembrance Day a lieu le…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "11 novembre",
+          "correct": true,
+          "explication": "Coquelicots."
+        },
+        {
+          "id": "b",
+          "texte": "4 juillet",
+          "correct": false,
+          "explication": "Fête nationale américaine."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Juneteenth commémore…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la fin de l'esclavage aux États-Unis",
+          "correct": true,
+          "explication": "19 juin 1865."
+        },
+        {
+          "id": "b",
+          "texte": "l'indépendance américaine",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*an apology*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "des excuses",
+          "correct": true,
+          "explication": "A national apology."
+        },
+        {
+          "id": "b",
+          "texte": "une apologie",
+          "correct": false,
+          "explication": "Faux ami."
+        }
+      ]
+    }
+  ]
+}

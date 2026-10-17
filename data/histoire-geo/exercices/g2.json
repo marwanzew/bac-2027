@@ -1,0 +1,267 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "g2",
+  "exercices": [
+    {
+      "id": "g2-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "L'ASEAN regroupe des pays…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "d'Asie du Sud-Est",
+              "correct": true,
+              "explication": "1967."
+            },
+            {
+              "id": "b",
+              "texte": "d'Europe",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "L'ACEUM a remplacé…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'ALENA",
+              "correct": true,
+              "explication": "En 2020."
+            },
+            {
+              "id": "b",
+              "texte": "l'UE",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Le Sahel est un exemple d'espace…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "en marge de la mondialisation",
+              "correct": true,
+              "explication": "Pauvreté, conflits."
+            },
+            {
+              "id": "b",
+              "texte": "très intégré",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "La francophonie participe au…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "rayonnement de la France",
+              "correct": true,
+              "explication": "Soft power."
+            },
+            {
+              "id": "b",
+              "texte": "déclin de la France",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Une guerre commerciale oppose depuis 2018…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les États-Unis et la Chine",
+              "correct": true,
+              "explication": "Droits de douane."
+            },
+            {
+              "id": "b",
+              "texte": "la France et l'Allemagne",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "g2-composition",
+      "titre": "Plan de composition : « Des territoires inégalement intégrés dans la mondialisation »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « Des territoires inégalement intégrés dans la mondialisation »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : définitions ; problématique : pourquoi tous les territoires ne profitent-ils pas de la même façon de la mondialisation ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Des territoires au cœur de la mondialisation**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Les métropoles mondiales",
+            "B. Les façades maritimes et les régions industrielles"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Des territoires en marge**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Les pays les moins avancés",
+            "B. Des marges dans les pays riches"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III. Coopérer et réguler**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. À l'échelle mondiale (OMC)",
+            "B. À l'échelle régionale (UE, ASEAN, Mercosur)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : l'exemple de la France, au rayonnement mondial mais à l'attractivité inégale."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "g2-croquis",
+      "titre": "Légende de croquis : « Des territoires inégalement intégrés dans la mondialisation »",
+      "type": "croquis",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de croquis (créé pour s'entraîner) : « Des territoires inégalement intégrés dans la mondialisation »",
+        "Construis une légende organisée en 2 ou 3 parties, avec pour chaque élément le figuré que tu utiliserais (aplat de couleur, point, flèche, trait)."
+      ],
+      "methode": [
+        "Chaque partie de la légende a un titre qui répond au sujet.",
+        "Les figurés : surfaces = aplats ou hachures ; lieux = points ou symboles ; flux = flèches ; limites = traits.",
+        "Hiérarchise : la taille d'un figuré traduit l'importance."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "**1. Les pôles majeurs** : grandes métropoles mondiales (points proportionnels) ; trois grandes aires de puissance (aplats : Amérique du Nord, Europe, Asie orientale).",
+            "**2. Des flux qui les relient** : flèches des grands échanges.",
+            "**3. Des territoires moins intégrés** : pays les moins avancés (aplat clair) ; espaces en crise (hachures : Sahel)."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Légende organisée et titrée",
+          "points": 8
+        },
+        {
+          "critere": "Figurés adaptés",
+          "points": 6
+        },
+        {
+          "critere": "Exemples localisés",
+          "points": 6
+        }
+      ]
+    }
+  ]
+}

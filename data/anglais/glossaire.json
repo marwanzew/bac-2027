@@ -1,0 +1,101 @@
+{
+  "matiere": "anglais",
+  "entrees": [
+    {
+      "id": "privacy",
+      "terme": "privacy",
+      "definition": "Ce qui relève de l'intimité et que l'on a le droit de garder pour soi.",
+      "traduction": {
+        "cible": "privacy",
+        "fr": "la vie privée"
+      },
+      "chapitres": [
+        "axe1"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      }
+    },
+    {
+      "id": "memorial",
+      "terme": "a memorial",
+      "definition": "Monument ou lieu construit pour se souvenir d'événements ou de victimes.",
+      "traduction": {
+        "cible": "a memorial",
+        "fr": "un mémorial"
+      },
+      "chapitres": [
+        "axe2"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      }
+    },
+    {
+      "id": "dystopia-en",
+      "terme": "a dystopia",
+      "definition": "Récit d'une société imaginaire oppressive, qui met en garde contre des dérives du présent.",
+      "traduction": {
+        "cible": "a dystopia",
+        "fr": "une dystopie"
+      },
+      "chapitres": [
+        "axe3"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      }
+    },
+    {
+      "id": "headline",
+      "terme": "a headline",
+      "definition": "Titre principal d'un article de presse.",
+      "traduction": {
+        "cible": "a headline",
+        "fr": "un gros titre"
+      },
+      "chapitres": [
+        "axe4"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      }
+    },
+    {
+      "id": "fake-news",
+      "terme": "fake news",
+      "definition": "Informations fausses diffusées, souvent sur les réseaux sociaux, pour tromper ou faire réagir.",
+      "traduction": {
+        "cible": "fake news",
+        "fr": "les fausses informations"
+      },
+      "chapitres": [
+        "axe5"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      }
+    },
+    {
+      "id": "devolution",
+      "terme": "devolution",
+      "definition": "Transfert de pouvoirs du Parlement britannique vers des institutions propres à l'Écosse, au pays de Galles et à l'Irlande du Nord (1998-1999).",
+      "traduction": {
+        "cible": "devolution",
+        "fr": "la dévolution"
+      },
+      "chapitres": [
+        "axe6"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      }
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "id": "la-nature",
+  "matiere": "philosophie",
+  "titre": "La nature",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "La nature",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Distinguer les sens du mot nature (monde physique, essence, ce qui n'est pas culture).",
+    "Comprendre le rapport nature / culture chez l'homme.",
+    "Connaître Aristote, Descartes, Rousseau, Lévi-Strauss, Merleau-Ponty, Jonas.",
+    "Traiter un sujet sur la nature et l'environnement."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "nature"
+        },
+        {
+          "type": "definition",
+          "glossaire": "culture"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Trois sens : la nature comme **ensemble des êtres et des phénomènes** (la physique), comme **essence** d'une chose (la nature humaine), et comme ce qui s'oppose à la **culture** (ce qui est inné, non acquis)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "perfectibilite"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : l'homme fait partie de la nature, mais il la transforme et s'en distingue par la culture. Existe-t-il une nature humaine ? Faut-il maîtriser la nature, la protéger, ou la suivre comme un modèle ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **nature / culture** ; **maîtriser / protéger** ; **inné / acquis**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Aristote (*Physique*)",
+              "Un être naturel a en lui-même le principe de son mouvement, à la différence d'un objet fabriqué",
+              "Définition de la nature"
+            ],
+            [
+              "Descartes (*Discours de la méthode*, 1637)",
+              "La science doit nous rendre « comme maîtres et possesseurs de la nature »",
+              "Projet de maîtrise technique"
+            ],
+            [
+              "Rousseau (*Discours sur l'origine de l'inégalité*, 1755)",
+              "L'homme se distingue de l'animal par sa perfectibilité : il n'a pas de nature fixe",
+              "La nature humaine est ouverte"
+            ],
+            [
+              "Merleau-Ponty (*Phénoménologie de la perception*, 1945)",
+              "Chez l'homme, tout est à la fois fabriqué et naturel : on ne peut séparer une couche naturelle et une couche culturelle",
+              "Nature et culture sont mêlées"
+            ],
+            [
+              "Lévi-Strauss (*Les Structures élémentaires de la parenté*, 1949)",
+              "La prohibition de l'inceste, règle universelle, marque le passage de la nature à la culture",
+              "Une règle à la frontière"
+            ],
+            [
+              "Jonas (*Le Principe responsabilité*, 1979)",
+              "Notre puissance technique nous rend responsables de la nature et des générations futures",
+              "Protéger plutôt que dominer"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Le changement climatique : conséquence de la maîtrise de la nature.",
+            "Les « enfants sauvages » : sans société, pas de langage.",
+            "Le sourire et la manière de manger : naturel et culturel mêlés.",
+            "« C'est naturel » utilisé pour justifier une habitude : qu'est-ce qui est vraiment naturel ?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Faut-il suivre la nature ?",
+            "Existe-t-il une nature humaine ?",
+            "L'homme doit-il dominer la nature ?",
+            "La culture dénature-t-elle l'homme ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "Définition de la nature",
+      "valeur": "Aristote, *Physique*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Projet de maîtrise technique",
+      "valeur": "Descartes, *Discours de la méthode*, 1637",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La nature humaine est ouverte",
+      "valeur": "Rousseau, *Discours sur l'origine de l'inégalité*, 1755",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Nature et culture sont mêlées",
+      "valeur": "Merleau-Ponty, *Phénoménologie de la perception*, 1945",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "Une règle à la frontière",
+      "valeur": "Lévi-Strauss, *Les Structures élémentaires de la parenté*, 1949",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La nature : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Aristote",
+        "Un être naturel a en lui-même le principe de son mouvement, à la différence d'un objet fabriqué"
+      ],
+      [
+        "Descartes",
+        "La science doit nous rendre « comme maîtres et possesseurs de la nature »"
+      ],
+      [
+        "Rousseau",
+        "L'homme se distingue de l'animal par sa perfectibilité : il n'a pas de nature fixe"
+      ],
+      [
+        "Merleau-Ponty",
+        "Chez l'homme, tout est à la fois fabriqué et naturel : on ne peut séparer une couche naturelle et une couche culturelle"
+      ],
+      [
+        "Lévi-Strauss",
+        "La prohibition de l'inceste, règle universelle, marque le passage de la nature à la culture"
+      ],
+      [
+        "Jonas",
+        "Notre puissance technique nous rend responsables de la nature et des générations futures"
+      ]
+    ]
+  },
+  "fiche": [
+    "**3 sens** : monde physique, essence, ce qui s'oppose à la culture.",
+    "**Aristote** : principe de mouvement en soi.",
+    "**Descartes** : maîtres et possesseurs de la nature.",
+    "**Rousseau** : perfectibilité.",
+    "**Merleau-Ponty** : tout est fabriqué et naturel.",
+    "**Lévi-Strauss** : prohibition de l'inceste.",
+    "**Jonas** : responsabilité."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "« Comme maîtres et possesseurs de la nature » :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Descartes",
+          "correct": true,
+          "explication": "*Discours*, 1637."
+        },
+        {
+          "id": "b",
+          "texte": "Jonas",
+          "correct": false,
+          "explication": "Jonas critique ce projet."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La perfectibilité est une notion de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Rousseau",
+          "correct": true,
+          "explication": "1755."
+        },
+        {
+          "id": "b",
+          "texte": "Aristote",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Pour Lévi-Strauss, le passage nature/culture est marqué par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la prohibition de l'inceste",
+          "correct": true,
+          "explication": "Règle universelle."
+        },
+        {
+          "id": "b",
+          "texte": "le feu",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*Le Principe responsabilité* est de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Jonas",
+          "correct": true,
+          "explication": "1979."
+        },
+        {
+          "id": "b",
+          "texte": "Descartes",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "La culture, c'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "ce qui est acquis et transmis",
+          "correct": true,
+          "explication": "≠ inné."
+        },
+        {
+          "id": "b",
+          "texte": "l'agriculture seulement",
+          "correct": false,
+          "explication": "Sens trop étroit."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,777 @@
+{
+  "matiere": "llcer",
+  "entrees": [
+    {
+      "id": "narrator",
+      "terme": "narrator",
+      "definition": "Celui qui raconte l'histoire (à ne pas confondre avec l'auteur).",
+      "traduction": {
+        "cible": "narrator",
+        "fr": "narrateur"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      },
+      "exemple": "The narrator of the novel is a young girl."
+    },
+    {
+      "id": "first-person-narrative",
+      "terme": "first-person narrative",
+      "definition": "Récit dans lequel le narrateur dit « I » et participe à l'histoire.",
+      "traduction": {
+        "cible": "first-person narrative",
+        "fr": "récit à la première personne"
+      },
+      "chapitres": [
+        "methode-synthese",
+        "mise-en-scene-soi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "third-person-narrative",
+      "terme": "third-person narrative",
+      "definition": "Récit dans lequel le narrateur parle des personnages en disant « he », « she », « they ».",
+      "traduction": {
+        "cible": "third-person narrative",
+        "fr": "récit à la troisième personne"
+      },
+      "chapitres": [
+        "methode-synthese",
+        "mise-en-scene-soi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "omniscient-narrator",
+      "terme": "omniscient narrator",
+      "definition": "Narrateur qui sait tout : il connaît les pensées de tous les personnages, le passé et l'avenir.",
+      "traduction": {
+        "cible": "omniscient narrator",
+        "fr": "narrateur omniscient"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "point-of-view",
+      "terme": "point of view",
+      "definition": "Angle à partir duquel l'histoire est racontée (celui d'un personnage, d'un narrateur extérieur…).",
+      "traduction": {
+        "cible": "point of view",
+        "fr": "point de vue"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "stream-of-consciousness",
+      "terme": "stream of consciousness",
+      "definition": "Technique qui reproduit le flot désordonné des pensées d'un personnage, sans ordre logique (Virginia Woolf, James Joyce).",
+      "traduction": {
+        "cible": "stream of consciousness",
+        "fr": "courant de conscience"
+      },
+      "chapitres": [
+        "methode-synthese",
+        "emotions"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "flashback",
+      "terme": "flashback",
+      "definition": "Passage qui raconte un événement antérieur au moment principal du récit.",
+      "traduction": {
+        "cible": "flashback",
+        "fr": "retour en arrière"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "foreshadowing",
+      "terme": "foreshadowing",
+      "definition": "Indice qui laisse deviner un événement à venir.",
+      "traduction": {
+        "cible": "foreshadowing",
+        "fr": "préfiguration, annonce"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "setting",
+      "terme": "setting",
+      "definition": "Le lieu et l'époque où se déroule l'histoire.",
+      "traduction": {
+        "cible": "setting",
+        "fr": "cadre (lieu et époque)"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      },
+      "exemple": "The setting is a small Irish town in the 1950s."
+    },
+    {
+      "id": "plot",
+      "terme": "plot",
+      "definition": "Enchaînement des événements de l'histoire.",
+      "traduction": {
+        "cible": "plot",
+        "fr": "intrigue"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "protagonist",
+      "terme": "protagonist",
+      "definition": "Personnage principal d'une œuvre.",
+      "traduction": {
+        "cible": "protagonist",
+        "fr": "protagoniste, personnage principal"
+      },
+      "chapitres": [
+        "methode-synthese",
+        "initiation"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "tone",
+      "terme": "tone",
+      "definition": "Attitude que le texte exprime (ironique, tragique, humoristique, nostalgique…).",
+      "traduction": {
+        "cible": "tone",
+        "fr": "ton"
+      },
+      "chapitres": [
+        "methode-synthese",
+        "emotions"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      },
+      "exemple": "The tone is bitter and ironic."
+    },
+    {
+      "id": "irony",
+      "terme": "irony",
+      "definition": "Procédé qui consiste à dire le contraire de ce que l'on pense, ou à faire apparaître un décalage entre ce qui est dit et la réalité.",
+      "traduction": {
+        "cible": "irony",
+        "fr": "ironie"
+      },
+      "chapitres": [
+        "methode-synthese",
+        "art-contestation"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "satire",
+      "terme": "satire",
+      "definition": "Œuvre ou procédé qui se moque d'une personne, d'un groupe ou d'une institution pour la critiquer.",
+      "traduction": {
+        "cible": "satire",
+        "fr": "satire"
+      },
+      "chapitres": [
+        "methode-synthese",
+        "art-contestation"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "metaphor",
+      "terme": "metaphor",
+      "definition": "Image qui rapproche deux réalités sans mot de comparaison (« Life is a journey »).",
+      "traduction": {
+        "cible": "metaphor",
+        "fr": "métaphore"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "simile",
+      "terme": "simile",
+      "definition": "Image qui rapproche deux réalités avec un mot de comparaison (like, as) : « as cold as ice ».",
+      "traduction": {
+        "cible": "simile",
+        "fr": "comparaison"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "symbol",
+      "terme": "symbol",
+      "definition": "Élément concret qui représente une idée abstraite (une colombe pour la paix).",
+      "traduction": {
+        "cible": "symbol",
+        "fr": "symbole"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "imagery",
+      "terme": "imagery",
+      "definition": "Ensemble des images (métaphores, descriptions sensorielles) d'un texte.",
+      "traduction": {
+        "cible": "imagery",
+        "fr": "images, imagerie"
+      },
+      "chapitres": [
+        "methode-synthese",
+        "emotions"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "rhetorical-question",
+      "terme": "rhetorical question",
+      "definition": "Question posée sans attendre de réponse, pour faire réagir ou convaincre.",
+      "traduction": {
+        "cible": "rhetorical question",
+        "fr": "question rhétorique"
+      },
+      "chapitres": [
+        "methode-synthese",
+        "art-du-debat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "bildungsroman",
+      "terme": "Bildungsroman (coming-of-age novel)",
+      "definition": "Roman qui raconte la formation d'un jeune personnage, de l'enfance ou de l'adolescence à l'âge adulte.",
+      "traduction": {
+        "cible": "Bildungsroman (coming-of-age novel)",
+        "fr": "roman d'apprentissage, roman de formation"
+      },
+      "chapitres": [
+        "initiation"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      },
+      "exemple": "Jane Eyre is often read as a Bildungsroman."
+    },
+    {
+      "id": "dystopia",
+      "terme": "dystopia",
+      "definition": "Récit qui décrit une société imaginaire oppressive, pour mettre en garde contre des dérives du présent.",
+      "traduction": {
+        "cible": "dystopia",
+        "fr": "dystopie, contre-utopie"
+      },
+      "chapitres": [
+        "art-contestation"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      },
+      "exemple": "The Handmaid's Tale is a famous dystopia."
+    },
+    {
+      "id": "autobiography",
+      "terme": "autobiography",
+      "definition": "Récit qu'une personne fait de sa propre vie.",
+      "traduction": {
+        "cible": "autobiography",
+        "fr": "autobiographie"
+      },
+      "chapitres": [
+        "mise-en-scene-soi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "memoir",
+      "terme": "memoir",
+      "definition": "Récit centré sur des souvenirs d'une période ou d'une expérience de la vie de l'auteur.",
+      "traduction": {
+        "cible": "memoir",
+        "fr": "mémoires, récit de souvenirs"
+      },
+      "chapitres": [
+        "mise-en-scene-soi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "self-portrait",
+      "terme": "self-portrait",
+      "definition": "Portrait qu'un artiste fait de lui-même.",
+      "traduction": {
+        "cible": "self-portrait",
+        "fr": "autoportrait"
+      },
+      "chapitres": [
+        "mise-en-scene-soi"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "epiphany",
+      "terme": "epiphany",
+      "definition": "Moment où un personnage comprend soudain quelque chose d'important (notion centrale chez James Joyce).",
+      "traduction": {
+        "cible": "epiphany",
+        "fr": "épiphanie, révélation"
+      },
+      "chapitres": [
+        "emotions"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "romanticism",
+      "terme": "Romanticism",
+      "definition": "Mouvement artistique (fin XVIII^e^ – XIX^e^ siècle) qui valorise l'émotion, l'imagination, la nature et l'individu. En Angleterre : Wordsworth, Coleridge, Keats.",
+      "traduction": {
+        "cible": "Romanticism",
+        "fr": "romantisme"
+      },
+      "chapitres": [
+        "emotions"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "modernism",
+      "terme": "modernism",
+      "definition": "Mouvement du début du XX^e^ siècle qui renouvelle les formes (récit fragmenté, courant de conscience) : Woolf, Joyce, Eliot.",
+      "traduction": {
+        "cible": "modernism",
+        "fr": "modernisme"
+      },
+      "chapitres": [
+        "emotions"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "postcolonial-literature",
+      "terme": "postcolonial literature",
+      "definition": "Littérature écrite par des auteurs issus d'anciennes colonies, qui interroge la colonisation et ses héritages (Achebe, Rushdie, Roy, Adichie).",
+      "traduction": {
+        "cible": "postcolonial literature",
+        "fr": "littérature postcoloniale"
+      },
+      "chapitres": [
+        "art-contestation",
+        "migration-exil"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "close-up",
+      "terme": "close-up",
+      "definition": "Plan qui montre un visage ou un objet de très près, pour souligner une émotion ou un détail.",
+      "traduction": {
+        "cible": "close-up",
+        "fr": "gros plan"
+      },
+      "chapitres": [
+        "methode-oral",
+        "oeuvres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "long-shot",
+      "terme": "long shot",
+      "definition": "Plan large qui montre un personnage en entier dans son décor.",
+      "traduction": {
+        "cible": "long shot",
+        "fr": "plan d'ensemble"
+      },
+      "chapitres": [
+        "methode-oral"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "high-angle-shot",
+      "terme": "high-angle shot",
+      "definition": "Plan filmé d'en haut : le personnage paraît petit, faible ou dominé.",
+      "traduction": {
+        "cible": "high-angle shot",
+        "fr": "plongée"
+      },
+      "chapitres": [
+        "methode-oral",
+        "oeuvres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "low-angle-shot",
+      "terme": "low-angle shot",
+      "definition": "Plan filmé d'en bas : le personnage paraît grand, puissant ou menaçant.",
+      "traduction": {
+        "cible": "low-angle shot",
+        "fr": "contre-plongée"
+      },
+      "chapitres": [
+        "methode-oral",
+        "oeuvres"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "voice-over",
+      "terme": "voice-over",
+      "definition": "Voix d'un narrateur ou d'un personnage qu'on entend sans le voir parler à l'écran.",
+      "traduction": {
+        "cible": "voice-over",
+        "fr": "voix off"
+      },
+      "chapitres": [
+        "methode-oral"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "stage-directions",
+      "terme": "stage directions",
+      "definition": "Indications de l'auteur de théâtre sur le décor, les gestes, le ton (en italique dans le texte).",
+      "traduction": {
+        "cible": "stage directions",
+        "fr": "didascalies"
+      },
+      "chapitres": [
+        "methode-oral"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "soliloquy",
+      "terme": "soliloquy",
+      "definition": "Discours d'un personnage seul en scène, qui révèle ses pensées (ex. « To be, or not to be » dans Hamlet).",
+      "traduction": {
+        "cible": "soliloquy",
+        "fr": "monologue (seul en scène)"
+      },
+      "chapitres": [
+        "art-du-debat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "ethos-pathos-logos",
+      "terme": "ethos, pathos, logos",
+      "definition": "Les trois moyens de persuasion d'Aristote : l'éthos (la crédibilité de l'orateur), le pathos (les émotions du public), le logos (le raisonnement).",
+      "traduction": {
+        "cible": "ethos, pathos, logos",
+        "fr": "éthos, pathos, logos"
+      },
+      "chapitres": [
+        "art-du-debat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Aristote, Rhétorique"
+      }
+    },
+    {
+      "id": "propaganda",
+      "terme": "propaganda",
+      "definition": "Communication organisée pour imposer des idées, souvent en manipulant les faits ou les émotions.",
+      "traduction": {
+        "cible": "propaganda",
+        "fr": "propagande"
+      },
+      "chapitres": [
+        "art-du-debat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "censorship",
+      "terme": "censorship",
+      "definition": "Contrôle ou interdiction d'œuvres ou d'informations par une autorité.",
+      "traduction": {
+        "cible": "censorship",
+        "fr": "censure"
+      },
+      "chapitres": [
+        "art-debat"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "diaspora",
+      "terme": "diaspora",
+      "definition": "Ensemble des membres d'un peuple dispersés hors de leur pays d'origine.",
+      "traduction": {
+        "cible": "diaspora",
+        "fr": "diaspora"
+      },
+      "chapitres": [
+        "migration-exil"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "exile",
+      "terme": "exile",
+      "definition": "Fait de vivre hors de son pays, par choix ou par contrainte.",
+      "traduction": {
+        "cible": "exile",
+        "fr": "exil"
+      },
+      "chapitres": [
+        "migration-exil"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "heritage",
+      "terme": "heritage",
+      "definition": "Ensemble des traditions, lieux, langues et biens transmis par les générations précédentes.",
+      "traduction": {
+        "cible": "heritage",
+        "fr": "patrimoine, héritage"
+      },
+      "chapitres": [
+        "ancrage-heritage"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "frontier",
+      "terme": "the Frontier",
+      "definition": "Aux États-Unis, limite mouvante entre les territoires colonisés et les terres de l'Ouest au XIX^e^ siècle ; devenue un mythe national de conquête et de dépassement.",
+      "traduction": {
+        "cible": "the Frontier",
+        "fr": "la Frontière (américaine)"
+      },
+      "chapitres": [
+        "exploration"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "manifest-destiny",
+      "terme": "Manifest Destiny",
+      "definition": "Idée, formulée en 1845 par le journaliste John O'Sullivan, selon laquelle les États-Unis auraient pour mission d'étendre leur territoire vers l'Ouest.",
+      "traduction": {
+        "cible": "Manifest Destiny",
+        "fr": "« destinée manifeste »"
+      },
+      "chapitres": [
+        "exploration"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "id": "melting-pot",
+      "terme": "melting pot",
+      "definition": "Image d'une société où des immigrés d'origines diverses se mélangent pour former une identité commune (surtout aux États-Unis).",
+      "traduction": {
+        "cible": "melting pot",
+        "fr": "creuset"
+      },
+      "chapitres": [
+        "migration-exil"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "culture-shock",
+      "terme": "culture shock",
+      "definition": "Désorientation ressentie au contact d'une culture très différente de la sienne.",
+      "traduction": {
+        "cible": "culture shock",
+        "fr": "choc culturel"
+      },
+      "chapitres": [
+        "migration-exil"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Vocabulaire usuel de l'analyse littéraire et filmique"
+      }
+    },
+    {
+      "id": "synthesis",
+      "terme": "synthesis",
+      "definition": "Texte qui rassemble et organise les idées de plusieurs documents pour répondre à une question, sans les résumer un par un.",
+      "traduction": {
+        "cible": "synthesis",
+        "fr": "synthèse"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service définissant l'épreuve de spécialité LLCER, version consolidée de mai 2024 (Éduscol)",
+        "url": "https://eduscol.education.fr/document/52914/download",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "id": "faux-ami",
+      "terme": "false friend",
+      "definition": "Mot anglais qui ressemble à un mot français mais n'a pas le même sens (actually = en fait, et non « actuellement »).",
+      "traduction": {
+        "cible": "false friend",
+        "fr": "faux ami"
+      },
+      "chapitres": [
+        "methode-synthese"
+      ],
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      }
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "id": "dissertation",
+  "matiere": "philosophie",
+  "titre": "Méthode : la dissertation",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthode",
+    "intitule": "Épreuve écrite de philosophie : la dissertation",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service du 11 septembre 2026 définissant l'épreuve de philosophie, BO spécial n° 4 du 17 septembre 2026",
+      "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2622661N",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Connaître le format de l'épreuve écrite de 2027.",
+    "Analyser un sujet et en tirer un problème.",
+    "Construire un plan progressif et rédiger introduction, parties et conclusion.",
+    "Utiliser des exemples et des références au service d'un argument."
+  ],
+  "parties": [
+    {
+      "id": "format",
+      "titre": "L'épreuve en 2027",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "L'épreuve écrite de philosophie (session 2027)",
+          "colonnes": [
+            "Élément",
+            "Ce que dit le texte officiel"
+          ],
+          "lignes": [
+            [
+              "Date",
+              "Lundi 14 juin 2027, le matin"
+            ],
+            [
+              "Durée",
+              "4 heures"
+            ],
+            [
+              "Choix",
+              "3 sujets : 2 sujets de dissertation et 1 explication de texte ; tu en traites un seul"
+            ],
+            [
+              "Dissertation",
+              "Une question simple portant sur une ou plusieurs notions du programme"
+            ],
+            [
+              "Explication de texte",
+              "Un extrait d'un auteur du programme ; il n'est pas nécessaire de connaître la doctrine ou l'œuvre de l'auteur"
+            ],
+            [
+              "Notation",
+              "Globale, de 0 à 20 ; coefficient 8"
+            ],
+            [
+              "Langue",
+              "Orthographe, syntaxe, organisation et précision du vocabulaire comptent dans l'évaluation ; une copie défaillante sur l'ensemble de la maîtrise de la langue ne peut pas avoir la moyenne"
+            ]
+          ]
+        },
+        {
+          "type": "citation",
+          "texte": "La dissertation est l'étude méthodique et progressive d'un problème que l'analyse d'une question permet de construire.",
+          "auteur": "Programme de philosophie de terminale",
+          "oeuvre": "arrêté du 19 juillet 2019",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+            "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+            "consulteLe": "2026-10-17"
+          }
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Bonne nouvelle pour quelqu'un qui part de zéro : on ne te demande pas de réciter des doctrines, mais de **réfléchir avec méthode**. Des exemples bien choisis et un raisonnement clair valent mieux qu'une liste de noms."
+        }
+      ]
+    },
+    {
+      "id": "analyse",
+      "titre": "Étape 1 : analyser le sujet (30 à 45 min)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Définis chaque terme** du sujet, y compris les petits mots (« tout », « toujours », « peut-on », « doit-on »).",
+            "**Cherche plusieurs sens** pour chaque mot important (le « travail » peut être une peine, une activité productive, un emploi…).",
+            "**Repère le présupposé** : ce que le sujet considère comme évident.",
+            "**Utilise les repères** du programme (légal / légitime, en fait / en droit…).",
+            "**Trouve la tension** : pourquoi la réponse n'est pas évidente ? Deux réponses opposées semblent-elles défendables ?"
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Ce que disent les formulations",
+          "colonnes": [
+            "Formulation",
+            "Ce qu'elle demande"
+          ],
+          "lignes": [
+            [
+              "Peut-on… ?",
+              "Est-ce possible (en fait) ? Est-ce permis (en droit) ?"
+            ],
+            [
+              "Doit-on… ?",
+              "Est-ce une obligation morale ou une nécessité ?"
+            ],
+            [
+              "Faut-il… ?",
+              "Est-ce nécessaire, souhaitable ?"
+            ],
+            [
+              "Qu'est-ce que… ?",
+              "Définir l'essence d'une chose, en la distinguant de ce qui lui ressemble"
+            ],
+            [
+              "X est-il Y ?",
+              "Examiner si X a vraiment la propriété Y, et en quel sens"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "problematique",
+      "titre": "Étape 2 : la problématique",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "La problématique transforme la question en **problème** : elle montre que deux réponses s'opposent et qu'il faut les examiner."
+        },
+        {
+          "type": "exemple",
+          "titre": "Exemple",
+          "texte": "Sujet : « Le travail rend-il libre ? » — Problématique : le travail semble nous asservir puisqu'il est imposé par le besoin ; pourtant, n'est-ce pas en travaillant que l'homme transforme la nature et se forme lui-même ? Le travail est-il une contrainte qui nous aliène, ou la condition même de notre liberté ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Une bonne problématique tient en une ou deux questions et fait apparaître une **tension** (« d'un côté… mais de l'autre… »)."
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "titre": "Étape 3 : le plan",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le plan suit une **progression** : chaque partie répond à la question, et la partie suivante part d'une **limite** de la précédente pour aller plus loin. Deux ou trois parties suffisent."
+        },
+        {
+          "type": "tableau",
+          "titre": "Plans possibles",
+          "colonnes": [
+            "Type",
+            "Schéma"
+          ],
+          "lignes": [
+            [
+              "Progressif (le plus courant)",
+              "I. Première réponse (souvent la plus évidente) → II. ses limites et une réponse opposée → III. une réponse plus juste qui dépasse l'opposition"
+            ],
+            [
+              "Notionnel",
+              "Distinguer plusieurs sens d'un terme et examiner la question pour chacun"
+            ]
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "plan « oui / non / peut-être »",
+          "texte": "Évite le plan qui dit oui puis non puis « ça dépend » sans raison. La troisième partie doit apporter une idée nouvelle, souvent grâce à une distinction (en fait / en droit, sens différents d'un mot)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Dans chaque partie** : une idée directrice, deux ou trois arguments, au moins un exemple précis analysé, éventuellement une référence à un auteur, et une transition."
+        }
+      ]
+    },
+    {
+      "id": "redaction",
+      "titre": "Étape 4 : rédiger",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Introduction et conclusion",
+          "colonnes": [
+            "Partie",
+            "Contenu"
+          ],
+          "lignes": [
+            [
+              "Introduction",
+              "1. Une accroche (exemple, situation, paradoxe) ; 2. l'analyse rapide des termes ; 3. la problématique ; 4. l'annonce du plan"
+            ],
+            [
+              "Conclusion",
+              "Rappel du chemin parcouru et réponse claire à la question ; éventuellement une ouverture"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Rédige l'introduction et la conclusion **au brouillon**, le développement directement au propre si tu manques de temps.",
+            "Fais des **paragraphes** : un argument par paragraphe.",
+            "Un **exemple** doit être analysé, pas seulement cité.",
+            "Une **référence** se présente simplement : « Pour Rousseau, … » puis tu expliques l'idée avec tes mots."
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Exemple de gestion des 4 heures (suggestion)",
+          "colonnes": [
+            "Étape",
+            "Durée"
+          ],
+          "lignes": [
+            [
+              "Choisir le sujet",
+              "10 min"
+            ],
+            [
+              "Analyse et problématique",
+              "40 min"
+            ],
+            [
+              "Plan détaillé",
+              "40 min"
+            ],
+            [
+              "Rédaction",
+              "2 h 15"
+            ],
+            [
+              "Relecture (orthographe !)",
+              "15 min"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "La maîtrise de la langue compte : garde 15 minutes pour te relire."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Durée de l'épreuve",
+      "valeur": "4 heures",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026 définissant l'épreuve de philosophie, BO spécial n° 4 du 17 septembre 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2622661N",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Sujets proposés",
+      "valeur": "2 dissertations + 1 explication de texte",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026 définissant l'épreuve de philosophie, BO spécial n° 4 du 17 septembre 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2622661N",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Écrit de philosophie, session 2027",
+      "valeur": "lundi 14 juin 2027",
+      "certitude": "certain",
+      "source": {
+        "titre": "Calendrier de la session 2027, annexe III, BO spécial n° 2 du 25 août 2026"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Coefficient",
+      "valeur": "8",
+      "certitude": "certain",
+      "source": {
+        "titre": "Arrêté relatif aux modalités d'organisation du baccalauréat général"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "La dissertation en 4 étapes",
+    "sens": "vertical",
+    "noeuds": [
+      {
+        "id": "a",
+        "texte": "Analyse du sujet (termes, présupposés, repères)"
+      },
+      {
+        "id": "p",
+        "texte": "Problématique (tension)"
+      },
+      {
+        "id": "pl",
+        "texte": "Plan progressif (2 ou 3 parties)"
+      },
+      {
+        "id": "r",
+        "texte": "Rédaction et relecture"
+      }
+    ],
+    "liens": [
+      {
+        "de": "a",
+        "vers": "p"
+      },
+      {
+        "de": "p",
+        "vers": "pl"
+      },
+      {
+        "de": "pl",
+        "vers": "r"
+      }
+    ]
+  },
+  "fiche": [
+    "**Épreuve** : 4 h, 3 sujets (2 dissertations, 1 explication), note globale sur 20, coefficient 8, lundi 14 juin 2027.",
+    "**Analyse** : définir chaque terme, chercher plusieurs sens, repérer le présupposé, utiliser les repères.",
+    "**Problématique** : une tension entre deux réponses possibles.",
+    "**Plan progressif** : chaque partie part d'une limite de la précédente.",
+    "**Exemples** analysés, **références** expliquées avec tes mots.",
+    "**Langue** : relis-toi ; une copie défaillante en langue ne peut pas avoir la moyenne."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Combien de sujets de dissertation sont proposés ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 11 septembre 2026 définissant l'épreuve de philosophie, BO spécial n° 4 du 17 septembre 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2622661N",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "2",
+          "correct": true,
+          "explication": "Plus une explication de texte."
+        },
+        {
+          "id": "b",
+          "texte": "3",
+          "correct": false,
+          "explication": "Il y a 3 sujets au total, dont 2 dissertations."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "La problématique sert à…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "montrer une tension entre plusieurs réponses",
+          "correct": true,
+          "explication": "Elle transforme la question en problème."
+        },
+        {
+          "id": "b",
+          "texte": "résumer le cours",
+          "correct": false,
+          "explication": "Ce n'est pas son rôle."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "« Peut-on… ? » demande d'examiner…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "la possibilité de fait et la permission de droit",
+          "correct": true,
+          "explication": "Repère en fait / en droit."
+        },
+        {
+          "id": "b",
+          "texte": "seulement l'opinion personnelle",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Dans un plan progressif, la deuxième partie…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "part d'une limite de la première",
+          "correct": true,
+          "explication": "C'est la progression."
+        },
+        {
+          "id": "b",
+          "texte": "répète la première avec d'autres mots",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Faut-il connaître beaucoup d'auteurs pour réussir ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Non : la réflexion et les exemples analysés comptent d'abord",
+          "correct": true,
+          "explication": "Les références éclairent un argument."
+        },
+        {
+          "id": "b",
+          "texte": "Oui, il faut citer au moins dix philosophes",
+          "correct": false,
+          "explication": "Faux."
+        }
+      ]
+    }
+  ]
+}

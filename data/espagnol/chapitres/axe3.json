@@ -1,0 +1,424 @@
+{
+  "id": "axe3",
+  "matiere": "espagnol",
+  "titre": "Axe 3. Fictions et réalités",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Axes culturels de terminale",
+    "intitule": "Axe 3. Fictions et réalités",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'espagnol pour les classes de lycée, arrêté du 5 mai 2025, BO n° 22 du 29 mai 2025, annexe 10",
+      "url": "https://www.education.gouv.fr/sites/default/files/annexe-10-programme-d-espagnol-pour-les-classes-de-lyc-e-g-n-ral-et-technologique-440376.pdf"
+    }
+  },
+  "objectifs": [
+    "Analyser comment l'art représente le réel ou invente des mondes imaginaires.",
+    "Connaître le réalisme magique et de grandes œuvres hispaniques.",
+    "Bien distinguer ser et estar."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "El eje en breve · L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "ce qui est officiel",
+          "texte": "Le **titre de l'axe** vient du programme officiel. Les **pistes** proposées s'inspirent des ressources de La Clé espagnole (ENS de Lyon), qui ne sont pas des consignes officielles : ton professeur choisit ses propres documents."
+        },
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En LVB, la note du bac vient du **contrôle continu** (coefficient 6) : tes moyennes de première et de terminale. Le niveau visé en fin de terminale est **B1**."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Cet axe interroge les **rapports entre la fiction et la réalité** : comment la peinture, la littérature et le cinéma représentent le réel (la guerre chez Goya ou Picasso), inventent des mondes merveilleux (le réalisme magique) ou mêlent fiction et faits historiques."
+        }
+      ]
+    },
+    {
+      "id": "vocabulario",
+      "titre": "Vocabulario",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Vocabulaire de l'axe",
+          "colonnes": [
+            "Español",
+            "Français",
+            "Ejemplo"
+          ],
+          "lignes": [
+            [
+              "la ficción",
+              "la fiction",
+              "Una obra de ficción."
+            ],
+            [
+              "la realidad",
+              "la réalité",
+              "Representar la realidad."
+            ],
+            [
+              "el realismo mágico",
+              "le réalisme magique",
+              "García Márquez y el realismo mágico."
+            ],
+            [
+              "el cuadro",
+              "le tableau",
+              "Un cuadro de Goya."
+            ],
+            [
+              "la película",
+              "le film",
+              "Una película de Guillermo del Toro."
+            ],
+            [
+              "el personaje",
+              "le personnage",
+              "El personaje principal."
+            ],
+            [
+              "imaginar",
+              "imaginer",
+              "Imaginar otro mundo."
+            ],
+            [
+              "el sueño",
+              "le rêve",
+              "Entre el sueño y la realidad."
+            ],
+            [
+              "la novela",
+              "le roman",
+              "Una novela famosa."
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "realismo-magico"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "titre": "Referencias culturales · Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Pourquoi c'est important"
+          ],
+          "lignes": [
+            [
+              "Miguel de Cervantes, *Don Quijote*",
+              "1605 et 1615",
+              "Un héros qui confond les romans de chevalerie et la réalité"
+            ],
+            [
+              "Francisco de Goya, *El tres de mayo de 1808*",
+              "1814",
+              "La violence de la guerre peinte avec réalisme"
+            ],
+            [
+              "Pablo Picasso, *Guernica*",
+              "1937",
+              "Le bombardement de Guernica : la guerre représentée autrement"
+            ],
+            [
+              "Jorge Luis Borges, *Ficciones*",
+              "1944",
+              "Des récits qui jouent avec le réel"
+            ],
+            [
+              "Gabriel García Márquez, *Cien años de soledad*",
+              "1967",
+              "Le chef-d'œuvre du réalisme magique ; prix Nobel en 1982"
+            ],
+            [
+              "Laura Esquivel, *Como agua para chocolate*",
+              "1989",
+              "La cuisine et les émotions mêlées au merveilleux"
+            ],
+            [
+              "Guillermo del Toro, *El laberinto del fauno*",
+              "2006",
+              "Un conte fantastique pendant l'après-guerre civile"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pistes",
+      "titre": "Pistas de reflexión · Pistes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Représenter le réel** : Goya, Picasso, la photographie.",
+            "**Les mondes imaginaires** : réalisme magique, dystopies.",
+            "**Fiction et histoire** : films et romans sur des faits réels."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "titre": "Gramática · Le point de grammaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Ser o estar** : *ser* exprime l'identité, l'origine, une caractéristique durable ; *estar* exprime un état, une situation, un lieu."
+        },
+        {
+          "type": "tableau",
+          "titre": "Exemples",
+          "colonnes": [
+            "Verbe",
+            "Emploi",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "ser",
+              "identité, caractéristique, matière, heure",
+              "García Márquez **es** colombiano."
+            ],
+            [
+              "estar",
+              "état, lieu, résultat",
+              "El cuadro **está** en el museo del Prado."
+            ]
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "piège",
+          "texte": "*Ser listo* = être intelligent ; *estar listo* = être prêt."
+        }
+      ]
+    },
+    {
+      "id": "frases",
+      "titre": "Frases útiles · Phrases utiles",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Pour parler ou écrire sur l'axe",
+          "colonnes": [
+            "Español",
+            "Français"
+          ],
+          "lignes": [
+            [
+              "El cuadro representa…",
+              "Le tableau représente…"
+            ],
+            [
+              "En primer plano / al fondo",
+              "Au premier plan / à l'arrière-plan"
+            ],
+            [
+              "Parece que…",
+              "Il semble que…"
+            ],
+            [
+              "Lo que me llama la atención es…",
+              "Ce qui attire mon attention, c'est…"
+            ],
+            [
+              "El autor quiere denunciar…",
+              "L'auteur veut dénoncer…"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Don Quijote (1re partie)",
+      "valeur": "1605",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Guernica de Picasso",
+      "valeur": "1937",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Cien años de soledad",
+      "valeur": "1967",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "El laberinto del fauno",
+      "valeur": "2006",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Axe 3. Fictions et réalités : l'essentiel",
+    "colonnes": [
+      "Aspect",
+      "Contenu"
+    ],
+    "lignes": [
+      [
+        "Vocabulaire clé",
+        "la ficción, la realidad, el realismo mágico, el cuadro, la película, el personaje"
+      ],
+      [
+        "Repères",
+        "Miguel de Cervantes, *Don Quijote* (1605 et 1615), Francisco de Goya, *El tres de mayo de 1808* (1814), Pablo Picasso, *Guernica* (1937), Jorge Luis Borges, *Ficciones* (1944)"
+      ],
+      [
+        "Grammaire",
+        "Ser o estar"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Réel représenté** : Goya (1814), *Guernica* (1937).",
+    "**Réalisme magique** : García Márquez, *Cien años de soledad* (1967), Nobel 1982.",
+    "**Fiction et réalité** : *Don Quijote* (1605-1615), *El laberinto del fauno* (2006).",
+    "**Grammaire** : ser (identité) / estar (état, lieu)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*Cien años de soledad* est de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Gabriel García Márquez",
+          "correct": true,
+          "explication": "1967."
+        },
+        {
+          "id": "b",
+          "texte": "Jorge Luis Borges",
+          "correct": false,
+          "explication": "Borges : *Ficciones*."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*El cuadro … en el museo.*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "está",
+          "correct": true,
+          "explication": "Lieu : estar."
+        },
+        {
+          "id": "b",
+          "texte": "es",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*Guernica* est peint par…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère culturel (date établie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Picasso",
+          "correct": true,
+          "explication": "1937."
+        },
+        {
+          "id": "b",
+          "texte": "Goya",
+          "correct": false,
+          "explication": "Goya : *El tres de mayo*."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*la película*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le film",
+          "correct": true,
+          "explication": "Una película de Del Toro."
+        },
+        {
+          "id": "b",
+          "texte": "la pellicule seulement",
+          "correct": false,
+          "explication": "En espagnol courant, c'est le film."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*Estar listo* signifie…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue espagnole"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "être prêt",
+          "correct": true,
+          "explication": "Ser listo = être intelligent."
+        },
+        {
+          "id": "b",
+          "texte": "être intelligent",
+          "correct": false,
+          "explication": "C'est ser listo."
+        }
+      ]
+    }
+  ]
+}

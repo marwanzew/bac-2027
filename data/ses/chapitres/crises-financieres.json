@@ -1,0 +1,492 @@
+{
+  "id": "crises-financieres",
+  "matiere": "ses",
+  "titre": "Comment expliquer les crises financières et réguler le système financier ?",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Science économique",
+    "intitule": "Comment expliquer les crises financières et réguler le système financier ?",
+    "evaluableEcrit": false,
+    "certitude": "a_verifier",
+    "raison": "Objectifs relevés dans une fiche de l'académie d'Orléans-Tours qui cite le programme ; le PDF officiel n'a pas pu être relu directement.",
+    "source": {
+      "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Connaître les principales caractéristiques de la crise financière des années 1930 et de celle de 2008 (effondrement boursier, faillites en chaîne, chute du PIB et accroissement du chômage).",
+    "Comprendre et savoir illustrer la formation et l'éclatement d'une bulle spéculative (comportements mimétiques et prophéties autoréalisatrices).",
+    "Comprendre les phénomènes de panique bancaire et de faillites bancaires en chaîne.",
+    "Connaître les principaux canaux de transmission d'une crise financière à l'économie réelle : effets de richesse négatifs, baisse du prix du collatéral et ventes forcées, contraction du crédit.",
+    "Connaître les principaux instruments de régulation du système bancaire et financier qui permettent de réduire l'aléa moral des banques : supervision des banques par la banque centrale, ratio de solvabilité."
+  ],
+  "parties": [
+    {
+      "id": "deux-crises",
+      "titre": "Deux grandes crises : les années 1930 et 2008",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "pas évaluable à l'écrit",
+          "texte": "Ce chapitre n'est **pas évaluable à l'épreuve écrite** de SES en 2027. Il reste au programme : il peut servir au Grand oral et il aide à comprendre les politiques économiques européennes."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les deux crises suivent le même enchaînement : un **effondrement boursier**, des **faillites en chaîne** (de banques puis d'entreprises), une **chute du PIB** et une **hausse du chômage**."
+        },
+        {
+          "type": "tableau",
+          "titre": "Comparer les deux crises",
+          "colonnes": [
+            "",
+            "Années 1930",
+            "2008"
+          ],
+          "lignes": [
+            [
+              "Point de départ",
+              "Krach de la Bourse de New York (jeudi 24 octobre 1929), après une forte hausse des actions",
+              "Éclatement de la bulle immobilière américaine et crise des crédits immobiliers à risque (*subprimes*)"
+            ],
+            [
+              "Faillites en chaîne",
+              "Des milliers de banques américaines font faillite au début des années 1930",
+              "Faillite de la banque Lehman Brothers (15 septembre 2008) ; d'autres banques sont sauvées par les États"
+            ],
+            [
+              "Économie réelle",
+              "Grande Dépression : forte chute du PIB et chômage de masse",
+              "Récession mondiale en 2009 et hausse du chômage"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Retiens l'enchaînement : **krach → faillites en chaîne → chute du PIB → chômage**."
+        }
+      ]
+    },
+    {
+      "id": "bulle",
+      "titre": "La formation et l'éclatement d'une bulle spéculative",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "bulle-speculative"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**La formation.** Le prix d'un actif monte. Des acheteurs anticipent que la hausse va continuer et achètent pour revendre plus cher : c'est la spéculation. Les autres les imitent ([[comportement mimétique]]). Comme tout le monde achète, le prix monte vraiment : l'anticipation se réalise ([[prophétie autoréalisatrice]])."
+        },
+        {
+          "type": "definition",
+          "glossaire": "comportement-mimetique"
+        },
+        {
+          "type": "definition",
+          "glossaire": "prophetie-autorealisatrice"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'éclatement.** Quand des agents doutent que la hausse puisse durer, ils vendent. Les autres les imitent à nouveau : les ventes massives font chuter le prix. La même mécanique joue dans l'autre sens."
+        },
+        {
+          "type": "schema",
+          "titre": "La vie d'une bulle",
+          "sens": "vertical",
+          "noeuds": [
+            {
+              "id": "a",
+              "texte": "Anticipation de hausse du prix"
+            },
+            {
+              "id": "b",
+              "texte": "Achats et imitation (mimétisme)"
+            },
+            {
+              "id": "c",
+              "texte": "Le prix monte : la prophétie se réalise"
+            },
+            {
+              "id": "d",
+              "texte": "Doute, premières ventes, imitation"
+            },
+            {
+              "id": "e",
+              "texte": "Krach : le prix s'effondre"
+            }
+          ],
+          "liens": [
+            {
+              "de": "a",
+              "vers": "b"
+            },
+            {
+              "de": "b",
+              "vers": "c"
+            },
+            {
+              "de": "c",
+              "vers": "a",
+              "texte": "auto-entretien"
+            },
+            {
+              "de": "c",
+              "vers": "d"
+            },
+            {
+              "de": "d",
+              "vers": "e"
+            }
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "bulle et hausse des prix",
+          "texte": "Toute hausse de prix n'est pas une bulle. On parle de bulle quand le prix s'écarte durablement de la valeur fondamentale de l'actif (ce qu'il rapporte réellement : loyers, profits)."
+        }
+      ]
+    },
+    {
+      "id": "panique",
+      "titre": "Paniques bancaires et faillites en chaîne",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Une banque prête une grande partie des dépôts qu'elle reçoit. Elle ne garde donc pas assez de liquidités pour rembourser tous ses déposants en même temps."
+        },
+        {
+          "type": "definition",
+          "glossaire": "panique-bancaire"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La panique est une prophétie autoréalisatrice : même une banque solide peut faire faillite si tous ses déposants retirent leur argent au même moment."
+        },
+        {
+          "type": "definition",
+          "glossaire": "faillites-bancaires-en-chaine"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Les banques sont liées entre elles par des prêts : la faillite d'une banque peut se **propager** à tout le système. C'est le **risque systémique**."
+        }
+      ]
+    },
+    {
+      "id": "transmission",
+      "titre": "De la crise financière à l'économie réelle",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme retient trois canaux de transmission."
+        },
+        {
+          "type": "definition",
+          "glossaire": "effet-de-richesse"
+        },
+        {
+          "type": "definition",
+          "glossaire": "collateral"
+        },
+        {
+          "type": "definition",
+          "glossaire": "ventes-forcees"
+        },
+        {
+          "type": "definition",
+          "glossaire": "contraction-du-credit"
+        },
+        {
+          "type": "tableau",
+          "titre": "Les trois canaux de transmission",
+          "colonnes": [
+            "Canal",
+            "Mécanisme",
+            "Conséquence"
+          ],
+          "lignes": [
+            [
+              "Effets de richesse négatifs",
+              "La baisse du prix des actions et des logements réduit le patrimoine des ménages",
+              "Ils consomment moins"
+            ],
+            [
+              "Baisse du prix du collatéral et ventes forcées",
+              "Les garanties valent moins ; les emprunteurs doivent vendre des actifs pour rembourser",
+              "Les prix baissent encore : spirale à la baisse"
+            ],
+            [
+              "Contraction du crédit",
+              "Les banques fragilisées prêtent moins",
+              "Les entreprises investissent moins, les ménages achètent moins"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Les trois canaux font baisser la **demande** (consommation, investissement) : la production recule et le chômage augmente."
+        }
+      ]
+    },
+    {
+      "id": "regulation",
+      "titre": "Réguler pour réduire l'aléa moral",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "alea-moral"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les États ne peuvent pas laisser tomber les grandes banques, à cause du risque systémique. Les banques le savent : elles peuvent être tentées de prendre trop de risques. Pour limiter cet aléa moral, les autorités encadrent leur activité."
+        },
+        {
+          "type": "definition",
+          "glossaire": "supervision-bancaire"
+        },
+        {
+          "type": "definition",
+          "glossaire": "ratio-de-solvabilite"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Selon les accords de Bâle, les fonds propres d'une banque doivent représenter au moins **8 %** de ses actifs pondérés par le risque. Les accords de **Bâle III**, adoptés après la crise de 2008, ont renforcé ces exigences (fonds propres de meilleure qualité, coussins supplémentaires)."
+        },
+        {
+          "type": "piege",
+          "titre": "ratio de solvabilité et réserves",
+          "texte": "Le ratio de solvabilité porte sur les **fonds propres** de la banque (l'argent de ses actionnaires), pas sur les dépôts des clients. Il sert à absorber des pertes sans faire faillite."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Krach de Wall Street (« jeudi noir »)",
+      "valeur": "24 octobre 1929",
+      "certitude": "certain",
+      "source": {
+        "titre": "Ressources pédagogiques de SES, académie de Nice (chapitre « Crises financières »)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Faillite de Lehman Brothers",
+      "valeur": "15 septembre 2008",
+      "certitude": "certain",
+      "source": {
+        "titre": "Ressources pédagogiques de SES, académie de Nice (chapitre « Crises financières »)"
+      }
+    },
+    {
+      "type": "chiffre",
+      "libelle": "Ratio de solvabilité minimum (accords de Bâle)",
+      "valeur": "8 % des actifs pondérés par le risque",
+      "certitude": "certain",
+      "source": {
+        "titre": "La finance pour tous, « Ratio de solvabilité bancaire »",
+        "url": "https://www.lafinancepourtous.com/decryptages/marches-financiers/acteurs-de-la-finance/comite-de-bale/bale-iii/ratio-de-solvabilite-bancaire"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "La BCE supervise directement les grandes banques de la zone euro",
+      "valeur": "depuis 2014",
+      "certitude": "certain",
+      "source": {
+        "titre": "BCE, supervision bancaire"
+      }
+    },
+    {
+      "type": "mecanisme",
+      "libelle": "Transmission à l'économie réelle",
+      "valeur": "Effets de richesse négatifs · collatéral et ventes forcées · contraction du crédit",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "Des crises financières à leur régulation",
+    "sens": "vertical",
+    "noeuds": [
+      {
+        "id": "bulle",
+        "texte": "Bulle spéculative (mimétisme, prophéties autoréalisatrices)"
+      },
+      {
+        "id": "krach",
+        "texte": "Krach et paniques bancaires"
+      },
+      {
+        "id": "faillites",
+        "texte": "Faillites bancaires en chaîne"
+      },
+      {
+        "id": "reel",
+        "texte": "Effets de richesse, collatéral, contraction du crédit"
+      },
+      {
+        "id": "crise",
+        "texte": "Chute du PIB, hausse du chômage"
+      },
+      {
+        "id": "regul",
+        "texte": "Régulation : supervision, ratio de solvabilité"
+      }
+    ],
+    "liens": [
+      {
+        "de": "bulle",
+        "vers": "krach"
+      },
+      {
+        "de": "krach",
+        "vers": "faillites"
+      },
+      {
+        "de": "faillites",
+        "vers": "reel"
+      },
+      {
+        "de": "reel",
+        "vers": "crise"
+      },
+      {
+        "de": "regul",
+        "vers": "faillites",
+        "texte": "limite l'aléa moral"
+      }
+    ]
+  },
+  "fiche": [
+    "**1929 et 2008** : krach boursier → faillites en chaîne → chute du PIB → hausse du chômage.",
+    "**Bulle spéculative** : le prix d'un actif s'écarte de sa valeur fondamentale, puis s'effondre.",
+    "**Mimétisme** : imiter les autres. **Prophétie autoréalisatrice** : une anticipation qui se réalise parce que tout le monde agit en conséquence.",
+    "**Panique bancaire** : retraits massifs simultanés ; même une banque solide peut tomber.",
+    "**Faillites en chaîne** : les banques se prêtent entre elles, les pertes se propagent (risque systémique).",
+    "**Trois canaux vers l'économie réelle** : effets de richesse négatifs ; baisse du prix du collatéral et ventes forcées ; contraction du crédit.",
+    "**Aléa moral** : une banque qui se croit protégée prend trop de risques.",
+    "**Régulation** : supervision des banques par la banque centrale ; ratio de solvabilité (fonds propres ≥ 8 % des actifs pondérés, renforcé par Bâle III)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Des investisseurs achètent un actif parce que les autres en achètent. C'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un comportement mimétique",
+          "correct": true,
+          "explication": "Ils imitent les autres."
+        },
+        {
+          "id": "b",
+          "texte": "un effet de richesse",
+          "correct": false,
+          "explication": "L'effet de richesse relie patrimoine et consommation."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Pourquoi une banque solide peut-elle faire faillite lors d'une panique bancaire ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Elle a prêté une grande partie des dépôts et ne peut pas rembourser tout le monde en même temps",
+          "correct": true,
+          "explication": "Elle manque de liquidités, même si elle est solvable."
+        },
+        {
+          "id": "b",
+          "texte": "Elle a trop de fonds propres",
+          "correct": false,
+          "explication": "Les fonds propres la protègent au contraire."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "La baisse du prix des logements pousse les ménages à moins consommer. Quel canal ?",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Effet de richesse négatif",
+          "correct": true,
+          "explication": "Leur patrimoine baisse."
+        },
+        {
+          "id": "b",
+          "texte": "Contraction du crédit",
+          "correct": false,
+          "explication": "Ce canal passe par les banques qui prêtent moins."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Une banque prend des risques excessifs parce qu'elle pense être sauvée par l'État. C'est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en science économique"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "l'aléa moral",
+          "correct": true,
+          "explication": "Protégée, elle ne supporte pas toutes les conséquences de ses risques."
+        },
+        {
+          "id": "b",
+          "texte": "une prophétie autoréalisatrice",
+          "correct": false,
+          "explication": "Ce terme concerne des anticipations qui se réalisent."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Le ratio de solvabilité rapporte…",
+      "certitude": "certain",
+      "source": {
+        "titre": "La finance pour tous, « Ratio de solvabilité bancaire »",
+        "url": "https://www.lafinancepourtous.com/decryptages/marches-financiers/acteurs-de-la-finance/comite-de-bale/bale-iii/ratio-de-solvabilite-bancaire"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "les fonds propres de la banque à ses actifs pondérés par le risque",
+          "correct": true,
+          "explication": "Minimum 8 % selon les accords de Bâle."
+        },
+        {
+          "id": "b",
+          "texte": "les dépôts des clients aux crédits accordés",
+          "correct": false,
+          "explication": "Ce n'est pas la définition."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "h1-c2",
+  "exercices": [
+    {
+      "id": "h1-c2-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Mussolini arrive au pouvoir en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1922",
+              "correct": true,
+              "explication": "Marche sur Rome."
+            },
+            {
+              "id": "b",
+              "texte": "1933",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Guernica est bombardée en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1937",
+              "correct": true,
+              "explication": "26 avril, légion Condor."
+            },
+            {
+              "id": "b",
+              "texte": "1944",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Un trait commun des totalitarismes :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le parti unique",
+              "correct": true,
+              "explication": "Avec un chef tout-puissant."
+            },
+            {
+              "id": "b",
+              "texte": "le pluralisme politique",
+              "correct": false,
+              "explication": "Au contraire."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Les Brigades internationales sont…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "des volontaires étrangers aidant les républicains espagnols",
+              "correct": true,
+              "explication": "1936-1939."
+            },
+            {
+              "id": "b",
+              "texte": "l'armée de Franco",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "La collectivisation en URSS commence en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1929",
+              "correct": true,
+              "explication": "Sous Staline."
+            },
+            {
+              "id": "b",
+              "texte": "1917",
+              "correct": false,
+              "explication": "1917 : révolutions russes."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "h1-c2-composition",
+      "titre": "Plan de composition : « Les régimes totalitaires dans les années 1930 »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « Les régimes totalitaires dans les années 1930 »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : définition du totalitarisme ; trois exemples (Italie, URSS, Allemagne) ; problématique : quels points communs et quelles différences, et quelles conséquences pour l'Europe ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Des régimes qui veulent contrôler toute la société**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Idéologie, parti unique, culte du chef",
+            "B. Propagande et encadrement",
+            "C. Terreur : Grande Terreur (1937-1938), nuit de Cristal (1938)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Des régimes qui menacent l'ordre européen**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Des idéologies différentes (communisme / fascisme et nazisme)",
+            "B. La guerre d'Espagne (1936-1939), terrain d'affrontement",
+            "C. La faiblesse des démocraties (non-intervention)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : des régimes qui conduisent l'Europe vers la guerre."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

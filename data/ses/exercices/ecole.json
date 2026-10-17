@@ -1,0 +1,230 @@
+{
+  "matiere": "ses",
+  "chapitre": "ecole",
+  "exercices": [
+    {
+      "id": "ecole-qcm",
+      "titre": "L'École : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Distingue bien massification et démocratisation."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Part des jeunes d'un âge donné qui sont scolarisés :",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "taux de scolarisation",
+              "correct": true,
+              "explication": "Indicateur d'accès à l'école."
+            },
+            {
+              "id": "b",
+              "texte": "taux d'accès au bac",
+              "correct": false,
+              "explication": "Il mesure la part d'une génération qui obtient le bac."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "La démocratisation scolaire, c'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la réduction des inégalités d'accès aux études entre milieux sociaux",
+              "correct": true,
+              "explication": "À ne pas confondre avec la massification."
+            },
+            {
+              "id": "b",
+              "texte": "l'augmentation du nombre d'élèves",
+              "correct": false,
+              "explication": "C'est la massification."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Des parents choisissent un collège réputé hors de leur secteur. C'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une stratégie des ménages",
+              "correct": true,
+              "explication": "Les familles favorisées y ont plus souvent recours."
+            },
+            {
+              "id": "b",
+              "texte": "de la socialisation selon le genre",
+              "correct": false,
+              "explication": "Rien ici ne concerne le genre."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Le collège unique a été créé en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Loi n° 75-620 du 11 juillet 1975"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1975",
+              "correct": true,
+              "explication": "Loi Haby."
+            },
+            {
+              "id": "b",
+              "texte": "1985",
+              "correct": false,
+              "explication": "1985, c'est le bac professionnel."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "L'idée que l'École valorise la culture des classes favorisées vient de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Bourdieu et Passeron",
+              "correct": true,
+              "explication": "Les Héritiers, La Reproduction."
+            },
+            {
+              "id": "b",
+              "texte": "Boudon",
+              "correct": false,
+              "explication": "Boudon insiste sur les choix rationnels."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "ecole-massification",
+      "titre": "Massification et démocratisation",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que la massification scolaire ne s'est pas accompagnée d'une démocratisation complète."
+      ],
+      "methode": [
+        "Définis les deux notions.",
+        "Donne le chiffre de 2024.",
+        "Montre que les inégalités se sont déplacées vers les filières."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Définitions.** La massification est l'ouverture de l'école au plus grand nombre ; la démocratisation est la réduction des inégalités d'accès entre milieux sociaux."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Massification.** Moins d'un jeune sur dix avait le bac au début des années 1950 ; 79,4 % d'une génération l'obtiennent en 2024."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Démocratisation incomplète.** Tous les milieux accèdent davantage au bac, mais pas aux mêmes : les enfants de cadres sont surreprésentés en voie générale et dans les filières sélectives, les enfants d'ouvriers en voie professionnelle. Les inégalités se sont déplacées vers le type de diplôme."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "ecole-facteurs",
+      "titre": "Les facteurs des inégalités de réussite",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que plusieurs facteurs expliquent les inégalités de réussite scolaire."
+      ],
+      "methode": [
+        "Développe au moins deux facteurs du programme, avec auteur et mécanisme."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Capital culturel.** Selon Bourdieu et Passeron, l'École valorise une culture que les enfants de milieux favorisés reçoivent dans leur famille : ils sont avantagés."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Stratégies des ménages.** Selon Boudon, à résultats égaux, les familles modestes choisissent moins les études longues, jugées plus coûteuses et risquées."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Socialisation selon le genre.** Les filles réussissent mieux mais s'orientent moins vers les filières scientifiques, sous l'effet de normes de genre intériorisées."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

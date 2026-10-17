@@ -1,0 +1,250 @@
+{
+  "matiere": "llcer",
+  "chapitre": "migration-exil",
+  "exercices": [
+    {
+      "id": "migration-vocabulaire",
+      "titre": "Vocabulary check : migration and exile",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Distingue emigrate (partir) et immigrate (arriver)."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*uprooting*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "déracinement",
+              "correct": true,
+              "explication": "roots = racines."
+            },
+            {
+              "id": "b",
+              "texte": "arrachage de dents",
+              "correct": false,
+              "explication": "Contresens."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*to fit in*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "s'intégrer",
+              "correct": true,
+              "explication": "to try to fit in."
+            },
+            {
+              "id": "b",
+              "texte": "se battre",
+              "correct": false,
+              "explication": "Se battre = to fight."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*a newcomer*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un nouvel arrivant",
+              "correct": true,
+              "explication": "newcomers in London."
+            },
+            {
+              "id": "b",
+              "texte": "un revenant",
+              "correct": false,
+              "explication": "Revenant = ghost."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*refugees*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "des réfugiés",
+              "correct": true,
+              "explication": "Migration subie."
+            },
+            {
+              "id": "b",
+              "texte": "des refuges",
+              "correct": false,
+              "explication": "Refuge = shelter."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*a hybrid identity*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une identité mêlant plusieurs cultures",
+              "correct": true,
+              "explication": "Dimension positive de la migration."
+            },
+            {
+              "id": "b",
+              "texte": "une fausse identité",
+              "correct": false,
+              "explication": "Contresens."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "migration-traduction",
+      "titre": "Translation : the arrival",
+      "type": "traduction",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Translate the following passage into French. (Traduis le passage en français.)"
+      ],
+      "documents": [
+        {
+          "titre": "Passage à traduire (texte écrit pour l'entraînement)",
+          "contenu": "When the ship finally reached the harbour, Maria stood on the deck for a long time, holding her small bag with both hands. Everything seemed too big: the buildings, the noise, the sky itself. A man shouted something at her that she did not understand. She smiled anyway, because her mother had told her that a smile was the only language everyone spoke.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        }
+      ],
+      "methode": [
+        "Lis tout le passage avant de traduire une seule phrase.",
+        "Repère les temps : le prétérit d'un récit se traduit souvent par le passé simple ou le passé composé, et par l'imparfait pour les descriptions.",
+        "Ne traduis pas mot à mot : la phrase française doit sonner naturelle.",
+        "Relis ta traduction comme un texte français, sans regarder l'anglais.",
+        "*holding… with both hands* : « serrant… à deux mains ».",
+        "*shouted something at her* : « lui cria quelque chose ».",
+        "*anyway* : « quand même »."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Proposition de traduction** (d'autres versions sont possibles) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Quand le navire atteignit enfin le port, Maria resta longtemps sur le pont, serrant son petit sac à deux mains. Tout semblait trop grand : les immeubles, le bruit, le ciel lui-même. Un homme lui cria quelque chose qu'elle ne comprit pas. Elle sourit quand même, parce que sa mère lui avait dit qu'un sourire était la seule langue que tout le monde parlait."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Sens exact (pas de contresens ni d'oubli)",
+          "points": 2
+        },
+        {
+          "critere": "Correction et naturel du français",
+          "points": 1.5
+        },
+        {
+          "critere": "Temps et registre respectés",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "migration-essai",
+      "titre": "Short essay : migration, loss or gain?",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "In about 250 words: *Is migration mainly a loss or an opportunity for the people who experience it?*"
+      ],
+      "methode": [
+        "Perte : déracinement, nostalgie, discriminations.",
+        "Gain : liberté, nouvelle vie, identité hybride.",
+        "Exemples : *Brooklyn*, *Americanah*, *The Grapes of Wrath*, Zadie Smith."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (un exemple de réponse possible, pas la seule) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Millions of people have left their homeland, by choice or by necessity. Is migration above all a loss, or can it be an opportunity?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Leaving one's country often means losing one's bearings. In *Brooklyn*, Eilis suffers from homesickness when she arrives in New York. Migrants may also face discrimination: in *Americanah*, Ifemelu discovers what it means to be Black in the United States."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "However, migration can also open new horizons. Eilis gradually builds a new life, and Ifemelu finds her voice through her blog. Writers like Zadie Smith show that migration creates hybrid identities and enriches the culture of the host country."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "To conclude, migration is both a loss and a gain: it uproots people, but it can also allow them to reinvent themselves."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse à la consigne, idées pertinentes",
+          "points": 4
+        },
+        {
+          "critere": "Organisation (introduction, paragraphes, connecteurs)",
+          "points": 3
+        },
+        {
+          "critere": "Richesse et correction de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "id": "la-technique",
+  "matiere": "philosophie",
+  "titre": "La technique",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Notions du programme",
+    "intitule": "La technique",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de philosophie de terminale, voie générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/15/9/spe238_annexe1_1159159.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Définir la technique et la distinguer de la science et de l'art.",
+    "Comprendre si la technique libère ou asservit l'homme.",
+    "Connaître Platon (Prométhée), Descartes, Bergson, Heidegger, Simondon, Jonas.",
+    "Traiter un sujet sur la technique."
+  ],
+  "parties": [
+    {
+      "id": "definir",
+      "titre": "Définir la notion",
+      "blocs": [
+        {
+          "type": "definition",
+          "glossaire": "technique"
+        },
+        {
+          "type": "definition",
+          "glossaire": "outil-machine"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La technique est un **savoir-faire** qui vise l'**efficacité** : produire un résultat utile. La science, elle, vise d'abord à **connaître** ; mais science et technique s'appuient aujourd'hui l'une sur l'autre (technosciences)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "homo-faber"
+        }
+      ]
+    },
+    {
+      "id": "probleme",
+      "titre": "Le problème",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Le problème** : la technique a permis à l'homme de survivre et de transformer le monde. Mais elle peut aussi le dominer, détruire la nature, ou créer de nouvelles dépendances. La technique est-elle un simple moyen neutre au service de nos fins, ou transforme-t-elle notre manière d'être ?"
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Tensions : **moyen / fin** ; **libération / asservissement** ; **puissance / responsabilité**."
+        }
+      ]
+    },
+    {
+      "id": "theses",
+      "titre": "Les grandes réponses",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "les références",
+          "texte": "Les auteurs cités sont au programme. Leurs idées sont résumées avec mes mots, sauf les citations entre guillemets d'auteurs du domaine public, en français d'origine. Une référence sert à éclairer ton argument, jamais à le remplacer."
+        },
+        {
+          "type": "tableau",
+          "titre": "Thèses d'auteurs",
+          "colonnes": [
+            "Auteur (œuvre, date)",
+            "Thèse",
+            "Pour quel argument"
+          ],
+          "lignes": [
+            [
+              "Platon (*Protagoras*)",
+              "Dans le mythe de Prométhée, l'homme, né nu et sans défense, reçoit le feu et les techniques pour survivre",
+              "La technique compense la faiblesse naturelle de l'homme"
+            ],
+            [
+              "Descartes (*Discours de la méthode*, 1637)",
+              "Une philosophie pratique pourrait nous rendre « comme maîtres et possesseurs de la nature »",
+              "La technique au service du progrès"
+            ],
+            [
+              "Bergson (*L'Évolution créatrice*, 1907)",
+              "L'homme est *homo faber* : l'intelligence est d'abord la faculté de fabriquer des outils",
+              "La technique est le propre de l'intelligence humaine"
+            ],
+            [
+              "Heidegger (*La Question de la technique*, conférence de 1953)",
+              "La technique moderne n'est pas un simple moyen : elle fait apparaître toute chose comme un stock d'énergie à exploiter",
+              "La technique change notre rapport au monde"
+            ],
+            [
+              "Simondon (*Du mode d'existence des objets techniques*, 1958)",
+              "Il faut comprendre les objets techniques au lieu de les craindre ou de les idolâtrer",
+              "La technique fait partie de la culture"
+            ],
+            [
+              "Jonas (*Le Principe responsabilité*, 1979)",
+              "Notre puissance technique exige une éthique de la responsabilité envers les générations futures",
+              "Agir de façon que la vie humaine reste possible"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exemples",
+      "titre": "Exemples à mobiliser",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "Le smartphone : outil de liberté ou source de dépendance ?",
+            "L'intelligence artificielle qui remplace certaines tâches humaines.",
+            "Le nucléaire : énergie et menace.",
+            "La médecine qui prolonge la vie."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sujets",
+      "titre": "Sujets possibles (créés pour s'entraîner)",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "La technique est-elle neutre ?",
+            "La technique libère-t-elle l'homme ?",
+            "Peut-on tout attendre de la technique ?",
+            "Faut-il avoir peur du progrès technique ?"
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "pas des annales",
+          "texte": "Ces sujets sont formulés pour s'entraîner, au format du bac ; ce ne sont pas des sujets tombés."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "auteur",
+      "libelle": "La technique compense la faiblesse naturelle de l'homme",
+      "valeur": "Platon, *Protagoras*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La technique au service du progrès",
+      "valeur": "Descartes, *Discours de la méthode*, 1637",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La technique est le propre de l'intelligence humaine",
+      "valeur": "Bergson, *L'Évolution créatrice*, 1907",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La technique change notre rapport au monde",
+      "valeur": "Heidegger, *La Question de la technique*, conférence de 1953",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La technique fait partie de la culture",
+      "valeur": "Simondon, *Du mode d'existence des objets techniques*, 1958",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La technique : les positions",
+    "colonnes": [
+      "Auteur",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Platon",
+        "Dans le mythe de Prométhée, l'homme, né nu et sans défense, reçoit le feu et les techniques pour survivre"
+      ],
+      [
+        "Descartes",
+        "Une philosophie pratique pourrait nous rendre « comme maîtres et possesseurs de la nature »"
+      ],
+      [
+        "Bergson",
+        "L'homme est *homo faber* : l'intelligence est d'abord la faculté de fabriquer des outils"
+      ],
+      [
+        "Heidegger",
+        "La technique moderne n'est pas un simple moyen : elle fait apparaître toute chose comme un stock d'énergie à exploiter"
+      ],
+      [
+        "Simondon",
+        "Il faut comprendre les objets techniques au lieu de les craindre ou de les idolâtrer"
+      ],
+      [
+        "Jonas",
+        "Notre puissance technique exige une éthique de la responsabilité envers les générations futures"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Technique** : savoir-faire efficace ≠ science (connaître).",
+    "**Prométhée** (Platon) : la technique compense la faiblesse de l'homme.",
+    "**Descartes** : maîtres et possesseurs de la nature.",
+    "**Bergson** : homo faber.",
+    "**Heidegger** : la technique n'est pas neutre.",
+    "**Simondon** : comprendre les objets techniques.",
+    "**Jonas** : responsabilité."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Le mythe de Prométhée est raconté dans…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le *Protagoras* de Platon",
+          "correct": true,
+          "explication": "Le feu et les techniques."
+        },
+        {
+          "id": "b",
+          "texte": "le *Discours de la méthode*",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*Homo faber* est une expression de…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Bergson",
+          "correct": true,
+          "explication": "1907."
+        },
+        {
+          "id": "b",
+          "texte": "Heidegger",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Pour Heidegger, la technique moderne est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "pas un simple moyen neutre",
+          "correct": true,
+          "explication": "Elle change notre rapport au monde."
+        },
+        {
+          "id": "b",
+          "texte": "un outil sans importance",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Jonas demande…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une éthique de la responsabilité",
+          "correct": true,
+          "explication": "1979."
+        },
+        {
+          "id": "b",
+          "texte": "plus de vitesse",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "La machine se distingue de l'outil car…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Définition usuelle en philosophie"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "elle fonctionne en partie seule",
+          "correct": true,
+          "explication": "Et peut imposer son rythme."
+        },
+        {
+          "id": "b",
+          "texte": "elle est plus petite",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

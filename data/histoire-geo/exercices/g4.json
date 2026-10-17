@@ -1,0 +1,269 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "g4",
+  "exercices": [
+    {
+      "id": "g4-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "La métropolisation renforce…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les grandes villes",
+              "correct": true,
+              "explication": "Concentration."
+            },
+            {
+              "id": "b",
+              "texte": "les villages",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "L'étalement périurbain désigne…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'extension des espaces construits autour des villes",
+              "correct": true,
+              "explication": "Lotissements, zones commerciales."
+            },
+            {
+              "id": "b",
+              "texte": "la croissance des centres-villes seulement",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Montpellier est une métropole…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "d'Occitanie",
+              "correct": true,
+              "explication": "Avec Toulouse."
+            },
+            {
+              "id": "b",
+              "texte": "de Bretagne",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Paris est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une métropole mondiale",
+              "correct": true,
+              "explication": "Fonctions de commandement."
+            },
+            {
+              "id": "b",
+              "texte": "une ville moyenne",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Les réformes territoriales cherchent à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère géographique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "rendre les régions plus fortes et corriger les inégalités",
+              "correct": true,
+              "explication": "Ex. : 2016."
+            },
+            {
+              "id": "b",
+              "texte": "supprimer les communes",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "g4-composition",
+      "titre": "Plan de composition : « Les dynamiques du territoire français dans l'UE et la mondialisation »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « Les dynamiques du territoire français dans l'UE et la mondialisation »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : problématique : comment la mondialisation et l'intégration européenne recomposent-elles le territoire français ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Les lignes de force du territoire**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Paris et les métropoles",
+            "B. Littoraux, Sud et grands axes",
+            "C. La diagonale des faibles densités"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Des recompositions inégales**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Attractivité des métropoles",
+            "B. Territoires en difficulté",
+            "C. Les réponses (régions de 2016)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III. L'exemple de l'Occitanie**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Toulouse et Montpellier",
+            "B. Une région attractive mais contrastée"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : un territoire de plus en plus métropolisé."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "g4-croquis",
+      "titre": "Légende de croquis : « Les dynamiques du territoire français »",
+      "type": "croquis",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de croquis (créé pour s'entraîner) : « Les dynamiques du territoire français »",
+        "Construis une légende organisée en 2 ou 3 parties, avec pour chaque élément le figuré que tu utiliserais (aplat de couleur, point, flèche, trait)."
+      ],
+      "methode": [
+        "Chaque partie de la légende a un titre qui répond au sujet.",
+        "Les figurés : surfaces = aplats ou hachures ; lieux = points ou symboles ; flux = flèches ; limites = traits.",
+        "Hiérarchise : la taille d'un figuré traduit l'importance."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "**1. Des espaces moteurs** : Paris (gros point), métropoles régionales (points moyens) ; grands axes (flèches : Seine, Rhône-Saône).",
+            "**2. Des espaces attractifs** : littoraux et Sud (hachures) ; frontières dynamiques (Suisse, Luxembourg).",
+            "**3. Des espaces en difficulté** : diagonale des faibles densités (aplat clair) ; anciens bassins industriels (hachures du Nord-Est)."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Légende organisée et titrée",
+          "points": 8
+        },
+        {
+          "critere": "Figurés adaptés",
+          "points": 6
+        },
+        {
+          "critere": "Exemples localisés",
+          "points": 6
+        }
+      ]
+    }
+  ]
+}

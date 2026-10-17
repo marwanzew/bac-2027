@@ -1,0 +1,318 @@
+{
+  "id": "litterature-idees",
+  "matiere": "francais",
+  "titre": "La littérature d'idées du XVIe au XVIIIe siècle",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Objets d'étude et œuvres au programme 2026-2027",
+    "intitule": "La littérature d'idées du XVIe au XVIIIe siècle",
+    "certitude": "certain",
+    "source": {
+      "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+      "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+    }
+  },
+  "objectifs": [
+    "Connaître les trois œuvres au programme et leurs parcours.",
+    "Comprendre comment un texte argumente (thèse, arguments, stratégies).",
+    "Préparer la dissertation sur la littérature d'idées."
+  ],
+  "parties": [
+    {
+      "id": "programme",
+      "titre": "Les œuvres au programme",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Littérature d'idées : œuvres et parcours 2026-2027",
+          "colonnes": [
+            "Œuvre",
+            "Parcours associé"
+          ],
+          "lignes": [
+            [
+              "La Boétie, Discours de la servitude volontaire",
+              "« Défendre » et « entretenir » la liberté"
+            ],
+            [
+              "Fontenelle, Entretiens sur la pluralité des mondes",
+              "le goût de la science"
+            ],
+            [
+              "Graffigny, Lettres d'une Péruvienne (avec l'introduction historique et les lettres XXVIII, XXIX, XXX et XXXIV de l'édition de 1752)",
+              "« un nouvel univers s'est offert à mes yeux »"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "humanisme"
+        },
+        {
+          "type": "definition",
+          "glossaire": "lumieres"
+        }
+      ]
+    },
+    {
+      "id": "la-boetie",
+      "titre": "La Boétie, Discours de la servitude volontaire",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Étienne de La Boétie** (1530-1563), ami de **Montaigne**, écrit ce discours dans sa jeunesse, au milieu du XVIe siècle ; il est publié après sa mort."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Thèse** : un tyran n'a de pouvoir que celui que le peuple lui donne. Les hommes acceptent la servitude par **habitude**, par la **ruse** du tyran (jeux, divertissements) et grâce à une **chaîne de complices** qui profitent du pouvoir. Il suffirait donc de **ne plus servir** pour être libre, sans même combattre."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « Défendre » et « entretenir » la liberté** : la liberté est naturelle mais fragile ; il faut la défendre contre la tyrannie et l'entretenir par l'éducation, l'amitié, la mémoire."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Stratégies : questions rhétoriques, apostrophes au peuple, exemples antiques, images (le feu qu'on cesse d'alimenter)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fontenelle",
+      "titre": "Fontenelle, Entretiens sur la pluralité des mondes",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Ouvrage publié en **1686** par **Bernard Le Bouyer de Fontenelle** (1657-1757). Au cours de soirées dans un parc, un **philosophe** explique à une **marquise** le système de **Copernic** (la Terre tourne autour du Soleil) et imagine que d'autres planètes pourraient être habitées."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « le goût de la science »** : Fontenelle **vulgarise** la science : il rend les connaissances accessibles et agréables grâce au dialogue, à la galanterie et aux comparaisons. La marquise, intelligente et curieuse, montre que la science n'est pas réservée aux savants."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Enjeux : vulgarisation, esprit critique, place des femmes dans le savoir, plaisir d'apprendre."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "graffigny",
+      "titre": "Graffigny, Lettres d'une Péruvienne",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Roman épistolaire publié en **1747** (édition augmentée en **1752**) par **Françoise de Graffigny** (1695-1758). **Zilia**, princesse inca enlevée par les Espagnols, est recueillie par le Français **Déterville**. Elle écrit à son fiancé **Aza** et découvre la France avec un regard étranger."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Parcours « un nouvel univers s'est offert à mes yeux »** : le regard naïf de l'étrangère permet de **critiquer la société française** (luxe, apparences, éducation des femmes) et de réfléchir à la liberté et à l'indépendance d'une femme."
+        },
+        {
+          "type": "liste",
+          "items": [
+            "Enjeux : regard étranger (comme dans les *Lettres persanes* de Montesquieu), critique des mœurs, condition des femmes, Lumières."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "argumenter",
+      "titre": "Analyser un texte argumentatif",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Thèse** : l'idée défendue. **Arguments** : les raisons. **Exemples** : les cas concrets.",
+            "**Argumenter directement** (essai, discours) ou **indirectement** (dialogue, lettre fictive, apologue).",
+            "**Convaincre** (faire appel à la raison) / **persuader** (faire appel aux émotions)."
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "hyperbole"
+        },
+        {
+          "type": "definition",
+          "glossaire": "antithese"
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Entretiens sur la pluralité des mondes",
+      "valeur": "1686",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Lettres d'une Péruvienne",
+      "valeur": "1747 (édition augmentée de 1752)",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    },
+    {
+      "type": "auteur",
+      "libelle": "La Boétie",
+      "valeur": "1530-1563 ; ami de Montaigne",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "La littérature d'idées en un tableau",
+    "colonnes": [
+      "Œuvre",
+      "Forme",
+      "Idée clé"
+    ],
+    "lignes": [
+      [
+        "Discours de la servitude volontaire",
+        "Discours",
+        "On est esclave parce qu'on accepte de servir"
+      ],
+      [
+        "Entretiens sur la pluralité des mondes",
+        "Dialogue",
+        "La science peut être accessible et plaisante"
+      ],
+      [
+        "Lettres d'une Péruvienne",
+        "Roman par lettres",
+        "Un regard étranger critique la société française"
+      ]
+    ]
+  },
+  "fiche": [
+    "**La Boétie** : la servitude est volontaire ; « Défendre » et « entretenir » la liberté.",
+    "**Fontenelle** (1686) : philosophe et marquise, Copernic ; « le goût de la science ».",
+    "**Graffigny** (1747, 1752) : Zilia, regard étranger ; « un nouvel univers s'est offert à mes yeux ».",
+    "Convaincre (raison) / persuader (émotions)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Selon La Boétie, le tyran est puissant…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "parce que le peuple accepte de le servir",
+          "correct": true,
+          "explication": "Servitude volontaire."
+        },
+        {
+          "id": "b",
+          "texte": "parce qu'il est le plus fort physiquement",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Chez Fontenelle, le philosophe explique l'astronomie à…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une marquise",
+          "correct": true,
+          "explication": "Au cours de soirées."
+        },
+        {
+          "id": "b",
+          "texte": "un roi",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Zilia est…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Histoire littéraire (fait établi : dates de publication, contenu de l'œuvre)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une princesse inca",
+          "correct": true,
+          "explication": "Lettres d'une Péruvienne."
+        },
+        {
+          "id": "b",
+          "texte": "une marquise française",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Le parcours associé à Fontenelle :",
+      "certitude": "certain",
+      "source": {
+        "titre": "Note de service du 4 juillet 2025, programme d'œuvres de français de première pour 2026-2027, BO n° 30 du 24 juillet 2025 (MENE2518792N)",
+        "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le goût de la science",
+          "correct": true,
+          "explication": "Intitulé officiel."
+        },
+        {
+          "id": "b",
+          "texte": "théâtre et dispute",
+          "correct": false,
+          "explication": "C'est Sarraute."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Persuader, c'est surtout…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Notion de stylistique et de rhétorique d'usage courant au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "faire appel aux émotions",
+          "correct": true,
+          "explication": "Convaincre = raison."
+        },
+        {
+          "id": "b",
+          "texte": "faire appel à la raison",
+          "correct": false,
+          "explication": "C'est convaincre."
+        }
+      ]
+    }
+  ]
+}

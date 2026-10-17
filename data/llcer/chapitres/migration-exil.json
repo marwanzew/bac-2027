@@ -1,0 +1,471 @@
+{
+  "id": "migration-exil",
+  "matiere": "llcer",
+  "titre": "Migration et exil",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thématique « Voyages, territoires, frontières »",
+    "intitule": "Migration et exil",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Expliquer les causes et les effets des migrations dans le monde anglophone.",
+    "Exprimer la tension entre nostalgie et espoir, déracinement et nouvelle identité.",
+    "Connaître des œuvres majeures de la littérature de la migration et de la diaspora.",
+    "Utiliser le vocabulaire : emigrate, uprooting, diaspora, hybridity, culture shock."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment lire cet axe",
+          "texte": "Le programme officiel présente chaque axe par une problématique, des mots-clés et des pistes d'œuvres. Les objectifs « À la fin, je dois savoir… » sont une reformulation pédagogique ; les mots-clés et les pistes, eux, viennent du programme."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique de la thématique (programme)** : comment le voyage, la frontière et le territoire ont-ils façonné l'histoire, l'identité et les sociétés du monde anglophone, dans un contexte d'expansion et de colonisation ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'axe** : partir, choisi ou forcé, transforme l'individu. Le programme invite à étudier les **causes et les effets** des migrations, la tension entre **nostalgie** et **espoir**, mais aussi la **dimension positive** de la migration (hybridité, richesse culturelle), et des formes particulières comme l'**exil intérieur** (se sentir étranger chez soi) ou l'**exil inversé** (le retour au pays après des années)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "exile"
+        },
+        {
+          "type": "definition",
+          "glossaire": "diaspora"
+        },
+        {
+          "type": "definition",
+          "glossaire": "culture-shock"
+        },
+        {
+          "type": "definition",
+          "glossaire": "melting-pot"
+        }
+      ]
+    },
+    {
+      "id": "vocabulaire",
+      "titre": "Key words",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Mots-clés et vocabulaire utile",
+          "colonnes": [
+            "English",
+            "Français",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "to emigrate / to immigrate",
+              "émigrer / immigrer",
+              "she emigrated from Ireland to the US"
+            ],
+            [
+              "chosen or forced migration",
+              "migration choisie ou subie",
+              "refugees fleeing war"
+            ],
+            [
+              "uprooting / to be uprooted",
+              "déracinement / être déraciné",
+              "the pain of uprooting"
+            ],
+            [
+              "hybridity / hybrid identity",
+              "hybridité / identité hybride",
+              "a hybrid identity"
+            ],
+            [
+              "inner exile",
+              "exil intérieur",
+              "to feel like a stranger at home"
+            ],
+            [
+              "homesickness",
+              "mal du pays",
+              "she suffers from homesickness"
+            ],
+            [
+              "to fit in / to blend in",
+              "s'intégrer / se fondre",
+              "to try to fit in"
+            ],
+            [
+              "transgenerational memory",
+              "mémoire transgénérationnelle",
+              "stories passed down from one generation to the next"
+            ],
+            [
+              "a newcomer",
+              "un nouvel arrivant",
+              "newcomers in London"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reperes-culturels",
+      "titre": "Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Repères historiques et œuvres",
+          "colonnes": [
+            "Repère",
+            "Date",
+            "Intérêt"
+          ],
+          "lignes": [
+            [
+              "Grande Famine en Irlande",
+              "1845-1852",
+              "Départ massif d'Irlandais vers les États-Unis et la Grande-Bretagne"
+            ],
+            [
+              "Ellis Island, porte d'entrée des immigrants à New York",
+              "1892-1954",
+              "Des millions d'immigrants y sont passés"
+            ],
+            [
+              "John Steinbeck, *The Grapes of Wrath*",
+              "1939",
+              "Migration intérieure des fermiers ruinés vers la Californie"
+            ],
+            [
+              "Arrivée de l'*Empire Windrush* (Royaume-Uni)",
+              "22 juin 1948",
+              "Symbole de l'immigration caribéenne d'après-guerre"
+            ],
+            [
+              "Salman Rushdie, *Midnight's Children*",
+              "1981",
+              "L'Inde et son indépendance ; prix Booker 1981"
+            ],
+            [
+              "Amy Tan, *The Joy Luck Club*",
+              "1989",
+              "Mères chinoises et filles américaines"
+            ],
+            [
+              "Hanif Kureishi, *The Buddha of Suburbia*",
+              "1990",
+              "Grandir entre deux cultures dans la banlieue de Londres"
+            ],
+            [
+              "Julia Alvarez, *How the García Girls Lost Their Accents*",
+              "1991",
+              "Des sœurs dominicaines aux États-Unis"
+            ],
+            [
+              "Zadie Smith, *White Teeth*",
+              "2000",
+              "Le Londres multiculturel"
+            ],
+            [
+              "Jhumpa Lahiri, *The Namesake*",
+              "2003",
+              "Une famille bengalie aux États-Unis ; le poids d'un prénom"
+            ],
+            [
+              "Monica Ali, *Brick Lane*",
+              "2003",
+              "Une Bangladaise dans l'East End de Londres"
+            ],
+            [
+              "Ken Loach, *Ae Fond Kiss*",
+              "2004",
+              "Amour et choc des cultures à Glasgow"
+            ],
+            [
+              "Gene Luen Yang, *American Born Chinese* (roman graphique)",
+              "2006",
+              "Identité d'un adolescent sino-américain"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "programme-limitatif",
+      "titre": "Liens possibles avec le programme limitatif",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "des pistes, pas des règles",
+          "texte": "Ton professeur choisit les œuvres et l'axe auquel il les relie."
+        },
+        {
+          "type": "tableau",
+          "titre": "Pistes",
+          "colonnes": [
+            "Œuvre",
+            "Pourquoi elle peut illustrer l'axe"
+          ],
+          "lignes": [
+            [
+              "Chimamanda Ngozi Adichie, *Americanah* (2013)",
+              "Une Nigériane aux États-Unis découvre la question raciale, puis rentre au pays (exil inversé). Adichie est citée par le programme"
+            ],
+            [
+              "Colm Tóibín, *Brooklyn* (2009)",
+              "Une jeune Irlandaise émigre à New York dans les années 1950 : mal du pays et nouvelle vie"
+            ],
+            [
+              "Paul Auster, *Moon Palace* (1989)",
+              "Cité par le programme pour cet axe : errance et quête des origines"
+            ],
+            [
+              "Jane Campion, *The Piano* (1993)",
+              "Ada quitte l'Écosse pour la Nouvelle-Zélande coloniale"
+            ],
+            [
+              "J. M. Coetzee, *Boyhood* (1997)",
+              "Coetzee est cité par le programme ; l'enfant se sent étranger dans sa propre société (exil intérieur)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "titre": "Useful phrases",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "*She is torn between her homeland and her new life.*",
+            "*Migration is depicted both as a loss and as an opportunity.*",
+            "*The character develops a hybrid identity.*",
+            "*The novel explores the experience of the diaspora.*"
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Montre les **deux faces** : ce que la migration **coûte** (déracinement, nostalgie, discriminations) et ce qu'elle **apporte** (liberté, rencontres, identité enrichie)."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Grande Famine en Irlande",
+      "valeur": "1845-1852",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Steinbeck, *The Grapes of Wrath*",
+      "valeur": "1939",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "*Empire Windrush*",
+      "valeur": "22 juin 1948",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Colm Tóibín, *Brooklyn*",
+      "valeur": "2009",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Adichie, *Americanah*",
+      "valeur": "2013",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "Le parcours migratoire",
+    "sens": "horizontal",
+    "noeuds": [
+      {
+        "id": "dep",
+        "texte": "Départ (choisi ou subi)"
+      },
+      {
+        "id": "arr",
+        "texte": "Arrivée : choc culturel"
+      },
+      {
+        "id": "ten",
+        "texte": "Tension : nostalgie / espoir"
+      },
+      {
+        "id": "id",
+        "texte": "Identité hybride ou retour"
+      }
+    ],
+    "liens": [
+      {
+        "de": "dep",
+        "vers": "arr"
+      },
+      {
+        "de": "arr",
+        "vers": "ten"
+      },
+      {
+        "de": "ten",
+        "vers": "id"
+      }
+    ]
+  },
+  "fiche": [
+    "**Axe** : causes et effets des migrations ; nostalgie et espoir ; hybridité ; exil intérieur, exil inversé.",
+    "**Vocabulaire** : emigrate, uprooting, diaspora, hybridity, culture shock, homesickness, to fit in.",
+    "**Repères** : Grande Famine (1845-1852), Ellis Island (1892-1954), *Grapes of Wrath* (1939), Windrush (1948), Rushdie (1981), Zadie Smith (2000), Lahiri (2003).",
+    "**Programme limitatif** : *Americanah*, *Brooklyn*, *Moon Palace*, *The Piano*, *Boyhood* (pistes)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*to emigrate* means…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "quitter son pays",
+          "correct": true,
+          "explication": "To immigrate = s'installer dans un nouveau pays."
+        },
+        {
+          "id": "b",
+          "texte": "arriver dans un pays",
+          "correct": false,
+          "explication": "C'est to immigrate."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "The *Empire Windrush* arrived in Britain in…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1948",
+          "correct": true,
+          "explication": "Le 22 juin 1948."
+        },
+        {
+          "id": "b",
+          "texte": "1968",
+          "correct": false,
+          "explication": "Vingt ans trop tard."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*Brooklyn* (Tóibín) tells the story of…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "a young Irish woman who emigrates to New York",
+          "correct": true,
+          "explication": "Dans les années 1950."
+        },
+        {
+          "id": "b",
+          "texte": "a Nigerian student in London",
+          "correct": false,
+          "explication": "Ce n'est pas l'intrigue."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "*homesickness*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le mal du pays",
+          "correct": true,
+          "explication": "to be homesick."
+        },
+        {
+          "id": "b",
+          "texte": "une maladie contagieuse",
+          "correct": false,
+          "explication": "Contresens."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*inner exile*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+        "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "se sentir étranger chez soi",
+          "correct": true,
+          "explication": "Notion du programme."
+        },
+        {
+          "id": "b",
+          "texte": "un exil en prison",
+          "correct": false,
+          "explication": "Ce n'est pas le sens."
+        }
+      ]
+    }
+  ]
+}

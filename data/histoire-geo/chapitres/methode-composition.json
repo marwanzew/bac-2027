@@ -1,0 +1,244 @@
+{
+  "id": "methode-composition",
+  "matiere": "histoire-geo",
+  "titre": "Méthode : la composition",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Méthode",
+    "intitule": "Méthode : la composition",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Analyser un sujet (termes, bornes chronologiques et spatiales).",
+    "Construire une problématique et un plan.",
+    "Rédiger une introduction, un développement et une conclusion."
+  ],
+  "parties": [
+    {
+      "id": "evaluation",
+      "titre": "À quoi ça sert",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment tu es évalué",
+          "texte": "En histoire-géographie, la note du bac vient du **contrôle continu** (coefficient 6) : ce sont tes moyennes de première et de terminale. Il n'y a pas d'épreuve finale. Ces méthodes servent pour tes devoirs en classe, qui font ta moyenne."
+        }
+      ]
+    },
+    {
+      "id": "etapes",
+      "titre": "Les étapes",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "**Analyser le sujet** : souligne les mots-clés, définis-les, repère les **bornes** chronologiques (dates de début et de fin) et spatiales (où ?). Justifie-les dans l'introduction.",
+            "**Mobiliser tes connaissances** au brouillon : dates, acteurs, lieux, notions, exemples.",
+            "**Problématique** : une question qui montre ce qui est en jeu (« Comment… ? », « En quoi… ? »).",
+            "**Plan** : 2 ou 3 parties, chronologique (étapes) ou thématique (aspects).",
+            "**Rédiger** : introduction (accroche, définitions, bornes, problématique, annonce du plan), parties avec phrase d'introduction et transition, conclusion (réponse + ouverture)."
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Chronologique ou thématique ?",
+          "colonnes": [
+            "Plan",
+            "Quand l'utiliser",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "Chronologique",
+              "Le sujet porte sur une évolution",
+              "« La guerre froide (1947-1991) » : affrontement, détente, fin"
+            ],
+            [
+              "Thématique",
+              "Le sujet demande des aspects",
+              "« Les régimes totalitaires » : idéologie, encadrement, terreur"
+            ]
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Chaque paragraphe = une **idée** + des **exemples précis** (date, lieu, acteur, chiffre)."
+        },
+        {
+          "type": "piege",
+          "titre": "les erreurs fréquentes",
+          "texte": "Réciter le cours sans répondre au sujet ; oublier les bornes ; un plan qui ne suit pas la problématique ; aucun exemple daté."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "chiffre",
+      "libelle": "Coefficient de l'histoire-géographie (contrôle continu)",
+      "valeur": "6",
+      "certitude": "certain",
+      "source": {
+        "titre": "Arrêté relatif aux modalités d'organisation du baccalauréat général"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Méthode : la composition : les étapes",
+    "colonnes": [
+      "Étape",
+      "À faire"
+    ],
+    "lignes": [
+      [
+        "1",
+        "Analyser le sujet : mots-clés, bornes"
+      ],
+      [
+        "2",
+        "Mobiliser ses connaissances au brouillon"
+      ],
+      [
+        "3",
+        "Formuler une problématique"
+      ],
+      [
+        "4",
+        "Choisir un plan (chronologique ou thématique)"
+      ],
+      [
+        "5",
+        "Rédiger introduction, parties, conclusion"
+      ],
+      [
+        "6",
+        "Relire (orthographe, dates)"
+      ]
+    ]
+  },
+  "fiche": [
+    "Analyser le sujet : mots-clés, bornes",
+    "Mobiliser ses connaissances au brouillon",
+    "Formuler une problématique",
+    "Choisir un plan (chronologique ou thématique)",
+    "Rédiger introduction, parties, conclusion",
+    "Relire (orthographe, dates)"
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "Les bornes d'un sujet, ce sont…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "ses limites dans le temps et l'espace",
+          "correct": true,
+          "explication": "À justifier dans l'introduction."
+        },
+        {
+          "id": "b",
+          "texte": "le nombre de pages",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "L'introduction contient…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "accroche, définitions, bornes, problématique, annonce du plan",
+          "correct": true,
+          "explication": "Dans cet ordre."
+        },
+        {
+          "id": "b",
+          "texte": "la réponse détaillée",
+          "correct": false,
+          "explication": "Elle est dans le développement."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Un plan chronologique convient pour…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une évolution",
+          "correct": true,
+          "explication": "Étapes."
+        },
+        {
+          "id": "b",
+          "texte": "une description d'aspects",
+          "correct": false,
+          "explication": "Plan thématique."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Une bonne partie contient…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "des idées illustrées par des exemples précis",
+          "correct": true,
+          "explication": "Dates, lieux, acteurs."
+        },
+        {
+          "id": "b",
+          "texte": "uniquement des dates",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "La conclusion…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Méthode usuelle d'histoire-géographie au lycée"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "répond à la problématique et ouvre",
+          "correct": true,
+          "explication": "Réponse + ouverture."
+        },
+        {
+          "id": "b",
+          "texte": "annonce le plan",
+          "correct": false,
+          "explication": "C'est l'introduction."
+        }
+      ]
+    }
+  ]
+}

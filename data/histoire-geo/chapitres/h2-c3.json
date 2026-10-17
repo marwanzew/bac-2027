@@ -1,0 +1,296 @@
+{
+  "id": "h2-c3",
+  "matiere": "histoire-geo",
+  "titre": "La France : une nouvelle place dans le monde",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Histoire · Thème 2 – La multiplication des acteurs internationaux dans un monde bipolaire (de 1945 au début des années 1970)",
+    "intitule": "La France : une nouvelle place dans le monde",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme d'histoire-géographie de terminale générale, BO spécial n° 8 du 25 juillet 2019, annexe 1",
+      "url": "https://eduscol.education.gouv.fr/sites/default/files/document/spe243annexe11159172pdf-83013.pdf"
+    }
+  },
+  "objectifs": [
+    "Expliquer comment la France perd son empire colonial (guerre d'Algérie).",
+    "Comparer deux conceptions de la République : de Gaulle et Mendès France.",
+    "Connaître la Constitution de 1958 et la construction européenne.",
+    "Comprendre les mémoires de la guerre d'Algérie."
+  ],
+  "parties": [
+    {
+      "id": "points",
+      "titre": "Les points de passage et d'ouverture",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "Le programme demande d'étudier précisément :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "la guerre d'Algérie et ses mémoires ;",
+            "Charles de Gaulle et Pierre Mendès France, deux conceptions de la République ;",
+            "la Constitution de 1958."
+          ]
+        },
+        {
+          "type": "piege",
+          "titre": "à connaître par cœur",
+          "texte": "Ces points sont cités mot pour mot par le programme : un sujet ou un document peut porter directement sur eux."
+        }
+      ]
+    },
+    {
+      "id": "algerie",
+      "titre": "La guerre d'Algérie et ses mémoires",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "L'Algérie, française depuis 1830 et divisée en départements, compte environ un million d'Européens (« pieds-noirs ») et une majorité d'Algériens musulmans privés d'égalité des droits. Le **1er novembre 1954**, le FLN lance l'insurrection (« Toussaint rouge »)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "La guerre (1954-1962) mobilise des centaines de milliers d'appelés du contingent ; elle est marquée par la torture, les attentats, les déplacements de population. Les **accords d'Évian** (18 mars 1962) mènent à l'**indépendance** (5 juillet 1962). Les pieds-noirs partent massivement vers la métropole ; des harkis (Algériens ayant combattu dans l'armée française) sont massacrés en Algérie ou relégués dans des camps en France."
+        },
+        {
+          "type": "definition",
+          "glossaire": "memoire"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Des mémoires concurrentes** : celles des anciens appelés, des pieds-noirs, des harkis, des Algériens, des immigrés. Longtemps on parle d'« événements » : ce n'est qu'en **1999** que la loi reconnaît officiellement l'expression « guerre d'Algérie »."
+        },
+        {
+          "type": "piege",
+          "titre": "histoire et mémoire",
+          "texte": "L'**histoire** cherche à établir les faits avec méthode ; la **mémoire** est le souvenir vécu et transmis par un groupe, souvent sélectif et chargé d'émotions."
+        }
+      ]
+    },
+    {
+      "id": "republique",
+      "titre": "De Gaulle et Mendès France ; la Constitution de 1958",
+      "blocs": [
+        {
+          "type": "paragraphe",
+          "texte": "**Pierre Mendès France**, président du Conseil (1954-1955), met fin à la guerre d'Indochine (accords de Genève) ; il défend une République parlementaire, fondée sur la vérité et la rigueur, et s'oppose en 1958 à la Constitution gaullienne."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Charles de Gaulle** revient au pouvoir en **mai-juin 1958**, en pleine crise algérienne. Il veut un exécutif fort, au-dessus des partis. La **Constitution de la Ve République** est approuvée par référendum (28 septembre 1958) et promulguée le **4 octobre 1958** : le président nomme le Premier ministre, peut dissoudre l'Assemblée, recourir au référendum et disposer de pouvoirs exceptionnels (article 16). En **1962**, un référendum instaure l'**élection du président au suffrage universel direct**."
+        },
+        {
+          "type": "definition",
+          "glossaire": "ve-republique"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**La France dans le monde** : participation à la construction européenne (CECA 1951, **traité de Rome** 25 mars 1957), politique d'indépendance nationale de De Gaulle : bombe atomique (1960), retrait du commandement intégré de l'OTAN (1966), modernisation économique pendant les Trente Glorieuses."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Début de la guerre d'Algérie (Toussaint rouge)",
+      "valeur": "1er novembre 1954",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Traité de Rome (CEE)",
+      "valeur": "25 mars 1957",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Constitution de la Ve République",
+      "valeur": "4 octobre 1958",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Accords d'Évian",
+      "valeur": "18 mars 1962",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Indépendance de l'Algérie",
+      "valeur": "5 juillet 1962",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Élection du président au suffrage universel direct (référendum)",
+      "valeur": "1962",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Deux conceptions de la République",
+    "colonnes": [
+      "",
+      "Mendès France",
+      "De Gaulle"
+    ],
+    "lignes": [
+      [
+        "Pouvoir",
+        "Primauté du Parlement",
+        "Exécutif fort, président arbitre"
+      ],
+      [
+        "Méthode",
+        "Vérité, contrat avec les citoyens",
+        "Rapport direct avec le peuple (référendums)"
+      ],
+      [
+        "1958",
+        "S'oppose à la nouvelle Constitution",
+        "Fonde la Ve République"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Algérie** : 1er nov. 1954 → accords d'Évian (18 mars 1962) → indépendance (5 juillet 1962).",
+    "**Mémoires** : appelés, pieds-noirs, harkis, Algériens ; « guerre d'Algérie » reconnue par la loi en 1999.",
+    "**Mendès France** : République parlementaire. **De Gaulle** : exécutif fort.",
+    "**Constitution du 4 octobre 1958** ; suffrage universel direct pour le président (1962).",
+    "**Europe** : traité de Rome (1957). **Indépendance nationale** : bombe (1960), retrait du commandement de l'OTAN (1966)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "La Constitution de la Ve République date du…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "4 octobre 1958",
+          "correct": true,
+          "explication": "Approuvée par référendum le 28 septembre."
+        },
+        {
+          "id": "b",
+          "texte": "10 juillet 1940",
+          "correct": false,
+          "explication": "Pleins pouvoirs à Pétain."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "Les accords d'Évian sont signés le…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "18 mars 1962",
+          "correct": true,
+          "explication": "Fin de la guerre d'Algérie."
+        },
+        {
+          "id": "b",
+          "texte": "1er novembre 1954",
+          "correct": false,
+          "explication": "Début de la guerre."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Le président est élu au suffrage universel direct depuis…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "le référendum de 1962",
+          "correct": true,
+          "explication": "Première élection en 1965."
+        },
+        {
+          "id": "b",
+          "texte": "1958",
+          "correct": false,
+          "explication": "En 1958, élection par un collège de grands électeurs."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Mendès France défend…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "une République parlementaire",
+          "correct": true,
+          "explication": "Primauté du Parlement."
+        },
+        {
+          "id": "b",
+          "texte": "un exécutif tout-puissant",
+          "correct": false,
+          "explication": "C'est plutôt de Gaulle."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "Les harkis sont…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère historique (date ou fait établi)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "des Algériens ayant combattu dans l'armée française",
+          "correct": true,
+          "explication": "Une mémoire douloureuse."
+        },
+        {
+          "id": "b",
+          "texte": "des indépendantistes du FLN",
+          "correct": false,
+          "explication": "Non."
+        }
+      ]
+    }
+  ]
+}

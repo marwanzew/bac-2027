@@ -1,0 +1,251 @@
+{
+  "matiere": "anglais",
+  "chapitre": "axe2",
+  "exercices": [
+    {
+      "id": "axe2-qcm",
+      "titre": "Vocabulary: 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Cherche le sens dans le contexte."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*slavery*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'esclavage",
+              "correct": true,
+              "explication": "The legacy of slavery."
+            },
+            {
+              "id": "b",
+              "texte": "la lenteur",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*a memorial*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un mémorial",
+              "correct": true,
+              "explication": "The 9/11 Memorial."
+            },
+            {
+              "id": "b",
+              "texte": "une mémoire d'ordinateur",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*People have commemorated the victims … 2011.*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "since",
+              "correct": true,
+              "explication": "Point de départ."
+            },
+            {
+              "id": "b",
+              "texte": "for",
+              "correct": false,
+              "explication": "For + durée."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*heritage*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le patrimoine",
+              "correct": true,
+              "explication": "Cultural heritage."
+            },
+            {
+              "id": "b",
+              "texte": "l'héritier",
+              "correct": false,
+              "explication": "Héritier = heir."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*a landmark*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un lieu emblématique",
+              "correct": true,
+              "explication": "A historical landmark."
+            },
+            {
+              "id": "b",
+              "texte": "une terre",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "axe2-comprension",
+      "titre": "Reading comprehension",
+      "type": "comprehension-ecrit",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Read the text and answer the questions. (Lis le texte et réponds aux questions.)",
+        "1. What happened to the statue of Edward Colston in June 2020?",
+        "2. Who was Colston, and how was he remembered for a long time?",
+        "3. Where is the statue today?",
+        "4. What were the two reactions to the event?"
+      ],
+      "documents": [
+        {
+          "titre": "Text (written for practice)",
+          "contenu": "In June 2020, during a protest against racism, the statue of Edward Colston was pulled down in Bristol and thrown into the harbour. Colston had made his fortune in the slave trade in the 17th century, but for a long time he was mainly remembered as a generous benefactor of the city. After the protest, the statue was recovered and placed in a museum, with explanations about his role in slavery. Some people were shocked by the protesters' action; others felt that the city had finally faced its past.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un document authentique"
+          }
+        }
+      ],
+      "methode": [
+        "Lis d'abord les questions, puis le texte.",
+        "Repère les mots transparents et les mots connus.",
+        "Réponds avec tes propres mots ; cite le texte pour justifier."
+      ],
+      "corrige": [
+        {
+          "type": "liste",
+          "items": [
+            "1. It was pulled down during a protest against racism and thrown into Bristol harbour.",
+            "2. He was a merchant who made his fortune in the slave trade; he was long remembered as a generous benefactor of the city.",
+            "3. In a museum, with explanations about his role in slavery.",
+            "4. Some people were shocked by the action; others thought the city had finally faced its past."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Compréhension des informations",
+          "points": 6
+        },
+        {
+          "critere": "Justification par le texte",
+          "points": 2
+        },
+        {
+          "critere": "Correction de la langue",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "axe2-expresion",
+      "titre": "Written expression",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Should statues of controversial historical figures be removed? Write about 180 words."
+      ],
+      "methode": [
+        "Fais un plan simple : introduction, deux idées, conclusion.",
+        "Utilise des connecteurs : *first, moreover, however, therefore, to conclude*.",
+        "Réutilise le vocabulaire et la grammaire de l'axe."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (niveau B2, une réponse possible) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Across the English-speaking world, statues of controversial historical figures have become the focus of heated debates. Should they be removed?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Some people argue that these statues should stay where they are because they are part of history. Removing them, they say, would be like erasing the past."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "However, a statue is not a history book: it honours the person it represents. Keeping in a public square a monument to a slave trader like Edward Colston can be painful for the descendants of enslaved people."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "In my view, the best solution is the one chosen in Bristol: moving these statues to museums, where they can be explained. This way, we do not forget the past, but we stop celebrating it."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Respect de la consigne",
+          "points": 4
+        },
+        {
+          "critere": "Cohérence et connecteurs",
+          "points": 3
+        },
+        {
+          "critere": "Correction et richesse de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

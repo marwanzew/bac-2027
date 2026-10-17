@@ -1,0 +1,241 @@
+{
+  "matiere": "ses",
+  "chapitre": "crises-financieres",
+  "exercices": [
+    {
+      "id": "crises-qcm",
+      "titre": "Crises financières : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Repère le mot clé : bulle, panique, canal, régulation."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le jeudi noir de Wall Street a eu lieu en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "1929",
+              "correct": true,
+              "explication": "Le 24 octobre 1929."
+            },
+            {
+              "id": "b",
+              "texte": "2008",
+              "correct": false,
+              "explication": "2008 est l'année de la faillite de Lehman Brothers."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Tout le monde pense que le prix va monter, achète, et le prix monte. C'est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une prophétie autoréalisatrice",
+              "correct": true,
+              "explication": "L'anticipation provoque sa propre réalisation."
+            },
+            {
+              "id": "b",
+              "texte": "un aléa moral",
+              "correct": false,
+              "explication": "L'aléa moral concerne la prise de risque d'un agent protégé."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Les banques fragilisées prêtent moins. Quel canal de transmission ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+            "consulteLe": "2026-10-17"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "La contraction du crédit",
+              "correct": true,
+              "explication": "Moins de crédit, moins d'investissement et de consommation."
+            },
+            {
+              "id": "b",
+              "texte": "L'effet de richesse",
+              "correct": false,
+              "explication": "Il passe par le patrimoine des ménages."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Un emprunteur doit vendre ses titres pour rembourser, ce qui fait baisser leur prix. Ce sont…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en science économique"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "des ventes forcées",
+              "correct": true,
+              "explication": "Elles entretiennent la baisse des prix."
+            },
+            {
+              "id": "b",
+              "texte": "des comportements mimétiques",
+              "correct": false,
+              "explication": "Ici, la vente est contrainte, pas imitée."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Quel instrument limite l'aléa moral des banques ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+            "consulteLe": "2026-10-17"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Le ratio de solvabilité",
+              "correct": true,
+              "explication": "Il oblige les banques à détenir des fonds propres suffisants."
+            },
+            {
+              "id": "b",
+              "texte": "La baisse des taux directeurs",
+              "correct": false,
+              "explication": "C'est un outil de politique monétaire conjoncturelle."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "crises-bulle",
+      "titre": "Expliquer une bulle spéculative",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez comment se forme puis éclate une bulle spéculative."
+      ],
+      "methode": [
+        "Définis la bulle spéculative.",
+        "Utilise les deux notions du programme : comportements mimétiques et prophéties autoréalisatrices.",
+        "Illustre avec la bulle immobilière américaine avant 2008."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Définition.** Une bulle spéculative est une hausse forte et durable du prix d'un actif au-delà de sa valeur fondamentale."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Formation.** Des agents anticipent une hausse et achètent pour revendre plus cher. D'autres les imitent (comportement mimétique). Les achats font monter le prix : l'anticipation se réalise (prophétie autoréalisatrice), ce qui attire de nouveaux acheteurs."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Éclatement.** Quand des agents doutent, ils vendent ; les autres les imitent ; le prix s'effondre."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Illustration.** Avant 2008, les prix des logements aux États-Unis ont fortement augmenté, soutenus par des crédits accordés à des ménages peu solvables, avant de chuter."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "crises-transmission",
+      "titre": "De la crise financière à la crise économique",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez qu'une crise financière peut se transmettre à l'économie réelle."
+      ],
+      "methode": [
+        "Présente les trois canaux du programme, chacun avec son mécanisme.",
+        "Termine par l'effet sur le PIB et le chômage."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Effets de richesse négatifs.** La chute du prix des actions et des logements réduit le patrimoine des ménages, qui consomment moins."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Baisse du prix du collatéral et ventes forcées.** Les garanties des prêts perdent de la valeur ; les emprunteurs doivent vendre des actifs, ce qui fait encore baisser les prix."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Contraction du crédit.** Les banques fragilisées prêtent moins : les entreprises investissent moins."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conséquence.** La demande baisse, la production recule et le chômage augmente, comme lors de la Grande Dépression ou de la récession de 2009."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Trois canaux identifiés",
+          "points": 1.5
+        },
+        {
+          "critere": "Mécanismes expliqués",
+          "points": 1.5
+        },
+        {
+          "critere": "Lien avec PIB et chômage",
+          "points": 0.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "la-liberte",
+  "exercices": [
+    {
+      "id": "liberte-qcm",
+      "titre": "La liberté : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relie chaque auteur à sa thèse."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le libre arbitre est défendu par…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Descartes",
+              "correct": true,
+              "explication": "La volonté est infinie."
+            },
+            {
+              "id": "b",
+              "texte": "Spinoza",
+              "correct": false,
+              "explication": "Spinoza le critique."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Suivre tous ses désirs, pour Kant, c'est être…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "hétéronome",
+              "correct": true,
+              "explication": "La loi vient de l'extérieur de la raison."
+            },
+            {
+              "id": "b",
+              "texte": "autonome",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Le code de la route illustre l'idée que…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une règle peut rendre la liberté possible",
+              "correct": true,
+              "explication": "Sans règles, personne ne circule."
+            },
+            {
+              "id": "b",
+              "texte": "toute loi détruit la liberté",
+              "correct": false,
+              "explication": "Contre-exemple."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Qui a écrit *Du contrat social* ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Rousseau",
+              "correct": true,
+              "explication": "En 1762."
+            },
+            {
+              "id": "b",
+              "texte": "Kant",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Une contrainte est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une force extérieure qui s'impose",
+              "correct": true,
+              "explication": "Repère obligation / contrainte."
+            },
+            {
+              "id": "b",
+              "texte": "un devoir que je reconnais",
+              "correct": false,
+              "explication": "C'est l'obligation."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "liberte-probl",
+      "titre": "Problématiser : « Être libre, est-ce faire ce que l'on veut ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Être libre, est-ce faire ce que l'on veut ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Définis « libre » et « vouloir ».",
+        "Le désir est-il choisi ?",
+        "Faire tout ce qu'on veut est-il possible en société ?"
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** « Faire ce que l'on veut » : réaliser ses désirs sans obstacle. Mais vouloir, est-ce désirer, ou décider ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** Spontanément, la liberté est l'absence d'obstacle. Mais nos désirs ne sont pas choisis (Spinoza) ; et si chacun faisait ce qu'il veut, la liberté des uns détruirait celle des autres."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** La liberté consiste-t-elle à suivre ses désirs sans obstacle, ou à se donner à soi-même une règle (Rousseau, Kant) ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    },
+    {
+      "id": "liberte-plan",
+      "titre": "Plan détaillé : « Être libre, est-ce faire ce que l'on veut ? »",
+      "type": "plan-detaille",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Être libre, est-ce faire ce que l'on veut ? »",
+        "Construis un plan détaillé en deux ou trois parties, avec pour chaque partie une thèse, des arguments et au moins une référence."
+      ],
+      "methode": [
+        "Commence par l'analyse des termes et la problématique.",
+        "Chaque partie répond à la question ; la partie suivante naît d'une limite de la précédente.",
+        "Une référence d'auteur sert à éclairer un argument, pas à le remplacer.",
+        "À l'épreuve, la note est globale sur 20 : ce barème n'est qu'un repère d'entraînement."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**I.** Être libre, c'est d'abord ne pas être empêché : la liberté comme absence de contrainte (exemple : le prisonnier n'est pas libre)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II.** Mais faire ce que l'on veut, c'est souvent obéir à des désirs non choisis : illusion de liberté (Spinoza ; exemple de la dépendance, de la publicité)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III.** La liberté véritable est autonomie : se donner sa règle (Rousseau, Kant) ; la loi commune rend possible la liberté de chacun (exemple du code de la route)."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Problématique",
+          "points": 4
+        },
+        {
+          "critere": "Progression des parties",
+          "points": 6
+        },
+        {
+          "critere": "Arguments et exemples",
+          "points": 6
+        },
+        {
+          "critere": "Références pertinentes",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

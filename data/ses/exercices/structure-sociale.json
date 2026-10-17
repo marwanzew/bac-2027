@@ -1,0 +1,293 @@
+{
+  "matiere": "ses",
+  "chapitre": "structure-sociale",
+  "exercices": [
+    {
+      "id": "structure-qcm",
+      "titre": "Structure sociale : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Pour Marx/Weber, cherche le critère : rapports de production ou trois ordres ?"
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Le passage d'une économie d'agriculteurs et d'ouvriers à une économie de services s'appelle…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la tertiarisation",
+              "correct": true,
+              "explication": "Hausse de la part des services."
+            },
+            {
+              "id": "b",
+              "texte": "la moyennisation",
+              "correct": false,
+              "explication": "La moyennisation concerne le rapprochement des modes de vie."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Une approche « réaliste » des classes considère que…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les classes existent réellement et sont en conflit",
+              "correct": true,
+              "explication": "C'est l'approche de Marx."
+            },
+            {
+              "id": "b",
+              "texte": "les classes sont des catégories construites par le chercheur",
+              "correct": false,
+              "explication": "C'est l'approche nominaliste, celle de Weber."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "Le groupe de statut, chez Weber, repose sur…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en sociologie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le prestige",
+              "correct": true,
+              "explication": "Ordre social."
+            },
+            {
+              "id": "b",
+              "texte": "la propriété des moyens de production",
+              "correct": false,
+              "explication": "C'est le critère de Marx."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Parmi les employés, les femmes sont…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Insee, enquête Emploi 2025"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "majoritaires",
+              "correct": true,
+              "explication": "La féminisation des emplois est inégale selon les groupes."
+            },
+            {
+              "id": "b",
+              "texte": "minoritaires",
+              "correct": false,
+              "explication": "Elles sont minoritaires parmi les ouvriers."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Quel facteur de structuration est lié à l'âge ?",
+          "certitude": "certain",
+          "source": {
+            "titre": "Programme de SES de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019",
+            "consulteLe": "2026-10-17"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "La position dans le cycle de vie",
+              "correct": true,
+              "explication": "Revenu et patrimoine varient avec l'âge."
+            },
+            {
+              "id": "b",
+              "texte": "La composition du ménage",
+              "correct": false,
+              "explication": "Elle concerne qui vit avec qui (couple, enfants…)."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "structure-evolutions",
+      "titre": "Les évolutions de la structure socioprofessionnelle",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Présentez deux évolutions de la structure socioprofessionnelle en France depuis les années 1950."
+      ],
+      "methode": [
+        "Choisis deux évolutions parmi les quatre du programme.",
+        "Pour chacune : définition, constat, explication."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Salarisation.** La part des salariés dans l'emploi a fortement augmenté (86,5 % en 2025 selon l'Insee), car les petites exploitations agricoles et les petits commerces ont reculé au profit des grandes entreprises."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Élévation du niveau de qualification.** La part des cadres a fortement progressé (23,8 % des personnes en emploi en 2025). Elle s'explique par l'allongement des études et par le développement d'activités qui demandent des compétences élevées (recherche, conseil, numérique)."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Définitions justes",
+          "points": 1
+        },
+        {
+          "critere": "Mécanisme expliqué",
+          "points": 1.5
+        },
+        {
+          "critere": "Exemple ou illustration développé",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "structure-marx-weber",
+      "titre": "Comparer Marx et Weber",
+      "type": "mobilisation-connaissances",
+      "difficulte": "bac",
+      "dureeMinutes": 15,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Montrez que Marx et Weber analysent différemment la structure sociale."
+      ],
+      "methode": [
+        "Un paragraphe par auteur, puis la différence principale (réaliste / nominaliste)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Marx.** La société est divisée en classes selon la place dans les rapports de production : la bourgeoisie possède les moyens de production, le prolétariat vend sa force de travail. Ces classes sont en conflit. Une classe devient « pour soi » quand elle prend conscience de ses intérêts et se mobilise."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Weber.** La hiérarchie sociale a trois dimensions : économique (les classes, selon les chances d'accès aux biens), sociale (les groupes de statut, selon le prestige) et politique (les partis). Elles ne coïncident pas forcément."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Différence.** Marx a une approche réaliste et conflictuelle ; Weber une approche nominaliste et pluridimensionnelle."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Marx",
+          "points": 1.5
+        },
+        {
+          "critere": "Weber",
+          "points": 1.5
+        },
+        {
+          "critere": "Comparaison explicite",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "structure-plan-dissertation",
+      "titre": "Plan de dissertation : les classes sociales",
+      "type": "plan-dissertation",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet : « L'analyse en termes de classes sociales est-elle encore pertinente pour rendre compte de la société française ? »",
+        "Construis la problématique et un plan détaillé."
+      ],
+      "methode": [
+        "Définis classe sociale (Marx, Weber).",
+        "Plan « oui… mais… » avec les quatre débats du programme.",
+        "Barème sur 18 : à l'épreuve, les 2 derniers points portent sur la maîtrise de la langue."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique possible.** Les transformations de la société française ont-elles fait disparaître les classes sociales, ou les ont-elles seulement rendues moins visibles ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Plusieurs évolutions affaiblissent l'analyse en classes.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Les distances inter-classes se réduisent et les groupes deviennent hétérogènes (moyennisation).",
+            "B. L'identification subjective à une classe recule.",
+            "C. Les facteurs d'individualisation se multiplient et le genre crée des inégalités transversales."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. Mais les classes sociales restent pertinentes.**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Les inégalités de revenus et de patrimoine restent fortes et se transmettent.",
+            "B. Les classes supérieures restent homogènes et conscientes de leurs intérêts.",
+            "C. Classe et genre se combinent plus qu'ils ne s'excluent."
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes et problématique",
+          "points": 4
+        },
+        {
+          "critere": "Partie I : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Partie II : arguments justes et ordonnés",
+          "points": 5
+        },
+        {
+          "critere": "Pertinence des mécanismes et des exemples",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

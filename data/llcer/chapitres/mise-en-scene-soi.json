@@ -1,0 +1,459 @@
+{
+  "id": "mise-en-scene-soi",
+  "matiere": "llcer",
+  "titre": "Mise en scène de soi",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thématique « Expression et construction de soi »",
+    "intitule": "Mise en scène de soi",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Expliquer comment une personne construit et contrôle son image (autobiographie, autoportrait, scène, réseaux sociaux).",
+    "Distinguer la mise en scène de soi du simple narcissisme.",
+    "Montrer comment des artistes subvertissent les représentations collectives (hymnes, symboles nationaux).",
+    "Utiliser le vocabulaire : self-portrait, persona, alter ego, image, legacy."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment lire cet axe",
+          "texte": "Le programme officiel présente chaque axe par une problématique, des mots-clés et des pistes d'œuvres. Les objectifs « À la fin, je dois savoir… » sont une reformulation pédagogique ; les mots-clés et les pistes, eux, viennent du programme."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique de la thématique (programme)** : comment l'expression révèle-t-elle et construit-elle une identité, individuelle ou collective ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'axe** : se représenter, c'est toujours **se mettre en scène** : choisir ce que l'on montre et ce que l'on cache. Le programme invite à dépasser l'idée de narcissisme : l'autobiographie ou l'autoportrait peuvent servir à **témoigner**, à **construire sa postérité**, à **revendiquer une identité**, ou à **subvertir** des représentations collectives (un hymne national réinterprété)."
+        },
+        {
+          "type": "definition",
+          "glossaire": "autobiography"
+        },
+        {
+          "type": "definition",
+          "glossaire": "memoir"
+        },
+        {
+          "type": "definition",
+          "glossaire": "self-portrait"
+        }
+      ]
+    },
+    {
+      "id": "vocabulaire",
+      "titre": "Key words",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Mots-clés et vocabulaire utile",
+          "colonnes": [
+            "English",
+            "Français",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "persona",
+              "personnage public, masque",
+              "Bowie created the persona of Ziggy Stardust"
+            ],
+            [
+              "alter ego",
+              "alter ego, double",
+              "the narrator is the author's alter ego"
+            ],
+            [
+              "self-image",
+              "image de soi",
+              "to control one's self-image"
+            ],
+            [
+              "identity",
+              "identité",
+              "to assert one's identity"
+            ],
+            [
+              "posterity / legacy",
+              "postérité / héritage",
+              "writing for posterity"
+            ],
+            [
+              "to stage",
+              "mettre en scène",
+              "to stage oneself"
+            ],
+            [
+              "a national anthem",
+              "un hymne national",
+              "Hendrix's version of the national anthem"
+            ],
+            [
+              "collective identity",
+              "identité collective",
+              "memorials shape collective identity"
+            ],
+            [
+              "a selfie",
+              "un égoportrait, un selfie",
+              "Oxford's Word of the Year in 2013"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "first-person-narrative"
+        },
+        {
+          "type": "definition",
+          "glossaire": "third-person-narrative"
+        }
+      ]
+    },
+    {
+      "id": "reperes-culturels",
+      "titre": "Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Œuvres et artistes",
+          "colonnes": [
+            "Œuvre / artiste",
+            "Date",
+            "Mise en scène de soi"
+          ],
+          "lignes": [
+            [
+              "Benjamin Franklin, *Autobiography*",
+              "écrite à partir de 1771",
+              "Le modèle du *self-made man* américain"
+            ],
+            [
+              "Frederick Douglass, *Narrative of the Life of Frederick Douglass, an American Slave*",
+              "1845",
+              "Un ancien esclave écrit sa propre histoire : se raconter pour exister et lutter"
+            ],
+            [
+              "George Orwell, *Why I Write*",
+              "1946",
+              "Un écrivain explique ses motivations"
+            ],
+            [
+              "Vivian Maier (photographe, 1926-2009)",
+              "XX^e^ siècle",
+              "Nombreux autoportraits ; son œuvre n'est découverte qu'en 2007"
+            ],
+            [
+              "David Bowie, Ziggy Stardust",
+              "1972",
+              "Un double de scène extravagant : l'identité comme performance"
+            ],
+            [
+              "Jimi Hendrix joue l'hymne américain à Woodstock",
+              "août 1969",
+              "Hymne national déformé par la guitare : subversion d'un symbole collectif"
+            ],
+            [
+              "Sex Pistols, *God Save the Queen*",
+              "1977",
+              "Chanson punk sortie l'année du jubilé d'Élisabeth II"
+            ],
+            [
+              "Paul Greengrass, *Bloody Sunday*",
+              "2002",
+              "Film sur le 30 janvier 1972 à Derry (Irlande du Nord) : mémoire collective"
+            ]
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Les **mémoriaux du National Mall** à Washington (Lincoln Memorial, Vietnam Veterans Memorial…) montrent comment une nation **met en scène** son identité et sa mémoire."
+        }
+      ]
+    },
+    {
+      "id": "programme-limitatif",
+      "titre": "Liens possibles avec le programme limitatif",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "des pistes, pas des règles",
+          "texte": "Ton professeur choisit les œuvres et l'axe auquel il les relie."
+        },
+        {
+          "type": "tableau",
+          "titre": "Pistes",
+          "colonnes": [
+            "Œuvre",
+            "Pourquoi elle peut illustrer l'axe"
+          ],
+          "lignes": [
+            [
+              "J. M. Coetzee, *Boyhood* (1997)",
+              "Récit d'enfance autobiographique écrit à la troisième personne : l'auteur se regarde comme un personnage"
+            ],
+            [
+              "Chimamanda Ngozi Adichie, *Americanah* (2013)",
+              "L'héroïne se construit une voix publique à travers son blog"
+            ],
+            [
+              "Paul Auster, *Moon Palace* (1989)",
+              "Un narrateur à la première personne raconte sa propre jeunesse"
+            ],
+            [
+              "Harold Pinter, *The Caretaker* (1960)",
+              "Davies s'invente une identité et un passé : se mettre en scène pour survivre"
+            ],
+            [
+              "Kenneth Branagh, *Much Ado About Nothing* (1993)",
+              "Masques, bal masqué, apparences trompeuses"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "titre": "Useful phrases",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "*The artist chooses to present himself / herself as…*",
+            "*This self-portrait reveals as much as it hides.*",
+            "*By telling his own story, he claims his place in history.*",
+            "*The persona allows the artist to explore another identity.*"
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Pose toujours la question : **qui se met en scène, pour qui, et dans quel but** (se connaître, se justifier, témoigner, provoquer, laisser une trace) ?"
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Frederick Douglass, *Narrative*",
+      "valeur": "1845",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Orwell, *Why I Write*",
+      "valeur": "1946",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Hendrix à Woodstock",
+      "valeur": "1969",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Coetzee, *Boyhood*",
+      "valeur": "1997",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme limitatif 2026-2027 et 2027-2028, note de service du 28 avril 2026, BO n° 21 du 21 mai 2026",
+        "url": "https://www.education.gouv.fr/bo/2026/Hebdo21/MENE2611474N",
+        "consulteLe": "2026-10-17"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "« selfie », mot de l'année du dictionnaire Oxford",
+      "valeur": "2013",
+      "certitude": "certain",
+      "source": {
+        "titre": "Oxford Dictionaries, Word of the Year 2013"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "schema",
+    "titre": "Pourquoi se mettre en scène ?",
+    "sens": "vertical",
+    "noeuds": [
+      {
+        "id": "soi",
+        "texte": "Se représenter : récit, portrait, scène, réseaux"
+      },
+      {
+        "id": "con",
+        "texte": "Se connaître"
+      },
+      {
+        "id": "tem",
+        "texte": "Témoigner, revendiquer"
+      },
+      {
+        "id": "pos",
+        "texte": "Laisser une trace (postérité)"
+      },
+      {
+        "id": "sub",
+        "texte": "Subvertir les images collectives"
+      }
+    ],
+    "liens": [
+      {
+        "de": "soi",
+        "vers": "con"
+      },
+      {
+        "de": "soi",
+        "vers": "tem"
+      },
+      {
+        "de": "soi",
+        "vers": "pos"
+      },
+      {
+        "de": "soi",
+        "vers": "sub"
+      }
+    ]
+  },
+  "fiche": [
+    "**Axe** : se représenter, c'est choisir ce qu'on montre ; au-delà du narcissisme.",
+    "**Formes** : autobiographie, mémoires, autoportrait, persona de scène, selfie.",
+    "**Collectif** : hymnes, mémoriaux, symboles nationaux réinterprétés (Hendrix, Sex Pistols).",
+    "**Repères** : Franklin, Douglass (1845), Orwell (1946), Bowie (1972), *Bloody Sunday* (2002).",
+    "**Programme limitatif** : *Boyhood*, *Americanah*, *Moon Palace*, *The Caretaker*, *Much Ado* (pistes)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*a persona*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "un personnage public, un masque",
+          "correct": true,
+          "explication": "Ex. Ziggy Stardust."
+        },
+        {
+          "id": "b",
+          "texte": "une personne quelconque",
+          "correct": false,
+          "explication": "Ce n'est pas le sens ici."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "*Boyhood* (Coetzee) is written in…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "the third person",
+          "correct": true,
+          "explication": "L'auteur parle de lui-même en disant « he »."
+        },
+        {
+          "id": "b",
+          "texte": "the first person",
+          "correct": false,
+          "explication": "Justement non, c'est sa particularité."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "Frederick Douglass's *Narrative* was published in…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "1845",
+          "correct": true,
+          "explication": "Récit d'un ancien esclave."
+        },
+        {
+          "id": "b",
+          "texte": "1945",
+          "correct": false,
+          "explication": "Un siècle trop tard."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "Jimi Hendrix played the national anthem at…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Woodstock",
+          "correct": true,
+          "explication": "En août 1969."
+        },
+        {
+          "id": "b",
+          "texte": "the Oxford Union",
+          "correct": false,
+          "explication": "C'est une société de débat."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*legacy*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "héritage, ce qu'on laisse derrière soi",
+          "correct": true,
+          "explication": "to leave a legacy."
+        },
+        {
+          "id": "b",
+          "texte": "légalité",
+          "correct": false,
+          "explication": "Légalité = legality."
+        }
+      ]
+    }
+  ]
+}

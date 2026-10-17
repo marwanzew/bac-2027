@@ -1,0 +1,252 @@
+{
+  "matiere": "llcer",
+  "chapitre": "art-contestation",
+  "exercices": [
+    {
+      "id": "contestation-vocabulaire",
+      "titre": "Vocabulary check : art and protest",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Answer the 5 questions. (Réponds aux 5 questions.)"
+      ],
+      "methode": [
+        "Pense au contexte : le même mot peut avoir plusieurs sens."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "*commitment*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "engagement",
+              "correct": true,
+              "explication": "a committed artist = un artiste engagé."
+            },
+            {
+              "id": "b",
+              "texte": "commission",
+              "correct": false,
+              "explication": "Faux ami partiel."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "*to challenge authority*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "remettre en cause l'autorité",
+              "correct": true,
+              "explication": "to challenge = défier, contester."
+            },
+            {
+              "id": "b",
+              "texte": "changer d'autorité",
+              "correct": false,
+              "explication": "Ce n'est pas le sens."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "*dissent*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la dissidence, le désaccord",
+              "correct": true,
+              "explication": "a voice of dissent."
+            },
+            {
+              "id": "b",
+              "texte": "la descente",
+              "correct": false,
+              "explication": "Descente = descent."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "*to expose injustice*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "révéler, dénoncer l'injustice",
+              "correct": true,
+              "explication": "Sens fréquent de to expose."
+            },
+            {
+              "id": "b",
+              "texte": "exposer dans un musée",
+              "correct": false,
+              "explication": "Dans ce contexte, c'est révéler."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "*a protest song*",
+          "certitude": "certain",
+          "source": {
+            "titre": "Usage courant de la langue anglaise"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "une chanson engagée, de contestation",
+              "correct": true,
+              "explication": "Ex. Strange Fruit (1939)."
+            },
+            {
+              "id": "b",
+              "texte": "une chanson protestante",
+              "correct": false,
+              "explication": "Protestant = religion."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "contestation-traduction",
+      "titre": "Translation : a street artist",
+      "type": "traduction",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Translate the following passage into French. (Traduis le passage en français.)"
+      ],
+      "documents": [
+        {
+          "titre": "Passage à traduire (texte écrit pour l'entraînement)",
+          "contenu": "Nobody knew who had painted the mural. One morning, it was simply there, on the wall of the old factory: a child holding an umbrella that protected her from a rain of coins. Some neighbours found it beautiful; others called it vandalism. Within a week, the council had decided to keep it, and tourists began to arrive with their cameras.",
+          "certitude": "certain",
+          "source": {
+            "titre": "Texte écrit pour l'entraînement : ce n'est pas un extrait d'œuvre"
+          }
+        }
+      ],
+      "methode": [
+        "Lis tout le passage avant de traduire une seule phrase.",
+        "Repère les temps : le prétérit d'un récit se traduit souvent par le passé simple ou le passé composé, et par l'imparfait pour les descriptions.",
+        "Ne traduis pas mot à mot : la phrase française doit sonner naturelle.",
+        "Relis ta traduction comme un texte français, sans regarder l'anglais.",
+        "*council* : ici la municipalité, pas « le conseil » vague.",
+        "*within a week* : en moins d'une semaine.",
+        "*had decided* : plus-que-parfait, garde-le."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Proposition de traduction** (d'autres versions sont possibles) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Personne ne savait qui avait peint la fresque. Un matin, elle était tout simplement là, sur le mur de la vieille usine : une enfant qui tenait un parapluie la protégeant d'une pluie de pièces de monnaie. Certains voisins la trouvaient belle ; d'autres parlaient de vandalisme. En moins d'une semaine, la municipalité avait décidé de la conserver, et les touristes commencèrent à arriver avec leurs appareils photo."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Sens exact (pas de contresens ni d'oubli)",
+          "points": 2
+        },
+        {
+          "critere": "Correction et naturel du français",
+          "points": 1.5
+        },
+        {
+          "critere": "Temps et registre respectés",
+          "points": 0.5
+        }
+      ]
+    },
+    {
+      "id": "contestation-essai",
+      "titre": "Short essay : can art change society?",
+      "type": "expression-ecrite",
+      "difficulte": "bac",
+      "dureeMinutes": 30,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "In about 250 words, answer the question: *Can art change society?* Use at least two examples of works you know. (Environ 250 mots, au moins deux exemples.)"
+      ],
+      "methode": [
+        "Introduction : définis « art engagé » et pose la question.",
+        "Paragraphe 1 : arguments pour (l'art fait connaître, émeut, mobilise).",
+        "Paragraphe 2 : limites (l'art touche peu de monde, peut être récupéré).",
+        "Conclusion : réponse nuancée.",
+        "Connecteurs : *First of all, Moreover, However, Nevertheless, To conclude*."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Model answer** (un exemple de réponse possible, pas la seule) :"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Throughout history, artists have used their work to criticise injustice. But can a painting, a song or a novel really change society?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "First of all, art can raise awareness. In 1939, Billie Holiday's song *Strange Fruit* forced listeners to face the reality of lynchings in the American South. Similarly, Dickens's *Hard Times* exposed the harsh conditions of industrial England. Because art speaks to our emotions, it can make people care about issues they used to ignore."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "However, the power of art has limits. A work may only reach people who already agree with its message. Moreover, protest art can be turned into a commodity: street art, once illegal, is now sold for huge sums in auction houses."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "To conclude, art rarely changes society on its own, but it can change the way people see the world, which is often the first step towards change."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Réponse à la consigne, idées pertinentes",
+          "points": 4
+        },
+        {
+          "critere": "Organisation (introduction, paragraphes, connecteurs)",
+          "points": 3
+        },
+        {
+          "critere": "Richesse et correction de la langue",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

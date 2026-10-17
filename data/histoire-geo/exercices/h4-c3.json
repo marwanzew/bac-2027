@@ -1,0 +1,224 @@
+{
+  "matiere": "histoire-geo",
+  "chapitre": "h4-c3",
+  "exercices": [
+    {
+      "id": "h4-c3-qcm",
+      "titre": "Dates et notions : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Associe chaque date à son événement."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "La parité vise…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "l'égal accès des femmes et des hommes aux mandats",
+              "correct": true,
+              "explication": "Révision de 1999."
+            },
+            {
+              "id": "b",
+              "texte": "l'égalité des salaires uniquement",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "La décentralisation consiste à…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "transférer des compétences de l'État aux collectivités",
+              "correct": true,
+              "explication": "Régions, départements, communes."
+            },
+            {
+              "id": "b",
+              "texte": "tout décider à Paris",
+              "correct": false,
+              "explication": "C'est la centralisation."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "La région Occitanie réunit…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Languedoc-Roussillon et Midi-Pyrénées",
+              "correct": true,
+              "explication": "Depuis 2016."
+            },
+            {
+              "id": "b",
+              "texte": "Bretagne et Normandie",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Les élections départementales se font par binômes depuis…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "2013 (loi), premières élections en 2015",
+              "correct": true,
+              "explication": "Femme-homme."
+            },
+            {
+              "id": "b",
+              "texte": "1958",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "L'IVG est inscrite dans la Constitution en…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère historique (date ou fait établi)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "2024",
+              "correct": true,
+              "explication": "Liberté garantie."
+            },
+            {
+              "id": "b",
+              "texte": "1975",
+              "correct": false,
+              "explication": "1975 : loi Veil."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "h4-c3-composition",
+      "titre": "Plan de composition : « La République française depuis les années 1990 : des principes adaptés à la société »",
+      "type": "plan-composition",
+      "difficulte": "bac",
+      "dureeMinutes": 40,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet (créé pour s'entraîner) : « La République française depuis les années 1990 : des principes adaptés à la société »",
+        "Rédige l'introduction (accroche, définition des termes, bornes, problématique, annonce) et un plan détaillé avec des exemples précis."
+      ],
+      "methode": [
+        "Définis les termes et les bornes chronologiques ou spatiales.",
+        "Problématique : une question qui guide toute la composition.",
+        "2 ou 3 parties, chacune avec 2 ou 3 sous-parties et des exemples datés et localisés."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Introduction** : la Ve République (1958) ; problématique : comment la République adapte-t-elle ses institutions et ses principes ?"
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**I. Des institutions qui évoluent**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Le quinquennat (2000)",
+            "B. La QPC (2008)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**II. L'égalité en actes : la parité**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. Du principe (1999) à la loi (2000)",
+            "B. Des progrès inégaux"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**III. Une République décentralisée**"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "A. De 1982 à 2003",
+            "B. La réforme des régions (2016)"
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Conclusion** : une République qui reste fidèle à ses principes en les adaptant."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Introduction (termes, bornes, problématique)",
+          "points": 4
+        },
+        {
+          "critere": "Plan cohérent qui répond à la problématique",
+          "points": 6
+        },
+        {
+          "critere": "Connaissances précises (dates, lieux, acteurs)",
+          "points": 6
+        },
+        {
+          "critere": "Conclusion",
+          "points": 2
+        },
+        {
+          "critere": "Expression",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

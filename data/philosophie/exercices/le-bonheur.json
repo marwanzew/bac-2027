@@ -1,0 +1,186 @@
+{
+  "matiere": "philosophie",
+  "chapitre": "le-bonheur",
+  "exercices": [
+    {
+      "id": "bonheur-qcm",
+      "titre": "Le bonheur : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relie chaque auteur à sa thèse."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "Épicure conseille de satisfaire…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "les désirs naturels et nécessaires",
+              "correct": true,
+              "explication": "Comme manger, boire, s'abriter."
+            },
+            {
+              "id": "b",
+              "texte": "tous les désirs",
+              "correct": false,
+              "explication": "Non : il faut les trier."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "Pour Schopenhauer, la vie oscille entre…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la souffrance et l'ennui",
+              "correct": true,
+              "explication": "Désir insatisfait / désir satisfait."
+            },
+            {
+              "id": "b",
+              "texte": "le travail et le repos",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "L'hédonisme fait du plaisir…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "le bien suprême",
+              "correct": true,
+              "explication": "Définition."
+            },
+            {
+              "id": "b",
+              "texte": "un mal",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Le bonheur se distingue du plaisir car il est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Définition usuelle en philosophie"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "durable et global",
+              "correct": true,
+              "explication": "Il concerne la vie entière."
+            },
+            {
+              "id": "b",
+              "texte": "plus intense",
+              "correct": false,
+              "explication": "Pas forcément."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "« Se rendre digne d'être heureux » est une idée de…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Repère d'histoire de la philosophie (auteur, œuvre, date)"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "Kant",
+              "correct": true,
+              "explication": "La morale passe avant le bonheur."
+            },
+            {
+              "id": "b",
+              "texte": "Épicure",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "bonheur-probl",
+      "titre": "Problématiser : « Le bonheur dépend-il de nous ? »",
+      "type": "problematisation",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Sujet de dissertation (créé pour s'entraîner) : « Le bonheur dépend-il de nous ? »",
+        "Analyse les termes du sujet, repère la tension et formule une problématique."
+      ],
+      "methode": [
+        "Distingue ce qui dépend de nous (choix, désirs, jugements) et ce qui n'en dépend pas (santé, chance, autres).",
+        "Pense à Épictète et au hasard (étymologie : « bon heur », la bonne chance)."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "**Analyse.** « Dépendre de nous » : être en notre pouvoir. Le mot bonheur vient de « bon heur », c'est-à-dire la bonne chance."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Tension.** Le bonheur semble dépendre de circonstances que nous ne maîtrisons pas (santé, rencontres, richesse). Pourtant, deux personnes dans la même situation ne sont pas également heureuses : notre manière de juger et de désirer compte."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Problématique.** Le bonheur est-il un don du hasard, ou une conquête de la sagesse qui dépend de notre façon de désirer ?"
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Analyse des termes",
+          "points": 3
+        },
+        {
+          "critere": "Mise en évidence d'une tension (paradoxe, alternative)",
+          "points": 4
+        },
+        {
+          "critere": "Problématique formulée clairement",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "matiere": "francais",
+  "chapitre": "grammaire",
+  "exercices": [
+    {
+      "id": "grammaire-qcm",
+      "titre": "Les essentiels : 5 questions",
+      "type": "qcm",
+      "difficulte": "facile",
+      "dureeMinutes": 6,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "Réponds aux 5 questions."
+      ],
+      "methode": [
+        "Relis la fiche du chapitre si tu bloques."
+      ],
+      "qcm": [
+        {
+          "id": "q1",
+          "enonce": "« Quand viendras-tu ? » est une interrogation…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+            "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "partielle",
+              "correct": true,
+              "explication": "Porte sur le moment."
+            },
+            {
+              "id": "b",
+              "texte": "totale",
+              "correct": false,
+              "explication": "On ne répond pas par oui/non."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "enonce": "« Il ne parle à personne » : négation…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+            "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "partielle",
+              "correct": true,
+              "explication": "Porte sur la personne."
+            },
+            {
+              "id": "b",
+              "texte": "restrictive",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "enonce": "« Bien qu'il pleuve, je sors » : la subordonnée exprime…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+            "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "la concession",
+              "correct": true,
+              "explication": "Bien que + subjonctif."
+            },
+            {
+              "id": "b",
+              "texte": "le but",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "enonce": "Dans « la ville où je suis né », « où » est…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+            "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "un pronom relatif",
+              "correct": true,
+              "explication": "Antécédent : ville."
+            },
+            {
+              "id": "b",
+              "texte": "un adverbe interrogatif",
+              "correct": false,
+              "explication": "Pas ici."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "enonce": "Pour trouver le sujet, on peut…",
+          "certitude": "certain",
+          "source": {
+            "titre": "Vademecum de la question de grammaire de l'EAF, IA-IPR de lettres, académie de Strasbourg (mise à jour 2023), d'après le cadrage national",
+            "url": "https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/lettres/IPR_documents_officiels/Vademecum_-_Question_de_grammaire_EAF_maj._2023.pdf"
+          },
+          "choix": [
+            {
+              "id": "a",
+              "texte": "encadrer avec « c'est… qui »",
+              "correct": true,
+              "explication": "Manipulation."
+            },
+            {
+              "id": "b",
+              "texte": "supprimer le verbe",
+              "correct": false,
+              "explication": "Non."
+            }
+          ]
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Une bonne réponse",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "grammaire-transformations",
+      "titre": "Analyser et transformer",
+      "type": "mobilisation-connaissances",
+      "difficulte": "moyen",
+      "dureeMinutes": 20,
+      "origine": {
+        "type": "entrainement"
+      },
+      "enonce": [
+        "1. « Je sais que tu m'attends. » : analyse la manière dont les propositions sont reliées.",
+        "2. « Viendras-tu ce soir ? » : identifie l'interrogation, puis transforme-la en interrogative indirecte après « Il veut savoir… ».",
+        "3. « Je n'ai rien vu. » : analyse la négation."
+      ],
+      "methode": [
+        "Compte les verbes conjugués ; nomme le mot qui relie ; donne la fonction."
+      ],
+      "corrige": [
+        {
+          "type": "paragraphe",
+          "texte": "1. Deux propositions (« sais », « attends ») : « que tu m'attends » est une subordonnée **conjonctive complétive** introduite par « que », complément d'objet direct de « sais » (on peut la remplacer par « cela »)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "2. Interrogation **totale** directe par **inversion** du sujet. Transformation : « Il veut savoir **si tu viendras ce soir**. » (« si », plus d'inversion, plus de point d'interrogation, temps adapté)."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "3. Négation **partielle** « ne… rien » : elle porte sur l'objet (on pourrait dire « je n'ai pas vu quelque chose »)."
+        }
+      ],
+      "bareme": [
+        {
+          "critere": "Identification juste",
+          "points": 3
+        },
+        {
+          "critere": "Manipulation montrée",
+          "points": 3
+        },
+        {
+          "critere": "Transformation correcte",
+          "points": 2
+        },
+        {
+          "critere": "Vocabulaire grammatical précis",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

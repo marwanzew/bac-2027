@@ -1,0 +1,284 @@
+/* =========================================================
+   composants.css — cartes, boutons, encadrés, quiz, flashcards…
+   ========================================================= */
+
+/* ---------- Boutons ---------- */
+.bouton {
+  display: inline-flex; align-items: center; justify-content: center; gap: var(--e2);
+  min-height: 44px; padding: var(--e2) var(--e4);
+  border-radius: var(--rayon-petit); border: 1px solid var(--bordure);
+  background: var(--surface-2); color: var(--texte);
+  font-weight: 700; cursor: pointer; text-decoration: none;
+  transition: transform var(--duree) ease, background var(--duree) ease;
+}
+.bouton:hover { background: var(--bordure); }
+.bouton:active { transform: scale(.98); }
+.bouton svg { width: 20px; height: 20px; }
+.bouton.principal-btn { background: var(--matiere); color: var(--matiere-sur); border-color: transparent; }
+.bouton.principal-btn:hover { filter: brightness(1.08); }
+.bouton.discret-btn { background: transparent; border-color: transparent; color: var(--texte-2); }
+.bouton.discret-btn:hover { color: var(--texte); background: var(--surface-2); }
+.bouton[aria-pressed="true"] { background: var(--matiere); color: var(--matiere-sur); border-color: transparent; }
+.bouton:disabled { opacity: .5; cursor: not-allowed; }
+.bouton-icone { min-width: 44px; padding: var(--e2); }
+
+/* ---------- Cartes ---------- */
+.carte {
+  background: var(--surface); border: 1px solid var(--bordure);
+  border-radius: var(--rayon); padding: var(--e5); box-shadow: var(--ombre);
+}
+.carte-matiere {
+  position: relative; display: flex; flex-direction: column; gap: var(--e3);
+  text-decoration: none; overflow: hidden;
+  border-top: 4px solid var(--c);
+  transition: transform var(--duree) ease;
+}
+.carte-matiere:hover { transform: translateY(-2px); }
+.carte-matiere .icone-matiere {
+  width: 48px; height: 48px; border-radius: 12px; display: grid; place-items: center;
+  background: color-mix(in srgb, var(--c) 18%, transparent); color: var(--c);
+}
+.carte-matiere .icone-matiere svg { width: 28px; height: 28px; }
+.carte-matiere h3 { margin: 0; font-size: 1.1rem; }
+.carte-matiere .meta { font-size: .85rem; color: var(--texte-2); }
+
+/* ---------- Barre de progression ---------- */
+.progression { height: 8px; border-radius: 99px; background: var(--surface-2); overflow: hidden; }
+.progression > span { display: block; height: 100%; width: var(--p, 0%); background: var(--c, var(--matiere)); border-radius: inherit; transition: width 600ms ease; }
+
+/* Anneau de progression globale */
+.anneau { --taille: 132px; width: var(--taille); height: var(--taille); position: relative; flex: none; }
+.anneau svg { width: 100%; height: 100%; transform: rotate(-90deg); }
+.anneau .valeur { position: absolute; inset: 0; display: grid; place-items: center; text-align: center; }
+.anneau .valeur strong { font-family: var(--police-titre); font-size: 2rem; display: block; line-height: 1; }
+
+/* ---------- Tableau de bord ---------- */
+.entete-accueil { display: grid; gap: var(--e4); grid-template-columns: 1fr; margin-bottom: var(--e6); }
+@media (min-width: 760px) { .entete-accueil { grid-template-columns: 1.3fr 1fr; } }
+.salut { font-size: clamp(2rem, 1.4rem + 3vw, 3rem); margin-bottom: var(--e2); }
+.tuiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: var(--e3); }
+.tuile { background: var(--surface-2); border-radius: var(--rayon-petit); padding: var(--e3) var(--e4); }
+.tuile strong { font-family: var(--police-titre); font-size: 1.6rem; display: block; line-height: 1.1; }
+.tuile span { font-size: .85rem; color: var(--texte-2); }
+.compte { display: grid; gap: var(--e2); }
+.compte-ligne { display: flex; justify-content: space-between; gap: var(--e3); padding: var(--e2) 0; border-bottom: 1px dashed var(--bordure); }
+.compte-ligne:last-child { border-bottom: 0; }
+.compte-ligne strong { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.badges { display: flex; flex-wrap: wrap; gap: var(--e2); }
+.badge-recompense { display: inline-flex; align-items: center; gap: var(--e2); padding: var(--e1) var(--e3); border-radius: 99px; background: var(--surface-2); font-size: .85rem; }
+.badge-recompense.verrouille { opacity: .45; }
+
+/* ---------- Onglets ---------- */
+.onglets { display: flex; gap: var(--e1); border-bottom: 1px solid var(--bordure); margin: var(--e4) 0 var(--e5); overflow-x: auto; }
+.onglets a, .onglets button {
+  padding: var(--e3) var(--e4); border: 0; background: none; cursor: pointer;
+  text-decoration: none; color: var(--texte-2); font-weight: 700; white-space: nowrap;
+  border-bottom: 3px solid transparent; margin-bottom: -1px;
+}
+.onglets [aria-selected="true"], .onglets [aria-current="page"] { color: var(--texte); border-bottom-color: var(--matiere); }
+
+/* ---------- En-tête de matière ---------- */
+.entete-matiere { display: flex; gap: var(--e4); align-items: center; }
+.entete-matiere .icone-matiere { width: 64px; height: 64px; border-radius: 16px; display: grid; place-items: center; background: color-mix(in srgb, var(--matiere) 18%, transparent); color: var(--matiere); flex: none; }
+.entete-matiere .icone-matiere svg { width: 36px; height: 36px; }
+.entete-matiere h1 { margin: 0; }
+.entete-matiere.avec-titre { align-items: flex-start; }
+.entete-matiere.avec-titre h1 { font-size: clamp(1.5rem, 1.2rem + 1.6vw, 2.2rem); }
+.surtitre { margin: 0 0 var(--e1); font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: var(--matiere); }
+
+/* ---------- Liste de chapitres ---------- */
+.groupe-chapitres h2 { font-size: 1rem; text-transform: uppercase; letter-spacing: .08em; color: var(--texte-2); font-family: var(--police-texte); margin: var(--e6) 0 var(--e3); }
+.liste-chapitres { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--e2); }
+.liste-chapitres li { margin: 0; }
+.ligne-chapitre {
+  display: flex; align-items: center; gap: var(--e3);
+  padding: var(--e3) var(--e4); border-radius: var(--rayon-petit);
+  background: var(--surface); border: 1px solid var(--bordure); text-decoration: none;
+}
+a.ligne-chapitre:hover { border-color: var(--matiere); }
+.ligne-chapitre .num { font-family: var(--police-titre); color: var(--matiere); font-weight: 700; min-width: 2ch; }
+.ligne-chapitre { flex-wrap: wrap; }
+.ligne-chapitre .titre { flex: 1 1 12rem; min-width: 0; }
+.ligne-chapitre.indisponible { opacity: .6; }
+.statut { font-size: .75rem; font-weight: 700; padding: 2px var(--e2); border-radius: 99px; white-space: nowrap; border: 1px solid var(--bordure); }
+.statut.maitrise { background: color-mix(in srgb, var(--succes) 20%, transparent); border-color: var(--succes); }
+.statut.en-cours { background: color-mix(in srgb, var(--matiere) 20%, transparent); border-color: var(--matiere); }
+.etiquette { font-size: .72rem; padding: 2px var(--e2); border-radius: 99px; background: var(--surface-2); color: var(--texte-2); white-space: nowrap; }
+
+/* ---------- Chapitre : mise en page avec sommaire flottant ---------- */
+.mise-chapitre { display: grid; gap: var(--e6); grid-template-columns: minmax(0, 1fr); }
+.lecture { min-width: 0; }
+@media (min-width: 1200px) { .mise-chapitre { grid-template-columns: minmax(0, var(--mesure)) 240px; } }
+.sommaire { display: none; }
+@media (min-width: 1200px) {
+  .sommaire { display: block; position: sticky; top: var(--e6); align-self: start; font-size: .9rem; }
+  .sommaire ol { list-style: none; padding: 0; margin: 0; border-left: 2px solid var(--bordure); }
+  .sommaire li { margin: 0; }
+  .sommaire a { display: block; padding: var(--e1) var(--e3); text-decoration: none; color: var(--texte-2); margin-left: -2px; border-left: 2px solid transparent; }
+  .sommaire a.actif { color: var(--texte); border-left-color: var(--matiere); }
+}
+.sommaire-mobile { margin-bottom: var(--e5); }
+@media (min-width: 1200px) { .sommaire-mobile { display: none; } }
+.sommaire-mobile summary { cursor: pointer; font-weight: 700; padding: var(--e3) var(--e4); background: var(--surface); border: 1px solid var(--bordure); border-radius: var(--rayon-petit); }
+.sommaire-mobile ol { margin: var(--e3) 0 0; }
+
+.section-chapitre { scroll-margin-top: var(--e5); }
+.rattachement { border-left: 4px solid var(--matiere); padding: var(--e3) var(--e4); background: var(--surface); border-radius: 0 var(--rayon-petit) var(--rayon-petit) 0; }
+.rattachement p { margin: 0; }
+.objectifs { list-style: none; padding: 0; }
+.objectifs li { position: relative; padding-left: 1.8em; }
+.objectifs li::before { content: "✓"; position: absolute; left: 0; color: var(--matiere); font-weight: 700; }
+
+/* ---------- Encadrés ---------- */
+.encadre {
+  border: 1px solid var(--bordure); border-left: 5px solid var(--bord, var(--matiere));
+  background: var(--surface); border-radius: var(--rayon-petit);
+  padding: var(--e4) var(--e4) var(--e2); margin: var(--e4) 0;
+}
+.encadre > .encadre-titre { display: flex; align-items: center; gap: var(--e2); font-weight: 700; margin-bottom: var(--e2); font-size: .95rem; }
+.encadre > .encadre-titre svg { width: 20px; height: 20px; flex: none; color: var(--bord, var(--matiere)); }
+.encadre.definition { --bord: var(--matiere); }
+.encadre.definition .terme { font-family: var(--police-titre); font-size: 1.1rem; }
+.encadre.a-retenir { --bord: var(--retenir-bord); background: var(--retenir-fond); }
+.encadre.piege { --bord: var(--piege-bord); }
+.encadre.exemple { --bord: var(--exemple-bord); }
+.encadre.plus-loin { --bord: var(--texte-2); border-style: dashed; border-left-style: solid; }
+.encadre.citation blockquote { margin: 0 0 var(--e2); font-family: var(--police-titre); font-size: 1.1rem; font-style: italic; }
+.source { font-size: .8rem; color: var(--texte-2); }
+
+.badge-verifier {
+  display: inline-flex; align-items: center; gap: 4px;
+  font-size: .72rem; font-weight: 700; letter-spacing: .03em;
+  padding: 2px var(--e2); border-radius: 6px;
+  background: var(--verifier-fond); color: var(--verifier-texte);
+  border: 1px dashed currentColor; cursor: help; vertical-align: middle;
+}
+.lien-glossaire { text-decoration: underline dotted; text-decoration-color: var(--matiere); cursor: pointer; background: none; border: 0; padding: 0; font: inherit; color: inherit; }
+
+/* ---------- Repères ---------- */
+.reperes { display: grid; gap: var(--e2); grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr)); }
+.repere { background: var(--surface); border: 1px solid var(--bordure); border-radius: var(--rayon-petit); padding: var(--e3) var(--e4); }
+.repere .type { font-size: .7rem; text-transform: uppercase; letter-spacing: .08em; color: var(--matiere); font-weight: 700; }
+.repere .valeur { font-family: var(--police-titre); font-size: 1.15rem; display: block; margin: 2px 0; }
+
+/* ---------- Tableaux ---------- */
+.tableau-conteneur { overflow-x: auto; margin: var(--e4) 0; border-radius: var(--rayon-petit); border: 1px solid var(--bordure); }
+table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+caption { text-align: left; font-weight: 700; padding: var(--e3) var(--e4); background: var(--surface-2); }
+th, td { padding: var(--e3) var(--e4); text-align: left; vertical-align: top; border-top: 1px solid var(--bordure); }
+thead th { background: var(--surface-2); border-top: 0; }
+tbody th { font-weight: 700; color: var(--texte); background: var(--surface); }
+
+/* ---------- Schéma SVG ---------- */
+.schema { background: var(--surface); border: 1px solid var(--bordure); border-radius: var(--rayon-petit); padding: var(--e4); margin: var(--e4) 0; overflow-x: auto; }
+.schema figcaption { font-weight: 700; margin-bottom: var(--e3); }
+.schema svg { display: block; margin: 0 auto; }
+.schema .noeud rect { fill: var(--surface-2); stroke: var(--matiere); stroke-width: 1.5; }
+.schema .noeud text { fill: var(--texte); font-family: var(--police-texte); font-size: 14px; }
+.schema .lien path { stroke: var(--texte-2); stroke-width: 1.5; fill: none; }
+.schema .lien text { fill: var(--texte-2); font-size: 12px; font-family: var(--police-texte); }
+.schema marker path { fill: var(--texte-2); }
+
+/* ---------- Fiche de révision ---------- */
+.fiche { background: var(--surface); border: 2px solid var(--matiere); border-radius: var(--rayon); padding: var(--e5); }
+.fiche ul { margin: 0; padding-left: 1.2em; }
+@media print {
+  .barre-laterale, .barre-bas, .ariane, .actions-chapitre, .sommaire, .sommaire-mobile { display: none !important; }
+  body { background: #fff; color: #000; }
+}
+
+/* ---------- Quiz / QCM ---------- */
+.quiz { background: var(--surface); border: 1px solid var(--bordure); border-radius: var(--rayon); padding: var(--e5); }
+.quiz-entete { display: flex; justify-content: space-between; gap: var(--e3); font-size: .85rem; color: var(--texte-2); margin-bottom: var(--e3); }
+.quiz fieldset { border: 0; padding: 0; margin: 0; }
+.quiz legend { font-family: var(--police-titre); font-size: 1.2rem; font-weight: 600; margin-bottom: var(--e4); padding: 0; }
+.choix { display: grid; gap: var(--e2); }
+.choix label {
+  display: flex; gap: var(--e3); align-items: flex-start; cursor: pointer;
+  padding: var(--e3) var(--e4); border-radius: var(--rayon-petit);
+  border: 1px solid var(--bordure); background: var(--surface-2);
+}
+.choix label:hover { border-color: var(--matiere); }
+.choix input { margin-top: .35em; accent-color: var(--matiere); width: 18px; height: 18px; flex: none; }
+.choix label.juste { border-color: var(--succes); background: color-mix(in srgb, var(--succes) 14%, var(--surface-2)); }
+.choix label.faux { border-color: var(--erreur); background: color-mix(in srgb, var(--erreur) 14%, var(--surface-2)); }
+.explication { font-size: .9rem; margin-top: var(--e1); display: block; }
+.verdict { font-weight: 700; margin: var(--e4) 0 0; }
+.verdict.ok { color: var(--succes); }
+.verdict.ko { color: var(--erreur); }
+.score-final { text-align: center; }
+.score-final strong { font-family: var(--police-titre); font-size: 3rem; display: block; color: var(--matiere); }
+
+/* ---------- Flashcards ---------- */
+.flashcard-zone { perspective: 1200px; max-width: 560px; margin: 0 auto; }
+.flashcard {
+  position: relative; width: 100%; min-height: 260px; cursor: pointer;
+  transform-style: preserve-3d; transition: transform calc(var(--duree) * 2.5) ease;
+  border: 0; background: none; padding: 0; text-align: left;
+}
+.flashcard.retournee { transform: rotateY(180deg); }
+.flashcard .face {
+  position: absolute; inset: 0; backface-visibility: hidden;
+  display: flex; flex-direction: column; justify-content: center; gap: var(--e3);
+  padding: var(--e6); border-radius: var(--rayon);
+  background: var(--surface); border: 1px solid var(--bordure); box-shadow: var(--ombre);
+}
+.flashcard .recto { align-items: center; text-align: center; border-top: 4px solid var(--matiere); }
+.flashcard .recto strong { font-family: var(--police-titre); font-size: 1.6rem; }
+.flashcard .verso { transform: rotateY(180deg); }
+@media (prefers-reduced-motion: reduce) {
+  .flashcard { transition: none; }
+}
+
+/* ---------- Glossaire ---------- */
+.glossaire-liste { display: grid; gap: var(--e3); }
+.glossaire-lettre { font-family: var(--police-titre); color: var(--matiere); font-size: 1.4rem; margin: var(--e5) 0 0; }
+.champ { width: 100%; max-width: 100%; min-width: 0; box-sizing: border-box; min-height: 48px; padding: var(--e3) var(--e4); border-radius: var(--rayon-petit); border: 1px solid var(--bordure); background: var(--surface); }
+.champ:focus-visible { border-color: var(--focus); }
+
+/* ---------- Exercices ---------- */
+.carte-exercice { display: flex; flex-direction: column; gap: var(--e2); }
+.carte-exercice h3 { margin: 0; font-size: 1.05rem; }
+.difficulte { font-size: .75rem; font-weight: 700; }
+.mention-origine { font-size: .8rem; color: var(--texte-2); font-style: italic; }
+.document { background: var(--surface-2); border-radius: var(--rayon-petit); padding: var(--e4); margin: var(--e3) 0; }
+.document > p { white-space: pre-line; }
+.corrige { margin-top: var(--e4); }
+.corrige > summary { cursor: pointer; display: inline-flex; }
+.corrige[open] > summary { margin-bottom: var(--e4); }
+.zone-reponse { width: 100%; min-height: 180px; padding: var(--e3); border-radius: var(--rayon-petit); border: 1px solid var(--bordure); background: var(--surface); resize: vertical; line-height: var(--interligne); }
+
+/* ---------- Chronomètres ---------- */
+.chrono { font-family: var(--police-titre); font-variant-numeric: tabular-nums; font-size: clamp(3rem, 2rem + 6vw, 5.5rem); line-height: 1; text-align: center; }
+.chrono.alerte { color: var(--piege-bord); }
+.bandeau-epreuve { position: sticky; top: 0; z-index: 10; display: flex; justify-content: space-between; align-items: center; gap: var(--e3); padding: var(--e3) var(--e4); background: var(--surface); border: 1px solid var(--matiere); border-radius: var(--rayon-petit); margin-bottom: var(--e4); }
+.bandeau-epreuve .temps { font-family: var(--police-titre); font-size: 1.4rem; font-variant-numeric: tabular-nums; }
+
+/* ---------- Statistiques ---------- */
+.barres { display: grid; gap: var(--e3); }
+.barre-stat { display: grid; grid-template-columns: minmax(110px, 180px) 1fr 4ch; align-items: center; gap: var(--e3); font-size: .9rem; }
+.barre-stat .valeur { text-align: right; font-variant-numeric: tabular-nums; }
+.histogramme { display: flex; align-items: flex-end; gap: 6px; height: 140px; padding-top: var(--e3); }
+.histogramme .colonne { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 4px; height: 100%; justify-content: flex-end; font-size: .7rem; color: var(--texte-2); }
+.histogramme .colonne span.b { width: 100%; max-width: 36px; background: var(--matiere); border-radius: 6px 6px 0 0; min-height: 2px; }
+
+/* ---------- Notifications ---------- */
+.notifications { position: fixed; z-index: 50; left: 50%; transform: translateX(-50%); bottom: calc(80px + env(safe-area-inset-bottom)); display: grid; gap: var(--e2); width: min(92vw, 420px); }
+@media (min-width: 1024px) { .notifications { bottom: var(--e5); } }
+.toast { background: var(--texte); color: var(--fond); padding: var(--e3) var(--e4); border-radius: var(--rayon-petit); box-shadow: var(--ombre); font-weight: 700; animation: apparition var(--duree) ease-out both; }
+
+/* ---------- Confettis ---------- */
+.confettis { position: fixed; inset: 0; pointer-events: none; z-index: 60; }
+
+/* ---------- Divers ---------- */
+.vide { text-align: center; padding: var(--e7) var(--e4); color: var(--texte-2); }
+.actions-chapitre { display: flex; flex-wrap: wrap; gap: var(--e3); margin: var(--e6) 0; padding-top: var(--e5); border-top: 1px solid var(--bordure); }
+.reglage { display: flex; justify-content: space-between; align-items: center; gap: var(--e4); padding: var(--e4) 0; border-bottom: 1px solid var(--bordure); flex-wrap: wrap; }
+.reglage:last-child { border-bottom: 0; }
+.segmente { display: inline-flex; border: 1px solid var(--bordure); border-radius: var(--rayon-petit); overflow: hidden; }
+.segmente button { border: 0; background: transparent; padding: var(--e2) var(--e4); min-height: 44px; cursor: pointer; font-weight: 700; color: var(--texte-2); }
+.segmente button[aria-pressed="true"] { background: var(--matiere); color: var(--matiere-sur); }
+.resultat-recherche { display: block; padding: var(--e3) var(--e4); border-radius: var(--rayon-petit); background: var(--surface); border: 1px solid var(--bordure); text-decoration: none; }
+.resultat-recherche:hover { border-color: var(--matiere); }
+.resultat-recherche .type-res { font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--matiere); font-weight: 700; }
+mark { background: color-mix(in srgb, var(--focus) 35%, transparent); color: inherit; border-radius: 3px; padding: 0 2px; }

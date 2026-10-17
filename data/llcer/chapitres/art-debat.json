@@ -1,0 +1,429 @@
+{
+  "id": "art-debat",
+  "matiere": "llcer",
+  "titre": "L'art qui fait débat",
+  "maj": "2026-10-17",
+  "rattachement": {
+    "theme": "Thématique « Arts et débats d'idées »",
+    "intitule": "L'art qui fait débat",
+    "certitude": "certain",
+    "source": {
+      "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+      "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+      "consulteLe": "2026-10-17"
+    }
+  },
+  "objectifs": [
+    "Expliquer en anglais pourquoi une œuvre peut provoquer une polémique.",
+    "Distinguer la **controverse esthétique** (est-ce de l'art ?) et la **controverse morale ou politique** (est-ce acceptable ?).",
+    "Connaître des exemples de censure et d'œuvres contestées dans le monde anglophone.",
+    "Utiliser le vocabulaire : controversy, canon, censorship, taboo, political correctness."
+  ],
+  "parties": [
+    {
+      "id": "intro",
+      "titre": "L'axe en bref",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "comment lire cet axe",
+          "texte": "Le programme officiel présente chaque axe par une problématique, des mots-clés et des pistes d'œuvres. Les objectifs « À la fin, je dois savoir… » sont une reformulation pédagogique ; les mots-clés et les pistes, eux, viennent du programme."
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**L'axe** : certaines œuvres **font débat**. Le programme distingue deux types de controverses :"
+        },
+        {
+          "type": "liste",
+          "items": [
+            "**esthétique** : l'œuvre bouscule l'idée qu'on se fait de l'art (un requin dans du formol, un lit défait exposé dans un musée : *is it art?*) ;",
+            "**morale ou politique** : l'œuvre choque par son sujet (sexualité, violence, religion, race) et certains veulent la limiter ou l'interdire : c'est la **censure**."
+          ]
+        },
+        {
+          "type": "paragraphe",
+          "texte": "Le **canon** (les œuvres considérées comme « classiques ») est lui-même discuté : qui décide de ce qui mérite d'être lu et enseigné ?"
+        }
+      ]
+    },
+    {
+      "id": "vocabulaire",
+      "titre": "Key words",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Mots-clés du programme et vocabulaire utile",
+          "colonnes": [
+            "English",
+            "Français",
+            "Exemple"
+          ],
+          "lignes": [
+            [
+              "controversy / controversial",
+              "polémique / controversé",
+              "a controversial exhibition"
+            ],
+            [
+              "the canon",
+              "le canon (les classiques)",
+              "to challenge the literary canon"
+            ],
+            [
+              "censorship / to censor / to ban",
+              "censure / censurer / interdire",
+              "the book was banned from school libraries"
+            ],
+            [
+              "taboo",
+              "tabou",
+              "to break a taboo"
+            ],
+            [
+              "decency / propriety",
+              "bienséance",
+              "an offence against decency"
+            ],
+            [
+              "political correctness",
+              "le politiquement correct",
+              "the debate on political correctness"
+            ],
+            [
+              "self-censorship",
+              "autocensure",
+              "artists may practise self-censorship"
+            ],
+            [
+              "avant-garde",
+              "avant-garde",
+              "an avant-garde movement"
+            ],
+            [
+              "to shock / shocking",
+              "choquer / choquant",
+              "the work shocked the public"
+            ]
+          ]
+        },
+        {
+          "type": "definition",
+          "glossaire": "censorship"
+        }
+      ]
+    },
+    {
+      "id": "reperes-culturels",
+      "titre": "Repères culturels",
+      "blocs": [
+        {
+          "type": "tableau",
+          "titre": "Œuvres qui ont fait débat",
+          "colonnes": [
+            "Œuvre / événement",
+            "Date",
+            "Pourquoi"
+          ],
+          "lignes": [
+            [
+              "Oscar Wilde, préface de *The Picture of Dorian Gray*",
+              "1891",
+              "Wilde y défend l'autonomie de l'art face à la morale"
+            ],
+            [
+              "Aldous Huxley, *Brave New World*",
+              "1932",
+              "Dystopie souvent contestée et retirée de certaines bibliothèques"
+            ],
+            [
+              "J. D. Salinger, *The Catcher in the Rye*",
+              "1951",
+              "Roman très souvent contesté dans les écoles américaines (langage, sexualité)"
+            ],
+            [
+              "Procès de *Lady Chatterley's Lover* (D. H. Lawrence)",
+              "1960",
+              "L'éditeur Penguin est acquitté : le roman peut être publié intégralement au Royaume-Uni"
+            ],
+            [
+              "E. M. Forster, *Maurice*",
+              "écrit en 1913-1914, publié en 1971",
+              "Roman d'amour entre deux hommes, publié seulement après la mort de l'auteur"
+            ],
+            [
+              "Banned Books Week (États-Unis)",
+              "depuis 1982",
+              "Semaine qui défend la liberté de lire face aux interdictions de livres"
+            ],
+            [
+              "Damien Hirst, requin dans du formol",
+              "1991",
+              "« Est-ce de l'art ? » : controverse esthétique"
+            ],
+            [
+              "Tracey Emin, *My Bed*",
+              "1998",
+              "Son lit défait exposé ; sélectionné pour le Turner Prize en 1999"
+            ],
+            [
+              "Banksy, *Girl with Balloon* s'autodétruit aux enchères",
+              "2018",
+              "L'œuvre est déchiquetée juste après sa vente : critique du marché de l'art"
+            ]
+          ]
+        },
+        {
+          "type": "citation",
+          "texte": "There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.",
+          "auteur": "Oscar Wilde",
+          "oeuvre": "préface de *The Picture of Dorian Gray*, 1891",
+          "certitude": "certain",
+          "source": {
+            "titre": "O. Wilde, The Picture of Dorian Gray, préface, 1891 (domaine public)"
+          }
+        },
+        {
+          "type": "paragraphe",
+          "texte": "**Traduction** : « Un livre moral ou immoral, cela n'existe pas. Les livres sont bien écrits ou mal écrits. C'est tout. »"
+        }
+      ]
+    },
+    {
+      "id": "programme-limitatif",
+      "titre": "Liens possibles avec le programme limitatif",
+      "blocs": [
+        {
+          "type": "piege",
+          "titre": "des pistes, pas des règles",
+          "texte": "Ton professeur choisit les œuvres et l'axe auquel il les relie."
+        },
+        {
+          "type": "tableau",
+          "titre": "Pistes",
+          "colonnes": [
+            "Œuvre",
+            "Pourquoi elle peut illustrer l'axe"
+          ],
+          "lignes": [
+            [
+              "Margaret Atwood, *The Handmaid's Tale* (1985)",
+              "Roman régulièrement contesté et retiré de bibliothèques scolaires aux États-Unis"
+            ],
+            [
+              "Arundhati Roy, *The God of Small Things* (1997)",
+              "Le roman aborde des tabous : amour entre castes, transgression des règles sociales"
+            ],
+            [
+              "Harold Pinter, *The Caretaker* (1960)",
+              "Théâtre déroutant, sans intrigue classique : une controverse esthétique possible"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "titre": "Useful phrases",
+      "blocs": [
+        {
+          "type": "liste",
+          "items": [
+            "*The work sparked a heated debate about…* : l'œuvre a déclenché un vif débat sur…",
+            "*Some critics argued that…, while others claimed that…* : certains critiques soutenaient que…, tandis que d'autres affirmaient que…",
+            "*Should art have limits?* : l'art doit-il avoir des limites ?",
+            "*Banning a book often makes it more famous.* : interdire un livre le rend souvent plus célèbre."
+          ]
+        },
+        {
+          "type": "a-retenir",
+          "texte": "Dans une synthèse : identifie **qui** s'oppose à l'œuvre, **pourquoi** (esthétique ou morale), et **quelle réponse** (censure, procès, succès)."
+        }
+      ]
+    }
+  ],
+  "reperes": [
+    {
+      "type": "date",
+      "libelle": "Oscar Wilde, *The Picture of Dorian Gray* (préface)",
+      "valeur": "1891",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Procès de *Lady Chatterley's Lover*",
+      "valeur": "1960",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Banned Books Week",
+      "valeur": "depuis 1982",
+      "certitude": "certain",
+      "source": {
+        "titre": "American Library Association, Banned Books Week"
+      }
+    },
+    {
+      "type": "date",
+      "libelle": "Tracey Emin, *My Bed*",
+      "valeur": "1998",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      }
+    }
+  ],
+  "synthese": {
+    "type": "tableau",
+    "titre": "Deux types de débat",
+    "colonnes": [
+      "",
+      "Controverse esthétique",
+      "Controverse morale ou politique"
+    ],
+    "lignes": [
+      [
+        "Question",
+        "Is it art?",
+        "Is it acceptable?"
+      ],
+      [
+        "Exemples",
+        "Hirst, Emin, Banksy",
+        "*Lady Chatterley*, *The Catcher in the Rye*"
+      ],
+      [
+        "Réponses possibles",
+        "Débat critique, marché de l'art",
+        "Censure, procès, autocensure"
+      ]
+    ]
+  },
+  "fiche": [
+    "**Deux controverses** : esthétique (est-ce de l'art ?) et morale/politique (est-ce acceptable ?).",
+    "**Mots-clés** : controversy, canon, censorship, taboo, decency, political correctness, self-censorship, avant-garde.",
+    "**Wilde (1891)** : pas de livre moral ou immoral, seulement bien ou mal écrit.",
+    "**Repères** : *Brave New World* (1932), *Catcher* (1951), procès *Lady Chatterley* (1960), Banned Books Week (1982), Hirst (1991), Emin (1998), Banksy (2018).",
+    "**Programme limitatif** : *The Handmaid's Tale*, *The God of Small Things*, *The Caretaker* (pistes)."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "enonce": "*to ban a book*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "interdire un livre",
+          "correct": true,
+          "explication": "Banned Books Week défend les livres interdits."
+        },
+        {
+          "id": "b",
+          "texte": "acheter un livre",
+          "correct": false,
+          "explication": "Acheter = to buy."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "enonce": "« Is it art? » renvoie à une controverse…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Programme de LLCER anglais de terminale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, annexe 2",
+        "url": "https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/99/9/spe256_annexe2_1158999.pdf",
+        "consulteLe": "2026-10-17"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "esthétique",
+          "correct": true,
+          "explication": "On discute de la valeur artistique."
+        },
+        {
+          "id": "b",
+          "texte": "morale",
+          "correct": false,
+          "explication": "La controverse morale porte sur ce qui est acceptable."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "enonce": "*My Bed* (1998) is a work by…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "Tracey Emin",
+          "correct": true,
+          "explication": "Sélectionnée pour le Turner Prize en 1999."
+        },
+        {
+          "id": "b",
+          "texte": "Damien Hirst",
+          "correct": false,
+          "explication": "Hirst est connu pour le requin dans du formol."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "enonce": "The 1960 trial concerned…",
+      "certitude": "certain",
+      "source": {
+        "titre": "Repère d'histoire littéraire et culturelle (date de publication ou de sortie)"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "*Lady Chatterley's Lover*",
+          "correct": true,
+          "explication": "Penguin Books fut acquitté."
+        },
+        {
+          "id": "b",
+          "texte": "*Brave New World*",
+          "correct": false,
+          "explication": "Ce roman date de 1932, sans procès célèbre de ce type."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "enonce": "*self-censorship*",
+      "certitude": "certain",
+      "source": {
+        "titre": "Usage courant de la langue anglaise"
+      },
+      "choix": [
+        {
+          "id": "a",
+          "texte": "autocensure",
+          "correct": true,
+          "explication": "L'artiste se censure lui-même."
+        },
+        {
+          "id": "b",
+          "texte": "censure officielle",
+          "correct": false,
+          "explication": "Celle-ci vient d'une autorité."
+        }
+      ]
+    }
+  ]
+}
